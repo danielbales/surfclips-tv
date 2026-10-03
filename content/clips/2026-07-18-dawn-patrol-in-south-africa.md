@@ -9,6 +9,7 @@ type: "clips"
 clip_type: "short"
 duration: 18
 ---
+
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/0oeBzfHjFxk" title="Dawn Patrol in South Africa" allowfullscreen loading="lazy"></iframe>
 </div>

@@ -17,6 +17,7 @@ surfers:
   - "Louis Ewing"
   - "Albee Layer"
 ---
+
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/fTjv28vx0zM" title="TOP 10 from August 1, 2026 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>
 </div>

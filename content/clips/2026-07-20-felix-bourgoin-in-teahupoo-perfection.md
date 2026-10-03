@@ -9,6 +9,7 @@ type: "clips"
 clip_type: "short"
 duration: 10
 ---
+
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/YeVmT53GD44" title="Felix Bourgoin in Teahupo'o perfection" allowfullscreen loading="lazy"></iframe>
 </div>

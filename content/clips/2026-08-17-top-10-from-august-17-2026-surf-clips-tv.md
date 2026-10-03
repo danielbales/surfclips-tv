@@ -17,6 +17,7 @@ surfers:
   - "John Florence"
   - "Saltwater Veins"
 ---
+
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/VB0LSy3xwjc" title="TOP 10 from August 17, 2026 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>
 </div>

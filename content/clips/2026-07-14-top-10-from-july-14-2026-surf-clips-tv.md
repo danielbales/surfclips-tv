@@ -18,6 +18,7 @@ surfers:
   - "Tahiti Tourism"
   - "Indo Moments"
 ---
+
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/NvH4H1lCVR0" title="TOP 10 from July 14, 2026 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>
 </div>

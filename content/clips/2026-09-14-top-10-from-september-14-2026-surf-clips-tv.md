@@ -18,6 +18,7 @@ surfers:
   - "Koa Rothman"
   - "Jarvis Earle"
 ---
+
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/NjlmiZoV2E0" title="TOP 10 from September 14, 2026 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>
 </div>

@@ -9,6 +9,7 @@ type: "clips"
 clip_type: "short"
 duration: 6
 ---
+
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/Icn0Z3aqfZ8" title="Wilbur Kookmeyer's travels" allowfullscreen loading="lazy"></iframe>
 </div>

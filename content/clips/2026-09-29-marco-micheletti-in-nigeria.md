@@ -9,6 +9,7 @@ type: "clips"
 clip_type: "short"
 duration: 7
 ---
+
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/YCk5cMGX1JM" title="Marco Micheletti in Nigeria" allowfullscreen loading="lazy"></iframe>
 </div>

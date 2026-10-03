@@ -9,6 +9,7 @@ type: "clips"
 clip_type: "short"
 duration: 8
 ---
+
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/cwEUv5JKgbk" title="Eimeo in his backyard" allowfullscreen loading="lazy"></iframe>
 </div>

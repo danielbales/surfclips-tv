@@ -9,6 +9,7 @@ type: "clips"
 clip_type: "short"
 duration: 9
 ---
+
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/N5Lk9mUf4no" title="Shipsterns mastery with Jai Glindeman" allowfullscreen loading="lazy"></iframe>
 </div>
