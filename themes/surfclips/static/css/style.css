@@ -534,28 +534,33 @@ img { display: block; max-width: 100%; }
   margin-bottom: 0.5rem;
 }
 
-.surfer-chips {
+.surfer-entries {
+  list-style: none;
   display: flex;
-  flex-wrap: wrap;
-  gap: 0.4rem;
+  flex-direction: column;
+  gap: 0.35rem;
 }
 
-.surfer-chip {
+.surfer-entries li {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.9rem;
+}
+
+.surfer-name {
+  font-weight: 600;
+  color: var(--text);
+}
+
+.surfer-source {
   font-size: 0.8rem;
-  color: var(--text-secondary);
-  background: var(--surface);
-  padding: 0.3rem 0.7rem;
-  border-radius: 6px;
-  border: 1px solid var(--border);
-}
-
-.surfer-chip-linked {
-  transition: border-color 0.15s, color 0.15s;
-}
-
-.surfer-chip-linked:hover {
-  border-color: var(--accent);
   color: var(--accent);
+  transition: opacity 0.15s;
+}
+
+.surfer-source:hover {
+  opacity: 0.8;
 }
 
 .related-section {

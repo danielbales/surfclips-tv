@@ -20,26 +20,19 @@
     {{ if and (eq .Params.clip_type "top10") .Params.surfers }}
     <div class="surfer-list">
       <h3 class="surfer-list-title">Featuring</h3>
-      <div class="surfer-chips">
-        {{ $top10Date := .Date }}
-        {{ $allClips := where .Site.RegularPages "Params.clip_type" "ne" "top10" }}
+      <ul class="surfer-entries">
+        {{ $urls := .Params.surfer_urls }}
         {{ range .Params.surfers }}
-          {{ $name := . }}
-          {{ $match := false }}
-          {{ $matchURL := "" }}
-          {{ range $allClips }}
-            {{ if and (not $match) (in .Title $name) }}
-              {{ $match = true }}
-              {{ $matchURL = .Permalink }}
+          {{ $url := "" }}
+          {{ with $urls }}{{ $url = index $urls . }}{{ end }}
+          <li>
+            <span class="surfer-name">{{ . }}</span>
+            {{ if $url }}
+            <a href="{{ $url }}" target="_blank" rel="noopener" class="surfer-source">Watch original</a>
             {{ end }}
-          {{ end }}
-          {{ if $match }}
-          <a href="{{ $matchURL }}" class="surfer-chip surfer-chip-linked">{{ $name }}</a>
-          {{ else }}
-          <span class="surfer-chip">{{ $name }}</span>
-          {{ end }}
+          </li>
         {{ end }}
-      </div>
+      </ul>
     </div>
     {{ end }}
 
