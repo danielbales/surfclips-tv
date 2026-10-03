@@ -38,10 +38,18 @@ def get_youtube_client():
     from google.auth.transport.requests import Request
     from googleapiclient.discovery import build
 
-    creds = Credentials.from_authorized_user_file(str(TOKEN_FILE), SCOPES)
+    # Support credentials from env var (for GitHub Actions) or local file
+    token_json = os.environ.get("YOUTUBE_TOKEN_JSON")
+    if token_json:
+        creds = Credentials.from_authorized_user_info(json.loads(token_json), SCOPES)
+    else:
+        creds = Credentials.from_authorized_user_file(str(TOKEN_FILE), SCOPES)
+
     if creds and creds.expired and creds.refresh_token:
         creds.refresh(Request())
-        TOKEN_FILE.write_text(creds.to_json())
+        # Update local file if using file-based auth
+        if not token_json and TOKEN_FILE.exists():
+            TOKEN_FILE.write_text(creds.to_json())
 
     return build("youtube", "v3", credentials=creds)
 
