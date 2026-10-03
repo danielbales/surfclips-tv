@@ -30,6 +30,9 @@ SCOPES = ["https://www.googleapis.com/auth/youtube.readonly"]
 CONTENT_DIR = Path(__file__).parent.parent / "content" / "clips"
 CHANNEL_ID = "UCqDiN-l8JOa6xZA0NCTjffw"
 
+# Videos that were deleted/privated and should not be re-synced
+EXCLUDED_VIDEO_IDS = {"oPrfq7FUxzM", "4yFum6Q0sBo"}
+
 
 # --- Auth ---
 
@@ -296,7 +299,7 @@ def main():
     print(f"Found {len(video_ids)} uploads")
 
     # Filter out already-generated
-    new_ids = [vid for vid in video_ids if vid not in existing]
+    new_ids = [vid for vid in video_ids if vid not in existing and vid not in EXCLUDED_VIDEO_IDS]
     if not new_ids:
         print("No new videos to sync.")
         return
