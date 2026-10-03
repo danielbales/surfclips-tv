@@ -1,5 +1,5 @@
 ---
-title: "Kids changed Google Maps  ￼"
+title: "TOP 10 from September 26, 2026 - Surf Clips TV"
 date: 2026-09-26T14:40:40Z
 draft: false
 video_id: "aebdDaKZn7k"
@@ -17,18 +17,10 @@ surfers:
   - "Jordy Smith"
   - "Jamie O'Brien"
   - "Marco Micheletti"
-surfer_urls:
-  Sheldon Paishon: "https://www.youtube.com/watch?v=-OC4Ekyp64k"
-  Ian Crane: "https://www.youtube.com/watch?v=ZtE0iqhssAo"
-  "Jamie O'Brien": "https://www.youtube.com/watch?v=IYf7yvDr7xM"
-surfer_video_titles:
-  Sheldon Paishon: "Sheldon Paishon on a Surf Bender 🌊"
-  Ian Crane: "PANAMA"
-  "Jamie O'Brien": "Kids changed Google Maps  ￼"
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/aebdDaKZn7k" title="Kids changed Google Maps  ￼" allowfullscreen loading="lazy"></iframe>
+<iframe src="https://www.youtube.com/embed/aebdDaKZn7k" title="TOP 10 from September 26, 2026 - Surf Clips TV" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Surfing from Africa, The Old World, California & more.

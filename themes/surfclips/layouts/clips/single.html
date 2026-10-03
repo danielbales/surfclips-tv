@@ -21,23 +21,8 @@
     <div class="surfer-list">
       <h3 class="surfer-list-title">Featuring</h3>
       <ul class="surfer-entries">
-        {{ $urls := .Params.surfer_urls }}
-        {{ $titles := .Params.surfer_video_titles }}
         {{ range .Params.surfers }}
-          {{ $name := . }}
-          {{ $key := lower $name }}
-          {{ $url := "" }}
-          {{ $title := "" }}
-          {{ with $urls }}{{ $url = index . $key }}{{ end }}
-          {{ with $titles }}{{ $title = index . $key }}{{ end }}
-          <li>
-            <span class="surfer-name">{{ $name }}</span>
-            {{ if and $url $title }}
-            - <a href="{{ $url }}" target="_blank" rel="noopener" class="surfer-source">{{ $title }}</a>
-            {{ else if $url }}
-            - <a href="{{ $url }}" target="_blank" rel="noopener" class="surfer-source">Watch original</a>
-            {{ end }}
-          </li>
+          <li><span class="surfer-name">{{ . }}</span></li>
         {{ end }}
       </ul>
     </div>

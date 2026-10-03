@@ -1,5 +1,5 @@
 ---
-title: "Backside Surf Study // Connor O’Leary, Ramzi Boukhiam and Ryan Callinan"
+title: "TOP 10 from August 1, 2026 - Surf Clips TV"
 date: 2026-08-01T13:26:48Z
 draft: false
 video_id: "fTjv28vx0zM"
@@ -16,14 +16,10 @@ surfers:
   - "Koa Rothman"
   - "Louis Ewing"
   - "Albee Layer"
-surfer_urls:
-  Ryan Callinan: "https://www.youtube.com/watch?v=vxfDc_XS_so"
-surfer_video_titles:
-  Ryan Callinan: "Backside Surf Study // Connor O’Leary, Ramzi Boukhiam and Ryan Callinan"
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/fTjv28vx0zM" title="Backside Surf Study // Connor O’Leary, Ramzi Boukhiam and Ryan Callinan" allowfullscreen loading="lazy"></iframe>
+<iframe src="https://www.youtube.com/embed/fTjv28vx0zM" title="TOP 10 from August 1, 2026 - Surf Clips TV" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Surfing from Califorina, Australia, Indonesia & more.

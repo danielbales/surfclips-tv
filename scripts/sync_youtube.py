@@ -215,66 +215,7 @@ def clean_description(description, clip_type):
         return clean, []
 
 
-def find_surfer_source_video(youtube, surfer_name):
-    """Search YouTube for a surfer's latest non-short video.
-
-    Returns (url, title) tuple if found, ("", "") otherwise.
-    Uses YouTube search to find the surfer's channel, then checks
-    their recent uploads for a landscape-format video (>60s).
-    """
-    try:
-        # Search for the surfer's channel
-        search_resp = youtube.search().list(
-            q=surfer_name + " surfing",
-            type="channel",
-            maxResults=3,
-            part="snippet",
-        ).execute()
-
-        if not search_resp.get("items"):
-            return "", ""
-
-        # Try each channel result
-        for ch_item in search_resp["items"]:
-            channel_id = ch_item["snippet"]["channelId"]
-
-            # Get the channel's uploads playlist
-            ch_resp = youtube.channels().list(
-                id=channel_id, part="contentDetails"
-            ).execute()
-            if not ch_resp.get("items"):
-                continue
-
-            uploads_pl = ch_resp["items"][0]["contentDetails"]["relatedPlaylists"]["uploads"]
-
-            # Get recent uploads
-            pl_resp = youtube.playlistItems().list(
-                playlistId=uploads_pl, part="contentDetails", maxResults=10
-            ).execute()
-
-            vid_ids = [i["contentDetails"]["videoId"] for i in pl_resp.get("items", [])]
-            if not vid_ids:
-                continue
-
-            # Get video details to filter by duration
-            vids_resp = youtube.videos().list(
-                id=",".join(vid_ids), part="contentDetails,snippet"
-            ).execute()
-
-            for vid in vids_resp.get("items", []):
-                dur = parse_duration(vid["contentDetails"]["duration"])
-                # Skip shorts (<=60s) and very long videos (>30min compilations)
-                if 61 <= dur <= 1800:
-                    title = vid["snippet"]["title"]
-                    return f"https://www.youtube.com/watch?v={vid['id']}", title
-
-        return "", ""
-    except Exception as e:
-        print(f"  Warning: Could not look up source video for {surfer_name}: {e}")
-        return "", ""
-
-
-def generate_page(video, youtube=None):
+def generate_page(video):
     """Generate a Hugo markdown page for a single YouTube video."""
     snippet = video["snippet"]
     video_id = video["id"]
@@ -307,36 +248,10 @@ def generate_page(video, youtube=None):
     # Clean description
     clean_desc, surfers = clean_description(description, kind)
 
-    # Look up source videos for Top 10 surfers
-    surfer_urls = {}
-    surfer_titles = {}
-    if surfers and youtube and kind == "top10":
-        print(f"  Looking up source videos for {len(surfers)} surfers...")
-        for name in surfers:
-            url, title = find_surfer_source_video(youtube, name)
-            if url:
-                surfer_urls[name] = url
-                if title:
-                    surfer_titles[name] = title
-                print(f"    {name} -> {title or url}")
-            else:
-                print(f"    {name} -> not found")
-
     # Build front matter + content
     surfer_yaml = ""
     if surfers:
         surfer_yaml = "surfers:\n" + "".join(f'  - "{s}"\n' for s in surfers)
-    if surfer_urls:
-        surfer_yaml += "surfer_urls:\n"
-        for name, url in surfer_urls.items():
-            safe_key = f'"{name}"' if any(c in name for c in ":'-@") else name
-            surfer_yaml += f'  {safe_key}: "{url}"\n'
-    if surfer_titles:
-        surfer_yaml += "surfer_video_titles:\n"
-        for name, title in surfer_titles.items():
-            safe_key = f'"{name}"' if any(c in name for c in ":'-@") else name
-            safe_title = title.replace('"', '\\"')
-            surfer_yaml += f'  {safe_key}: "{safe_title}"\n'
 
     content = f"""---
 title: "{escape_yaml(title)}"
@@ -395,7 +310,7 @@ def main():
     created = 0
     for video in videos:
         try:
-            path = generate_page(video, youtube=youtube)
+            path = generate_page(video)
             print(f"  Created: {path.name}")
             created += 1
         except Exception as e:

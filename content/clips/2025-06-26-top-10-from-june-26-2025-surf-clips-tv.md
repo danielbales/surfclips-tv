@@ -17,10 +17,6 @@ surfers:
   - "Andrew Glover"
   - "Carr Brothers"
   - "Capturando Olas"
-surfer_urls:
-  Surf Raw Files: "https://www.youtube.com/watch?v=mnGRSBtpk6o"
-surfer_video_titles:
-  Surf Raw Files: "Solid Swell delivers Insane Leg Burners "
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/uRms7OxwsYA" title="TOP 10 from June 26, 2025 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

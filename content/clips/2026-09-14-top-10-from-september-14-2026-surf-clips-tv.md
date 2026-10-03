@@ -1,5 +1,5 @@
 ---
-title: "TRYING WAVES IN THE QUIET CORNERS OF THE MENTAWAI"
+title: "TOP 10 from September 14, 2026 - Surf Clips TV"
 date: 2026-09-14T16:49:28Z
 draft: false
 video_id: "NjlmiZoV2E0"
@@ -17,14 +17,10 @@ surfers:
   - "Saltwater Veins"
   - "Koa Rothman"
   - "Jarvis Earle"
-surfer_urls:
-  Nathan Florence: "https://www.youtube.com/watch?v=5pRGPsorknQ"
-surfer_video_titles:
-  Nathan Florence: "TRYING WAVES IN THE QUIET CORNERS OF THE MENTAWAI"
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/NjlmiZoV2E0" title="TRYING WAVES IN THE QUIET CORNERS OF THE MENTAWAI" allowfullscreen loading="lazy"></iframe>
+<iframe src="https://www.youtube.com/embed/NjlmiZoV2E0" title="TOP 10 from September 14, 2026 - Surf Clips TV" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Surfing from Indonesia, Hawaii, California & more.

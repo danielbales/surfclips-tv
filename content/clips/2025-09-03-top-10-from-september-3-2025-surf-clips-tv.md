@@ -16,10 +16,6 @@ surfers:
   - "Liquide Surf"
   - "Kyle Buthman"
   - "Kale Brock"
-surfer_urls:
-  Nic Von Rupp: "https://www.youtube.com/watch?v=DLhxJm2gvV8"
-surfer_video_titles:
-  Nic Von Rupp: "Kirra Chaos - March 25th, 2026"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/ZYS73X0sqq4" title="TOP 10 from September 3, 2025 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>
