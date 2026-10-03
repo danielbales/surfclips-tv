@@ -6,6 +6,8 @@ video_id: "fBuBSQwswdk"
 thumbnail: "https://i.ytimg.com/vi/fBuBSQwswdk/maxresdefault.jpg"
 tags: ["banyans", "hawaii surf", "big island", "shane dorian"]
 type: "clips"
+clip_type: "clip"
+duration: 63
 ---
 
 <div class="video-embed">

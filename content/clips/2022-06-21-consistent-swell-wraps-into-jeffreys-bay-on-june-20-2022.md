@@ -6,6 +6,8 @@ video_id: "OOEb_O55cec"
 thumbnail: "https://i.ytimg.com/vi/OOEb_O55cec/maxresdefault.jpg"
 tags: ["surfing africa", "surfing jeffreys bay", "unedited surfing", "surf cam", "raw surfing", "POINT break surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 51
 ---
 
 <div class="video-embed">

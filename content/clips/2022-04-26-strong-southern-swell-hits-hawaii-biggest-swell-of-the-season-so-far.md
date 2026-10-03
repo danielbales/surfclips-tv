@@ -6,6 +6,8 @@ video_id: "TrFil0x3mj0"
 thumbnail: "https://i.ytimg.com/vi/TrFil0x3mj0/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing kaiser's bowl", "unedited surfing", "surf cam", "raw surfing", "south shore surfing", "ezekiel lau", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 64
 ---
 
 <div class="video-embed">

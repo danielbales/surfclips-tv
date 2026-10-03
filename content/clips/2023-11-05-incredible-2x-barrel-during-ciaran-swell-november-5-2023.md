@@ -6,6 +6,8 @@ video_id: "dijlFtYA66Y"
 thumbnail: "https://i.ytimg.com/vi/dijlFtYA66Y/maxresdefault.jpg"
 tags: ["surfing mundaka", "ciaran surf", "unedited surfing", "surf cam", "raw surfing", "artiz aramburu", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 80
 ---
 
 <div class="video-embed">

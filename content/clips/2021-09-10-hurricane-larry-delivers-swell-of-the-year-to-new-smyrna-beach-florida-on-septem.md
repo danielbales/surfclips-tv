@@ -6,6 +6,8 @@ video_id: "mtylf_Tb1r0"
 thumbnail: "https://i.ytimg.com/vi/mtylf_Tb1r0/maxresdefault.jpg"
 tags: ["surfing florida", "surfing new smyrna beach", "unedited surfing", "surf cam", "raw surfing", "hurricane larry surf", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 188
 ---
 
 <div class="video-embed">

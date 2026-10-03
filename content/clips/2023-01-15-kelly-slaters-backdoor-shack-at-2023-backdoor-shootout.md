@@ -6,6 +6,8 @@ video_id: "cyigPhPu4_s"
 thumbnail: "https://i.ytimg.com/vi/cyigPhPu4_s/maxresdefault.jpg"
 tags: ["surfing hawaii", "2023 backdoor shootout", "unedited surfing", "surf cam", "raw surfing", "north shore surf", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 45
 ---
 
 <div class="video-embed">

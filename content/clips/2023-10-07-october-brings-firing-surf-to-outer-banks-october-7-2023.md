@@ -6,6 +6,8 @@ video_id: "_t_OKTpivKI"
 thumbnail: "https://i.ytimg.com/vi/_t_OKTpivKI/maxresdefault.jpg"
 tags: ["surfing north carolina", "outerbanks surf", "brett barley", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves"]
 type: "clips"
+clip_type: "clip"
+duration: 130
 ---
 
 <div class="video-embed">

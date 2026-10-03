@@ -6,6 +6,8 @@ video_id: "n0wzJC0Rc4M"
 thumbnail: "https://i.ytimg.com/vi/n0wzJC0Rc4M/maxresdefault.jpg"
 tags: ["maddix alotis", "pov surf"]
 type: "clips"
+clip_type: "short"
+duration: 11
 ---
 
 <div class="video-embed">

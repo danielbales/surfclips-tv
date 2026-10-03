@@ -6,6 +6,8 @@ video_id: "0nsCAIvAfe4"
 thumbnail: "https://i.ytimg.com/vi/0nsCAIvAfe4/maxresdefault.jpg"
 tags: ["joao chianca wipeout", "surfing backdoor", "surf wipeout", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "short"
+duration: 26
 ---
 
 <div class="video-embed">

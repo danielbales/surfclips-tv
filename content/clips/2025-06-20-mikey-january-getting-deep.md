@@ -6,6 +6,8 @@ video_id: "nyRjuH_5EJo"
 thumbnail: "https://i.ytimg.com/vi/nyRjuH_5EJo/maxresdefault.jpg"
 tags: ["Top 10 surf", "perfect wave", "mikey february", "dylan graves", "africa surf"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

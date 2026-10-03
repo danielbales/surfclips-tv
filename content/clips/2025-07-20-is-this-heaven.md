@@ -3,9 +3,11 @@ title: "Is this heaven?"
 date: 2025-07-20T07:00:33Z
 draft: false
 video_id: "W06We0XtEb8"
-thumbnail: "https://i9.ytimg.com/vi/W06We0XtEb8/maxresdefault.jpg?sqp=CKjRgdYG&rs=AOn4CLCxXg-j7X_0U6gocnQXKX1R5jIxOA"
+thumbnail: "https://i9.ytimg.com/vi/W06We0XtEb8/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLAUKr6Pz7dTF-tfqIN4Y6MSad52kQ"
 tags: ["Top 10 Surf", "michael dunphy surf"]
 type: "clips"
+clip_type: "short"
+duration: 5
 ---
 
 <div class="video-embed">

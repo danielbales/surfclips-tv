@@ -6,6 +6,8 @@ video_id: "6ElcOgr1qGg"
 thumbnail: "https://i.ytimg.com/vi/6ElcOgr1qGg/maxresdefault.jpg"
 tags: ["surfing santa cruz", "surfing steamer lane", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "clip"
+duration: 125
 ---
 
 <div class="video-embed">

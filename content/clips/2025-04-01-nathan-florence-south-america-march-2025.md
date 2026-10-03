@@ -6,6 +6,8 @@ video_id: "MKcNzV_MTvY"
 thumbnail: "https://i.ytimg.com/vi/MKcNzV_MTvY/maxresdefault.jpg"
 tags: ["nathan florence", "arica surf", "xl surf"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

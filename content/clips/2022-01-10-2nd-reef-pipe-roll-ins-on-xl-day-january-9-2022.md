@@ -6,6 +6,8 @@ video_id: "zfrWobqZl54"
 thumbnail: "https://i.ytimg.com/vi/zfrWobqZl54/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing pipeline", "unedited surfing", "surf cam", "raw surfing", "big wave surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 76
 ---
 
 <div class="video-embed">

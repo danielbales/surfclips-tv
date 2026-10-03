@@ -6,6 +6,8 @@ video_id: "3jPRjECAI-Q"
 thumbnail: "https://i.ytimg.com/vi/3jPRjECAI-Q/maxresdefault.jpg"
 tags: ["surfing indonesia", "surfing padang padang", "unedited surfing", "surf cam", "raw surfing", "koa rothman", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 18
 ---
 
 <div class="video-embed">

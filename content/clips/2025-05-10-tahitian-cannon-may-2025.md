@@ -6,6 +6,8 @@ video_id: "riGf5hZpFj0"
 thumbnail: "https://i.ytimg.com/vi/riGf5hZpFj0/maxresdefault.jpg"
 tags: ["xl teahupoo"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

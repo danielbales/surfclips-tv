@@ -6,6 +6,8 @@ video_id: "MG2PKyyaoxk"
 thumbnail: "https://i.ytimg.com/vi/MG2PKyyaoxk/maxresdefault.jpg"
 tags: ["surfing portugal", "surfing nazare", "unedited surfing", "surf cam", "raw surfing", "big wave surfing", "garrett mcnamara", "joao chianca", "jamie mitchell", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 77
 ---
 
 <div class="video-embed">

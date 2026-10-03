@@ -6,6 +6,8 @@ video_id: "x2G9PUcrbl4"
 thumbnail: "https://i.ytimg.com/vi/x2G9PUcrbl4/maxresdefault.jpg"
 tags: ["xl teahupoo", "eimeo czermak"]
 type: "clips"
+clip_type: "short"
+duration: 12
 ---
 
 <div class="video-embed">

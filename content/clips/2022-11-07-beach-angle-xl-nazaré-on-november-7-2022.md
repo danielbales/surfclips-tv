@@ -6,6 +6,8 @@ video_id: "anhtmbCiNYw"
 thumbnail: "https://i.ytimg.com/vi/anhtmbCiNYw/maxresdefault.jpg"
 tags: ["surfing portugal", "surfing xl nazare", "unedited surfing", "surf cam", "raw surfing", "big wave surfing", "nic von rupp", "garrett mcnamara", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 126
 ---
 
 <div class="video-embed">

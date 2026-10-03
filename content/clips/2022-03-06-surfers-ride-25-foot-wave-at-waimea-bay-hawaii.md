@@ -6,6 +6,8 @@ video_id: "DTs-2oj0u8M"
 thumbnail: "https://i.ytimg.com/vi/DTs-2oj0u8M/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing waimea bay", "unedited surfing", "surf cam", "raw surfing", "big wave surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

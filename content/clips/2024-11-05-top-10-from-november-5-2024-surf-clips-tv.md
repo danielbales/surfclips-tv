@@ -6,6 +6,8 @@ video_id: "-ulcrJvu9Pg"
 thumbnail: "https://i.ytimg.com/vi/-ulcrJvu9Pg/maxresdefault.jpg"
 tags: ["top 10 surf", "mason ho", "nathan florence", "kalani robb", "the cave portugal surf", "cloudbreak", "rockpile hawaii", "lower trestles", "teahupoo surf"]
 type: "clips"
+clip_type: "top10"
+duration: 198
 ---
 
 <div class="video-embed">

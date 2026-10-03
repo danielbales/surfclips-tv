@@ -6,6 +6,8 @@ video_id: "2PDbOK--5iw"
 thumbnail: "https://i.ytimg.com/vi/2PDbOK--5iw/maxresdefault.jpg"
 tags: ["wilbur kookmeyer", "northern lights surf", "artic surf"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

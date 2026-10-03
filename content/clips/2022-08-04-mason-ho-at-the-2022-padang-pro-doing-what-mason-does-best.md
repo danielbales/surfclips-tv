@@ -6,6 +6,8 @@ video_id: "AnaJanryFlY"
 thumbnail: "https://i.ytimg.com/vi/AnaJanryFlY/maxresdefault.jpg"
 tags: ["surfing bali", "surfing padang padang", "unedited surfing", "surf cam", "raw surfing", "2022 rip curl cup padang pro", "mason ho", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 14
 ---
 
 <div class="video-embed">

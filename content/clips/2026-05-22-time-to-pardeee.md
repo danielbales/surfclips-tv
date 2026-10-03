@@ -6,6 +6,8 @@ video_id: "9DaItBqLxmg"
 thumbnail: "https://i.ytimg.com/vi/9DaItBqLxmg/maxresdefault.jpg"
 tags: ["wilbur kookmeyer", "memorial day party", "summer party", "campfire", "beach bon fire"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

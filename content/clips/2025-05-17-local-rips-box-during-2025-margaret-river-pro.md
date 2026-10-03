@@ -6,6 +6,8 @@ video_id: "eAl4W7hudhg"
 thumbnail: "https://i.ytimg.com/vi/eAl4W7hudhg/maxresdefault.jpg"
 tags: ["2025 Margaret River Pro", "The Box surf", "perfect waves"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

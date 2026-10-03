@@ -6,6 +6,8 @@ video_id: "uayhEhkviZ0"
 thumbnail: "https://i.ytimg.com/vi/uayhEhkviZ0/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing kewalos", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "seth moniz", "josh moniz", "ezekiel lau", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 54
 ---
 
 <div class="video-embed">

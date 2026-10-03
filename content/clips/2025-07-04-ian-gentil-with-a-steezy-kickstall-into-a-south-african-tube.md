@@ -6,6 +6,8 @@ video_id: "EW-V6SAu4RU"
 thumbnail: "https://i.ytimg.com/vi/EW-V6SAu4RU/maxresdefault.jpg"
 tags: ["Top 10 Surf", "ian gentil", "ballito surf"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

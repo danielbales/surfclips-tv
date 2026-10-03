@@ -6,6 +6,8 @@ video_id: "IPl4b6Ah-X8"
 thumbnail: "https://i.ytimg.com/vi/IPl4b6Ah-X8/maxresdefault.jpg"
 tags: ["surfing 2024 pipe pro", "unedited surfing", "surf cam", "jacob wilcox", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves"]
 type: "clips"
+clip_type: "short"
+duration: 43
 ---
 
 <div class="video-embed">

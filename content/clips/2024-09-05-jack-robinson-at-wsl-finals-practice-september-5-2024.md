@@ -6,6 +6,8 @@ video_id: "HdNzFTiKETI"
 thumbnail: "https://i.ytimg.com/vi/HdNzFTiKETI/maxresdefault.jpg"
 tags: ["surfing lower trestles", "wsl finals surf", "jack robinson", "surf cam", "raw surfing", "big surf", "ocean", "waves", "surfline rewind", "good to epic"]
 type: "clips"
+clip_type: "short"
+duration: 13
 ---
 
 <div class="video-embed">

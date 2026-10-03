@@ -6,6 +6,8 @@ video_id: "gcqaCymMPEs"
 thumbnail: "https://i.ytimg.com/vi/gcqaCymMPEs/maxresdefault.jpg"
 tags: ["surfing santa cruz", "steamer lane surf", "surf cam", "raw surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "clip"
+duration: 83
 ---
 
 <div class="video-embed">

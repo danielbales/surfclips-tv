@@ -6,6 +6,8 @@ video_id: "OY_F6aaolOY"
 thumbnail: "https://i.ytimg.com/vi/OY_F6aaolOY/maxresdefault.jpg"
 tags: ["Top 10 surf", "perfect wave", "mason ho", "sheldon paishon", "south shore surf"]
 type: "clips"
+clip_type: "short"
+duration: 17
 ---
 
 <div class="video-embed">

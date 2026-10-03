@@ -6,6 +6,8 @@ video_id: "6CEowp-vEwE"
 thumbnail: "https://i.ytimg.com/vi/6CEowp-vEwE/maxresdefault.jpg"
 tags: ["NorCal Surf", "big wave", "surfer", "bay area surf", "california surf", "winter wave", "surfing", "waves", "surfboard", "raw surf"]
 type: "clips"
+clip_type: "clip"
+duration: 238
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "jqwGksWJQNg"
 thumbnail: "https://i.ytimg.com/vi/jqwGksWJQNg/maxresdefault.jpg"
 tags: ["top 10 surf", "mason ho", "surf video", "Italo Ferreira", "jamie obrien", "michel bourez", "benji brand", "barron mamiya"]
 type: "clips"
+clip_type: "top10"
+duration: 161
 ---
 
 <div class="video-embed">

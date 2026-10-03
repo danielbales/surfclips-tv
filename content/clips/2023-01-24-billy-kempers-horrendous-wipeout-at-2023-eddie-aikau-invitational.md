@@ -6,6 +6,8 @@ video_id: "XwzyryAcjSQ"
 thumbnail: "https://i.ytimg.com/vi/XwzyryAcjSQ/maxresdefault.jpg"
 tags: ["2023 eddie aikau invitational", "surfing waimea bay", "unedited surfing", "surf cam", "raw surfing", "billy kemper", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 46
 ---
 
 <div class="video-embed">

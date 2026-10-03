@@ -6,6 +6,8 @@ video_id: "GKQaVPhKams"
 thumbnail: "https://i.ytimg.com/vi/GKQaVPhKams/maxresdefault.jpg"
 tags: ["nic von rupp", "canary island surf"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

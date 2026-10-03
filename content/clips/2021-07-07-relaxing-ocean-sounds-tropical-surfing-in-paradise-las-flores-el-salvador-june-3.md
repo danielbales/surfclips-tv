@@ -3,9 +3,11 @@ title: "RELAXING Ocean Sounds & TROPICAL surfing in PARADISE! Las Flores, El Sal
 date: 2021-07-07T02:10:38Z
 draft: false
 video_id: "mgldUhPbsZs"
-thumbnail: "https://i9.ytimg.com/vi/mgldUhPbsZs/maxresdefault.jpg?sqp=CKjRgdYG&rs=AOn4CLCfeu0i1-xuof12G8ItM8rkpjZXHA"
+thumbnail: "https://i9.ytimg.com/vi/mgldUhPbsZs/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLDrfRX1guVNizM2Y-FSAhMZchTvIw"
 tags: ["worldwide waves", "relaxing ocean sounds", "tropical surfing", "surfing meditation", "ocean meditation", "las flores el salvador", "el salvador surfing", "point break surfing", "raw surfing", "surfing punta mango"]
 type: "clips"
+clip_type: "clip"
+duration: 212
 ---
 
 <div class="video-embed">

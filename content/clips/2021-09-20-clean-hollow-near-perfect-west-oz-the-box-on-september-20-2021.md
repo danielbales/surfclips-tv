@@ -6,6 +6,8 @@ video_id: "s7SCIWS5zjY"
 thumbnail: "https://i.ytimg.com/vi/s7SCIWS5zjY/maxresdefault.jpg"
 tags: ["surfing west australia", "surfing the box", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 118
 ---
 
 <div class="video-embed">

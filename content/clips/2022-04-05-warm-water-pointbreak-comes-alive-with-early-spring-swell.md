@@ -6,6 +6,8 @@ video_id: "zCh6QKheI1c"
 thumbnail: "https://i.ytimg.com/vi/zCh6QKheI1c/maxresdefault.jpg"
 tags: ["surfing el salvador", "surfing punta roca", "unedited surfing", "raw surfing", "POINt break surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "clip"
+duration: 109
 ---
 
 <div class="video-embed">

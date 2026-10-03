@@ -6,6 +6,8 @@ video_id: "iAyObwDf_ws"
 thumbnail: "https://i.ytimg.com/vi/iAyObwDf_ws/maxresdefault.jpg"
 tags: ["surfing portugal", "surfing supertubos", "unedited surfing", "surf cam", "raw surfing", "surfing peniche", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 37
 ---
 
 <div class="video-embed">

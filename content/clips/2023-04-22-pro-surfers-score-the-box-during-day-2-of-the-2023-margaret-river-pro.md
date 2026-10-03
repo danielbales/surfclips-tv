@@ -6,6 +6,8 @@ video_id: "LEl2M3SE6Uw"
 thumbnail: "https://i.ytimg.com/vi/LEl2M3SE6Uw/maxresdefault.jpg"
 tags: ["surfing australia", "surfing the box", "unedited surfing", "surf cam", "raw surfing", "john john florence", "kelly slater", "griffin colapinto", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 81
 ---
 
 <div class="video-embed">

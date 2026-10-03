@@ -6,6 +6,8 @@ video_id: "OyZvSboA52M"
 thumbnail: "https://i.ytimg.com/vi/OyZvSboA52M/maxresdefault.jpg"
 tags: ["surfing mavericks", "surfing big wave xl swell", "Jamie Mitchell mavericks", "Pete Mel surf", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves"]
 type: "clips"
+clip_type: "short"
+duration: 60
 ---
 
 <div class="video-embed">

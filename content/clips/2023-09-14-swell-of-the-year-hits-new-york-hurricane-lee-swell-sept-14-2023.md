@@ -6,6 +6,8 @@ video_id: "5-YVMewYXRw"
 thumbnail: "https://i.ytimg.com/vi/5-YVMewYXRw/maxresdefault.jpg"
 tags: ["hurricane lee surf 2023", "lido beach surf", "new york surf", "balaram stack", "eric geiselman", "sterling spencer"]
 type: "clips"
+clip_type: "clip"
+duration: 168
 ---
 
 <div class="video-embed">

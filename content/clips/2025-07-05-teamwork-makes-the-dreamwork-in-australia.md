@@ -6,6 +6,8 @@ video_id: "dK-ZE-4ddsM"
 thumbnail: "https://i.ytimg.com/vi/dK-ZE-4ddsM/maxresdefault.jpg"
 tags: ["Top 10 Surf", "stradbroke island surf"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

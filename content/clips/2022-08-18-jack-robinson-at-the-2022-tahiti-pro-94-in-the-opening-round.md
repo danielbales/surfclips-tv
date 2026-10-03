@@ -6,6 +6,8 @@ video_id: "fsIZ-GTjJ2k"
 thumbnail: "https://i.ytimg.com/vi/fsIZ-GTjJ2k/maxresdefault.jpg"
 tags: ["surfing tahiti", "surfing 2022 outerknown tahiti pro teahupoo", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

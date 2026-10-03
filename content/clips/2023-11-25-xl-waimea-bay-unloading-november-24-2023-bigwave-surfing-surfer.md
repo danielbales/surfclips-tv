@@ -6,6 +6,8 @@ video_id: "DE3aSAfpeYk"
 thumbnail: "https://i.ytimg.com/vi/DE3aSAfpeYk/maxresdefault.jpg"
 tags: ["surfing waimea bay", "surfing xl swell waimea bay", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

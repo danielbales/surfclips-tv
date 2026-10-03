@@ -6,6 +6,8 @@ video_id: "U-QAKf93ZQ0"
 thumbnail: "https://i.ytimg.com/vi/U-QAKf93ZQ0/maxresdefault.jpg"
 tags: ["xl pipeline", "pipeline christmas", "jamie obrien", "balaram stack", "mason ho"]
 type: "clips"
+clip_type: "clip"
+duration: 62
 ---
 
 <div class="video-embed">

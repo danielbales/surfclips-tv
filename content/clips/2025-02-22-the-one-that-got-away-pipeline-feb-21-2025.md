@@ -6,6 +6,8 @@ video_id: "3nw5uHR7WF0"
 thumbnail: "https://i.ytimg.com/vi/3nw5uHR7WF0/maxresdefault.jpg"
 tags: ["pipeline surf", "perfect wave"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

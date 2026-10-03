@@ -6,6 +6,8 @@ video_id: "lSMxZTbiQOI"
 thumbnail: "https://i.ytimg.com/vi/lSMxZTbiQOI/maxresdefault.jpg"
 tags: ["surfing barbados", "soup bowl surf", "kelly slater", "raw surfing", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves", "surfline rewind"]
 type: "clips"
+clip_type: "clip"
+duration: 130
 ---
 
 <div class="video-embed">

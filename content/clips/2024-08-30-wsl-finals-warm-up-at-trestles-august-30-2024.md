@@ -6,6 +6,8 @@ video_id: "qZR0R70bSMI"
 thumbnail: "https://i.ytimg.com/vi/qZR0R70bSMI/maxresdefault.jpg"
 tags: ["surfing lower trestles", "southern california surf", "surf cam", "raw surfing", "wsl finals 2024", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 86
 ---
 
 <div class="video-embed">

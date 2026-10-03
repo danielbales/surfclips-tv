@@ -6,6 +6,8 @@ video_id: "ycV_OKae-Zg"
 thumbnail: "https://i.ytimg.com/vi/ycV_OKae-Zg/maxresdefault.jpg"
 tags: ["new Jersey surf", "casino Pier", "east Coast surf"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

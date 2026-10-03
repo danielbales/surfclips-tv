@@ -6,6 +6,8 @@ video_id: "5FKy308GJ4g"
 thumbnail: "https://i.ytimg.com/vi/5FKy308GJ4g/maxresdefault.jpg"
 tags: ["Top 10 Surf", "hawaii surf", "john florence"]
 type: "clips"
+clip_type: "short"
+duration: 6
 ---
 
 <div class="video-embed">

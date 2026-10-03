@@ -6,6 +6,8 @@ video_id: "wOlwk9cgLwg"
 thumbnail: "https://i.ytimg.com/vi/wOlwk9cgLwg/maxresdefault.jpg"
 tags: ["illegal migrant boat", "boat accident", "maga", "illegal immigration", "mexican immigrant"]
 type: "clips"
+clip_type: "clip"
+duration: 101
 ---
 
 <div class="video-embed">

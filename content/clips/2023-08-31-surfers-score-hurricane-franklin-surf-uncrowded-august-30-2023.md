@@ -6,6 +6,8 @@ video_id: "QuAT0-xJUc8"
 thumbnail: "https://i.ytimg.com/vi/QuAT0-xJUc8/maxresdefault.jpg"
 tags: ["Hurricane Idalia surf", "hurricane franklin surf", "unedited surfing", "surf cam", "raw surfing", "wsv pro 2023", "jeannette's pier", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 57
 ---
 
 <div class="video-embed">

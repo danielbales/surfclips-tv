@@ -6,6 +6,8 @@ video_id: "0hj2BNEkgKk"
 thumbnail: "https://i.ytimg.com/vi/0hj2BNEkgKk/maxresdefault.jpg"
 tags: ["surfing australia", "surfing fairy bower manly", "unedited surfing", "surf cam", "raw surfing", "point break surfing", "longboarding", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 69
 ---
 
 <div class="video-embed">

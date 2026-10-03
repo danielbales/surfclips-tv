@@ -6,6 +6,8 @@ video_id: "LZu2eAm5cfI"
 thumbnail: "https://i.ytimg.com/vi/LZu2eAm5cfI/maxresdefault.jpg"
 tags: ["surfing portugal", "surfing nazare", "Nazare: Pure Magic", "raw surfing", "lucas chumbo", "garret macnamara", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "clip"
+duration: 96
 ---
 
 <div class="video-embed">

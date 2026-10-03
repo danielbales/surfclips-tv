@@ -6,6 +6,8 @@ video_id: "6uqg580WGuc"
 thumbnail: "https://i.ytimg.com/vi/6uqg580WGuc/maxresdefault.jpg"
 tags: ["surfing lower trestles", "wsl finals surf", "italo ferreira", "surf cam", "raw surfing", "big surf", "ocean", "waves", "surfline rewind", "good to epic"]
 type: "clips"
+clip_type: "short"
+duration: 11
 ---
 
 <div class="video-embed">

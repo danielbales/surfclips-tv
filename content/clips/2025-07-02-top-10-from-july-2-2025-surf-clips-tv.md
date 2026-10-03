@@ -6,6 +6,8 @@ video_id: "d4Te_d_rtxk"
 thumbnail: "https://i.ytimg.com/vi/d4Te_d_rtxk/sddefault.jpg"
 tags: ["Top 10 Surf", "Tatiana Weston-Webb", "Ian Gentil", "Filipe Toledo", "Nathan Florence", "Enrique Ariitu"]
 type: "clips"
+clip_type: "top10"
+duration: 128
 ---
 
 <div class="video-embed">

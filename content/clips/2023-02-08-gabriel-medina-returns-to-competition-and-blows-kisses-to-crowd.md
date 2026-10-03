@@ -6,6 +6,8 @@ video_id: "aRK1iAijinQ"
 thumbnail: "https://i.ytimg.com/vi/aRK1iAijinQ/maxresdefault.jpg"
 tags: ["surfing COUNTRY", "2023 pipeline masters", "unedited surfing", "surf cam", "raw surfing", "gabriel medina", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

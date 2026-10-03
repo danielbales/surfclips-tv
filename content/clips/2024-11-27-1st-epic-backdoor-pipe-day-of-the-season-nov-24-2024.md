@@ -6,6 +6,8 @@ video_id: "0X7fbbaNB5A"
 thumbnail: "https://i.ytimg.com/vi/0X7fbbaNB5A/maxresdefault.jpg"
 tags: ["backdoor pipeline", "mason ho", "john florence", "kelly slater", "jamie obrien"]
 type: "clips"
+clip_type: "clip"
+duration: 111
 ---
 
 <div class="video-embed">

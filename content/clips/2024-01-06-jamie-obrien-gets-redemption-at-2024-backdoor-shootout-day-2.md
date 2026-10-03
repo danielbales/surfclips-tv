@@ -6,6 +6,8 @@ video_id: "gCcmiviWnrc"
 thumbnail: "https://i.ytimg.com/vi/gCcmiviWnrc/maxresdefault.jpg"
 tags: ["surfing 2024 backdoor shootout", "unedited surfing", "surf cam", "raw surfing", "jamie obrien", "job vlog", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "short"
+duration: 40
 ---
 
 <div class="video-embed">

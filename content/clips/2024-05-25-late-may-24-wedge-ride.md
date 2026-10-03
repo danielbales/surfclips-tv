@@ -6,6 +6,8 @@ video_id: "RaNEkQwW9IY"
 thumbnail: "https://i.ytimg.com/vi/RaNEkQwW9IY/maxresdefault.jpg"
 tags: ["surfing wedge", "surfing southern california", "unedited surfing", "surf cam", "raw surfing", "REEF OR POINT OR BEACH break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 12
 ---
 
 <div class="video-embed">

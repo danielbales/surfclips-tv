@@ -6,6 +6,8 @@ video_id: "HXAFpt3-zqw"
 thumbnail: "https://i.ytimg.com/vi/HXAFpt3-zqw/maxresdefault.jpg"
 tags: ["north shore surf"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

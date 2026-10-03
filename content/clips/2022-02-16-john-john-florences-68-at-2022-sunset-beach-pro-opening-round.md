@@ -6,6 +6,8 @@ video_id: "wKPJGGXuloM"
 thumbnail: "https://i.ytimg.com/vi/wKPJGGXuloM/maxresdefault.jpg"
 tags: ["surfing hawaii", "2022 sunset beach pro", "unedited surfing", "surf cam", "raw surfing", "john john florence", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 46
 ---
 
 <div class="video-embed">

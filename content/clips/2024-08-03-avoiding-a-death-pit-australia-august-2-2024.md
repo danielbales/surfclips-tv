@@ -6,6 +6,8 @@ video_id: "iJHp99zCtzM"
 thumbnail: "https://i.ytimg.com/vi/iJHp99zCtzM/maxresdefault.jpg"
 tags: ["surfing Shark island", "surfing deadmans australia", "unedited surfing", "surf cam", "raw surfing", "koa rothman", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "ufBUQrh8oQA"
 thumbnail: "https://i.ytimg.com/vi/ufBUQrh8oQA/maxresdefault.jpg"
 tags: ["surfing portugal", "surfing supertubos", "unedited surfing", "surf cam", "raw surfing", "2022 portugal pro", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 67
 ---
 
 <div class="video-embed">

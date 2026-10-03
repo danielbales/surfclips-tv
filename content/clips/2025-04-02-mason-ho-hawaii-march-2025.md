@@ -6,6 +6,8 @@ video_id: "iS6N7pMBrBs"
 thumbnail: "https://i.ytimg.com/vi/iS6N7pMBrBs/maxresdefault.jpg"
 tags: ["mason ho surfing", "pipeline surf"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

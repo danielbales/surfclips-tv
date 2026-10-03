@@ -6,6 +6,8 @@ video_id: "FXR1xYbT34g"
 thumbnail: "https://i.ytimg.com/vi/FXR1xYbT34g/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing pipeline", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 57
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "p1PN9OFnM8Q"
 thumbnail: "https://i.ytimg.com/vi/p1PN9OFnM8Q/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing ala moana bowls", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 209
 ---
 
 <div class="video-embed">

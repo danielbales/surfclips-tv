@@ -6,6 +6,8 @@ video_id: "uDcxcqUOeUU"
 thumbnail: "https://i.ytimg.com/vi/uDcxcqUOeUU/maxresdefault.jpg"
 tags: ["Top 10 surf", "al merrick", "eimeo czermak", "xl teahupoo"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

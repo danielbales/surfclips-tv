@@ -6,6 +6,8 @@ video_id: "oCI-Vq4u3u4"
 thumbnail: "https://i.ytimg.com/vi/oCI-Vq4u3u4/maxresdefault.jpg"
 tags: ["surfing morocco", "surfing safi", "unedited surfing", "surf cam", "raw surfing", "point break surfing", "miguel blanco", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 66
 ---
 
 <div class="video-embed">

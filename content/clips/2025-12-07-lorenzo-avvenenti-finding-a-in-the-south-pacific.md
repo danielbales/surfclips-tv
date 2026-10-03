@@ -6,6 +6,8 @@ video_id: "TMK4FlR8tG4"
 thumbnail: "https://i.ytimg.com/vi/TMK4FlR8tG4/maxresdefault.jpg"
 tags: ["Top 10 Surf", "perfect wave", "Manea Fabisch", "Lorenzo Avvenenti"]
 type: "clips"
+clip_type: "short"
+duration: 16
 ---
 
 <div class="video-embed">

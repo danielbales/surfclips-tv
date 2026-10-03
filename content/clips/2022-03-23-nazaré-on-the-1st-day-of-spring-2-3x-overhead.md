@@ -6,6 +6,8 @@ video_id: "HgAuBCYKVmQ"
 thumbnail: "https://i.ytimg.com/vi/HgAuBCYKVmQ/maxresdefault.jpg"
 tags: ["surfing portugal", "surfing nazare", "unedited surfing", "surf cam", "raw surfing", "big wave surfing", "tow in surfing", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 70
 ---
 
 <div class="video-embed">

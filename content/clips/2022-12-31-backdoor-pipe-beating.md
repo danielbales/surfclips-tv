@@ -6,6 +6,8 @@ video_id: "Z0Y_PK-RXHI"
 thumbnail: "https://i.ytimg.com/vi/Z0Y_PK-RXHI/maxresdefault.jpg"
 tags: ["Joey Johnston", "backdoor Pipeline", "wave of the winter"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

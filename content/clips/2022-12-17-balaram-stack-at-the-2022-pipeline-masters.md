@@ -6,6 +6,8 @@ video_id: "zzD2F-9zQkE"
 thumbnail: "https://i.ytimg.com/vi/zzD2F-9zQkE/maxresdefault.jpg"
 tags: ["surfing 2022 pipeline masters", "surfing balaram stack", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "short"
+duration: 35
 ---
 
 <div class="video-embed">

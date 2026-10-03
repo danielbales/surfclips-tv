@@ -6,6 +6,8 @@ video_id: "HDubzn4hAxo"
 thumbnail: "https://i.ytimg.com/vi/HDubzn4hAxo/maxresdefault.jpg"
 tags: ["steamer lane surf", "XL surf"]
 type: "clips"
+clip_type: "short"
+duration: 16
 ---
 
 <div class="video-embed">

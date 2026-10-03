@@ -6,6 +6,8 @@ video_id: "xiBr5orylRk"
 thumbnail: "https://i.ytimg.com/vi/xiBr5orylRk/maxresdefault.jpg"
 tags: ["Top 10 Surf", "perfect surf", "Corona Cero Open J-Bay Pro"]
 type: "clips"
+clip_type: "short"
+duration: 15
 ---
 
 <div class="video-embed">

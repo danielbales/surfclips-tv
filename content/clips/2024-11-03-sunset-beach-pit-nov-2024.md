@@ -6,6 +6,8 @@ video_id: "YbSlz2RtPeI"
 thumbnail: "https://i.ytimg.com/vi/YbSlz2RtPeI/maxresdefault.jpg"
 tags: ["surfing sunset beach pro", "unedited surfing", "sunny garcia", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves"]
 type: "clips"
+clip_type: "short"
+duration: 11
 ---
 
 <div class="video-embed">

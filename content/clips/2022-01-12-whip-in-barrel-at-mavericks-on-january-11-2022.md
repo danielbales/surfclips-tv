@@ -6,6 +6,8 @@ video_id: "G667DHszOIU"
 thumbnail: "https://i.ytimg.com/vi/G667DHszOIU/maxresdefault.jpg"
 tags: ["surfing california", "surfing mavericks", "unedited surfing", "surf cam", "raw surfing", "tow in surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 49
 ---
 
 <div class="video-embed">

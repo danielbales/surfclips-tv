@@ -6,6 +6,8 @@ video_id: "OPogU269M2A"
 thumbnail: "https://i.ytimg.com/vi/OPogU269M2A/maxresdefault.jpg"
 tags: ["surfing indonesia", "surfing nias lagundri bay", "unedited surfing", "surf cam", "raw surfing", "sumatra surf", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 81
 ---
 
 <div class="video-embed">

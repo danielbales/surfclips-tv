@@ -6,6 +6,8 @@ video_id: "k9IKJr7fHas"
 thumbnail: "https://i.ytimg.com/vi/k9IKJr7fHas/maxresdefault.jpg"
 tags: ["Top 10 Surf", "perfect wave", "noa mizuno"]
 type: "clips"
+clip_type: "short"
+duration: 13
 ---
 
 <div class="video-embed">

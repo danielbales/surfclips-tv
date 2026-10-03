@@ -6,6 +6,8 @@ video_id: "EdD-S-zbBXI"
 thumbnail: "https://i.ytimg.com/vi/EdD-S-zbBXI/maxresdefault.jpg"
 tags: ["surfing new jersey", "surfing 16th street belmar", "unedited surfing", "surf cam", "raw surfing", "east coast surf", "ben gravy", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 66
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "q5s2B2dDM-8"
 thumbnail: "https://i.ytimg.com/vi/q5s2B2dDM-8/maxresdefault.jpg"
 tags: ["top 10 surf", "pipeline", "jordy smith", "ballito", "maui surf", "john florence", "jamie obrien"]
 type: "clips"
+clip_type: "top10"
+duration: 174
 ---
 
 <div class="video-embed">

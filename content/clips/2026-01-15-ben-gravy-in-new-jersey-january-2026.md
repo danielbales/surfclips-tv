@@ -6,6 +6,8 @@ video_id: "ARb8Ttsjfcc"
 thumbnail: "https://i.ytimg.com/vi/ARb8Ttsjfcc/maxresdefault.jpg"
 tags: ["Top 10 Surf", "ben gravy"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

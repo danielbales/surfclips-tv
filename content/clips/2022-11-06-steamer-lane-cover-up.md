@@ -6,6 +6,8 @@ video_id: "-60nDJ94NGo"
 thumbnail: "https://i.ytimg.com/vi/-60nDJ94NGo/maxresdefault.jpg"
 tags: ["steamer Lane surf", "NorCal surf", "NorCal barrel"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

@@ -3,9 +3,11 @@ title: "Bowls nugget - Aug 2025"
 date: 2025-08-14T20:11:01Z
 draft: false
 video_id: "oEj4Arqa7ww"
-thumbnail: "https://i9.ytimg.com/vi/oEj4Arqa7ww/maxresdefault.jpg?sqp=CKjRgdYG&rs=AOn4CLBIOUQDG3i0l28O7Y9VfwMTler8ZA"
+thumbnail: "https://i9.ytimg.com/vi/oEj4Arqa7ww/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLAU950nYixElSNwYI2P8i3AR_3IAQ"
 tags: ["Top 10 Surf", "perfect surf", "ala moana bowls surf"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

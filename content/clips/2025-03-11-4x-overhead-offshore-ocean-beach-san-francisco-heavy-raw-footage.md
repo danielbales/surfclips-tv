@@ -6,6 +6,8 @@ video_id: "y1PqU4YEK4A"
 thumbnail: "https://i.ytimg.com/vi/y1PqU4YEK4A/maxresdefault.jpg"
 tags: ["Ocean Beach San Francisco", "Ocean Beach", "San Francisco", "surf", "big wave", "surfer", "bay area surf", "california surf", "winter wave", "bodyboard"]
 type: "clips"
+clip_type: "clip"
+duration: 1683
 ---
 
 <div class="video-embed">

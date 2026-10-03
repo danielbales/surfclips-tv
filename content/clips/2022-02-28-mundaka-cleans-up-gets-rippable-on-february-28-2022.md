@@ -6,6 +6,8 @@ video_id: "i1zKVs1aRK4"
 thumbnail: "https://i.ytimg.com/vi/i1zKVs1aRK4/maxresdefault.jpg"
 tags: ["surfing spain", "surfing mundaka", "unedited surfing", "surf cam", "raw surfing", "aritz aramburi", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 129
 ---
 
 <div class="video-embed">

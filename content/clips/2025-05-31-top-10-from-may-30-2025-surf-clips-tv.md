@@ -6,6 +6,8 @@ video_id: "_2ojtL8STzQ"
 thumbnail: "https://i.ytimg.com/vi/_2ojtL8STzQ/maxresdefault.jpg"
 tags: ["Top 10 surf", "Koa Rothman", "mason ho", "billy kemper", "eli olson", "ezekiel lau", "jordy maree", "shipsterns bluff", "matahi drollet", "teahupoo"]
 type: "clips"
+clip_type: "top10"
+duration: 198
 ---
 
 <div class="video-embed">

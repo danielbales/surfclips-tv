@@ -6,6 +6,8 @@ video_id: "DLXOi3fqxg4"
 thumbnail: "https://i.ytimg.com/vi/DLXOi3fqxg4/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing off the wall", "unedited surfing", "surf cam", "raw surfing", "north shore break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 120
 ---
 
 <div class="video-embed">

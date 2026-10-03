@@ -6,6 +6,8 @@ video_id: "t7NQpSJ7qT8"
 thumbnail: "https://i.ytimg.com/vi/t7NQpSJ7qT8/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing pipeline north shore", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 213
 ---
 
 <div class="video-embed">

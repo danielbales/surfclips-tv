@@ -6,6 +6,8 @@ video_id: "zKYfMFUtBow"
 thumbnail: "https://i.ytimg.com/vi/zKYfMFUtBow/maxresdefault.jpg"
 tags: ["safi morocco surf"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

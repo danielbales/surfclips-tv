@@ -3,9 +3,11 @@ title: "Wilbur Kookmeyer orders a custom surfboard"
 date: 2025-12-23T23:31:57Z
 draft: false
 video_id: "u6KRDwE2Nl8"
-thumbnail: "https://i9.ytimg.com/vi/u6KRDwE2Nl8/maxresdefault.jpg?sqp=CKjRgdYG&rs=AOn4CLBDkAD97CRS646uESIqk8ud-G6ywg"
+thumbnail: "https://i9.ytimg.com/vi/u6KRDwE2Nl8/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLA1J8tbYDCWFEDyxYOZYGNZkJoJDw"
 tags: ["wilbur kookmeyer"]
 type: "clips"
+clip_type: "short"
+duration: 58
 ---
 
 <div class="video-embed">

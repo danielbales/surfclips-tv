@@ -6,6 +6,8 @@ video_id: "h1PAOdN04Ms"
 thumbnail: "https://i.ytimg.com/vi/h1PAOdN04Ms/maxresdefault.jpg"
 tags: ["surfing indonesia", "surfing padang padang", "unedited surfing", "surf cam", "raw surfing", "bali surf", "rizal tanjung", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 111
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "VXgGfJKQWKw"
 thumbnail: "https://i.ytimg.com/vi/VXgGfJKQWKw/maxresdefault.jpg"
 tags: ["perfect waves"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

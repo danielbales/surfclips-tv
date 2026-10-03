@@ -6,6 +6,8 @@ video_id: "OtmdjGEMDFg"
 thumbnail: "https://i.ytimg.com/vi/OtmdjGEMDFg/maxresdefault.jpg"
 tags: ["surfing big island hawaii", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves", "surfline rewind", "good to epic"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

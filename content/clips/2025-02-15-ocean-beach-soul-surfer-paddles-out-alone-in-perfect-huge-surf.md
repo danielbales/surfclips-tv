@@ -6,6 +6,8 @@ video_id: "5Xn3Ahn2jHk"
 thumbnail: "https://i.ytimg.com/vi/5Xn3Ahn2jHk/sddefault.jpg"
 tags: ["NorCal Surf", "soul surfer", "big wave", "surfer", "bay area surf", "california surf", "winter wave", "surfing", "waves", "barrels"]
 type: "clips"
+clip_type: "clip"
+duration: 228
 ---
 
 <div class="video-embed">

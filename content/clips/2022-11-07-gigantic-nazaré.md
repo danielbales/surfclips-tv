@@ -6,6 +6,8 @@ video_id: "89gX8q8YaCY"
 thumbnail: "https://i.ytimg.com/vi/89gX8q8YaCY/maxresdefault.jpg"
 tags: ["xxl nazare surf", "big wave surfing", "50 foot wave"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

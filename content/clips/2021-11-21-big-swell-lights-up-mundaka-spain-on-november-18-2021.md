@@ -6,6 +6,8 @@ video_id: "wOV2OzG9IO4"
 thumbnail: "https://i.ytimg.com/vi/wOV2OzG9IO4/maxresdefault.jpg"
 tags: ["surfing europe", "surfing mundaka spain", "unedited surfing", "surf cam", "raw surfing", "POINTbreak surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 330
 ---
 
 <div class="video-embed">

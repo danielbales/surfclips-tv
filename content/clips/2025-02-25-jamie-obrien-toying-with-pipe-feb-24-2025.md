@@ -6,6 +6,8 @@ video_id: "rxnatjsXlSo"
 thumbnail: "https://i.ytimg.com/vi/rxnatjsXlSo/maxresdefault.jpg"
 tags: ["pipeline surf", "jamie obrien"]
 type: "clips"
+clip_type: "short"
+duration: 11
 ---
 
 <div class="video-embed">

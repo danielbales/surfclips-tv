@@ -6,6 +6,8 @@ video_id: "cvr4m4bEyEE"
 thumbnail: "https://i.ytimg.com/vi/cvr4m4bEyEE/maxresdefault.jpg"
 tags: ["surfing HAWAII", "surfing ala moana", "unedited surfing", "surf cam", "raw surfing", "south shore surf", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 101
 ---
 
 <div class="video-embed">

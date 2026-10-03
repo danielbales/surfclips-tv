@@ -3,9 +3,11 @@ title: "Concrete Pour"
 date: 2024-05-24T02:41:22Z
 draft: false
 video_id: "-q3eSn5vfR0"
-thumbnail: "https://i9.ytimg.com/vi/-q3eSn5vfR0/maxresdefault.jpg?sqp=CKjRgdYG&rs=AOn4CLByp2iZ25kTfxbJkfFAFjTBMs4rOA"
+thumbnail: "https://i9.ytimg.com/vi/-q3eSn5vfR0/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLC6Bko7x1lqxCrPs8jObcNafetQzw"
 tags: ["surfing COUNTRY", "surfing SPOT NAME", "unedited surfing", "surf cam", "raw surfing", "REEF OR POINT OR BEACH break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 82
 ---
 
 <div class="video-embed">

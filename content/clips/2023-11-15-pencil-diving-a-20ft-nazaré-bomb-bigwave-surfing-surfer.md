@@ -6,6 +6,8 @@ video_id: "i_C52GKCxes"
 thumbnail: "https://i.ytimg.com/vi/i_C52GKCxes/maxresdefault.jpg"
 tags: ["surfing nazare", "surfing big wave", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "short"
+duration: 12
 ---
 
 <div class="video-embed">

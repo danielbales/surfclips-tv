@@ -6,6 +6,8 @@ video_id: "J903K9AVTd4"
 thumbnail: "https://i.ytimg.com/vi/J903K9AVTd4/maxresdefault.jpg"
 tags: ["backdoor pipeline", "john florence"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

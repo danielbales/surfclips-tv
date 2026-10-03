@@ -6,6 +6,8 @@ video_id: "BHFlCrUqLjc"
 thumbnail: "https://i.ytimg.com/vi/BHFlCrUqLjc/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing sunset beach pro 2022", "unedited surfing", "surf cam", "raw surfing", "ezekiel lau", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 56
 ---
 
 <div class="video-embed">

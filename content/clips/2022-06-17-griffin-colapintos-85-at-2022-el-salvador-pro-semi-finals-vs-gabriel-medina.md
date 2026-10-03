@@ -6,6 +6,8 @@ video_id: "zQhC7yDmtwg"
 thumbnail: "https://i.ytimg.com/vi/zQhC7yDmtwg/maxresdefault.jpg"
 tags: ["surfing 2022 el salvador pro", "surfing punta roca NAME", "unedited surfing", "surf cam", "raw surfing", "POINT break surfing", "Griffin Colapinto", "gabriel medina", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 85
 ---
 
 <div class="video-embed">

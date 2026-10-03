@@ -6,6 +6,8 @@ video_id: "7ROcE6Zx85c"
 thumbnail: "https://i.ytimg.com/vi/7ROcE6Zx85c/maxresdefault.jpg"
 tags: ["dylan graves", "pov surf", "japan surf"]
 type: "clips"
+clip_type: "short"
+duration: 6
 ---
 
 <div class="video-embed">

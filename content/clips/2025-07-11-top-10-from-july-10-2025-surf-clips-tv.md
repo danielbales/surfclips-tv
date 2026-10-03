@@ -6,6 +6,8 @@ video_id: "03mFTUcq35Q"
 thumbnail: "https://i.ytimg.com/vi/03mFTUcq35Q/sddefault.jpg"
 tags: ["Top 10 Surf", "Volcom", "Lakey Peterson", "Oahu Surf Films", "Nathan Florence", "Liquide", "Mentawaves Surf"]
 type: "clips"
+clip_type: "top10"
+duration: 202
 ---
 
 <div class="video-embed">

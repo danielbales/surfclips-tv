@@ -6,6 +6,8 @@ video_id: "ysk6LamiPbg"
 thumbnail: "https://i.ytimg.com/vi/ysk6LamiPbg/maxresdefault.jpg"
 tags: ["2024 pipeline masters", "mason ho"]
 type: "clips"
+clip_type: "short"
+duration: 12
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "v63lxEOlovY"
 thumbnail: "https://i.ytimg.com/vi/v63lxEOlovY/maxresdefault.jpg"
 tags: ["italo ferreira", "2025 rip curl supertubos pro portugal"]
 type: "clips"
+clip_type: "short"
+duration: 11
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "XNjgiD_5KrQ"
 thumbnail: "https://i.ytimg.com/vi/XNjgiD_5KrQ/maxresdefault.jpg"
 tags: ["surfing north carolina", "surfing cape hatteras", "unedited surfing", "surf cam", "raw surfing", "tropical storm tammy", "brett barley", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 6
 ---
 
 <div class="video-embed">

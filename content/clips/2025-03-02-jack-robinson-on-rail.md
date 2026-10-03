@@ -6,6 +6,8 @@ video_id: "MoLDZTVKTww"
 thumbnail: "https://i.ytimg.com/vi/MoLDZTVKTww/maxresdefault.jpg"
 tags: ["perfect wave", "jack robinson"]
 type: "clips"
+clip_type: "short"
+duration: 4
 ---
 
 <div class="video-embed">

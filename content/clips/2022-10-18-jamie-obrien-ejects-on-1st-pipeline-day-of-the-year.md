@@ -6,6 +6,8 @@ video_id: "TimS2B4n5EY"
 thumbnail: "https://i.ytimg.com/vi/TimS2B4n5EY/maxresdefault.jpg"
 tags: ["pipeline oahu", "jamie obrien", "surf fail"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

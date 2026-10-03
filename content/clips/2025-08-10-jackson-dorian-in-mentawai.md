@@ -3,9 +3,11 @@ title: "Jackson Dorian in Mentawai"
 date: 2025-08-10T14:45:04Z
 draft: false
 video_id: "Nh2J5OWasN0"
-thumbnail: "https://i9.ytimg.com/vi/Nh2J5OWasN0/maxresdefault.jpg?sqp=CKjRgdYG&rs=AOn4CLCC_a3psjwDpXxAUdny3JiZBaR6rA"
+thumbnail: "https://i9.ytimg.com/vi/Nh2J5OWasN0/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLCEhEx3cnal4h-O89iXsDXlny6AGw"
 tags: ["Top 10 Surf", "perfect surf", "jackson dorian", "mentawai surf"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

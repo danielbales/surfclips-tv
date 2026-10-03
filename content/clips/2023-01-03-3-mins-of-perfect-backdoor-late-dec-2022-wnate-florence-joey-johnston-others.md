@@ -6,6 +6,8 @@ video_id: "cWVn52eahSU"
 thumbnail: "https://i.ytimg.com/vi/cWVn52eahSU/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing backdoor hawaii", "unedited surfing", "surf cam", "raw surfing", "north shore surf", "john florence", "nathan florence", "koa rothman", "mason ho"]
 type: "clips"
+clip_type: "clip"
+duration: 192
 ---
 
 <div class="video-embed">

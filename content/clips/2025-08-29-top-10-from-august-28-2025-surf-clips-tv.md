@@ -6,6 +6,8 @@ video_id: "WvQs_FhdgZY"
 thumbnail: "https://i.ytimg.com/vi/WvQs_FhdgZY/sddefault.jpg"
 tags: ["Top 10 Surf", "Jack Robinson", "Surf n Sea Bali", "Koa Rothman", "Ben Gravy", "Surfing Visions", "Waida Bros", "Jamie O'Brien", "2025 fiji pro"]
 type: "clips"
+clip_type: "top10"
+duration: 198
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "rUt4T3id5pw"
 thumbnail: "https://i.ytimg.com/vi/rUt4T3id5pw/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing 2022 sunset beach pro", "unedited surfing", "surf cam", "raw surfing", "jack robinson", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 62
 ---
 
 <div class="video-embed">

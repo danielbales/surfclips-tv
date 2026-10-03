@@ -6,6 +6,8 @@ video_id: "sBNj6zg6N2c"
 thumbnail: "https://i.ytimg.com/vi/sBNj6zg6N2c/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing pipeline", "unedited surfing", "surf cam", "raw surfing", "north shore surf", "kelly slater", "mason ho", "jamie obrien", "john john florence"]
 type: "clips"
+clip_type: "clip"
+duration: 160
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "k8gPFvR-6vU"
 thumbnail: "https://i.ytimg.com/vi/k8gPFvR-6vU/maxresdefault.jpg"
 tags: ["mason ho", "stylemaster surf"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

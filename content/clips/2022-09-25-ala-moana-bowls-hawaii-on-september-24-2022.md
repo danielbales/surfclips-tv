@@ -6,6 +6,8 @@ video_id: "sfODFvkbaPU"
 thumbnail: "https://i.ytimg.com/vi/sfODFvkbaPU/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing ala moana bowls", "unedited surfing", "surf cam", "raw surfing", "south shore surf", "zeke lau", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 161
 ---
 
 <div class="video-embed">

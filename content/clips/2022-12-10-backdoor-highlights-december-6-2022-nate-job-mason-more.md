@@ -6,6 +6,8 @@ video_id: "-udS8hFWCyw"
 thumbnail: "https://i.ytimg.com/vi/-udS8hFWCyw/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing backdoor pipeline", "unedited surfing", "surf cam", "raw surfing", "north shore surf", "kelly slater", "jamie obrien", "da hui", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 211
 ---
 
 <div class="video-embed">

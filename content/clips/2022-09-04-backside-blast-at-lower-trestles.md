@@ -6,6 +6,8 @@ video_id: "AnKvXF5qxn4"
 thumbnail: "https://i.ytimg.com/vi/AnKvXF5qxn4/maxresdefault.jpg"
 tags: ["surfing southern california", "surfing lower trestles", "unedited surfing", "surf cam", "raw surfing", "yago dora", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

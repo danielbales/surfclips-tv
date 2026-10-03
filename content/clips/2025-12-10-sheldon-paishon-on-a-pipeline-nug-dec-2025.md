@@ -6,6 +6,8 @@ video_id: "WtNsRob_l84"
 thumbnail: "https://i.ytimg.com/vi/WtNsRob_l84/maxresdefault.jpg"
 tags: ["Top 10 Surf", "perfect wave", "sheldon paishon", "pipeline surf"]
 type: "clips"
+clip_type: "short"
+duration: 13
 ---
 
 <div class="video-embed">

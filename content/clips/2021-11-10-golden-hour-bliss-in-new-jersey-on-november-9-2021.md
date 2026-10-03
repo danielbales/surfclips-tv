@@ -6,6 +6,8 @@ video_id: "mxTbx7ObmUI"
 thumbnail: "https://i.ytimg.com/vi/mxTbx7ObmUI/maxresdefault.jpg"
 tags: ["surfing new jersey", "surfing casino pier", "unedited surfing", "surf cam", "raw surfing", "BEACH break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 125
 ---
 
 <div class="video-embed">

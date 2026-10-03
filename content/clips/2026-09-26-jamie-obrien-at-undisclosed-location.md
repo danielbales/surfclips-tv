@@ -6,6 +6,8 @@ video_id: "4BPWoaRcSRI"
 thumbnail: "https://i.ytimg.com/vi/4BPWoaRcSRI/maxresdefault.jpg"
 tags: ["surf highlight", "jamie obrien"]
 type: "clips"
+clip_type: "short"
+duration: 11
 ---
 
 <div class="video-embed">

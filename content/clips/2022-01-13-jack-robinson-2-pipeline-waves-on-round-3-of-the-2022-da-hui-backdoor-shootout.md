@@ -6,6 +6,8 @@ video_id: "iz5UAcgg71M"
 thumbnail: "https://i.ytimg.com/vi/iz5UAcgg71M/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing pipeline", "unedited surfing", "surf cam", "raw surfing", "da hui backdoor shootout 2022", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 58
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "UZvSANdZnuQ"
 thumbnail: "https://i.ytimg.com/vi/UZvSANdZnuQ/maxresdefault.jpg"
 tags: ["xl pipeline surf", "wave of the winter"]
 type: "clips"
+clip_type: "clip"
+duration: 225
 ---
 
 <div class="video-embed">

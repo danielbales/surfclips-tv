@@ -6,6 +6,8 @@ video_id: "c0CNGRVGknc"
 thumbnail: "https://i.ytimg.com/vi/c0CNGRVGknc/maxresdefault.jpg"
 tags: ["surfing california", "surfing trestles", "unedited surfing", "surf cam", "raw surfing", "point break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 265
 ---
 
 <div class="video-embed">

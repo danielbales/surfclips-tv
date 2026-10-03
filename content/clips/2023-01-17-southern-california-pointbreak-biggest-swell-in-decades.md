@@ -6,6 +6,8 @@ video_id: "RJNr2ZdZo2U"
 thumbnail: "https://i.ytimg.com/vi/RJNr2ZdZo2U/maxresdefault.jpg"
 tags: ["surfing california", "surfing ventura point", "unedited surfing", "surf cam", "raw surfing", "POINTbreak surfiing", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 68
 ---
 
 <div class="video-embed">

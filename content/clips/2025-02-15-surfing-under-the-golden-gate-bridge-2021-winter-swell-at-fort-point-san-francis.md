@@ -6,6 +6,8 @@ video_id: "BvwUT4L4xTg"
 thumbnail: "https://i.ytimg.com/vi/BvwUT4L4xTg/maxresdefault.jpg"
 tags: ["san francisco bridge", "what to do in san francisco", "surfing under the golden gate bridge", "california", "san francisco surfing", "soul surfing", "bodyboarding", "raw surf", "surfing", "surfboard"]
 type: "clips"
+clip_type: "clip"
+duration: 242
 ---
 
 <div class="video-embed">

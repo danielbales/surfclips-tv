@@ -6,6 +6,8 @@ video_id: "TtHk6jQUqck"
 thumbnail: "https://i.ytimg.com/vi/TtHk6jQUqck/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing 2023 Hurley Pro Sunset beach", "unedited surfing", "surf cam", "raw surfing", "seth moniz", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 71
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "ThHQECt2IQA"
 thumbnail: "https://i.ytimg.com/vi/ThHQECt2IQA/maxresdefault.jpg"
 tags: ["surfing huntington beach", "surfing southern california code red 2 swell", "unedited surfing", "surf cam", "raw surfing", "orange county surf", "kanoa igarashi", "brett simpson", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 131
 ---
 
 <div class="video-embed">

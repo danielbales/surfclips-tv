@@ -6,6 +6,8 @@ video_id: "g4YYBtxNbVo"
 thumbnail: "https://i.ytimg.com/vi/g4YYBtxNbVo/maxresdefault.jpg"
 tags: ["backdoor pipeline", "surf wipeout"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

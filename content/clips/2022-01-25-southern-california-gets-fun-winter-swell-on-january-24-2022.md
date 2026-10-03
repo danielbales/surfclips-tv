@@ -6,6 +6,8 @@ video_id: "SCMMgwGJHXo"
 thumbnail: "https://i.ytimg.com/vi/SCMMgwGJHXo/maxresdefault.jpg"
 tags: ["surfing california", "surfing ventura point", "unedited surfing", "surf cam", "raw surfing", "POINT break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 189
 ---
 
 <div class="video-embed">

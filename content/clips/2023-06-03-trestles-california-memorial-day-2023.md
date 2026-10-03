@@ -6,6 +6,8 @@ video_id: "oTSPsR5aNX4"
 thumbnail: "https://i.ytimg.com/vi/oTSPsR5aNX4/maxresdefault.jpg"
 tags: ["surfing trestles", "surfing san clemente", "unedited surfing", "surf cam", "raw surfing", "Kolohe Andino", "filipe toledo", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 72
 ---
 
 <div class="video-embed">

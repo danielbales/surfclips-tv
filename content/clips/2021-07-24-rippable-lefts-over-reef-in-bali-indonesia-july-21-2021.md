@@ -6,6 +6,8 @@ video_id: "-mv3dGHyB78"
 thumbnail: "https://i.ytimg.com/vi/-mv3dGHyB78/maxresdefault.jpg"
 tags: ["surfing bali", "unedited surfing", "uluwatu surf", "bukit surf", "raw surfing", "REEF break surfing", "kelly slater", "indonesia surf", "indian ocean surf", "perfect waves"]
 type: "clips"
+clip_type: "clip"
+duration: 248
 ---
 
 <div class="video-embed">

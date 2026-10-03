@@ -6,6 +6,8 @@ video_id: "XAVsEqpKsLw"
 thumbnail: "https://i.ytimg.com/vi/XAVsEqpKsLw/maxresdefault.jpg"
 tags: ["surfing xl mexico", "surfing puerto escondido", "surf cam", "big wave surfing", "kelly slater", "nathan florence", "ivan florence", "billy kemper", "big surf", "ocean"]
 type: "clips"
+clip_type: "clip"
+duration: 80
 ---
 
 <div class="video-embed">

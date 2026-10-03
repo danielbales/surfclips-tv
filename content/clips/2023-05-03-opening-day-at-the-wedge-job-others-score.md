@@ -6,6 +6,8 @@ video_id: "KE1vTpZPmtY"
 thumbnail: "https://i.ytimg.com/vi/KE1vTpZPmtY/maxresdefault.jpg"
 tags: ["surfing california", "surfing the wedge", "unedited surfing", "raw surfing", "novelty surf", "jamie obrien", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 67
 ---
 
 <div class="video-embed">

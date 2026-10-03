@@ -3,9 +3,11 @@ title: "Mason Ho somewhere in the Indian Ocean"
 date: 2025-10-26T22:35:43Z
 draft: false
 video_id: "bsTyuH-etuQ"
-thumbnail: "https://i9.ytimg.com/vi/bsTyuH-etuQ/maxresdefault.jpg?sqp=CKjRgdYG&rs=AOn4CLA8ou8cTkesJjNkbw7od7fFCIPUdA"
+thumbnail: "https://i9.ytimg.com/vi/bsTyuH-etuQ/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLDbr4xoFAWtmTkrFf-ClZyhPTZ5YA"
 tags: ["Top 10 Surf", "mason ho"]
 type: "clips"
+clip_type: "short"
+duration: 6
 ---
 
 <div class="video-embed">

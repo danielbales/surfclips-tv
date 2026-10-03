@@ -6,6 +6,8 @@ video_id: "2DEEew67IZw"
 thumbnail: "https://i.ytimg.com/vi/2DEEew67IZw/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing ala moana bowls", "unedited surfing", "surf cam", "raw surfing", "south shore break surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 81
 ---
 
 <div class="video-embed">

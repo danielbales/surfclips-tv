@@ -6,6 +6,8 @@ video_id: "RBdKStRB0Co"
 thumbnail: "https://i.ytimg.com/vi/RBdKStRB0Co/maxresdefault.jpg"
 tags: ["top 10 surf", "ian gentil", "john florence", "connor kennedy", "jack robinson"]
 type: "clips"
+clip_type: "top10"
+duration: 178
 ---
 
 <div class="video-embed">

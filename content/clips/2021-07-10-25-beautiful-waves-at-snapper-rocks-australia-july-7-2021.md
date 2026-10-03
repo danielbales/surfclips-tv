@@ -3,9 +3,11 @@ title: "[2/5] BEAUTIFUL WAVES at Snapper Rocks, AUSTRALIA | July 7, 2021"
 date: 2021-07-10T20:43:40Z
 draft: false
 video_id: "A6RDX4dZYQ8"
-thumbnail: "https://i9.ytimg.com/vi/A6RDX4dZYQ8/maxresdefault.jpg?sqp=CKjRgdYG&rs=AOn4CLBEW-EMRlpJLZDmshzd9pohITa4pg"
+thumbnail: "https://i9.ytimg.com/vi/A6RDX4dZYQ8/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLAdhpw8338uaDWH0SIxPhhdG7ZkVA"
 tags: ["best surfing waves", "worldwide waves", "surfing big waves", "surfing australia", "surfing snapper rocks", "unedited surfing", "ocean sounds", "relaxing ocean", "raw surfing", "point break surfing"]
 type: "clips"
+clip_type: "clip"
+duration: 4189
 ---
 
 <div class="video-embed">

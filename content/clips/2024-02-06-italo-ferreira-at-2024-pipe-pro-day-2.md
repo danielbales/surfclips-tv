@@ -6,6 +6,8 @@ video_id: "d_Hr8bGV300"
 thumbnail: "https://i.ytimg.com/vi/d_Hr8bGV300/maxresdefault.jpg"
 tags: ["2024 pipe pro", "surfing backdoor", "unedited surfing", "surf cam", "raw surfing", "italo ferreira", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 37
 ---
 
 <div class="video-embed">

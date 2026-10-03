@@ -6,6 +6,8 @@ video_id: "rsD6MJg-wE8"
 thumbnail: "https://i.ytimg.com/vi/rsD6MJg-wE8/maxresdefault.jpg"
 tags: ["top 10 surf", "jamie obrien", "gavin beschen", "mason ho", "kai lenny switch"]
 type: "clips"
+clip_type: "top10"
+duration: 153
 ---
 
 <div class="video-embed">

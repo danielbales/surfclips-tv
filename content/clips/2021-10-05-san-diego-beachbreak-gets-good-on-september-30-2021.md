@@ -6,6 +6,8 @@ video_id: "djZ-xbFwKoE"
 thumbnail: "https://i.ytimg.com/vi/djZ-xbFwKoE/maxresdefault.jpg"
 tags: ["surfing california", "surfing oceanside pier", "unedited surfing", "surf cam", "raw surfing", "BEACH break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 111
 ---
 
 <div class="video-embed">

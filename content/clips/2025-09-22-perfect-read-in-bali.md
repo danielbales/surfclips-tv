@@ -3,9 +3,11 @@ title: "Perfect read in Bali"
 date: 2025-09-22T02:57:15Z
 draft: false
 video_id: "XFn4SgtE3B0"
-thumbnail: "https://i9.ytimg.com/vi/XFn4SgtE3B0/maxresdefault.jpg?sqp=CKjRgdYG&rs=AOn4CLCcnW0QwTj9_FD_LUY1NvB9IhtMlA"
+thumbnail: "https://i9.ytimg.com/vi/XFn4SgtE3B0/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLAnz_1Sv-vdop_Iuoi_PCdiZg95NQ"
 tags: ["Top 10 Surf", "perfect surf", "bingin surf"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

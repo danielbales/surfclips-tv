@@ -6,6 +6,8 @@ video_id: "KkRvjEaNSu4"
 thumbnail: "https://i.ytimg.com/vi/KkRvjEaNSu4/maxresdefault.jpg"
 tags: ["surfing spain", "surfing mundaka", "unedited surfing", "surf cam", "raw surfing", "XL big wave surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 163
 ---
 
 <div class="video-embed">

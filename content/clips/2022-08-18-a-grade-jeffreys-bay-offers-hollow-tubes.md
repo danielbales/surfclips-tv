@@ -6,6 +6,8 @@ video_id: "x4xeQi7LkVs"
 thumbnail: "https://i.ytimg.com/vi/x4xeQi7LkVs/maxresdefault.jpg"
 tags: ["surfing africa", "surfing jeffrey's bay", "unedited surfing", "surf cam", "raw surfing", "POINT break surfing", "jordy smith", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 65
 ---
 
 <div class="video-embed">

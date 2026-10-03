@@ -6,6 +6,8 @@ video_id: "RQo8XrRHtDM"
 thumbnail: "https://i.ytimg.com/vi/RQo8XrRHtDM/maxresdefault.jpg"
 tags: ["sandspit santa barbara surf", "raw surfing", "dane reynolds", "bobby martinez", "tom curren", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves"]
 type: "clips"
+clip_type: "clip"
+duration: 98
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "ERBnsZVRa_A"
 thumbnail: "https://i.ytimg.com/vi/ERBnsZVRa_A/maxresdefault.jpg"
 tags: ["surfing portugal", "surfing supertubes", "unedited surfing", "surf cam", "raw surfing", "beachbreak surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 94
 ---
 
 <div class="video-embed">

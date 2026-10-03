@@ -6,6 +6,8 @@ video_id: "0hTITnNka9k"
 thumbnail: "https://i.ytimg.com/vi/0hTITnNka9k/maxresdefault.jpg"
 tags: ["surfing california", "surfing lower trestles", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "kolohe andino", "griffin colapinto", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 102
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "X2-0b1-DuOQ"
 thumbnail: "https://i.ytimg.com/vi/X2-0b1-DuOQ/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing pipeline", "unedited surfing", "surf cam", "raw surfing", "north shore hawaii", "kelly slater", "john john florence", "ivan florence", "mason ho"]
 type: "clips"
+clip_type: "clip"
+duration: 82
 ---
 
 <div class="video-embed">

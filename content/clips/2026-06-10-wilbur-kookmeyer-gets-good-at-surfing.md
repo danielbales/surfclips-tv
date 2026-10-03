@@ -6,6 +6,8 @@ video_id: "TTIzN-0xV_s"
 thumbnail: "https://i.ytimg.com/vi/TTIzN-0xV_s/maxresdefault.jpg"
 tags: ["wilbur kookmeyer", "surf humor"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

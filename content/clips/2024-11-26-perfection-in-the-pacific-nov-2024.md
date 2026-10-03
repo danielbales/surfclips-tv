@@ -6,6 +6,8 @@ video_id: "eMzKA8pFuz0"
 thumbnail: "https://i.ytimg.com/vi/eMzKA8pFuz0/maxresdefault.jpg"
 tags: ["tahiti surf", "surf pov"]
 type: "clips"
+clip_type: "short"
+duration: 5
 ---
 
 <div class="video-embed">

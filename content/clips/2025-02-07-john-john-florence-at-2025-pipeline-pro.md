@@ -6,6 +6,8 @@ video_id: "r0AbgaYVSn8"
 thumbnail: "https://i.ytimg.com/vi/r0AbgaYVSn8/maxresdefault.jpg"
 tags: ["john john florence", "pipeline pro 2025"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

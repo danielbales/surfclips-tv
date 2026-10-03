@@ -6,6 +6,8 @@ video_id: "N_vQdJQOJrc"
 thumbnail: "https://i.ytimg.com/vi/N_vQdJQOJrc/maxresdefault.jpg"
 tags: ["surfing western australia", "surfing the box margaret river", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "jack robinson", "jay davies", "taj burrow", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 92
 ---
 
 <div class="video-embed">

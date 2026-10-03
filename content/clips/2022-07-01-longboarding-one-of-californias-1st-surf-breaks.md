@@ -6,6 +6,8 @@ video_id: "GNkhCmgmE6k"
 thumbnail: "https://i.ytimg.com/vi/GNkhCmgmE6k/maxresdefault.jpg"
 tags: ["surfing california", "surfing malibu", "unedited surfing", "surf cam", "raw surfing", "longboard surf", "joel tudor", "alex knost", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 161
 ---
 
 <div class="video-embed">

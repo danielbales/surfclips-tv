@@ -6,6 +6,8 @@ video_id: "TkZT7M0x7ME"
 thumbnail: "https://i.ytimg.com/vi/TkZT7M0x7ME/maxresdefault.jpg"
 tags: ["backdoor pipeline", "nathan florence"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

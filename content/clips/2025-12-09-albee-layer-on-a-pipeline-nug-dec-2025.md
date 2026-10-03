@@ -6,6 +6,8 @@ video_id: "8Nicy9hMw_U"
 thumbnail: "https://i.ytimg.com/vi/8Nicy9hMw_U/maxresdefault.jpg"
 tags: ["Top 10 Surf", "perfect wave", "albee layer", "tucker wooding", "jaws surf", "peahi surf", "xl surf"]
 type: "clips"
+clip_type: "short"
+duration: 17
 ---
 
 <div class="video-embed">

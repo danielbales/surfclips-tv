@@ -6,6 +6,8 @@ video_id: "EWI-BEOk4wI"
 thumbnail: "https://i.ytimg.com/vi/EWI-BEOk4wI/maxresdefault.jpg"
 tags: ["jackson bunch", "shion crawford"]
 type: "clips"
+clip_type: "short"
+duration: 14
 ---
 
 <div class="video-embed">

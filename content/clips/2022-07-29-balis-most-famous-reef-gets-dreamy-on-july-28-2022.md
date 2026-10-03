@@ -6,6 +6,8 @@ video_id: "WpgEbLXuIlk"
 thumbnail: "https://i.ytimg.com/vi/WpgEbLXuIlk/maxresdefault.jpg"
 tags: ["surfing indonesia", "surfing uluwatu", "unedited surfing", "surf cam", "raw surfing", "bukit peninsula surf", "rizal tanjung", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 69
 ---
 
 <div class="video-embed">

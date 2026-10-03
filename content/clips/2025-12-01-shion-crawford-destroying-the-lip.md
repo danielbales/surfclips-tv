@@ -6,6 +6,8 @@ video_id: "Vf5WPLifCHg"
 thumbnail: "https://i.ytimg.com/vi/Vf5WPLifCHg/maxresdefault.jpg"
 tags: ["Top 10 Surf", "perfect wave", "Shion Crawford"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "edELUD-pHzk"
 thumbnail: "https://i.ytimg.com/vi/edELUD-pHzk/maxresdefault.jpg"
 tags: ["outer banks surf"]
 type: "clips"
+clip_type: "short"
+duration: 5
 ---
 
 <div class="video-embed">

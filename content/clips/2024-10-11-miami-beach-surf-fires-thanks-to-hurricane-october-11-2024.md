@@ -6,6 +6,8 @@ video_id: "8fELbGIREAY"
 thumbnail: "https://i.ytimg.com/vi/8fELbGIREAY/maxresdefault.jpg"
 tags: ["surfing hurricane milton", "hurricane kirk", "south beach miami surf", "hurricane surf", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves"]
 type: "clips"
+clip_type: "clip"
+duration: 150
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "Ed4eD7P__mM"
 thumbnail: "https://i.ytimg.com/vi/Ed4eD7P__mM/maxresdefault.jpg"
 tags: ["backdoor pipeline", "Barron Mamiya", "perfect waves"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

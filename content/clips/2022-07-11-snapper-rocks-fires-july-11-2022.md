@@ -6,6 +6,8 @@ video_id: "l8GpBkWaLfQ"
 thumbnail: "https://i.ytimg.com/vi/l8GpBkWaLfQ/maxresdefault.jpg"
 tags: ["surfing australia", "surfing snapper rocks", "unedited surfing", "surf cam", "raw surfing", "Gold Coast surf", "mick fanning", "joel parkinson", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 181
 ---
 
 <div class="video-embed">

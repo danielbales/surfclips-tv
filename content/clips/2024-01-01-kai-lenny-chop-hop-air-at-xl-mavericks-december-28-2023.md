@@ -6,6 +6,8 @@ video_id: "fCmXJ6-UKKs"
 thumbnail: "https://i.ytimg.com/vi/fCmXJ6-UKKs/maxresdefault.jpg"
 tags: ["surfing mavericks XL", "unedited surfing", "surf cam", "raw surfing", "Kai Lenny", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "short"
+duration: 49
 ---
 
 <div class="video-embed">

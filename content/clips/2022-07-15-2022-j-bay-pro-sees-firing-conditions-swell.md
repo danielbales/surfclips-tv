@@ -6,6 +6,8 @@ video_id: "kqgow0-4bEo"
 thumbnail: "https://i.ytimg.com/vi/kqgow0-4bEo/maxresdefault.jpg"
 tags: ["surfing south africa", "surfing 2022 jeffrey's bay pro", "unedited surfing", "surf cam", "raw surfing", "POINT break surfing", "kelly slater", "griffin colapinto", "italo ferriera", "filipe toledo"]
 type: "clips"
+clip_type: "clip"
+duration: 211
 ---
 
 <div class="video-embed">

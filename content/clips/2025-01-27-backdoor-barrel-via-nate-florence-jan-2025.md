@@ -6,6 +6,8 @@ video_id: "LDtQQV2AUjQ"
 thumbnail: "https://i.ytimg.com/vi/LDtQQV2AUjQ/maxresdefault.jpg"
 tags: ["perfect wave", "pov surfing", "nathan florence", "backdoor surf"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "ncLwL6U_pCk"
 thumbnail: "https://i.ytimg.com/vi/ncLwL6U_pCk/maxresdefault.jpg"
 tags: ["surfing indonesia", "surfing bingin", "unedited surfing", "surf cam", "raw surfing", "bukit bali surf", "rizal tanjung", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 104
 ---
 
 <div class="video-embed">

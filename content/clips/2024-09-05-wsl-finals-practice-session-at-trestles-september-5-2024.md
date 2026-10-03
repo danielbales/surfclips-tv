@@ -6,6 +6,8 @@ video_id: "6iSZ89RAx-M"
 thumbnail: "https://i.ytimg.com/vi/6iSZ89RAx-M/maxresdefault.jpg"
 tags: ["surfing lower trestles pro", "wsl finals surf practice", "jack robinson", "john john florence", "italo ferreira", "ethan ewing", "griffin colapinto", "perfect surf", "surf video"]
 type: "clips"
+clip_type: "clip"
+duration: 317
 ---
 
 <div class="video-embed">

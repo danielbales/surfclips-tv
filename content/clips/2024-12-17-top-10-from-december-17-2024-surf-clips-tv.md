@@ -6,6 +6,8 @@ video_id: "dGhCRuMxX7A"
 thumbnail: "https://i.ytimg.com/vi/dGhCRuMxX7A/maxresdefault.jpg"
 tags: ["top 10 surf", "john florence", "clay marzo", "eli hanneman", "max beach", "griffin colapinto"]
 type: "clips"
+clip_type: "top10"
+duration: 219
 ---
 
 <div class="video-embed">

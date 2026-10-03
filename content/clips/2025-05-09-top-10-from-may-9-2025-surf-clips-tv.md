@@ -6,6 +6,8 @@ video_id: "PbK-gFBNxUY"
 thumbnail: "https://i.ytimg.com/vi/PbK-gFBNxUY/maxresdefault.jpg"
 tags: ["Top 10 surf", "Mason Ho", "Nic Von Rupp", "Michael February", "Sheldon Simkus", "Jacob Wilcox", "teahupoo xl"]
 type: "clips"
+clip_type: "top10"
+duration: 177
 ---
 
 <div class="video-embed">

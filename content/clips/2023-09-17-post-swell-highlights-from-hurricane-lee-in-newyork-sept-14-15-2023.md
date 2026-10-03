@@ -6,6 +6,8 @@ video_id: "Acav4bMiM9Q"
 thumbnail: "https://i.ytimg.com/vi/Acav4bMiM9Q/maxresdefault.jpg"
 tags: ["hurricane lee surf", "lido beach surf hurricane lee", "balaram stack", "ben gravy", "brett barley", "eric geiselman", "evan geiselman"]
 type: "clips"
+clip_type: "clip"
+duration: 298
 ---
 
 <div class="video-embed">

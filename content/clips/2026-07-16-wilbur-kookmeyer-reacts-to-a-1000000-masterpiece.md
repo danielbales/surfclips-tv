@@ -6,6 +6,8 @@ video_id: "T2xWCk0BNfk"
 thumbnail: "https://i.ytimg.com/vi/T2xWCk0BNfk/maxresdefault.jpg"
 tags: ["Wilbur Kookmeyer", "surf comedy", "modern art parody", "Surf Clips TV", "funny surfer animation", "surf art", "fine art critique satire", "animated sitcom shorts", "surfing humor", "AI animation"]
 type: "clips"
+clip_type: "short"
+duration: 52
 ---
 
 <div class="video-embed">

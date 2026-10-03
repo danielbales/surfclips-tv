@@ -6,6 +6,8 @@ video_id: "AaK7uCem0yc"
 thumbnail: "https://i.ytimg.com/vi/AaK7uCem0yc/maxresdefault.jpg"
 tags: ["surfing pipeline", "unedited surfing", "surf cam", "raw surfing", "kalani chapman", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "short"
+duration: 11
 ---
 
 <div class="video-embed">

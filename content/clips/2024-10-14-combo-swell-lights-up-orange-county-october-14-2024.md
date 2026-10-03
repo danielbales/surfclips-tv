@@ -6,6 +6,8 @@ video_id: "t_OGurM86Eo"
 thumbnail: "https://i.ytimg.com/vi/t_OGurM86Eo/maxresdefault.jpg"
 tags: ["surfing the wedge", "surfing orange county", "56th street surf", "surf cam", "raw surfing", "mental health", "mental therapy", "big surf", "ocean", "waves"]
 type: "clips"
+clip_type: "clip"
+duration: 78
 ---
 
 <div class="video-embed">

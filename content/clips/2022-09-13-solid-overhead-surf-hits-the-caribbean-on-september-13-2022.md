@@ -6,6 +6,8 @@ video_id: "XPGYEksu3mo"
 thumbnail: "https://i.ytimg.com/vi/XPGYEksu3mo/maxresdefault.jpg"
 tags: ["surfing puerto rico", "surfing maria's", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "caribbean surfing", "tropical storm earl 2022", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 78
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "gWeDUBpfgKY"
 thumbnail: "https://i.ytimg.com/vi/gWeDUBpfgKY/maxresdefault.jpg"
 tags: ["surfing mexico", "surfing the rock cabo", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 62
 ---
 
 <div class="video-embed">

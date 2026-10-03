@@ -6,6 +6,8 @@ video_id: "xBlr276wyKU"
 thumbnail: "https://i.ytimg.com/vi/xBlr276wyKU/maxresdefault.jpg"
 tags: ["clay marzo", "clayback"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

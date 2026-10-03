@@ -6,6 +6,8 @@ video_id: "CVZIZIADv5E"
 thumbnail: "https://i.ytimg.com/vi/CVZIZIADv5E/maxresdefault.jpg"
 tags: ["jackson bunch", "backflip surfing"]
 type: "clips"
+clip_type: "short"
+duration: 5
 ---
 
 <div class="video-embed">

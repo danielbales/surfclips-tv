@@ -6,6 +6,8 @@ video_id: "xC0-j0bS2ns"
 thumbnail: "https://i.ytimg.com/vi/xC0-j0bS2ns/maxresdefault.jpg"
 tags: ["surfing california", "surfing huntington beach", "unedited surfing", "surf cam", "raw surfing", "BEACH break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 139
 ---
 
 <div class="video-embed">

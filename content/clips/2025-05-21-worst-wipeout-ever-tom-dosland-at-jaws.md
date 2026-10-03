@@ -6,6 +6,8 @@ video_id: "sH8ckdeXiME"
 thumbnail: "https://i.ytimg.com/vi/sH8ckdeXiME/maxresdefault.jpg"
 tags: ["surf wipeout", "xl surf"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

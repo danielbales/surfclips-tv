@@ -6,6 +6,8 @@ video_id: "y9yzyaldMiM"
 thumbnail: "https://i.ytimg.com/vi/y9yzyaldMiM/maxresdefault.jpg"
 tags: ["top 10 surf", "pipeline", "kelly slater velzy land", "jamie obrien supsquatch", "jack robinson portugal", "Mason ho pipeline"]
 type: "clips"
+clip_type: "top10"
+duration: 160
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "hJ6ZPtX6bNQ"
 thumbnail: "https://i.ytimg.com/vi/hJ6ZPtX6bNQ/maxresdefault.jpg"
 tags: ["surfing bali", "surfing padang padang", "unedited surfing", "surf cam", "raw surfing", "2022 Rip Curl Cup Padang", "Mason Ho", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 63
 ---
 
 <div class="video-embed">

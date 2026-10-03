@@ -6,6 +6,8 @@ video_id: "l0tmsGq70EE"
 thumbnail: "https://i.ytimg.com/vi/l0tmsGq70EE/maxresdefault.jpg"
 tags: ["surfing outer banks", "surfing cape hatteras", "unedited surfing", "surf cam", "raw surfing", "brett barley", "kolohe andino", "peter mendia", "cory lopez", "shea lopez"]
 type: "clips"
+clip_type: "clip"
+duration: 128
 ---
 
 <div class="video-embed">

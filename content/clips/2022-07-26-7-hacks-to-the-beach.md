@@ -6,6 +6,8 @@ video_id: "RXaG57pgzI4"
 thumbnail: "https://i.ytimg.com/vi/RXaG57pgzI4/maxresdefault.jpg"
 tags: ["surfing socal", "surfing lower trestles", "unedited surfing", "surf cam", "raw surfing", "POINT break surfing", "san clemente surf", "kolohe andino", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 27
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "okIAwyh5X7c"
 thumbnail: "https://i.ytimg.com/vi/okIAwyh5X7c/maxresdefault.jpg"
 tags: ["baron mamiya", "el salvador surf", "surf highlight"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

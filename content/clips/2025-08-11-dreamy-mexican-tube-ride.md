@@ -3,9 +3,11 @@ title: "Dreamy Mexican tube ride"
 date: 2025-08-11T00:30:24Z
 draft: false
 video_id: "epgDIyyqi98"
-thumbnail: "https://i9.ytimg.com/vi/epgDIyyqi98/maxresdefault.jpg?sqp=CKjRgdYG&rs=AOn4CLC0ik88FGNhjJN-I0OW-CFQhDpdVA"
+thumbnail: "https://i9.ytimg.com/vi/epgDIyyqi98/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLBWCj2uV_DLRBYuWjx6F1wVZqE1_Q"
 tags: ["Top 10 Surf", "perfect surf", "puerto escondido surf"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

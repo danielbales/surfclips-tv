@@ -6,6 +6,8 @@ video_id: "uDUOjzpDwKU"
 thumbnail: "https://i.ytimg.com/vi/uDUOjzpDwKU/maxresdefault.jpg"
 tags: ["surfing mundaka", "surfing spain", "unedited surfing", "surf cam", "raw surfing", "xl surf europe", "aritz aramburu", "nic von rupp", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 224
 ---
 
 <div class="video-embed">

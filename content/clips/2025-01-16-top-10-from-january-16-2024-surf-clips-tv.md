@@ -6,6 +6,8 @@ video_id: "Irai5Cy38rI"
 thumbnail: "https://i.ytimg.com/vi/Irai5Cy38rI/maxresdefault.jpg"
 tags: ["top 10 surf", "john florence", "pipeline", "2025 backdoor shootout", "jaws peahi", "outer banks"]
 type: "clips"
+clip_type: "top10"
+duration: 140
 ---
 
 <div class="video-embed">

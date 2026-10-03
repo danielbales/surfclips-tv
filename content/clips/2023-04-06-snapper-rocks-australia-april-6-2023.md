@@ -6,6 +6,8 @@ video_id: "REVdfDjiVLA"
 thumbnail: "https://i.ytimg.com/vi/REVdfDjiVLA/maxresdefault.jpg"
 tags: ["surfing australia", "surfing snapper rocks", "unedited surfing", "surf cam", "raw surfing", "POINT break surfing", "mick fanning", "joel parkinson", "dean morrison", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 50
 ---
 
 <div class="video-embed">

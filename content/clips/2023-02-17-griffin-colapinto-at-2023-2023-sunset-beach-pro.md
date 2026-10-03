@@ -3,9 +3,11 @@ title: "Griffin Colapinto at 2023 2023 Sunset Beach Pro"
 date: 2023-02-17T05:03:40Z
 draft: false
 video_id: "7E1cuIeLNTI"
-thumbnail: "https://i9.ytimg.com/vi/7E1cuIeLNTI/maxresdefault.jpg?sqp=CKjRgdYG&rs=AOn4CLDBVP6eZ6exzczng84dZe1_LfBw8Q"
+thumbnail: "https://i9.ytimg.com/vi/7E1cuIeLNTI/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLC2naZ2MQTuhZcPxW3mp-6_-OE2uw"
 tags: ["surfing hawaii", "surfing 2023 hurley pro sunset beach", "unedited surfing", "surf cam", "raw surfing", "griffin colapinto", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 58
 ---
 
 <div class="video-embed">

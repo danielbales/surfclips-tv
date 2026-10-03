@@ -6,6 +6,8 @@ video_id: "KN_9NsaCwu4"
 thumbnail: "https://i.ytimg.com/vi/KN_9NsaCwu4/maxresdefault.jpg"
 tags: ["huntington beach surf", "orange county surf", "mental health", "mental therapy", "big surf", "ocean", "waves", "surfline rewind", "good to epic", "perfect surf"]
 type: "clips"
+clip_type: "clip"
+duration: 97
 ---
 
 <div class="video-embed">

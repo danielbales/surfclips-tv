@@ -6,6 +6,8 @@ video_id: "QGM9Mk9_Sbk"
 thumbnail: "https://i.ytimg.com/vi/QGM9Mk9_Sbk/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing backdoor pipeline", "unedited surfing", "surf cam", "raw surfing", "surf wipeout", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 45
 ---
 
 <div class="video-embed">

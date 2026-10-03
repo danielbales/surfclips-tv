@@ -3,9 +3,11 @@ title: "Australian Legend surfer Joel Parkinson at home"
 date: 2025-07-20T21:11:32Z
 draft: false
 video_id: "ePKNbv7HWys"
-thumbnail: "https://i9.ytimg.com/vi/ePKNbv7HWys/maxresdefault.jpg?sqp=CKjRgdYG&rs=AOn4CLAo9C4ozcqIakYl0mnZSyu4ftDkHA"
+thumbnail: "https://i9.ytimg.com/vi/ePKNbv7HWys/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLA7Gm5_3clizwKSye0BQBgPlh09kQ"
 tags: ["Top 10 Surf", "joel parkinson surf"]
 type: "clips"
+clip_type: "short"
+duration: 16
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "1T3mqiPfcgM"
 thumbnail: "https://i.ytimg.com/vi/1T3mqiPfcgM/maxresdefault.jpg"
 tags: ["surfing florida", "surfing new smyrna beach", "unedited surfing", "surf cam", "raw surfing", "BEACH break surfing", "geiselman surf", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 109
 ---
 
 <div class="video-embed">

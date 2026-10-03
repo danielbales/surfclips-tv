@@ -6,6 +6,8 @@ video_id: "mDq0mDEVKrs"
 thumbnail: "https://i.ytimg.com/vi/mDq0mDEVKrs/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing pipeline", "john john florence", "nate florence", "koa rothman", "north shore surf", "kelly slater", "jamie obrien", "mason ho", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 45
 ---
 
 <div class="video-embed">

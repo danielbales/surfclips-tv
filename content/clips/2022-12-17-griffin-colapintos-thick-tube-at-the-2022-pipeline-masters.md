@@ -6,6 +6,8 @@ video_id: "Y-I7gzPL1-g"
 thumbnail: "https://i.ytimg.com/vi/Y-I7gzPL1-g/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing 2022 pipeline masters", "unedited surfing", "surf cam", "raw surfing", "griffin colapinto", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 46
 ---
 
 <div class="video-embed">

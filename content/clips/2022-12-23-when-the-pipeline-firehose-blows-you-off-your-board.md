@@ -6,6 +6,8 @@ video_id: "08o84Hna6ws"
 thumbnail: "https://i.ytimg.com/vi/08o84Hna6ws/maxresdefault.jpg"
 tags: ["mason ho", "bonzai pipeline", "big wave surfing"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

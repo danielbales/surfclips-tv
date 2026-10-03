@@ -6,6 +6,8 @@ video_id: "8Qph0FYRAgc"
 thumbnail: "https://i.ytimg.com/vi/8Qph0FYRAgc/maxresdefault.jpg"
 tags: ["blacks beach", "tow in surfing"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

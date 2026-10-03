@@ -6,6 +6,8 @@ video_id: "J67UmUuarlU"
 thumbnail: "https://i.ytimg.com/vi/J67UmUuarlU/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing rocky point", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "koa rothman", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 103
 ---
 
 <div class="video-embed">

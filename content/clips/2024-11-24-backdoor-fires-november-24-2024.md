@@ -6,6 +6,8 @@ video_id: "R54u6_hAUPA"
 thumbnail: "https://i.ytimg.com/vi/R54u6_hAUPA/maxresdefault.jpg"
 tags: ["surfing backdoor pipeline", "kelly slater", "big surf", "ocean", "waves", "surfline rewind", "good to epic", "perfect surf", "surf video"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

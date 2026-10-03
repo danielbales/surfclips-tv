@@ -6,6 +6,8 @@ video_id: "Dxd8BS5TJaI"
 thumbnail: "https://i.ytimg.com/vi/Dxd8BS5TJaI/maxresdefault.jpg"
 tags: ["perfect wave", "supertubos", "ian gentil"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

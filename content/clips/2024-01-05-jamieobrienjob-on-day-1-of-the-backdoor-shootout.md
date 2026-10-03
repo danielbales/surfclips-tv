@@ -6,6 +6,8 @@ video_id: "EAWKkemEn-g"
 thumbnail: "https://i.ytimg.com/vi/EAWKkemEn-g/maxresdefault.jpg"
 tags: []
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

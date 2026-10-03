@@ -6,6 +6,8 @@ video_id: "hucM6EkMk1s"
 thumbnail: "https://i.ytimg.com/vi/hucM6EkMk1s/maxresdefault.jpg"
 tags: ["worldwide waves", "surfing big waves", "puerto escondido xl", "big waves", "perfect waves", "mexican pipeline", "oaxaca waves", "mexico surfing", "playa zicatela", "big wave surfing"]
 type: "clips"
+clip_type: "clip"
+duration: 154
 ---
 
 <div class="video-embed">

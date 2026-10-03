@@ -6,6 +6,8 @@ video_id: "O1DKtUMWWec"
 thumbnail: "https://i.ytimg.com/vi/O1DKtUMWWec/maxresdefault.jpg"
 tags: ["surfing waimea bay", "surfing xl surf", "makua rothman", "john john florence", "nate florence", "xl north shore surf", "billy kemper", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 135
 ---
 
 <div class="video-embed">

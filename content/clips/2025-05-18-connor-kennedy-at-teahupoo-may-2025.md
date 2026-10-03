@@ -6,6 +6,8 @@ video_id: "ukmDk4cAoQA"
 thumbnail: "https://i.ytimg.com/vi/ukmDk4cAoQA/maxresdefault.jpg"
 tags: ["maddix Alotis", "mentawais surf", "rifles surf", "perfect wave"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

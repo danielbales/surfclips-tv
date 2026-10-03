@@ -6,6 +6,8 @@ video_id: "Nh4P8_kU78U"
 thumbnail: "https://i.ytimg.com/vi/Nh4P8_kU78U/maxresdefault.jpg"
 tags: ["Huntington Beach pier", "surf fail"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

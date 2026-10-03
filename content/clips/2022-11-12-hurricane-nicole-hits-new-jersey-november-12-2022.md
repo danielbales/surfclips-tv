@@ -6,6 +6,8 @@ video_id: "ZgfYuDJxdec"
 thumbnail: "https://i.ytimg.com/vi/ZgfYuDJxdec/maxresdefault.jpg"
 tags: ["surfing new jersey", "surfing casino pier", "hurricane nicole surf", "surf cam", "raw surfing", "brett barley", "ben gravy", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 65
 ---
 
 <div class="video-embed">

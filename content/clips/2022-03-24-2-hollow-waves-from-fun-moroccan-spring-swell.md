@@ -6,6 +6,8 @@ video_id: "fz-3r9UI5lE"
 thumbnail: "https://i.ytimg.com/vi/fz-3r9UI5lE/maxresdefault.jpg"
 tags: ["surfing morocco", "surfing anchor point madraba", "unedited surfing", "surf cam", "raw surfing", "POINT break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 48
 ---
 
 <div class="video-embed">

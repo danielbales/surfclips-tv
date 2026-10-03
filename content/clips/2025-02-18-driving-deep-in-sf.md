@@ -6,6 +6,8 @@ video_id: "LzaJZB-w-Zw"
 thumbnail: "https://i.ytimg.com/vi/LzaJZB-w-Zw/maxresdefault.jpg"
 tags: ["san francisco surf", "ocean beach san francisco", "perfect waves"]
 type: "clips"
+clip_type: "short"
+duration: 12
 ---
 
 <div class="video-embed">

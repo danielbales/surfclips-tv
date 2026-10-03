@@ -6,6 +6,8 @@ video_id: "bxPBGQrUpUo"
 thumbnail: "https://i.ytimg.com/vi/bxPBGQrUpUo/maxresdefault.jpg"
 tags: ["surfing portugal", "surfing xl nazare", "unedited surfing", "surf cam", "raw surfing", "big wave surfing", "nic von rupp", "tow in surfing", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 92
 ---
 
 <div class="video-embed">

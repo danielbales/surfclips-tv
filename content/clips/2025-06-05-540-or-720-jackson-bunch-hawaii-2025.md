@@ -6,6 +6,8 @@ video_id: "ln_UhqIyZTQ"
 thumbnail: "https://i.ytimg.com/vi/ln_UhqIyZTQ/maxresdefault.jpg"
 tags: ["jackson bunch"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

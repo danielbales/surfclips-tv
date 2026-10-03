@@ -6,6 +6,8 @@ video_id: "nrIqUEf0gMU"
 thumbnail: "https://i.ytimg.com/vi/nrIqUEf0gMU/maxresdefault.jpg"
 tags: ["surfing xl puerto escondido", "big wave surfing", "unedited surfing", "surf cam", "raw surfing", "rusty long", "greg long", "jamie sterling", "makua rothman", "nathan florence"]
 type: "clips"
+clip_type: "clip"
+duration: 87
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "pW4aPuS2Jg8"
 thumbnail: "https://i.ytimg.com/vi/pW4aPuS2Jg8/maxresdefault.jpg"
 tags: ["Wave of the winter", "XL pipeline", "perfect wave", "john john florence"]
 type: "clips"
+clip_type: "short"
+duration: 39
 ---
 
 <div class="video-embed">

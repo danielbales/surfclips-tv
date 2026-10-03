@@ -6,6 +6,8 @@ video_id: "a9Uv08MVVu8"
 thumbnail: "https://i.ytimg.com/vi/a9Uv08MVVu8/maxresdefault.jpg"
 tags: ["dane reynolds surf", "oaxaca surf"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

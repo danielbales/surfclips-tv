@@ -6,6 +6,8 @@ video_id: "OaLA41xj-cs"
 thumbnail: "https://i.ytimg.com/vi/OaLA41xj-cs/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing sunset beach", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 122
 ---
 
 <div class="video-embed">

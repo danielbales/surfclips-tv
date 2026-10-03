@@ -6,6 +6,8 @@ video_id: "05DT0nSbvWo"
 thumbnail: "https://i.ytimg.com/vi/05DT0nSbvWo/maxresdefault.jpg"
 tags: ["xl surf ocean beach san francisco", "big wave surfing", "waves", "surfline rewind", "good to epic", "perfect surf", "surf video"]
 type: "clips"
+clip_type: "clip"
+duration: 90
 ---
 
 <div class="video-embed">

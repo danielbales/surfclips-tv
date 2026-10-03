@@ -6,6 +6,8 @@ video_id: "yNr-o4Id3XI"
 thumbnail: "https://i.ytimg.com/vi/yNr-o4Id3XI/maxresdefault.jpg"
 tags: ["surfing steamer lane", "surfing california", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "short"
+duration: 6
 ---
 
 <div class="video-embed">

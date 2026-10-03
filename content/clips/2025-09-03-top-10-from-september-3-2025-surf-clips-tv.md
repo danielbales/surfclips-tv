@@ -6,6 +6,8 @@ video_id: "ZYS73X0sqq4"
 thumbnail: "https://i.ytimg.com/vi/ZYS73X0sqq4/sddefault.jpg"
 tags: ["Top 10 Surf", "Nathan Florence", "Ezra Clark", "Ben Gravy", "Nic Von Rupp", "Liquide Surf", "Kyle Buthman", "Kale Brock"]
 type: "clips"
+clip_type: "top10"
+duration: 179
 ---
 
 <div class="video-embed">

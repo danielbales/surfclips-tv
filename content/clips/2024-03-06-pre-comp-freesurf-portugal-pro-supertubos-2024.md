@@ -6,6 +6,8 @@ video_id: "OSJ5bE0Vid4"
 thumbnail: "https://i.ytimg.com/vi/OSJ5bE0Vid4/maxresdefault.jpg"
 tags: ["2024 portugal pro", "surfing supertubos", "unedited surfing", "surf cam", "john florence", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 72
 ---
 
 <div class="video-embed">

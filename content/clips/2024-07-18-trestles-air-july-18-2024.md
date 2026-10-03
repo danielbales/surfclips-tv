@@ -6,6 +6,8 @@ video_id: "oi39iXFRC7M"
 thumbnail: "https://i.ytimg.com/vi/oi39iXFRC7M/maxresdefault.jpg"
 tags: ["surfing california", "surfing lower trestles", "unedited surfing", "surf cam", "raw surfing", "kolohe andino", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 15
 ---
 
 <div class="video-embed">

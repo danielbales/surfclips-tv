@@ -6,6 +6,8 @@ video_id: "D5UcRU7d6oQ"
 thumbnail: "https://i.ytimg.com/vi/D5UcRU7d6oQ/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing rocky point", "unedited surfing", "surf cam", "raw surfing", "john john florence", "mason ho", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 85
 ---
 
 <div class="video-embed">

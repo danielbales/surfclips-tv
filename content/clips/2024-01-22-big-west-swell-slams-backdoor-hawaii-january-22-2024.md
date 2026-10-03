@@ -6,6 +6,8 @@ video_id: "BadRmEmmeHw"
 thumbnail: "https://i.ytimg.com/vi/BadRmEmmeHw/maxresdefault.jpg"
 tags: ["surfing backdoor pipeline", "unedited surfing", "surf cam", "raw surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "clip"
+duration: 70
 ---
 
 <div class="video-embed">

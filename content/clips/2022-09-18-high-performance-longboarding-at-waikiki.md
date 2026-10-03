@@ -6,6 +6,8 @@ video_id: "xn44ezGuuhg"
 thumbnail: "https://i.ytimg.com/vi/xn44ezGuuhg/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing three's waikiki", "unedited surfing", "surf cam", "raw surfing", "longboard surfing", "kelly moniz", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 74
 ---
 
 <div class="video-embed">

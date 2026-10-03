@@ -6,6 +6,8 @@ video_id: "FvR2D8PNy3Y"
 thumbnail: "https://i.ytimg.com/vi/FvR2D8PNy3Y/maxresdefault.jpg"
 tags: ["surfing north shore", "surfing backdoor pipeline", "jamie obrien", "ezekiel lau", "john john florence", "mason ho", "big surf", "ocean", "waves", "surfline rewind"]
 type: "clips"
+clip_type: "clip"
+duration: 100
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "oVI-hHbaWas"
 thumbnail: "https://i.ytimg.com/vi/oVI-hHbaWas/maxresdefault.jpg"
 tags: ["2nd reef pipeline", "xl pipeline", "big wave surfing"]
 type: "clips"
+clip_type: "clip"
+duration: 116
 ---
 
 <div class="video-embed">

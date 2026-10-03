@@ -6,6 +6,8 @@ video_id: "5Ul7DPKTAZs"
 thumbnail: "https://i.ytimg.com/vi/5Ul7DPKTAZs/maxresdefault.jpg"
 tags: ["surfing spain", "surfing mundaka", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

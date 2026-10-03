@@ -6,6 +6,8 @@ video_id: "c6Uf7ItEFZI"
 thumbnail: "https://i.ytimg.com/vi/c6Uf7ItEFZI/maxresdefault.jpg"
 tags: ["surfing hawaiian islands sunset beach pro 2024", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves"]
 type: "clips"
+clip_type: "clip"
+duration: 167
 ---
 
 <div class="video-embed">

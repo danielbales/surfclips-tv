@@ -6,6 +6,8 @@ video_id: "aj-euixryAY"
 thumbnail: "https://i.ytimg.com/vi/aj-euixryAY/maxresdefault.jpg"
 tags: ["surfing mexico", "surfing puerto escondido", "unedited surfing", "surf cam", "raw surfing", "big wave surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 82
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "mbIpWMJgGd0"
 thumbnail: "https://i.ytimg.com/vi/mbIpWMJgGd0/maxresdefault.jpg"
 tags: ["surfing puerto rico", "surfing inches", "unedited surfing", "surf cam", "raw surfing", "REEf break surfing", "caribbean surf", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 55
 ---
 
 <div class="video-embed">

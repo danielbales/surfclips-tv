@@ -6,6 +6,8 @@ video_id: "t2y0e86fRk0"
 thumbnail: "https://i.ytimg.com/vi/t2y0e86fRk0/maxresdefault.jpg"
 tags: ["high performance surfing", "mason ho"]
 type: "clips"
+clip_type: "short"
+duration: 6
 ---
 
 <div class="video-embed">

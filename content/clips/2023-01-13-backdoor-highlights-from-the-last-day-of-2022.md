@@ -6,6 +6,8 @@ video_id: "jr76T8z1R4g"
 thumbnail: "https://i.ytimg.com/vi/jr76T8z1R4g/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing backdoor pipeline", "unedited surfing", "surf cam", "raw surfing", "north shore surf", "joey johnston", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 61
 ---
 
 <div class="video-embed">

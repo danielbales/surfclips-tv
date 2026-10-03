@@ -6,6 +6,8 @@ video_id: "ei1J5babXMI"
 thumbnail: "https://i.ytimg.com/vi/ei1J5babXMI/sddefault.jpg"
 tags: ["Top 10 Surf", "Sammy Lowe", "Zeke Lau", "DB Films", "Jon Aspuru", "Soli Bailey"]
 type: "clips"
+clip_type: "top10"
+duration: 199
 ---
 
 <div class="video-embed">

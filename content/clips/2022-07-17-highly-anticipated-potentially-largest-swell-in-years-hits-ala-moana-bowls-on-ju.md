@@ -6,6 +6,8 @@ video_id: "xYMbV0gqIDA"
 thumbnail: "https://i.ytimg.com/vi/xYMbV0gqIDA/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing ala moana bowls", "unedited surfing", "surf cam", "raw surfing", "south shore surf", "ezekiel lau", "mason ho", "flynn novak", "jamie sterling"]
 type: "clips"
+clip_type: "clip"
+duration: 238
 ---
 
 <div class="video-embed">

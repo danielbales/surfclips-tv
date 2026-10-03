@@ -6,6 +6,8 @@ video_id: "oOYH_wazHdw"
 thumbnail: "https://i.ytimg.com/vi/oOYH_wazHdw/maxresdefault.jpg"
 tags: ["ian crane africa", "perfect wave"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

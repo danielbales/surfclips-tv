@@ -6,6 +6,8 @@ video_id: "bw5jk_S7Z9Y"
 thumbnail: "https://i.ytimg.com/vi/bw5jk_S7Z9Y/maxresdefault.jpg"
 tags: ["surfing snapper rocks", "surfing 2022 gold coast pro", "unedited surfing", "surf cam", "raw surfing", "kelly slater cam richards", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 65
 ---
 
 <div class="video-embed">

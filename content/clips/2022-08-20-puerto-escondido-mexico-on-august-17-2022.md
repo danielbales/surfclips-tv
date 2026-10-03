@@ -6,6 +6,8 @@ video_id: "ohii9-deSO0"
 thumbnail: "https://i.ytimg.com/vi/ohii9-deSO0/maxresdefault.jpg"
 tags: ["surfing mexico", "surfing puerto escondido", "unedited surfing", "surf cam", "raw surfing", "big wave surfing", "coco nogales", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 71
 ---
 
 <div class="video-embed">

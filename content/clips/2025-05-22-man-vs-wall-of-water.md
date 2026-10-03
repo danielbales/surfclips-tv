@@ -6,6 +6,8 @@ video_id: "EYrLbtdyjtU"
 thumbnail: "https://i.ytimg.com/vi/EYrLbtdyjtU/maxresdefault.jpg"
 tags: ["xl surf", "teahupoo surf", "surf wipeout"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

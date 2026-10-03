@@ -6,6 +6,8 @@ video_id: "zrQvs6plrrE"
 thumbnail: "https://i.ytimg.com/vi/zrQvs6plrrE/maxresdefault.jpg"
 tags: ["surfing california", "surfing steamer lane", "unedited surfing", "surf cam", "raw surfing", "POINT break surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 79
 ---
 
 <div class="video-embed">

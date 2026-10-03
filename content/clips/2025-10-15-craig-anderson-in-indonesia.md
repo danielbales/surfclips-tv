@@ -3,9 +3,11 @@ title: "Craig Anderson in Indonesia"
 date: 2025-10-15T04:53:59Z
 draft: false
 video_id: "PHtUQyA_ISI"
-thumbnail: "https://i9.ytimg.com/vi/PHtUQyA_ISI/maxresdefault.jpg?sqp=CKjRgdYG&rs=AOn4CLBKAC_7IMcUygbkl5Pat0Wpu3lU3g"
+thumbnail: "https://i9.ytimg.com/vi/PHtUQyA_ISI/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLBYl7DPc1vLK0YhmwICunPKjGMyZA"
 tags: ["Top 10 Surf", "craig anderon surfing"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

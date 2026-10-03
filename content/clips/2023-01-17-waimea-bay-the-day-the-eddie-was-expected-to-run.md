@@ -6,6 +6,8 @@ video_id: "p1QVpZ91bCA"
 thumbnail: "https://i.ytimg.com/vi/p1QVpZ91bCA/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing waimea bay", "unedited surfing", "surf cam", "raw surfing", "The eddie aikau invitational", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 78
 ---
 
 <div class="video-embed">

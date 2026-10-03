@@ -6,6 +6,8 @@ video_id: "xcr6mX6Q-sQ"
 thumbnail: "https://i.ytimg.com/vi/xcr6mX6Q-sQ/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing pipeline", "unedited surfing", "surf cam", "raw surfing", "north shore sure", "jamie o brien", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 37
 ---
 
 <div class="video-embed">

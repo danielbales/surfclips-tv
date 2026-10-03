@@ -6,6 +6,8 @@ video_id: "Hm1ZhBekLb4"
 thumbnail: "https://i.ytimg.com/vi/Hm1ZhBekLb4/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing kewalos", "unedited surfing", "surf cam", "raw surfing", "south shore surf", "ezekiel lau", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 6
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "I5rFyYZlfZ0"
 thumbnail: "https://i.ytimg.com/vi/I5rFyYZlfZ0/maxresdefault.jpg"
 tags: ["surfing indonesia", "surfing SPOT NAME", "unedited surfing", "surf cam", "raw surfing", "REEF OR POINT OR BEACH break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 94
 ---
 
 <div class="video-embed">

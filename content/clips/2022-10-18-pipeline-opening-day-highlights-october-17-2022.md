@@ -6,6 +6,8 @@ video_id: "FgA3O4VLD68"
 thumbnail: "https://i.ytimg.com/vi/FgA3O4VLD68/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing pipeline", "unedited surfing", "surf cam", "raw surfing", "north shore surf", "john john florence", "mason ho", "jamie obrien", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 120
 ---
 
 <div class="video-embed">

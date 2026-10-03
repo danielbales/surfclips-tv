@@ -6,6 +6,8 @@ video_id: "VehpoDC5d-g"
 thumbnail: "https://i.ytimg.com/vi/VehpoDC5d-g/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing backdoor", "unedited surfing", "surf cam", "raw surfing", "michael ho", "big surf", "ocean", "waves", "good to epic"]
 type: "clips"
+clip_type: "short"
+duration: 15
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "f9U5naE2Roo"
 thumbnail: "https://i.ytimg.com/vi/f9U5naE2Roo/maxresdefault.jpg"
 tags: ["surfing africa", "surfing safi morocco", "unedited surfing", "surf cam", "raw surfing", "pOINT break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 64
 ---
 
 <div class="video-embed">

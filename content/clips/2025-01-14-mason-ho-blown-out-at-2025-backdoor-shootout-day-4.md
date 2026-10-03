@@ -6,6 +6,8 @@ video_id: "dGMqmz695wU"
 thumbnail: "https://i.ytimg.com/vi/dGMqmz695wU/maxresdefault.jpg"
 tags: ["2025 backdoor shootout", "mason ho", "snapt 5"]
 type: "clips"
+clip_type: "short"
+duration: 48
 ---
 
 <div class="video-embed">

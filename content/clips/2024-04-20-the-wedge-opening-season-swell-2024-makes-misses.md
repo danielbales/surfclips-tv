@@ -6,6 +6,8 @@ video_id: "fzLNqIzCD7Y"
 thumbnail: "https://i.ytimg.com/vi/fzLNqIzCD7Y/maxresdefault.jpg"
 tags: ["surfing wedge opening day", "surf cam", "raw surfing", "koa smith", "brad domke", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "clip"
+duration: 82
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "kdPIeRfaL5g"
 thumbnail: "https://i.ytimg.com/vi/kdPIeRfaL5g/maxresdefault.jpg"
 tags: ["surfing snapper rocks", "unedited surfing", "surf cam", "raw surfing", "gold coast surf", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 71
 ---
 
 <div class="video-embed">

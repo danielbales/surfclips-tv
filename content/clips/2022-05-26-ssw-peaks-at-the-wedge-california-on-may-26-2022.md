@@ -6,6 +6,8 @@ video_id: "dcRlUo-1_Og"
 thumbnail: "https://i.ytimg.com/vi/dcRlUo-1_Og/maxresdefault.jpg"
 tags: ["surfing california", "surfing the wedge", "unedited surfing", "surf cam", "raw surfing", "novelty surfing", "jamie o'brien", "koa rothman", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 63
 ---
 
 <div class="video-embed">

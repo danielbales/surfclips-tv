@@ -6,6 +6,8 @@ video_id: "ukhWtJoefKA"
 thumbnail: "https://i.ytimg.com/vi/ukhWtJoefKA/maxresdefault.jpg"
 tags: ["lexus 2024 pipe pro", "unedited surfing", "surf cam", "raw surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "short"
+duration: 45
 ---
 
 <div class="video-embed">

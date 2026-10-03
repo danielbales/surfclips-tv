@@ -6,6 +6,8 @@ video_id: "LDTbQFzQwTk"
 thumbnail: "https://i.ytimg.com/vi/LDTbQFzQwTk/maxresdefault.jpg"
 tags: ["nic von rupp", "mollys surf ireland", "xl surf"]
 type: "clips"
+clip_type: "short"
+duration: 11
 ---
 
 <div class="video-embed">

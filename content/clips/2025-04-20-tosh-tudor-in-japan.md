@@ -6,6 +6,8 @@ video_id: "nIcxd0H4pXw"
 thumbnail: "https://i.ytimg.com/vi/nIcxd0H4pXw/maxresdefault.jpg"
 tags: ["japan surf", "tosh tudor"]
 type: "clips"
+clip_type: "short"
+duration: 6
 ---
 
 <div class="video-embed">

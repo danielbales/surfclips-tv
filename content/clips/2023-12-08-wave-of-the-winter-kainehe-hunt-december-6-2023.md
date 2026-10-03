@@ -6,6 +6,8 @@ video_id: "W31ceozg7co"
 thumbnail: "https://i.ytimg.com/vi/W31ceozg7co/maxresdefault.jpg"
 tags: ["kainehe hunt", "wave of the winter", "unedited surfing", "surf cam", "raw surfing", "backdoor surf", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 88
 ---
 
 <div class="video-embed">

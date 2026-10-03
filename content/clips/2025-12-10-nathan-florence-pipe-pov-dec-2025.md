@@ -6,6 +6,8 @@ video_id: "7sEfJBOENwo"
 thumbnail: "https://i.ytimg.com/vi/7sEfJBOENwo/maxresdefault.jpg"
 tags: ["Top 10 Surf", "perfect wave", "nathan florence", "pipeline pov"]
 type: "clips"
+clip_type: "short"
+duration: 16
 ---
 
 <div class="video-embed">

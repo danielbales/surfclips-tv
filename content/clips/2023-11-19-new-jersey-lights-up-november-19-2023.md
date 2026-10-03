@@ -6,6 +6,8 @@ video_id: "Pamf4oMwRRI"
 thumbnail: "https://i.ytimg.com/vi/Pamf4oMwRRI/maxresdefault.jpg"
 tags: ["surfing new jersey", "unedited surfing", "surf cam", "raw surfing", "ben gravy", "balaram stack", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "clip"
+duration: 121
 ---
 
 <div class="video-embed">

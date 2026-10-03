@@ -6,6 +6,8 @@ video_id: "ntMRfmn8vrM"
 thumbnail: "https://i.ytimg.com/vi/ntMRfmn8vrM/maxresdefault.jpg"
 tags: ["surfing backdoor pipeline", "surf hawaii", "unedited surfing", "raw surfing", "north shore surf", "perfect wave", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 37
 ---
 
 <div class="video-embed">

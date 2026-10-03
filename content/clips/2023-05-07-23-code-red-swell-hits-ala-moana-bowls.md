@@ -6,6 +6,8 @@ video_id: "W-_h-jJvu58"
 thumbnail: "https://i.ytimg.com/vi/W-_h-jJvu58/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing ala moana bowls", "code red surf", "surf cam", "raw surfing", "south shore waikiki surf", "mason ho", "ezekiel lau", "josh moniz", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 75
 ---
 
 <div class="video-embed">

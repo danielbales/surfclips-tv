@@ -6,6 +6,8 @@ video_id: "29lZsgNna20"
 thumbnail: "https://i.ytimg.com/vi/29lZsgNna20/maxresdefault.jpg"
 tags: ["surfing portugal", "surfing 2022 meo portugal pro supertubos", "unedited surfing", "surf cam", "raw surfing", "griffin colapinto", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 51
 ---
 
 <div class="video-embed">

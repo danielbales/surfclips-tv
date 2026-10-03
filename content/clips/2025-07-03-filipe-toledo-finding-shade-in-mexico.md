@@ -6,6 +6,8 @@ video_id: "9PlQV42JiBo"
 thumbnail: "https://i.ytimg.com/vi/9PlQV42JiBo/maxresdefault.jpg"
 tags: ["Top 10 Surf", "filipe toledo", "mexico surf"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

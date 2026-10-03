@@ -6,6 +6,8 @@ video_id: "ynvitBLqd9I"
 thumbnail: "https://i.ytimg.com/vi/ynvitBLqd9I/maxresdefault.jpg"
 tags: ["surfing australia", "surfing snapper rocks", "unedited surfing", "surf cam", "raw surfing", "point break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 143
 ---
 
 <div class="video-embed">

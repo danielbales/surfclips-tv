@@ -6,6 +6,8 @@ video_id: "mB8gKYIWHd0"
 thumbnail: "https://i.ytimg.com/vi/mB8gKYIWHd0/maxresdefault.jpg"
 tags: ["Top 10 Surf", "jordy smith", "ballito surf"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

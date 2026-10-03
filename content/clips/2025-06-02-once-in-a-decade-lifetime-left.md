@@ -6,6 +6,8 @@ video_id: "A4b4jggd9pg"
 thumbnail: "https://i.ytimg.com/vi/A4b4jggd9pg/maxresdefault.jpg"
 tags: ["chile surfing"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

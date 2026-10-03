@@ -6,6 +6,8 @@ video_id: "ExvzQxBdPfs"
 thumbnail: "https://i.ytimg.com/vi/ExvzQxBdPfs/maxresdefault.jpg"
 tags: ["surfing africa", "surfing Jeffrey's bay", "unedited surfing", "surf cam", "raw surfing", "jordy smith", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 73
 ---
 
 <div class="video-embed">

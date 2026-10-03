@@ -6,6 +6,8 @@ video_id: "1ldX1R9o9Xo"
 thumbnail: "https://i.ytimg.com/vi/1ldX1R9o9Xo/maxresdefault.jpg"
 tags: ["baron mamiya", "backdoor surf"]
 type: "clips"
+clip_type: "short"
+duration: 11
 ---
 
 <div class="video-embed">

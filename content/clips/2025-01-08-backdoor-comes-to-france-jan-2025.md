@@ -6,6 +6,8 @@ video_id: "i-TKnepPezo"
 thumbnail: "https://i.ytimg.com/vi/i-TKnepPezo/maxresdefault.jpg"
 tags: ["perfect surf", "hossegor", "france surf", "europe surf", "charyl quiv"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

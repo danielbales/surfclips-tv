@@ -6,6 +6,8 @@ video_id: "5N9S_az0XgE"
 thumbnail: "https://i.ytimg.com/vi/5N9S_az0XgE/maxresdefault.jpg"
 tags: ["wilbur kookmeyer", "surf humor", "surf wipeout"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

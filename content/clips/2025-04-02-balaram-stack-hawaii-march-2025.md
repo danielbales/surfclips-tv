@@ -6,6 +6,8 @@ video_id: "qGJG03nYNtM"
 thumbnail: "https://i.ytimg.com/vi/qGJG03nYNtM/maxresdefault.jpg"
 tags: ["pipeline surf", "balaram stack"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

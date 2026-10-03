@@ -6,6 +6,8 @@ video_id: "WzT9_XFpR8U"
 thumbnail: "https://i.ytimg.com/vi/WzT9_XFpR8U/maxresdefault.jpg"
 tags: ["surfing florida", "surfing new smyrna beach", "unedited surfing", "surf cam", "raw surfing", "tropical storm earl", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 66
 ---
 
 <div class="video-embed">

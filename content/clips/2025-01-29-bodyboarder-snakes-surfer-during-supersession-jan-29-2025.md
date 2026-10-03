@@ -6,6 +6,8 @@ video_id: "UO6lPKMLjjU"
 thumbnail: "https://i.ytimg.com/vi/UO6lPKMLjjU/maxresdefault.jpg"
 tags: ["morocco surf", "perfect surf", "bodyboarding"]
 type: "clips"
+clip_type: "short"
+duration: 14
 ---
 
 <div class="video-embed">

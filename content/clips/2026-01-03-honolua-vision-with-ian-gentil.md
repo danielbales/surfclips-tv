@@ -6,6 +6,8 @@ video_id: "bvZ8Kua5poM"
 thumbnail: "https://i.ytimg.com/vi/bvZ8Kua5poM/maxresdefault.jpg"
 tags: ["Top 10 Surf", "perfect wave", "ian gentil", "honolua bay"]
 type: "clips"
+clip_type: "short"
+duration: 13
 ---
 
 <div class="video-embed">

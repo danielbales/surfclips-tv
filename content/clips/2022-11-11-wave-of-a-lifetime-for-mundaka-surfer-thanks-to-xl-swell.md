@@ -6,6 +6,8 @@ video_id: "kFAf_74UpWk"
 thumbnail: "https://i.ytimg.com/vi/kFAf_74UpWk/maxresdefault.jpg"
 tags: ["surfing spain", "surfing xl mundaka", "unedited surfing", "surf cam", "raw surfing", "perfect barrel", "aritz aramburu", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 61
 ---
 
 <div class="video-embed">

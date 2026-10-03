@@ -6,6 +6,8 @@ video_id: "r0jPTih7MW0"
 thumbnail: "https://i.ytimg.com/vi/r0jPTih7MW0/maxresdefault.jpg"
 tags: ["makua Rothman", "backdoor shootout", "pipeline", "Hawaii surf"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

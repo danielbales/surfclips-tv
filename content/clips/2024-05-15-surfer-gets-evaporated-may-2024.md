@@ -6,6 +6,8 @@ video_id: "2tasuOKZsgo"
 thumbnail: "https://i.ytimg.com/vi/2tasuOKZsgo/maxresdefault.jpg"
 tags: ["tahiti surf", "surfing teahupoo", "xl surf", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves", "surfline rewind"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

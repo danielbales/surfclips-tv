@@ -6,6 +6,8 @@ video_id: "aK3emQzbSGA"
 thumbnail: "https://i.ytimg.com/vi/aK3emQzbSGA/maxresdefault.jpg"
 tags: ["surfing rocky point", "unedited surfing", "surf cam", "raw surfing", "2023 pipeline masters", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "clip"
+duration: 82
 ---
 
 <div class="video-embed">

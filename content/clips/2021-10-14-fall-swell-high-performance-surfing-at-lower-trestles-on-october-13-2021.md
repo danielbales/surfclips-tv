@@ -6,6 +6,8 @@ video_id: "Vpe4RWyWkNg"
 thumbnail: "https://i.ytimg.com/vi/Vpe4RWyWkNg/maxresdefault.jpg"
 tags: ["surfing california", "surfing trestles", "unedited surfing", "san clemente surf", "relaxing ocean", "raw surfing", "REEF break surfing", "kelly slater", "sleep music", "mental health"]
 type: "clips"
+clip_type: "clip"
+duration: 157
 ---
 
 <div class="video-embed">

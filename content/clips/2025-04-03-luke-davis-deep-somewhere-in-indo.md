@@ -6,6 +6,8 @@ video_id: "YNce2wfgTy0"
 thumbnail: "https://i.ytimg.com/vi/YNce2wfgTy0/maxresdefault.jpg"
 tags: ["perfect waves", "luke davis"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

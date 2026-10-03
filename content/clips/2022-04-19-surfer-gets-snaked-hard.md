@@ -6,6 +6,8 @@ video_id: "HCZqtfg6bU8"
 thumbnail: "https://i.ytimg.com/vi/HCZqtfg6bU8/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing kaisers", "unedited surfing", "surf cam", "raw surfing", "surfer steals wave", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 14
 ---
 
 <div class="video-embed">

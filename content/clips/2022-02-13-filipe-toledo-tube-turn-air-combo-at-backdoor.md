@@ -6,6 +6,8 @@ video_id: "o2TM5ZOXbXA"
 thumbnail: "https://i.ytimg.com/vi/o2TM5ZOXbXA/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing backdoor", "unedited surfing", "surf cam", "raw surfing", "filipe toledo", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 70
 ---
 
 <div class="video-embed">

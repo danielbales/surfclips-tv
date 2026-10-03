@@ -6,6 +6,8 @@ video_id: "_m3pIh6gcaE"
 thumbnail: "https://i.ytimg.com/vi/_m3pIh6gcaE/maxresdefault.jpg"
 tags: ["surfing new zealand", "surfing raglan manu bay", "unedited surfing", "surf cam", "raw surfing", "POINT break surfing", "billy stairmand", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 107
 ---
 
 <div class="video-embed">

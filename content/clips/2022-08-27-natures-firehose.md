@@ -6,6 +6,8 @@ video_id: "rz1utfESBWI"
 thumbnail: "https://i.ytimg.com/vi/rz1utfESBWI/maxresdefault.jpg"
 tags: ["surfing mexico", "surfing puerto escondido", "unedited surfing", "surf cam", "raw surfing", "big wave surfing", "coco nogales", "nate florence", "xl surf", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

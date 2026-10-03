@@ -6,6 +6,8 @@ video_id: "qx-L0DBGBxA"
 thumbnail: "https://i.ytimg.com/vi/qx-L0DBGBxA/maxresdefault.jpg"
 tags: ["surfing lower trestles", "surfing san clemente", "unedited surfing", "surf cam", "raw surfing", "john john florence", "italo ferreira", "griffin colapinto", "big surf", "ocean"]
 type: "clips"
+clip_type: "clip"
+duration: 127
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "eRViqo3K34Y"
 thumbnail: "https://i.ytimg.com/vi/eRViqo3K34Y/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing backdoor pipeline", "unedited surfing", "surf cam", "raw surfing", "north shore sure", "john john florence", "mason ho", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 63
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "ZlWztPCyPdo"
 thumbnail: "https://i.ytimg.com/vi/ZlWztPCyPdo/maxresdefault.jpg"
 tags: ["steamer lane", "Santa Cruz"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

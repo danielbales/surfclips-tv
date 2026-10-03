@@ -6,6 +6,8 @@ video_id: "Ul-iGC5ypGU"
 thumbnail: "https://i.ytimg.com/vi/Ul-iGC5ypGU/maxresdefault.jpg"
 tags: ["surfing spain", "surfing mundaka", "unedited surfing", "surf cam", "raw surfing", "POINT break surfing", "aritz aramburu", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 102
 ---
 
 <div class="video-embed">

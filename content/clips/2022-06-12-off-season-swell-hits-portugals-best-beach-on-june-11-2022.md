@@ -6,6 +6,8 @@ video_id: "7SrdjccRZKo"
 thumbnail: "https://i.ytimg.com/vi/7SrdjccRZKo/maxresdefault.jpg"
 tags: ["surfing portugal", "surfing supertubos", "unedited surfing", "surf cam", "raw surfing", "BEACH break surfing", "vasco ribeiro", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 62
 ---
 
 <div class="video-embed">

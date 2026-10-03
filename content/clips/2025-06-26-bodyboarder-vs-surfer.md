@@ -6,6 +6,8 @@ video_id: "1VLYJZcksBw"
 thumbnail: "https://i.ytimg.com/vi/1VLYJZcksBw/maxresdefault.jpg"
 tags: ["Top 10 surf", "perfect wave", "surf wipeout"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "Qf2lI1eMXas"
 thumbnail: "https://i.ytimg.com/vi/Qf2lI1eMXas/maxresdefault.jpg"
 tags: ["surfing backdoor shootout 2022", "surfing pipeline mason ho", "unedited surfing", "surf cam", "raw surfing", "REEF OR POINT OR BEACH break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 47
 ---
 
 <div class="video-embed">

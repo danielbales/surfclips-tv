@@ -6,6 +6,8 @@ video_id: "0wUPCfZ7ubU"
 thumbnail: "https://i.ytimg.com/vi/0wUPCfZ7ubU/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing pipeline oahu", "unedited surfing", "surf cam", "raw surfing", "north shore surf", "john john florence", "mason ho", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 90
 ---
 
 <div class="video-embed">

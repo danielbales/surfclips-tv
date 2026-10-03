@@ -3,9 +3,11 @@ title: "Brian Conley in Mexico"
 date: 2025-08-25T03:27:12Z
 draft: false
 video_id: "W2LGnY0GN7I"
-thumbnail: "https://i9.ytimg.com/vi/W2LGnY0GN7I/maxresdefault.jpg?sqp=CKjRgdYG&rs=AOn4CLCHhO5DsjUFAG-aIz3rRoGvevRJHw"
+thumbnail: "https://i9.ytimg.com/vi/W2LGnY0GN7I/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLArOBSArJQqpjUd2fwpSeyM0KHsaw"
 tags: ["Top 10 Surf", "perfect surf", "brian conley", "pascuales"]
 type: "clips"
+clip_type: "short"
+duration: 11
 ---
 
 <div class="video-embed">

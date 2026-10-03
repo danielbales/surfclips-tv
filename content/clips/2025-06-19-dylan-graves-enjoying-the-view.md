@@ -6,6 +6,8 @@ video_id: "6Tluh0JiZ44"
 thumbnail: "https://i.ytimg.com/vi/6Tluh0JiZ44/maxresdefault.jpg"
 tags: ["Top 10 surf", "perfect wave", "dylan graves", "africa surf"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

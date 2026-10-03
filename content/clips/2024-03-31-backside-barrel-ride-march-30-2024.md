@@ -6,6 +6,8 @@ video_id: "sL-p1wvLoQQ"
 thumbnail: "https://i.ytimg.com/vi/sL-p1wvLoQQ/maxresdefault.jpg"
 tags: ["surfing caribbean", "surfing soup bowl", "unedited surfing", "surf cam", "raw surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

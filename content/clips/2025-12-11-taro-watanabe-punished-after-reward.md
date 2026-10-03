@@ -6,6 +6,8 @@ video_id: "hzeSmoSt99o"
 thumbnail: "https://i.ytimg.com/vi/hzeSmoSt99o/maxresdefault.jpg"
 tags: ["Top 10 Surf", "perfect wave", "taro watanabe"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "vVSri1XdlJo"
 thumbnail: "https://i.ytimg.com/vi/vVSri1XdlJo/maxresdefault.jpg"
 tags: ["steamer lane surf", "santa cruz surf", "perfect waves"]
 type: "clips"
+clip_type: "short"
+duration: 11
 ---
 
 <div class="video-embed">

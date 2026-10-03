@@ -6,6 +6,8 @@ video_id: "kC-b9HzJ1O4"
 thumbnail: "https://i.ytimg.com/vi/kC-b9HzJ1O4/maxresdefault.jpg"
 tags: ["surfing portugal", "surfing supertubos", "john john florence", "surf cam", "raw surfing", "2023 supertubos pro", "kelly slater", "italo ferreira", "kolohe andino", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 82
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "zGCn-JCnMhA"
 thumbnail: "https://i.ytimg.com/vi/zGCn-JCnMhA/maxresdefault.jpg"
 tags: ["surfing california", "surfing steamer lane", "unedited surfing", "surf cam", "raw surfing", "POINT break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 123
 ---
 
 <div class="video-embed">

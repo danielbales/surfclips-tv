@@ -6,6 +6,8 @@ video_id: "VwaBxF3oVOM"
 thumbnail: "https://i.ytimg.com/vi/VwaBxF3oVOM/maxresdefault.jpg"
 tags: ["Top 10 Surf", "perfect wave", "noa deane"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "GxdLLBLzzDU"
 thumbnail: "https://i.ytimg.com/vi/GxdLLBLzzDU/maxresdefault.jpg"
 tags: ["perfect wave", "koa smith", "tavarua surf", "cloudbreak surf"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

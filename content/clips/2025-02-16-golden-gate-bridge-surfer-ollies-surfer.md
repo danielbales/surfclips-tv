@@ -6,6 +6,8 @@ video_id: "jLFh6z7nU7w"
 thumbnail: "https://i.ytimg.com/vi/jLFh6z7nU7w/maxresdefault.jpg"
 tags: ["fort point surf", "san francisco surf", "surf wipeout"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

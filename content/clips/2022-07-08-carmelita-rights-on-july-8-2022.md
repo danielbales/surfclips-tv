@@ -6,6 +6,8 @@ video_id: "ziA-Tr4AU0w"
 thumbnail: "https://i.ytimg.com/vi/ziA-Tr4AU0w/maxresdefault.jpg"
 tags: ["surfing mexico", "surfing puerto escondido", "unedited surfing", "surf cam", "raw surfing", "BEACH break surfing", "playa zicatela", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 50
 ---
 
 <div class="video-embed">

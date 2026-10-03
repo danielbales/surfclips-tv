@@ -6,6 +6,8 @@ video_id: "JhXn7FxY3nw"
 thumbnail: "https://i.ytimg.com/vi/JhXn7FxY3nw/maxresdefault.jpg"
 tags: ["surfing australia", "surfing gold coast", "unedited surfing", "surf cam", "raw surfing", "POINT break surfing", "joel parkinson", "mick fanning", "surfing kirra", "surfing snapper rocks"]
 type: "clips"
+clip_type: "clip"
+duration: 64
 ---
 
 <div class="video-embed">

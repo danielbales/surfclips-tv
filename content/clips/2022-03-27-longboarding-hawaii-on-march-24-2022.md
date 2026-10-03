@@ -6,6 +6,8 @@ video_id: "pUhqU0Ev7yw"
 thumbnail: "https://i.ytimg.com/vi/pUhqU0Ev7yw/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing three's south shore oahu", "unedited surfing", "surf cam", "raw surfing", "Longboard surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 87
 ---
 
 <div class="video-embed">

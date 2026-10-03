@@ -6,6 +6,8 @@ video_id: "e50pIcXlDJc"
 thumbnail: "https://i.ytimg.com/vi/e50pIcXlDJc/maxresdefault.jpg"
 tags: ["mark healey wipeout", "ian walsh big wave", "2024 eddie aikau", "surf wipeout", "eardrum damage"]
 type: "clips"
+clip_type: "short"
+duration: 36
 ---
 
 <div class="video-embed">

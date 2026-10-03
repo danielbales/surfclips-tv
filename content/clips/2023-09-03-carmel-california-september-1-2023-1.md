@@ -3,9 +3,11 @@ title: "Carmel, California   September 1, 2023 1"
 date: 2023-09-03T23:19:14Z
 draft: false
 video_id: "A_RcAWOCqEQ"
-thumbnail: "https://i9.ytimg.com/vi/A_RcAWOCqEQ/maxresdefault.jpg?sqp=CKjRgdYG&rs=AOn4CLCKDDqhQqeVKNL5JFgWgOGJnf6FtA"
+thumbnail: "https://i9.ytimg.com/vi/A_RcAWOCqEQ/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLAY9M0OFDrTkOrbwBwSjQAhuJwS0A"
 tags: ["surfing COUNTRY", "surfing SPOT NAME", "unedited surfing", "surf cam", "raw surfing", "REEF OR POINT OR BEACH break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 12
 ---
 
 <div class="video-embed">

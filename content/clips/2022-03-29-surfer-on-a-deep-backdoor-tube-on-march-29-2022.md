@@ -6,6 +6,8 @@ video_id: "SIq3aJDiODY"
 thumbnail: "https://i.ytimg.com/vi/SIq3aJDiODY/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing backdoor pipeline", "unedited surfing", "surf cam", "raw surfing", "north shore surfing", "jack robinson", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 52
 ---
 
 <div class="video-embed">

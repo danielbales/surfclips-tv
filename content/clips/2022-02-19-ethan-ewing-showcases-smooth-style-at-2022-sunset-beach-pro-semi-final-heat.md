@@ -6,6 +6,8 @@ video_id: "rsRDc3n3ZpI"
 thumbnail: "https://i.ytimg.com/vi/rsRDc3n3ZpI/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing sunset beach", "unedited surfing", "surf cam", "raw surfing", "2-022 Sunset beach pro surf", "ethan ewing", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 64
 ---
 
 <div class="video-embed">

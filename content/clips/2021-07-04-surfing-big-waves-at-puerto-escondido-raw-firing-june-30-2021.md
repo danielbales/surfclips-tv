@@ -6,6 +6,8 @@ video_id: "Cw8c5Auesds"
 thumbnail: "https://i.ytimg.com/vi/Cw8c5Auesds/maxresdefault.jpg"
 tags: ["surfing big waves", "surfing puerto escondido", "oaxaca surf", "kelly slater", "surfing mexico", "perfect waves", "surfer", "summer surf", "surfing", "waves"]
 type: "clips"
+clip_type: "clip"
+duration: 251
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "Y3uYcQjUB8w"
 thumbnail: "https://i.ytimg.com/vi/Y3uYcQjUB8w/maxresdefault.jpg"
 tags: ["surfing puerto rico", "surfing maria's puerto rico", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 65
 ---
 
 <div class="video-embed">

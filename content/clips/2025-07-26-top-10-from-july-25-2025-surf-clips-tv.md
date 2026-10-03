@@ -6,6 +6,8 @@ video_id: "Se1uFpJ6hbs"
 thumbnail: "https://i.ytimg.com/vi/Se1uFpJ6hbs/sddefault.jpg"
 tags: ["Top 10 Surf", "Mason Ho", "Snapt", "William Aliotti", "Surfers of Bali", "Sheldon Simkus", "Cam Richards", "Kyllian Guerin", "Ezra Clark", "Maddix Alotis"]
 type: "clips"
+clip_type: "top10"
+duration: 207
 ---
 
 <div class="video-embed">

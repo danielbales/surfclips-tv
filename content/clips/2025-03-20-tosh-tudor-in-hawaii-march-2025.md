@@ -6,6 +6,8 @@ video_id: "sQcLyWjvhss"
 thumbnail: "https://i.ytimg.com/vi/sQcLyWjvhss/maxresdefault.jpg"
 tags: ["tosh tudor", "bonzai pipeline"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "wHw4ZOC3sS8"
 thumbnail: "https://i.ytimg.com/vi/wHw4ZOC3sS8/maxresdefault.jpg"
 tags: ["surfing indonesia", "surfing bingin", "unedited surfing", "ocean sounds", "relaxing ocean", "raw surfing", "REEF break surfing", "kelly slater", "ocean meditation", "mental health"]
 type: "clips"
+clip_type: "clip"
+duration: 76
 ---
 
 <div class="video-embed">

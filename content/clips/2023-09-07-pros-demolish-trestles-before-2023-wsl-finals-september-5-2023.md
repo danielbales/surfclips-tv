@@ -6,6 +6,8 @@ video_id: "Bm6BQF0EteI"
 thumbnail: "https://i.ytimg.com/vi/Bm6BQF0EteI/maxresdefault.jpg"
 tags: ["surfing 2023 wsl finals trestles", "surfing trestles", "griffin colapinto", "filipe toledo", "yago dora", "jack robinson", "kelly slater", "john john florence", "ethan ewing", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 108
 ---
 
 <div class="video-embed">

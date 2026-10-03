@@ -3,9 +3,11 @@ title: "Empty Indonesia perfection"
 date: 2025-10-26T23:03:11Z
 draft: false
 video_id: "RWUsGpzwYCo"
-thumbnail: "https://i9.ytimg.com/vi/RWUsGpzwYCo/maxresdefault.jpg?sqp=CKjRgdYG&rs=AOn4CLDNtdXe-EAGRf8mx8A8t6Jlrl2zRw"
+thumbnail: "https://i9.ytimg.com/vi/RWUsGpzwYCo/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLCczKNHvDFH6B8XYty-ZUUtVa-3OQ"
 tags: ["Top 10 Surf", "gabriel villaran"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

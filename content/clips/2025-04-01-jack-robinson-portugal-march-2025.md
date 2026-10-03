@@ -6,6 +6,8 @@ video_id: "pbVpqejmQI8"
 thumbnail: "https://i.ytimg.com/vi/pbVpqejmQI8/maxresdefault.jpg"
 tags: ["jack robinson surf"]
 type: "clips"
+clip_type: "short"
+duration: 11
 ---
 
 <div class="video-embed">

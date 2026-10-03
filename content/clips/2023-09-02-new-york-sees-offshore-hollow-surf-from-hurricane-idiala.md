@@ -6,6 +6,8 @@ video_id: "HdO9QkYlWto"
 thumbnail: "https://i.ytimg.com/vi/HdO9QkYlWto/maxresdefault.jpg"
 tags: ["surfing hurricane idiala", "surfing hurricane franklin", "lido beach surf", "new york surf", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "short"
+duration: 40
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "_cojB_EHf3s"
 thumbnail: "https://i.ytimg.com/vi/_cojB_EHf3s/maxresdefault.jpg"
 tags: ["Top 10 Surf", "nat young san francisco ocean beach"]
 type: "clips"
+clip_type: "short"
+duration: 17
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "P3dno8YWT3k"
 thumbnail: "https://i.ytimg.com/vi/P3dno8YWT3k/maxresdefault.jpg"
 tags: ["surfing california", "surfing mavericks", "unedited surfing", "surf cam", "raw surfing", "big wave surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 68
 ---
 
 <div class="video-embed">

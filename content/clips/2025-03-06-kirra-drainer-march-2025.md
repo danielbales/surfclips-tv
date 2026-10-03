@@ -6,6 +6,8 @@ video_id: "GH6i2Ceha64"
 thumbnail: "https://i.ytimg.com/vi/GH6i2Ceha64/maxresdefault.jpg"
 tags: ["Tropical Cyclone Alfred", "kirra australia", "perfect waves"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

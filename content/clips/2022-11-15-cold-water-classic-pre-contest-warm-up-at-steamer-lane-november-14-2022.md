@@ -6,6 +6,8 @@ video_id: "D1atQdAX4mM"
 thumbnail: "https://i.ytimg.com/vi/D1atQdAX4mM/maxresdefault.jpg"
 tags: ["surfing santa cruz", "surfing cold water classic 2022", "unedited surfing", "surf cam", "raw surfing", "POInt break surfing", "torrey meister", "kolohe andino", "nat young", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 155
 ---
 
 <div class="video-embed">

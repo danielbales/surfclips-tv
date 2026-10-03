@@ -6,6 +6,8 @@ video_id: "k7_jowD2J68"
 thumbnail: "https://i.ytimg.com/vi/k7_jowD2J68/maxresdefault.jpg"
 tags: ["surfing portugal", "surfing pedra branca", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 145
 ---
 
 <div class="video-embed">

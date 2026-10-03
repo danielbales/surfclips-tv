@@ -6,6 +6,8 @@ video_id: "CccvIJzHNyo"
 thumbnail: "https://i.ytimg.com/vi/CccvIJzHNyo/maxresdefault.jpg"
 tags: ["surfing outer banks", "cape hatteras surf", "raw surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves"]
 type: "clips"
+clip_type: "clip"
+duration: 118
 ---
 
 <div class="video-embed">

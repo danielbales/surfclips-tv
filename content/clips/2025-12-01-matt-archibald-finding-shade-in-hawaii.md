@@ -6,6 +6,8 @@ video_id: "Hu_s1B3CwDI"
 thumbnail: "https://i.ytimg.com/vi/Hu_s1B3CwDI/maxresdefault.jpg"
 tags: ["Top 10 Surf", "perfect wave", "matt archibald"]
 type: "clips"
+clip_type: "short"
+duration: 11
 ---
 
 <div class="video-embed">

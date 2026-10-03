@@ -6,6 +6,8 @@ video_id: "n6neUKE0vkA"
 thumbnail: "https://i.ytimg.com/vi/n6neUKE0vkA/maxresdefault.jpg"
 tags: ["brett barley", "skeleton bay surf", "namibia surf", "maps to nowhere"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

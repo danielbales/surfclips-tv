@@ -6,6 +6,8 @@ video_id: "oASA4-LwIvQ"
 thumbnail: "https://i.ytimg.com/vi/oASA4-LwIvQ/maxresdefault.jpg"
 tags: ["top 10 surf", "clay marzo", "tosh tudor", "dylan graves", "ezekiel lau", "rob machado"]
 type: "clips"
+clip_type: "top10"
+duration: 169
 ---
 
 <div class="video-embed">

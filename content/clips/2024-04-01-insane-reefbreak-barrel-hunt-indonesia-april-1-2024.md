@@ -6,6 +6,8 @@ video_id: "Xwgd3zFJ8gE"
 thumbnail: "https://i.ytimg.com/vi/Xwgd3zFJ8gE/maxresdefault.jpg"
 tags: ["surfing indonesia", "surfing lagrundi bay", "unedited surfing", "surf cam", "raw surfing", "jamie obrien", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 93
 ---
 
 <div class="video-embed">

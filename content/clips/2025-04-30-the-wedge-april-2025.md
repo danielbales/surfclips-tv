@@ -6,6 +6,8 @@ video_id: "yMdTLEjQbCs"
 thumbnail: "https://i.ytimg.com/vi/yMdTLEjQbCs/maxresdefault.jpg"
 tags: ["The wedge surf", "orange county surf", "newport beach surf"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

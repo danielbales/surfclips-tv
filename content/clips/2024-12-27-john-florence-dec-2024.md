@@ -6,6 +6,8 @@ video_id: "MNwBcdAqNI4"
 thumbnail: "https://i.ytimg.com/vi/MNwBcdAqNI4/maxresdefault.jpg"
 tags: ["xl pipeline", "perfect wave", "john florence"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

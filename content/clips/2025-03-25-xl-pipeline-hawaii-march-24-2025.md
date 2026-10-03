@@ -6,6 +6,8 @@ video_id: "4c7h7rhOnIw"
 thumbnail: "https://i.ytimg.com/vi/4c7h7rhOnIw/maxresdefault.jpg"
 tags: ["pipeline surf", "jack robinson", "john florence", "jamie obrien"]
 type: "clips"
+clip_type: "clip"
+duration: 111
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "N5UlBg1vxJs"
 thumbnail: "https://i.ytimg.com/vi/N5UlBg1vxJs/sddefault.jpg"
 tags: ["surfing southern california", "surfing lower trestles", "unedited surfing", "surf cam", "raw surfing", "2022 trestles pro surfing", "kelly slater", "jack robinson", "filipe toledo", "kanoa igarashi"]
 type: "clips"
+clip_type: "clip"
+duration: 140
 ---
 
 <div class="video-embed">

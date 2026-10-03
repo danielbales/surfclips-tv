@@ -6,6 +6,8 @@ video_id: "9lFTQHxM6D4"
 thumbnail: "https://i.ytimg.com/vi/9lFTQHxM6D4/maxresdefault.jpg"
 tags: ["2024 lexus pipe pro", "unedited surfing", "surf cam", "raw surfing", "john john florence", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "short"
+duration: 45
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "xmb91yPv2Vo"
 thumbnail: "https://i.ytimg.com/vi/xmb91yPv2Vo/maxresdefault.jpg"
 tags: ["Top 10 Surf", "perfect wave", "finn mcgill"]
 type: "clips"
+clip_type: "short"
+duration: 12
 ---
 
 <div class="video-embed">

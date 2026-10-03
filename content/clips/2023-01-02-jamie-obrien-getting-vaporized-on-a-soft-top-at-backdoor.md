@@ -6,6 +6,8 @@ video_id: "1JsF-XWly18"
 thumbnail: "https://i.ytimg.com/vi/1JsF-XWly18/maxresdefault.jpg"
 tags: ["Jamie O'Brien", "surf wipeout", "backdoor wipeout", "job wipeout"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

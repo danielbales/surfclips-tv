@@ -6,6 +6,8 @@ video_id: "RvEVi68A0x8"
 thumbnail: "https://i.ytimg.com/vi/RvEVi68A0x8/maxresdefault.jpg"
 tags: ["channel islands surfboards", "al merrick"]
 type: "clips"
+clip_type: "clip"
+duration: 63
 ---
 
 <div class="video-embed">

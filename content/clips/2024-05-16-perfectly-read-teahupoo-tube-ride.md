@@ -6,6 +6,8 @@ video_id: "z8s04M92cwM"
 thumbnail: "https://i.ytimg.com/vi/z8s04M92cwM/maxresdefault.jpg"
 tags: ["surfing teahupoo", "surfing tahiti", "unedited surfing", "surf cam", "raw surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

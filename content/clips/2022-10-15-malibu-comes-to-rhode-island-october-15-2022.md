@@ -6,6 +6,8 @@ video_id: "mv1T1BY04ck"
 thumbnail: "https://i.ytimg.com/vi/mv1T1BY04ck/maxresdefault.jpg"
 tags: ["surfing rhode island", "surfing point judith", "unedited surfing", "surf cam", "raw surfing", "POINT break surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 90
 ---
 
 <div class="video-embed">

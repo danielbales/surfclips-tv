@@ -6,6 +6,8 @@ video_id: "ug4HWv8-MpQ"
 thumbnail: "https://i.ytimg.com/vi/ug4HWv8-MpQ/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing sunset beach", "unedited surfing", "surf cam", "raw surfing", "2022 Sunset Beach pro", "Nat young", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 49
 ---
 
 <div class="video-embed">

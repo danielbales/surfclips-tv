@@ -6,6 +6,8 @@ video_id: "jpSF8gLSBVQ"
 thumbnail: "https://i.ytimg.com/vi/jpSF8gLSBVQ/maxresdefault.jpg"
 tags: ["mason ho", "perfect wave"]
 type: "clips"
+clip_type: "short"
+duration: 47
 ---
 
 <div class="video-embed">

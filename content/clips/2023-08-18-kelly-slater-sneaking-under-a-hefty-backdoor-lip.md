@@ -6,6 +6,8 @@ video_id: "HOGNHaUlKog"
 thumbnail: "https://i.ytimg.com/vi/HOGNHaUlKog/maxresdefault.jpg"
 tags: ["kelly slater"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

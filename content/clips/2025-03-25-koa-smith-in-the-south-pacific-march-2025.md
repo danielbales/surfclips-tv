@@ -6,6 +6,8 @@ video_id: "cXt4SSID8eQ"
 thumbnail: "https://i.ytimg.com/vi/cXt4SSID8eQ/maxresdefault.jpg"
 tags: ["perfect wave", "koa smith", "cloudbreak"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

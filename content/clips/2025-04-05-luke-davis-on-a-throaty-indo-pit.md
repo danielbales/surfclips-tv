@@ -6,6 +6,8 @@ video_id: "0tdSrQdUQb0"
 thumbnail: "https://i.ytimg.com/vi/0tdSrQdUQb0/maxresdefault.jpg"
 tags: ["perfect waves", "luke davis", "greenbush"]
 type: "clips"
+clip_type: "short"
+duration: 14
 ---
 
 <div class="video-embed">

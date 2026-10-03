@@ -6,6 +6,8 @@ video_id: "d3o-WHmKlyo"
 thumbnail: "https://i.ytimg.com/vi/d3o-WHmKlyo/maxresdefault.jpg"
 tags: ["surfing gold coast", "surfing snapper rocks", "unedited surfing", "surf cam", "raw surfing", "mick fanning", "joel parkinson", "dean morrison", "jack robinson", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 65
 ---
 
 <div class="video-embed">

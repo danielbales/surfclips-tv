@@ -6,6 +6,8 @@ video_id: "GtSUZhZf7oo"
 thumbnail: "https://i.ytimg.com/vi/GtSUZhZf7oo/maxresdefault.jpg"
 tags: ["Top 10 surf", "perfect wave", "nicaragua surf", "xl surf"]
 type: "clips"
+clip_type: "short"
+duration: 4
 ---
 
 <div class="video-embed">

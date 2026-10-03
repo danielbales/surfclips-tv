@@ -6,6 +6,8 @@ video_id: "40DLG6iIbhw"
 thumbnail: "https://i.ytimg.com/vi/40DLG6iIbhw/maxresdefault.jpg"
 tags: ["surfing 2022 El salvador pro", "surfing punta roca", "unedited surfing", "surf cam", "raw surfing", "POINT break surfing", "filipe toledo", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 91
 ---
 
 <div class="video-embed">

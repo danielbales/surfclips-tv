@@ -6,6 +6,8 @@ video_id: "IRftgL2KnCM"
 thumbnail: "https://i.ytimg.com/vi/IRftgL2KnCM/maxresdefault.jpg"
 tags: ["surfing supertubos", "surfing ericeira portugal", "unedited surfing", "surf cam", "raw surfing", "BEACH break surfing", "kanoa igarashi", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 69
 ---
 
 <div class="video-embed">

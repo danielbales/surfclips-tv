@@ -6,6 +6,8 @@ video_id: "nnBxp6nLv6w"
 thumbnail: "https://i.ytimg.com/vi/nnBxp6nLv6w/maxresdefault.jpg"
 tags: ["surfing el salvador", "surfing punta roca", "unedited surfing", "surf cam", "raw surfing", "POINTbreak surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 85
 ---
 
 <div class="video-embed">

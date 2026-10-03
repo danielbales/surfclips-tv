@@ -6,6 +6,8 @@ video_id: "Yo0EbPhA58Y"
 thumbnail: "https://i.ytimg.com/vi/Yo0EbPhA58Y/maxresdefault.jpg"
 tags: ["surfing portugal", "surfing portugal pro supertubos meo", "unedited surfing", "surf cam", "raw surfing", "john john florence", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 39
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "2SMnruJL_oc"
 thumbnail: "https://i.ytimg.com/vi/2SMnruJL_oc/maxresdefault.jpg"
 tags: ["kelly slater"]
 type: "clips"
+clip_type: "short"
+duration: 5
 ---
 
 <div class="video-embed">

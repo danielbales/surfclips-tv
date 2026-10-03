@@ -6,6 +6,8 @@ video_id: "WdH0sllhOkE"
 thumbnail: "https://i.ytimg.com/vi/WdH0sllhOkE/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing 2022 pipeline masters", "unedited surfing", "surf cam", "raw surfing", "michael february", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 36
 ---
 
 <div class="video-embed">

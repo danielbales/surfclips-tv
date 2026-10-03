@@ -6,6 +6,8 @@ video_id: "76ld32S2Yn4"
 thumbnail: "https://i.ytimg.com/vi/76ld32S2Yn4/maxresdefault.jpg"
 tags: ["sheldon simkus", "indonesia surf"]
 type: "clips"
+clip_type: "short"
+duration: 18
 ---
 
 <div class="video-embed">

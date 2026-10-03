@@ -6,6 +6,8 @@ video_id: "eDlNhWOBlXg"
 thumbnail: "https://i.ytimg.com/vi/eDlNhWOBlXg/maxresdefault.jpg"
 tags: ["surfing outer banks", "surfing cape hatteras", "unedited surfing", "surf cam", "raw surfing", "brett barley", "ben gravy", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 69
 ---
 
 <div class="video-embed">

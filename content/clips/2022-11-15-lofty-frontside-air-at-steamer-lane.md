@@ -6,6 +6,8 @@ video_id: "Pg8dxjRnFwM"
 thumbnail: "https://i.ytimg.com/vi/Pg8dxjRnFwM/maxresdefault.jpg"
 tags: ["steamer lane", "cold water classic", "norcal surf"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

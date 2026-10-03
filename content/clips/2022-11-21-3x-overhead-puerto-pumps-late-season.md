@@ -6,6 +6,8 @@ video_id: "yS2QCvbjNfA"
 thumbnail: "https://i.ytimg.com/vi/yS2QCvbjNfA/maxresdefault.jpg"
 tags: ["surfing mexico", "surfing puerto escondido", "big wave surfing", "surf cam", "raw surfing", "tow in surfing", "coco nogales", "rusty long", "greg long", "makua rothman"]
 type: "clips"
+clip_type: "clip"
+duration: 127
 ---
 
 <div class="video-embed">

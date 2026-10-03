@@ -6,6 +6,8 @@ video_id: "fWGHDzvsJYo"
 thumbnail: "https://i.ytimg.com/vi/fWGHDzvsJYo/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing pipeline backdoor shootout 2022", "unedited surfing", "surf cam", "raw surfing", "north shore surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 103
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "JgpSBRhvbBs"
 thumbnail: "https://i.ytimg.com/vi/JgpSBRhvbBs/maxresdefault.jpg"
 tags: ["Top 10 surf", "perfect wave"]
 type: "clips"
+clip_type: "short"
+duration: 11
 ---
 
 <div class="video-embed">

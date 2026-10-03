@@ -6,6 +6,8 @@ video_id: "VFjf4DgqN8s"
 thumbnail: "https://i.ytimg.com/vi/VFjf4DgqN8s/maxresdefault.jpg"
 tags: ["surfing mexico", "surfing puerto escondido", "unedited surfing", "ocean sounds", "raw surfing", "BEACH break surfing", "kelly slater", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "clip"
+duration: 171
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "1nM3Sq5AQFg"
 thumbnail: "https://i.ytimg.com/vi/1nM3Sq5AQFg/maxresdefault.jpg"
 tags: ["56th street surf", "orange county surf", "Newport beach surf"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

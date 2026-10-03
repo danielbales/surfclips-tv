@@ -6,6 +6,8 @@ video_id: "LmLLPueIhb0"
 thumbnail: "https://i.ytimg.com/vi/LmLLPueIhb0/maxresdefault.jpg"
 tags: ["surfing backdoor pipeline", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

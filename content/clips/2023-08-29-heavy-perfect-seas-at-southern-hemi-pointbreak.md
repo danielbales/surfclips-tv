@@ -6,6 +6,8 @@ video_id: "tqblfLMhXO4"
 thumbnail: "https://i.ytimg.com/vi/tqblfLMhXO4/maxresdefault.jpg"
 tags: ["surfing new zealand", "surfing raglan", "unedited surfing", "surf cam", "raw surfing", "raglan surf report", "luke cederman", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 81
 ---
 
 <div class="video-embed">

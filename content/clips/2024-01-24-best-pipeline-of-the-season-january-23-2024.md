@@ -6,6 +6,8 @@ video_id: "C1QwbOx0jI8"
 thumbnail: "https://i.ytimg.com/vi/C1QwbOx0jI8/maxresdefault.jpg"
 tags: ["surfing pipeline", "koa rothman", "john florence", "raw surfing", "north shore surfing", "kelly slater", "mason ho", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 135
 ---
 
 <div class="video-embed">

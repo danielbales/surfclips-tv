@@ -6,6 +6,8 @@ video_id: "uRC5jb6NIGg"
 thumbnail: "https://i.ytimg.com/vi/uRC5jb6NIGg/maxresdefault.jpg"
 tags: ["surfing new jersey", "surfing manasquan inlet", "hurricane nicole", "surf cam", "raw surfing", "BEACH break surfing", "ben gravy", "brett barley", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 71
 ---
 
 <div class="video-embed">

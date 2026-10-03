@@ -6,6 +6,8 @@ video_id: "wO9f9NNP8nI"
 thumbnail: "https://i.ytimg.com/vi/wO9f9NNP8nI/maxresdefault.jpg"
 tags: ["surfing tahiti", "surfing teahupoo", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "manoa drollet", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 96
 ---
 
 <div class="video-embed">

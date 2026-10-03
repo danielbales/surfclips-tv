@@ -6,6 +6,8 @@ video_id: "FakvdSVmXwQ"
 thumbnail: "https://i.ytimg.com/vi/FakvdSVmXwQ/maxresdefault.jpg"
 tags: ["wilbur kookmeyer", "Par\u00edcutin Volcano (Mexico)"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

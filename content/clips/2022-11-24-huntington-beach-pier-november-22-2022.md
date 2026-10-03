@@ -6,6 +6,8 @@ video_id: "IdsXPMME778"
 thumbnail: "https://i.ytimg.com/vi/IdsXPMME778/maxresdefault.jpg"
 tags: ["surfing california", "surfing huntington beach pier", "unedited surfing", "surf cam", "raw surfing", "BEACH break surfing", "kanoa igarashi", "brett simpson", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 75
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "CKQcBseWgAI"
 thumbnail: "https://i.ytimg.com/vi/CKQcBseWgAI/maxresdefault.jpg"
 tags: ["surfing portugal", "surfing supertubos", "unedited surfing", "surf cam", "raw surfing", "meo portugal pro", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 35
 ---
 
 <div class="video-embed">

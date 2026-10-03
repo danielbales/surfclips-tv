@@ -6,6 +6,8 @@ video_id: "BDFzmMM4Kfw"
 thumbnail: "https://i.ytimg.com/vi/BDFzmMM4Kfw/maxresdefault.jpg"
 tags: ["surfing australia", "surfing north cronulla", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 120
 ---
 
 <div class="video-embed">

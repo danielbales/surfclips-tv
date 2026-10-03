@@ -6,6 +6,8 @@ video_id: "3Ms4NYdoVvI"
 thumbnail: "https://i.ytimg.com/vi/3Ms4NYdoVvI/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing backdoor pipeline", "john florence", "balaram stack", "kelly slater", "koa rothman", "big surf", "ocean", "waves", "surfline rewind"]
 type: "clips"
+clip_type: "clip"
+duration: 153
 ---
 
 <div class="video-embed">

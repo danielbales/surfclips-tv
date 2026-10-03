@@ -6,6 +6,8 @@ video_id: "HO-VHPbpUpY"
 thumbnail: "https://i.ytimg.com/vi/HO-VHPbpUpY/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing sunset beach oahu", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "ezekiel lau", "makua rothman", "john john florence", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 110
 ---
 
 <div class="video-embed">

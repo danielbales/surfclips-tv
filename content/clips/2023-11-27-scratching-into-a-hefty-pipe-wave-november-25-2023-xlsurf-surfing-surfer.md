@@ -6,6 +6,8 @@ video_id: "BwQLzT_3TkI"
 thumbnail: "https://i.ytimg.com/vi/BwQLzT_3TkI/maxresdefault.jpg"
 tags: ["surfing pipeline", "surfing xl black friday swell", "unedited surfing", "surf cam", "raw surfing", "kalani chapman", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

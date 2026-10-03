@@ -6,6 +6,8 @@ video_id: "nM8jQvzuhKQ"
 thumbnail: "https://i.ytimg.com/vi/nM8jQvzuhKQ/maxresdefault.jpg"
 tags: ["Koa rothman", "pipeline surf", "hawaii surf", "perfect wave"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "gDxpb0tAJqA"
 thumbnail: "https://i.ytimg.com/vi/gDxpb0tAJqA/maxresdefault.jpg"
 tags: ["surfing 2024 gold coast pro", "unedited surfing", "surf cam", "raw surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "clip"
+duration: 109
 ---
 
 <div class="video-embed">

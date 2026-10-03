@@ -6,6 +6,8 @@ video_id: "JQixVifr410"
 thumbnail: "https://i.ytimg.com/vi/JQixVifr410/maxresdefault.jpg"
 tags: ["Jaws", "surf wipeout"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

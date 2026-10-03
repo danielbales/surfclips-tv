@@ -6,6 +6,8 @@ video_id: "6U4oFfpA97M"
 thumbnail: "https://i.ytimg.com/vi/6U4oFfpA97M/maxresdefault.jpg"
 tags: ["surfing backdoor pipEline", "unedited surfing", "surf cam", "raw surfing", "surf wipeout", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "rQQIHtwVajM"
 thumbnail: "https://i.ytimg.com/vi/rQQIHtwVajM/maxresdefault.jpg"
 tags: ["barbados surf", "surfing soup bowl", "kelly slater"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

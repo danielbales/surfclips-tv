@@ -6,6 +6,8 @@ video_id: "xxSyJA1mLHc"
 thumbnail: "https://i.ytimg.com/vi/xxSyJA1mLHc/maxresdefault.jpg"
 tags: ["surfing indonesia", "surfing padang padang", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 172
 ---
 
 <div class="video-embed">

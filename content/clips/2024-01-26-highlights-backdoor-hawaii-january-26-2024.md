@@ -6,6 +6,8 @@ video_id: "30ndZeIGCRA"
 thumbnail: "https://i.ytimg.com/vi/30ndZeIGCRA/maxresdefault.jpg"
 tags: ["surfing backdoor pipeline", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves"]
 type: "clips"
+clip_type: "clip"
+duration: 101
 ---
 
 <div class="video-embed">

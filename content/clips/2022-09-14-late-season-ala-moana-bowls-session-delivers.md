@@ -6,6 +6,8 @@ video_id: "qdv_m-hBpro"
 thumbnail: "https://i.ytimg.com/vi/qdv_m-hBpro/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing ala moana bowls", "unedited surfing", "surf cam", "raw surfing", "waikiki surf", "josh moniz", "ezekiel lau", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 192
 ---
 
 <div class="video-embed">

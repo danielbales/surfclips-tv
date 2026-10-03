@@ -6,6 +6,8 @@ video_id: "LtUnos16yZo"
 thumbnail: "https://i.ytimg.com/vi/LtUnos16yZo/maxresdefault.jpg"
 tags: ["Top 10 Surf", "perfect wave", "central california surf"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

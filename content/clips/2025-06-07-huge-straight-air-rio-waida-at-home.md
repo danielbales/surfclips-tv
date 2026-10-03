@@ -6,6 +6,8 @@ video_id: "9cwbcGZ_4jc"
 thumbnail: "https://i.ytimg.com/vi/9cwbcGZ_4jc/maxresdefault.jpg"
 tags: ["Top 10 surf", "rio waida", "keramas surf"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

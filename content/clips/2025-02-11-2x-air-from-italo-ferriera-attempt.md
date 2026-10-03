@@ -6,6 +6,8 @@ video_id: "KveZEslTMuA"
 thumbnail: "https://i.ytimg.com/vi/KveZEslTMuA/maxresdefault.jpg"
 tags: ["italo ferreira", "high performance surfing"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

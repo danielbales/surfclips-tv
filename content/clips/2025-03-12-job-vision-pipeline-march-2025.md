@@ -6,6 +6,8 @@ video_id: "3Ja_D5959-U"
 thumbnail: "https://i.ytimg.com/vi/3Ja_D5959-U/maxresdefault.jpg"
 tags: ["jamie obrien", "job vlogs"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

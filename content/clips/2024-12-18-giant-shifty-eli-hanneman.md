@@ -6,6 +6,8 @@ video_id: "2hy6f53hHKY"
 thumbnail: "https://i.ytimg.com/vi/2hy6f53hHKY/maxresdefault.jpg"
 tags: ["surf", "eli hanneman"]
 type: "clips"
+clip_type: "short"
+duration: 3
 ---
 
 <div class="video-embed">

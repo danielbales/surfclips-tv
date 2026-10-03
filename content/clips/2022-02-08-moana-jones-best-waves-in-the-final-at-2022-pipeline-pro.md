@@ -6,6 +6,8 @@ video_id: "tUQtew77t7c"
 thumbnail: "https://i.ytimg.com/vi/tUQtew77t7c/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing pipeline", "unedited surfing", "surf cam", "raw surfing", "moana jones", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 37
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "T7vVMUtOj44"
 thumbnail: "https://i.ytimg.com/vi/T7vVMUtOj44/hqdefault.jpg"
 tags: ["surfing hurricane ian", "surfing south beach miami", "NAME", "unedited surfing", "surf cam", "raw surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 11
 ---
 
 <div class="video-embed">

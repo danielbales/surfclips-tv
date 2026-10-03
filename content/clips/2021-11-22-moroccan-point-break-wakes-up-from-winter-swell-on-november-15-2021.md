@@ -6,6 +6,8 @@ video_id: "iEvU0uP5OLU"
 thumbnail: "https://i.ytimg.com/vi/iEvU0uP5OLU/maxresdefault.jpg"
 tags: ["surfing morocco", "surfing anchor point taghazout", "unedited surfing", "surf cam", "raw surfing", "REEF OR POINT OR BEACH break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 158
 ---
 
 <div class="video-embed">

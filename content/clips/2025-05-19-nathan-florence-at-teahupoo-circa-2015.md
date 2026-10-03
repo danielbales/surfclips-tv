@@ -6,6 +6,8 @@ video_id: "IrrqJQuhF20"
 thumbnail: "https://i.ytimg.com/vi/IrrqJQuhF20/maxresdefault.jpg"
 tags: ["nathan florence", "xl teahupoo"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

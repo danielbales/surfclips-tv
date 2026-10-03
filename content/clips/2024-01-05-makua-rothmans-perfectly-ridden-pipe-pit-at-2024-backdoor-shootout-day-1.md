@@ -6,6 +6,8 @@ video_id: "Vn04lmfFgdA"
 thumbnail: "https://i.ytimg.com/vi/Vn04lmfFgdA/maxresdefault.jpg"
 tags: ["surfing 2024 backdoor shootout", "unedited surfing", "surf cam", "raw surfing", "makua rothman", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

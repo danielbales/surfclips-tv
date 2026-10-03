@@ -6,6 +6,8 @@ video_id: "-C9GzmTFo4E"
 thumbnail: "https://i.ytimg.com/vi/-C9GzmTFo4E/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing ala moana bowls", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "ezekiel lau", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 128
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "zdpanFPNpu8"
 thumbnail: "https://i.ytimg.com/vi/zdpanFPNpu8/maxresdefault.jpg"
 tags: ["surfing el salvador", "surfing punta mango", "unedited surfing", "surf cam", "raw surfing", "POINT break surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 40
 ---
 
 <div class="video-embed">

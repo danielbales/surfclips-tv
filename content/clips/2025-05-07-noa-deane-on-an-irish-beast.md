@@ -6,6 +6,8 @@ video_id: "kOXj5Kb0N7o"
 thumbnail: "https://i.ytimg.com/vi/kOXj5Kb0N7o/maxresdefault.jpg"
 tags: ["mollys surf ireland", "xl surf", "noa deane"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "_6zR-JWXNDo"
 thumbnail: "https://i.ytimg.com/vi/_6zR-JWXNDo/maxresdefault.jpg"
 tags: ["Top 10 Surf", "Mason Ho"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "ARUQfiUh2cg"
 thumbnail: "https://i.ytimg.com/vi/ARUQfiUh2cg/maxresdefault.jpg"
 tags: ["Top 10 Surf", "pipeline surf", "koa rothman"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

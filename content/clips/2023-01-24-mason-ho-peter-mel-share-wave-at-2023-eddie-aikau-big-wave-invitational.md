@@ -6,6 +6,8 @@ video_id: "IY8YtUR5C2Q"
 thumbnail: "https://i.ytimg.com/vi/IY8YtUR5C2Q/maxresdefault.jpg"
 tags: ["2023 eddie aikau invitational", "surfing waimea bay", "unedited surfing", "surf cam", "raw surfing", "mason ho", "peter mel", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 60
 ---
 
 <div class="video-embed">

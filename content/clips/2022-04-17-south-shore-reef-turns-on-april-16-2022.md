@@ -6,6 +6,8 @@ video_id: "Yhhx9RmySn0"
 thumbnail: "https://i.ytimg.com/vi/Yhhx9RmySn0/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing kaiser's oahu", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 73
 ---
 
 <div class="video-embed">

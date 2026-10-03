@@ -6,6 +6,8 @@ video_id: "flzuv_JAGyM"
 thumbnail: "https://i.ytimg.com/vi/flzuv_JAGyM/maxresdefault.jpg"
 tags: ["surfing lower trestles", "wsl finals surf", "john john florence", "surf cam", "raw surfing", "big surf", "ocean", "waves", "surfline rewind", "good to epic"]
 type: "clips"
+clip_type: "short"
+duration: 13
 ---
 
 <div class="video-embed">

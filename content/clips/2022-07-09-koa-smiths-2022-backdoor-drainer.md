@@ -6,6 +6,8 @@ video_id: "RmMg52DLCG4"
 thumbnail: "https://i.ytimg.com/vi/RmMg52DLCG4/hqdefault.jpg"
 tags: ["surfing hawaii", "surfing backdoor pipeilne", "unedited surfing", "surf cam", "raw surfing", "north shore surf", "koa smith", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

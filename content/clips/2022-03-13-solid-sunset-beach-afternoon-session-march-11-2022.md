@@ -6,6 +6,8 @@ video_id: "DS3yPFPNTGw"
 thumbnail: "https://i.ytimg.com/vi/DS3yPFPNTGw/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing sunset beach", "unedited surfing", "surf cam", "raw surfing", "north shore surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 73
 ---
 
 <div class="video-embed">

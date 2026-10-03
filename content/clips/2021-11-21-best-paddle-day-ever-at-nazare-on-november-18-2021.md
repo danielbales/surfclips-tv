@@ -6,6 +6,8 @@ video_id: "7ct2wSLWBVA"
 thumbnail: "https://i.ytimg.com/vi/7ct2wSLWBVA/maxresdefault.jpg"
 tags: ["surfing portugal", "surfing nazare", "unedited surfing", "surf cam", "raw surfing", "big wave surfing", "kelly slater", "mental health", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 154
 ---
 
 <div class="video-embed">

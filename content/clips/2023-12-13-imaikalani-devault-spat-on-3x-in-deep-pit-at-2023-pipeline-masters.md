@@ -6,6 +6,8 @@ video_id: "rurYOqdFuII"
 thumbnail: "https://i.ytimg.com/vi/rurYOqdFuII/maxresdefault.jpg"
 tags: ["surfing 2023 pipeline masters", "unedited surfing", "surf cam", "raw surfing", "imaikalani devault", "ocean waves with sound", "big surf", "ocean", "waves", "surfline rewind"]
 type: "clips"
+clip_type: "short"
+duration: 43
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "HZg7AaeF5B0"
 thumbnail: "https://i.ytimg.com/vi/HZg7AaeF5B0/maxresdefault.jpg"
 tags: ["surfing Hawaii", "surfing ala moana bowls", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "jon florence", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 245
 ---
 
 <div class="video-embed">

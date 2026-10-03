@@ -6,6 +6,8 @@ video_id: "pzn4QDhgZ_A"
 thumbnail: "https://i.ytimg.com/vi/pzn4QDhgZ_A/maxresdefault.jpg"
 tags: ["honolua bay", "perfect surf"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

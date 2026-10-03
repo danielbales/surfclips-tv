@@ -6,6 +6,8 @@ video_id: "MdiiGcdVm6Y"
 thumbnail: "https://i.ytimg.com/vi/MdiiGcdVm6Y/maxresdefault.jpg"
 tags: ["surfing costa rica", "surfing playa hermosa", "unedited surfing", "surf cam", "raw surfing", "BEACH break surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "7WP3deHp-HM"
 thumbnail: "https://i.ytimg.com/vi/7WP3deHp-HM/maxresdefault.jpg"
 tags: ["teahupoo big wave"]
 type: "clips"
+clip_type: "short"
+duration: 5
 ---
 
 <div class="video-embed">

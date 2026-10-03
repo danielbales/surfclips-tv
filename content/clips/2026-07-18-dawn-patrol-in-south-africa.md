@@ -6,6 +6,8 @@ video_id: "0oeBzfHjFxk"
 thumbnail: "https://i.ytimg.com/vi/0oeBzfHjFxk/maxresdefault.jpg"
 tags: ["surf highlight", "south africa", "pov surf"]
 type: "clips"
+clip_type: "short"
+duration: 18
 ---
 
 <div class="video-embed">

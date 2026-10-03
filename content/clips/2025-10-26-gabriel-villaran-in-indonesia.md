@@ -3,9 +3,11 @@ title: "Gabriel Villaran in Indonesia"
 date: 2025-10-26T22:54:52Z
 draft: false
 video_id: "LUxPJv6AJWc"
-thumbnail: "https://i9.ytimg.com/vi/LUxPJv6AJWc/maxresdefault.jpg?sqp=CKjRgdYG&rs=AOn4CLDMIKIjRv36HRGqCRPAR1AO7x5SGw"
+thumbnail: "https://i9.ytimg.com/vi/LUxPJv6AJWc/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLB-Db6-k2Y1BUWJ7glksRHmO8spuw"
 tags: ["Top 10 Surf", "gabriel villaran"]
 type: "clips"
+clip_type: "short"
+duration: 13
 ---
 
 <div class="video-embed">

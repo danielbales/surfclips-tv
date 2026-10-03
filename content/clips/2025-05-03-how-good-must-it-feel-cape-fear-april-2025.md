@@ -6,6 +6,8 @@ video_id: "eObV6VHey5M"
 thumbnail: "https://i.ytimg.com/vi/eObV6VHey5M/maxresdefault.jpg"
 tags: ["cape solander", "ours surf", "xl surf", "cape fear", "oscar berry"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

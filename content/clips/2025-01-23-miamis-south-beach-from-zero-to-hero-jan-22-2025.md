@@ -6,6 +6,8 @@ video_id: "dPAchFuZ9M0"
 thumbnail: "https://i.ytimg.com/vi/dPAchFuZ9M0/maxresdefault.jpg"
 tags: ["surfing south beach miami", "surf cam", "florida snow", "ocean", "waves", "good to epic", "perfect surf", "surf video"]
 type: "clips"
+clip_type: "clip"
+duration: 75
 ---
 
 <div class="video-embed">

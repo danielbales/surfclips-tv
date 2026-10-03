@@ -6,6 +6,8 @@ video_id: "vT25MkVTAP8"
 thumbnail: "https://i.ytimg.com/vi/vT25MkVTAP8/maxresdefault.jpg"
 tags: ["surfing australia", "surfing shark island", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "cronulla surf", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 112
 ---
 
 <div class="video-embed">

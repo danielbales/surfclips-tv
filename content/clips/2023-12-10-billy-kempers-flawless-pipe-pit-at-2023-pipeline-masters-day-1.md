@@ -6,6 +6,8 @@ video_id: "HF6ovuLG7z8"
 thumbnail: "https://i.ytimg.com/vi/HF6ovuLG7z8/maxresdefault.jpg"
 tags: ["2023 pipeline masters", "surfing SPOT NAME", "unedited surfing", "surf cam", "raw surfing", "billy kemper", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 37
 ---
 
 <div class="video-embed">

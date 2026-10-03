@@ -3,9 +3,11 @@ title: "Wilbur Kookmeyer's SCAB Tour, stop 1: The Box"
 date: 2025-12-31T19:37:42Z
 draft: false
 video_id: "BFG-8S1gDDE"
-thumbnail: "https://i9.ytimg.com/vi/BFG-8S1gDDE/maxresdefault.jpg?sqp=CKjRgdYG&rs=AOn4CLAliWAtNwzTcKy14DKySEtf9m1rjA"
+thumbnail: "https://i9.ytimg.com/vi/BFG-8S1gDDE/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLAaoM1jm4wXBHos6MvR0Nc4xw9FJg"
 tags: ["wilbur kookmeyer"]
 type: "clips"
+clip_type: "short"
+duration: 44
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "UnT5jgZEKJM"
 thumbnail: "https://i.ytimg.com/vi/UnT5jgZEKJM/maxresdefault.jpg"
 tags: ["backdoor surf", "pipeline surf", "perfect waves"]
 type: "clips"
+clip_type: "clip"
+duration: 102
 ---
 
 <div class="video-embed">

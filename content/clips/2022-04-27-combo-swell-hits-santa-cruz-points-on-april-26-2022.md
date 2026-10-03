@@ -6,6 +6,8 @@ video_id: "NLuP0O_yIGI"
 thumbnail: "https://i.ytimg.com/vi/NLuP0O_yIGI/maxresdefault.jpg"
 tags: ["surfing santa cruz", "surfing pleasure point", "unedited surfing", "surf cam", "raw surfing", "POINT break surfing", "josh mulcoy", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 64
 ---
 
 <div class="video-embed">

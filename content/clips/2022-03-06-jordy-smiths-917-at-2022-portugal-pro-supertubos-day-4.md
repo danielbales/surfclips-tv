@@ -6,6 +6,8 @@ video_id: "B_K1AVta8aU"
 thumbnail: "https://i.ytimg.com/vi/B_K1AVta8aU/maxresdefault.jpg"
 tags: ["surfing 2022 portugal pro supertubos", "unedited surfing", "surf cam", "raw surfing", "Jordy Smith", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "clip"
+duration: 78
 ---
 
 <div class="video-embed">

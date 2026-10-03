@@ -6,6 +6,8 @@ video_id: "uivZ32c_66Q"
 thumbnail: "https://i.ytimg.com/vi/uivZ32c_66Q/maxresdefault.jpg"
 tags: ["surfing indonesia", "surfing padang padang bali", "unedited surfing", "surf cam", "raw surfing", "big wave surfing", "rizal tanjung", "chris ward", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 588
 ---
 
 <div class="video-embed">

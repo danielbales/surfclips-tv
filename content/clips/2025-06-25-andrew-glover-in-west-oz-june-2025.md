@@ -6,6 +6,8 @@ video_id: "Ws2lX19EmfY"
 thumbnail: "https://i.ytimg.com/vi/Ws2lX19EmfY/maxresdefault.jpg"
 tags: ["Top 10 surf", "perfect wave", "yallingup surf"]
 type: "clips"
+clip_type: "short"
+duration: 6
 ---
 
 <div class="video-embed">

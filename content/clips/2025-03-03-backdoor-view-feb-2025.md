@@ -6,6 +6,8 @@ video_id: "EmGgTjbr7a4"
 thumbnail: "https://i.ytimg.com/vi/EmGgTjbr7a4/maxresdefault.jpg"
 tags: ["perfect wave", "nathan florence"]
 type: "clips"
+clip_type: "short"
+duration: 6
 ---
 
 <div class="video-embed">

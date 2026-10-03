@@ -6,6 +6,8 @@ video_id: "rrMxNxSpyYI"
 thumbnail: "https://i.ytimg.com/vi/rrMxNxSpyYI/maxresdefault.jpg"
 tags: ["top 10 surf", "pipeline", "honolua bay", "imai devault", "nathan florence", "jack johnson"]
 type: "clips"
+clip_type: "top10"
+duration: 166
 ---
 
 <div class="video-embed">

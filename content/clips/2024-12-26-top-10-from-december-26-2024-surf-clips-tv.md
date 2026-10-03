@@ -6,6 +6,8 @@ video_id: "CfHlz2pE_Vs"
 thumbnail: "https://i.ytimg.com/vi/CfHlz2pE_Vs/maxresdefault.jpg"
 tags: ["top 10 surf", "mason ho", "ian gentil", "the eddie surf", "luke shepardson", "ty simpson", "jaws peahi surf"]
 type: "clips"
+clip_type: "top10"
+duration: 160
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "Lzo72gKfPPA"
 thumbnail: "https://i.ytimg.com/vi/Lzo72gKfPPA/maxresdefault.jpg"
 tags: ["surfing mexico", "surfing puerto escondido", "unedited surfing", "raw surfing", "BEACH break surfing", "kelly slater", "ocean meditation", "meditation music", "background music", "calm music"]
 type: "clips"
+clip_type: "clip"
+duration: 245
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "oL7FNhMDgEs"
 thumbnail: "https://i.ytimg.com/vi/oL7FNhMDgEs/maxresdefault.jpg"
 tags: ["surfing malibu", "surfing hurricane frank", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "short"
+duration: 20
 ---
 
 <div class="video-embed">

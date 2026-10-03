@@ -6,6 +6,8 @@ video_id: "6jlqgEscKMU"
 thumbnail: "https://i.ytimg.com/vi/6jlqgEscKMU/maxresdefault.jpg"
 tags: ["wilbur kookmeyer", "grand canyon", "surf humor", "surfing"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

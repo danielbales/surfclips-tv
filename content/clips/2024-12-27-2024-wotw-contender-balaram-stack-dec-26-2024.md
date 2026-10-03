@@ -6,6 +6,8 @@ video_id: "KrP1E9j3ct8"
 thumbnail: "https://i.ytimg.com/vi/KrP1E9j3ct8/maxresdefault.jpg"
 tags: ["Wave of the winter", "XL pipeline", "perfect wave", "balaram stack"]
 type: "clips"
+clip_type: "short"
+duration: 46
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "uPKZyuPj3Sc"
 thumbnail: "https://i.ytimg.com/vi/uPKZyuPj3Sc/maxresdefault.jpg"
 tags: ["xl pipeline", "surfing backdoor pipeline", "unedited surfing", "surf cam", "raw surfing", "kelly slater", "john john Florence", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 166
 ---
 
 <div class="video-embed">

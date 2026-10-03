@@ -6,6 +6,8 @@ video_id: "-YMD2A-fdRg"
 thumbnail: "https://i.ytimg.com/vi/-YMD2A-fdRg/maxresdefault.jpg"
 tags: ["surfing waimea bay", "wipeout surfing", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

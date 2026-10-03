@@ -6,6 +6,8 @@ video_id: "nFwY9P5Zpdc"
 thumbnail: "https://i.ytimg.com/vi/nFwY9P5Zpdc/maxresdefault.jpg"
 tags: ["slab tour", "ivan florence", "arica surf", "nate florence"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

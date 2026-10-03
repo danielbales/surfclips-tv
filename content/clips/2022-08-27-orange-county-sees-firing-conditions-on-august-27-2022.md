@@ -6,6 +6,8 @@ video_id: "yuFXXgcROzM"
 thumbnail: "https://i.ytimg.com/vi/yuFXXgcROzM/maxresdefault.jpg"
 tags: ["surfing southern california", "surfing 56th street newport beach", "unedited surfing", "surf cam", "raw surfing", "BEACH break surfing", "andrew doheny", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 77
 ---
 
 <div class="video-embed">

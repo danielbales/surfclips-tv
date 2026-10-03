@@ -6,6 +6,8 @@ video_id: "hJKyueLrjbk"
 thumbnail: "https://i.ytimg.com/vi/hJKyueLrjbk/maxresdefault.jpg"
 tags: ["surfing santa cruz", "surfing pleasure point", "unedited surfing", "surf cam", "peter mel", "josh mulcoy", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 13
 ---
 
 <div class="video-embed">

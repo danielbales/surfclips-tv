@@ -6,6 +6,8 @@ video_id: "cFMkFo66FQM"
 thumbnail: "https://i.ytimg.com/vi/cFMkFo66FQM/maxresdefault.jpg"
 tags: ["raglan surf", "new zealand surf"]
 type: "clips"
+clip_type: "clip"
+duration: 87
 ---
 
 <div class="video-embed">

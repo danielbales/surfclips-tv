@@ -6,6 +6,8 @@ video_id: "WYbVfRFKDh8"
 thumbnail: "https://i.ytimg.com/vi/WYbVfRFKDh8/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing pipeline", "2022 pipeline masters", "surf cam", "raw surfing", "mason ho", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 36
 ---
 
 <div class="video-embed">

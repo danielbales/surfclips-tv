@@ -6,6 +6,8 @@ video_id: "mS2Odi2R3V8"
 thumbnail: "https://i.ytimg.com/vi/mS2Odi2R3V8/maxresdefault.jpg"
 tags: ["Top 10 Surf", "hawaii surf", "mason ho"]
 type: "clips"
+clip_type: "short"
+duration: 6
 ---
 
 <div class="video-embed">

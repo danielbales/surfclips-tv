@@ -6,6 +6,8 @@ video_id: "QiKjk3b368E"
 thumbnail: "https://i.ytimg.com/vi/QiKjk3b368E/maxresdefault.jpg"
 tags: ["surfing new", "surfing bay of plenty", "unedited surfing", "surf cam", "raw surfing", "POINT break surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 121
 ---
 
 <div class="video-embed">

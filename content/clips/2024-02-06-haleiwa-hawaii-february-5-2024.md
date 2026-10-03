@@ -6,6 +6,8 @@ video_id: "2sGYZJWi-g8"
 thumbnail: "https://i.ytimg.com/vi/2sGYZJWi-g8/maxresdefault.jpg"
 tags: ["surfing haleiwa", "surfing north shore", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "clip"
+duration: 90
 ---
 
 <div class="video-embed">

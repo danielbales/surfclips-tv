@@ -6,6 +6,8 @@ video_id: "oZQo3-YgCD4"
 thumbnail: "https://i.ytimg.com/vi/oZQo3-YgCD4/maxresdefault.jpg"
 tags: ["surfing hurricane ian 2022", "surfing south beach florida", "unedited surfing", "surf cam", "raw surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 72
 ---
 
 <div class="video-embed">

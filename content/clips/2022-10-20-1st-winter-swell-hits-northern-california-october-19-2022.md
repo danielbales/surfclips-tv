@@ -6,6 +6,8 @@ video_id: "NNoFKn3grVw"
 thumbnail: "https://i.ytimg.com/vi/NNoFKn3grVw/maxresdefault.jpg"
 tags: ["surfing california", "surfing steamer lane", "unedited surfing", "surf cam", "raw surfing", "POINt break surfing", "josh mulcoy", "norcal surf", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 104
 ---
 
 <div class="video-embed">

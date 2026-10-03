@@ -6,6 +6,8 @@ video_id: "y261-sICAis"
 thumbnail: "https://i.ytimg.com/vi/y261-sICAis/maxresdefault.jpg"
 tags: ["surfing mexico", "surfing puerto escondido", "unedited surfing", "surf cam", "raw surfing", "big wave surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 53
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "NILBVuKclk4"
 thumbnail: "https://i.ytimg.com/vi/NILBVuKclk4/maxresdefault.jpg"
 tags: ["surfing portugal", "surfing supertubos portugal pro 2022", "unedited surfing", "surf cam", "raw surfing", "joao chianca", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 67
 ---
 
 <div class="video-embed">

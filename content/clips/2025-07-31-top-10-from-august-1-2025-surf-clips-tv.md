@@ -6,6 +6,8 @@ video_id: "owa8lWwB8l8"
 thumbnail: "https://i.ytimg.com/vi/owa8lWwB8l8/sddefault.jpg"
 tags: ["Top 10 Surf", "Sheldon Simkus", "Maddix Alotis", "Chapter 11", "Matahi Drollet", "Jacob Wilcox", "Michael February", "Foamballed"]
 type: "clips"
+clip_type: "top10"
+duration: 179
 ---
 
 <div class="video-embed">

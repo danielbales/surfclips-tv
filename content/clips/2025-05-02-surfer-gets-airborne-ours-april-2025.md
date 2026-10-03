@@ -6,6 +6,8 @@ video_id: "wjd1pf1V2gI"
 thumbnail: "https://i.ytimg.com/vi/wjd1pf1V2gI/maxresdefault.jpg"
 tags: ["surf wipeout", "cape fear"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

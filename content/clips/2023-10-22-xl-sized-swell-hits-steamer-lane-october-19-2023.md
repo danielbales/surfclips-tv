@@ -6,6 +6,8 @@ video_id: "Gcn_1ePhjzw"
 thumbnail: "https://i.ytimg.com/vi/Gcn_1ePhjzw/maxresdefault.jpg"
 tags: ["surfing steamer lane xl surf", "surfing santa cruz", "surf cam", "raw surfing", "typhoon bolaven", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves"]
 type: "clips"
+clip_type: "clip"
+duration: 91
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "e7l57pcKpGQ"
 thumbnail: "https://i.ytimg.com/vi/e7l57pcKpGQ/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing backdoor", "unedited surfing", "surf cam", "raw surfing", "seth moniz", "big surf", "ocean", "waves", "surfline rewind"]
 type: "clips"
+clip_type: "short"
+duration: 44
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "haDhjpSy9Xg"
 thumbnail: "https://i.ytimg.com/vi/haDhjpSy9Xg/maxresdefault.jpg"
 tags: ["surfing sandspit santa barbara", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves", "surfline rewind"]
 type: "clips"
+clip_type: "short"
+duration: 4
 ---
 
 <div class="video-embed">

@@ -3,9 +3,11 @@ title: "Sheldon Simkus deep nugget"
 date: 2025-07-29T05:54:19Z
 draft: false
 video_id: "q5DiYZZyM3c"
-thumbnail: "https://i9.ytimg.com/vi/q5DiYZZyM3c/maxresdefault.jpg?sqp=CKjRgdYG&rs=AOn4CLBc16uSuqn5TMoTeSwY_JKY3Y4kNA"
+thumbnail: "https://i9.ytimg.com/vi/q5DiYZZyM3c/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLDbG0vrevXV4z3_MhjbanhhvsQxXQ"
 tags: ["Top 10 Surf", "perfect surf", "sheldon simkus"]
 type: "clips"
+clip_type: "short"
+duration: 6
 ---
 
 <div class="video-embed">

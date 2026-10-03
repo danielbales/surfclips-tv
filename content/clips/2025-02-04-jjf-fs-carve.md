@@ -6,6 +6,8 @@ video_id: "nFvjei-JblM"
 thumbnail: "https://i.ytimg.com/vi/nFvjei-JblM/maxresdefault.jpg"
 tags: ["john john florence", "how to frontside carve"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

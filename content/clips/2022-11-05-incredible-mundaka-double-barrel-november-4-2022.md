@@ -6,6 +6,8 @@ video_id: "WE6QObn92TA"
 thumbnail: "https://i.ytimg.com/vi/WE6QObn92TA/maxresdefault.jpg"
 tags: ["surfing mundaka", "surfing spain", "unedited surfing", "surf cam", "raw surfing", "double barrel", "kelly slater", "aritz aramburu", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 54
 ---
 
 <div class="video-embed">

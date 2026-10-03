@@ -6,6 +6,8 @@ video_id: "wiv3BoV2FUw"
 thumbnail: "https://i.ytimg.com/vi/wiv3BoV2FUw/maxresdefault.jpg"
 tags: ["surfing hurricane ian", "surfing south beach miami", "unedited surfing", "surf cam", "raw surfing", "REEF OR POINT OR BEACH break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 96
 ---
 
 <div class="video-embed">

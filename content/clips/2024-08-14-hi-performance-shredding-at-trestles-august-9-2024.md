@@ -6,6 +6,8 @@ video_id: "4pL4IDS6rT8"
 thumbnail: "https://i.ytimg.com/vi/4pL4IDS6rT8/maxresdefault.jpg"
 tags: ["surfing lower trestles", "surfing southern california", "tropical storm surf", "surf cam", "raw surfing", "john john florence", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 13
 ---
 
 <div class="video-embed">

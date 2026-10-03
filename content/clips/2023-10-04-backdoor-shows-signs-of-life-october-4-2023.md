@@ -6,6 +6,8 @@ video_id: "7MEWlOT1pyo"
 thumbnail: "https://i.ytimg.com/vi/7MEWlOT1pyo/maxresdefault.jpg"
 tags: ["surfing BACKDOOR PIPELINE", "unedited surfing", "NORTH SHORE SURF", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves", "surfline rewind"]
 type: "clips"
+clip_type: "short"
+duration: 50
 ---
 
 <div class="video-embed">

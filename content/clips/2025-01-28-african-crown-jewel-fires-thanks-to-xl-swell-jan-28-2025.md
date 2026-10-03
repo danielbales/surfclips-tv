@@ -6,6 +6,8 @@ video_id: "UMcCIWdfwr8"
 thumbnail: "https://i.ytimg.com/vi/UMcCIWdfwr8/maxresdefault.jpg"
 tags: ["Safi", "morroco surf", "perfect waves", "xl surf", "big wave surfing"]
 type: "clips"
+clip_type: "clip"
+duration: 101
 ---
 
 <div class="video-embed">

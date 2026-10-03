@@ -6,6 +6,8 @@ video_id: "y_8rd89D0oU"
 thumbnail: "https://i.ytimg.com/vi/y_8rd89D0oU/maxresdefault.jpg"
 tags: ["perfect wave", "ezekiel lau"]
 type: "clips"
+clip_type: "short"
+duration: 6
 ---
 
 <div class="video-embed">

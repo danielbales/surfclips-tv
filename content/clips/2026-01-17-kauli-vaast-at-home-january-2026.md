@@ -6,6 +6,8 @@ video_id: "f109NhR91as"
 thumbnail: "https://i.ytimg.com/vi/f109NhR91as/maxresdefault.jpg"
 tags: ["Top 10 Surf", "kauli vaast", "Blaise Booth"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

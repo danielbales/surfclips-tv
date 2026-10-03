@@ -6,6 +6,8 @@ video_id: "mjh3vTvu8hY"
 thumbnail: "https://i.ytimg.com/vi/mjh3vTvu8hY/maxresdefault.jpg"
 tags: ["surfing portugal", "surfing nazare", "unedited surfing", "surf cam", "raw surfing", "lucas chumbo", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

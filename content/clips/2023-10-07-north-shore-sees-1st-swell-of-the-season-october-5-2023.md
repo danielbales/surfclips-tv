@@ -6,6 +6,8 @@ video_id: "xykRuRjGSEI"
 thumbnail: "https://i.ytimg.com/vi/xykRuRjGSEI/maxresdefault.jpg"
 tags: ["surfing rocky point", "north shore surf", "surf cam", "john john florence", "ocean", "waves", "surfline rewind", "good to epic", "perfect surf", "surf video"]
 type: "clips"
+clip_type: "clip"
+duration: 84
 ---
 
 <div class="video-embed">

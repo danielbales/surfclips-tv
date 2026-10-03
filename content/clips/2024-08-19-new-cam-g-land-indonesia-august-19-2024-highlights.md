@@ -6,6 +6,8 @@ video_id: "w1U8o85ae2I"
 thumbnail: "https://i.ytimg.com/vi/w1U8o85ae2I/maxresdefault.jpg"
 tags: ["surfing java", "surfing g-land", "unedited surfing", "surf cam", "raw surfing", "gerry lopez", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 50
 ---
 
 <div class="video-embed">

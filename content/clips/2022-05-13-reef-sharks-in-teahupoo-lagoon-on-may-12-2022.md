@@ -6,6 +6,8 @@ video_id: "Lr1Gadf2zBM"
 thumbnail: "https://i.ytimg.com/vi/Lr1Gadf2zBM/maxresdefault.jpg"
 tags: ["reef sharks white tip tahiti", "tahiti sharks", "teahupoo", "ocean", "sharks", "good to epic"]
 type: "clips"
+clip_type: "short"
+duration: 58
 ---
 
 <div class="video-embed">

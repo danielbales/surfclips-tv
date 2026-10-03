@@ -6,6 +6,8 @@ video_id: "YSrs30rYOmo"
 thumbnail: "https://i.ytimg.com/vi/YSrs30rYOmo/maxresdefault.jpg"
 tags: ["surfing 2023 pipeline masters", "unedited surfing", "surf cam", "raw surfing", "harry bryant", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "short"
+duration: 11
 ---
 
 <div class="video-embed">

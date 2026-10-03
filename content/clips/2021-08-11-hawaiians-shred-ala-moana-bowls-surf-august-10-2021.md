@@ -6,6 +6,8 @@ video_id: "-ZrvhAiVSAc"
 thumbnail: "https://i.ytimg.com/vi/-ZrvhAiVSAc/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing ala moana bowls", "unedited surfing", "surfing waikiki", "relaxing ocean", "raw surfing", "REEF break surfing", "kelly slater", "ocean meditation", "sleep music"]
 type: "clips"
+clip_type: "clip"
+duration: 135
 ---
 
 <div class="video-embed">

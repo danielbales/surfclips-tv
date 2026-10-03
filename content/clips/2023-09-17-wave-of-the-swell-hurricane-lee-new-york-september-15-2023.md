@@ -6,6 +6,8 @@ video_id: "kSUxbsuRNaM"
 thumbnail: "https://i.ytimg.com/vi/kSUxbsuRNaM/maxresdefault.jpg"
 tags: ["hurricane lee lide beach", "hurricane lee surf"]
 type: "clips"
+clip_type: "short"
+duration: 46
 ---
 
 <div class="video-embed">

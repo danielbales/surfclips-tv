@@ -6,6 +6,8 @@ video_id: "xjwy7MhGPbo"
 thumbnail: "https://i.ytimg.com/vi/xjwy7MhGPbo/maxresdefault.jpg"
 tags: ["john florence", "baron mamiya", "jamie o'brien surf", "mason ho"]
 type: "clips"
+clip_type: "clip"
+duration: 101
 ---
 
 <div class="video-embed">

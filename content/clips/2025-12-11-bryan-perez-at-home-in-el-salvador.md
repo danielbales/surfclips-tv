@@ -6,6 +6,8 @@ video_id: "wywRm6zteqI"
 thumbnail: "https://i.ytimg.com/vi/wywRm6zteqI/maxresdefault.jpg"
 tags: ["Top 10 Surf", "perfect wave", "bryan perez"]
 type: "clips"
+clip_type: "short"
+duration: 11
 ---
 
 <div class="video-embed">

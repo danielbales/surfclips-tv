@@ -6,6 +6,8 @@ video_id: "JWpLOdifJ2o"
 thumbnail: "https://i.ytimg.com/vi/JWpLOdifJ2o/maxresdefault.jpg"
 tags: ["surfing rocky point", "surfing hawaii", "unedited surfing", "surf cam", "raw surfing", "john john florence", "mason ho", "baron mamiya", "koa rothman", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 76
 ---
 
 <div class="video-embed">

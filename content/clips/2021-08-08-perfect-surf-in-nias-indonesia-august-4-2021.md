@@ -6,6 +6,8 @@ video_id: "2R0PfApZveE"
 thumbnail: "https://i.ytimg.com/vi/2R0PfApZveE/maxresdefault.jpg"
 tags: ["surfing big waves", "surfing nias", "mentawais surf", "kelly slater", "surfing indonesia", "surfer", "surfing", "waves", "surfboard", "raw surf"]
 type: "clips"
+clip_type: "clip"
+duration: 145
 ---
 
 <div class="video-embed">

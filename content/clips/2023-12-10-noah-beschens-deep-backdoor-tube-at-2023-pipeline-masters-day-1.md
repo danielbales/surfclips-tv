@@ -6,6 +6,8 @@ video_id: "gF7X6HLZatk"
 thumbnail: "https://i.ytimg.com/vi/gF7X6HLZatk/maxresdefault.jpg"
 tags: ["surfing 2023 pipeline masters", "unedited surfing", "surf cam", "raw surfing", "noah beschen", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "short"
+duration: 39
 ---
 
 <div class="video-embed">

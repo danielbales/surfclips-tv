@@ -6,6 +6,8 @@ video_id: "cNayI1EB7ng"
 thumbnail: "https://i.ytimg.com/vi/cNayI1EB7ng/maxresdefault.jpg"
 tags: ["surfing australia", "surfing little avalon", "sydney surfing", "julian wilson", "owen wright", "REEF break surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 137
 ---
 
 <div class="video-embed">

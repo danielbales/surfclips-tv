@@ -6,6 +6,8 @@ video_id: "T5W-TjTnKPg"
 thumbnail: "https://i.ytimg.com/vi/T5W-TjTnKPg/maxresdefault.jpg"
 tags: ["hurricane lee surf new york", "lido beach surf"]
 type: "clips"
+clip_type: "clip"
+duration: 71
 ---
 
 <div class="video-embed">

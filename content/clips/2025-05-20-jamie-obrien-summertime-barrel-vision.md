@@ -6,6 +6,8 @@ video_id: "SWE4Nozt4W8"
 thumbnail: "https://i.ytimg.com/vi/SWE4Nozt4W8/maxresdefault.jpg"
 tags: ["pov surf"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "Bnm_pga705c"
 thumbnail: "https://i.ytimg.com/vi/Bnm_pga705c/maxresdefault.jpg"
 tags: ["surfing big waves", "surfing padang padang", "bali surf", "kelly slater", "surfing indonesia", "rusty long", "surfer", "surfing", "waves", "surfboard"]
 type: "clips"
+clip_type: "clip"
+duration: 122
 ---
 
 <div class="video-embed">

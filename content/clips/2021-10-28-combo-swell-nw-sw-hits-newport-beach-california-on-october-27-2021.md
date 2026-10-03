@@ -6,6 +6,8 @@ video_id: "0IXlc6-abzI"
 thumbnail: "https://i.ytimg.com/vi/0IXlc6-abzI/maxresdefault.jpg"
 tags: ["surfing california", "surfing 56th street newport beach", "unedited surfing", "surf cam", "raw surfing", "BEACH break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 106
 ---
 
 <div class="video-embed">

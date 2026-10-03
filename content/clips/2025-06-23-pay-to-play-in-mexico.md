@@ -6,6 +6,8 @@ video_id: "eZJeOe5JfOg"
 thumbnail: "https://i.ytimg.com/vi/eZJeOe5JfOg/maxresdefault.jpg"
 tags: ["Top 10 surf", "perfect wave", "puerto escondido", "xl surf"]
 type: "clips"
+clip_type: "short"
+duration: 11
 ---
 
 <div class="video-embed">

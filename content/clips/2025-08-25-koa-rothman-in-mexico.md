@@ -3,9 +3,11 @@ title: "Koa Rothman in Mexico"
 date: 2025-08-25T03:27:28Z
 draft: false
 video_id: "HMiXC03Xwlc"
-thumbnail: "https://i9.ytimg.com/vi/HMiXC03Xwlc/maxresdefault.jpg?sqp=CKjRgdYG&rs=AOn4CLBDCf5Pyu0YSotLRXanmZwWAhgnfA"
+thumbnail: "https://i9.ytimg.com/vi/HMiXC03Xwlc/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLAVvvIyMxsyutYM5bmVDQAINQ6efw"
 tags: ["Top 10 Surf", "perfect surf", "pascuales", "koa rothman"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

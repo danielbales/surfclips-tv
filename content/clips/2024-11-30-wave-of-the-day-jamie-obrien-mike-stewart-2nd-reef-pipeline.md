@@ -6,6 +6,8 @@ video_id: "CaDhH9P7lHU"
 thumbnail: "https://i.ytimg.com/vi/CaDhH9P7lHU/maxresdefault.jpg"
 tags: ["surf", "surfline", "surfing", "waves", "jamie obrien", "Mike stewart", "JOB", "Pipeline", "North Shore", "Party Wave"]
 type: "clips"
+clip_type: "clip"
+duration: 77
 ---
 
 <div class="video-embed">

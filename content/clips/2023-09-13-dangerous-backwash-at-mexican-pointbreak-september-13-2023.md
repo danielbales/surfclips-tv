@@ -6,6 +6,8 @@ video_id: "uG8aMhhQkxE"
 thumbnail: "https://i.ytimg.com/vi/uG8aMhhQkxE/maxresdefault.jpg"
 tags: ["surfing mexico", "xl surf", "xl puerto Escondido", "ocean waves with sound", "big surf", "ocean", "waves", "surfline rewind", "good to epic", "perfect surf"]
 type: "clips"
+clip_type: "short"
+duration: 58
 ---
 
 <div class="video-embed">

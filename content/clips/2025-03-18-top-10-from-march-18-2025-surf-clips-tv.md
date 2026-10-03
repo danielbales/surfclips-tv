@@ -6,6 +6,8 @@ video_id: "U8DPTCzJgAY"
 thumbnail: "https://i.ytimg.com/vi/U8DPTCzJgAY/maxresdefault.jpg"
 tags: ["top 10 surf", "pipeline", "jack robinson", "tosh tudor", "nate florence", "alex gray"]
 type: "clips"
+clip_type: "top10"
+duration: 156
 ---
 
 <div class="video-embed">

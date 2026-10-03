@@ -6,6 +6,8 @@ video_id: "WT3TGautmaU"
 thumbnail: "https://i.ytimg.com/vi/WT3TGautmaU/maxresdefault.jpg"
 tags: ["eli hanneman", "trestles surf"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

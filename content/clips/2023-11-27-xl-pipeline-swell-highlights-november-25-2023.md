@@ -6,6 +6,8 @@ video_id: "TDW0mKQY6ZA"
 thumbnail: "https://i.ytimg.com/vi/TDW0mKQY6ZA/maxresdefault.jpg"
 tags: ["surfing xl north shore surf", "surfing pipeline xl", "kelly slater", "surf cam", "raw surfing", "mason ho", "jamie obrien", "job", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 113
 ---
 
 <div class="video-embed">

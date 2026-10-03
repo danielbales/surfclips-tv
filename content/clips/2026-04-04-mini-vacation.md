@@ -6,6 +6,8 @@ video_id: "13CrPG-dUHY"
 thumbnail: "https://i.ytimg.com/vi/13CrPG-dUHY/maxresdefault.jpg"
 tags: ["wilbur kookmeyer"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

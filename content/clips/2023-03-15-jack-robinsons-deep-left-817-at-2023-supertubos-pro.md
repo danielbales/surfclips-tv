@@ -6,6 +6,8 @@ video_id: "oIJnFGr4js8"
 thumbnail: "https://i.ytimg.com/vi/oIJnFGr4js8/maxresdefault.jpg"
 tags: ["surfing portugal", "surfing 2023 supertubos pro", "unedited surfing", "surf cam", "raw surfing", "jack robinson", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 42
 ---
 
 <div class="video-embed">

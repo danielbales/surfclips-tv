@@ -6,6 +6,8 @@ video_id: "pEKQICISQcY"
 thumbnail: "https://i.ytimg.com/vi/pEKQICISQcY/maxresdefault.jpg"
 tags: ["surfing tahiti", "surfing teahupoo", "unedited surfing", "surf cam", "xl surfing", "nate florence", "ocean waves with sound", "big surf", "ocean", "waves"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

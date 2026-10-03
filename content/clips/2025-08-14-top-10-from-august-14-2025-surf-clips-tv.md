@@ -6,6 +6,8 @@ video_id: "BUHGX0bVY7U"
 thumbnail: "https://i.ytimg.com/vi/BUHGX0bVY7U/sddefault.jpg"
 tags: ["Top 10 Surf", "Oahu Surf Films", "Raw Surf Files", "Liquide", "Surf Visions", "Cam Richards", "Chapter 11", "William Aliotti"]
 type: "clips"
+clip_type: "top10"
+duration: 168
 ---
 
 <div class="video-embed">

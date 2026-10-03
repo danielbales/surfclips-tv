@@ -6,6 +6,8 @@ video_id: "oZ13J1---nI"
 thumbnail: "https://i.ytimg.com/vi/oZ13J1---nI/maxresdefault.jpg"
 tags: ["surfing mexico", "surfing puerto escondido", "unedited surfing", "surf cam", "raw surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 35
 ---
 
 <div class="video-embed">

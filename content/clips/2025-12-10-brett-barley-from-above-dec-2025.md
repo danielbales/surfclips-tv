@@ -6,6 +6,8 @@ video_id: "Cj0qlKIp4Ew"
 thumbnail: "https://i.ytimg.com/vi/Cj0qlKIp4Ew/maxresdefault.jpg"
 tags: ["Top 10 Surf", "perfect wave", "outer banks surf", "brett barley"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

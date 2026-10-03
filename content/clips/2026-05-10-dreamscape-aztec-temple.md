@@ -6,6 +6,8 @@ video_id: "uQ-CXmMVGYQ"
 thumbnail: "https://i.ytimg.com/vi/uQ-CXmMVGYQ/maxresdefault.jpg"
 tags: ["wilbur kookmeyer", "aztec"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "IUSAoCgg-pM"
 thumbnail: "https://i.ytimg.com/vi/IUSAoCgg-pM/maxresdefault.jpg"
 tags: ["Top 10 Surf", "perfect wave", "Cristian Merello"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

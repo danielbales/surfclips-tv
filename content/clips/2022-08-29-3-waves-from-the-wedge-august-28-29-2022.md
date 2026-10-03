@@ -6,6 +6,8 @@ video_id: "Wo6AAADeziU"
 thumbnail: "https://i.ytimg.com/vi/Wo6AAADeziU/maxresdefault.jpg"
 tags: ["surfing southern california", "surfing the wedge", "unedited surfing", "surf cam", "raw surfing", "orange county surf", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 47
 ---
 
 <div class="video-embed">

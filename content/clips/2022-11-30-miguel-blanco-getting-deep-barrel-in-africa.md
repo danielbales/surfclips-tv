@@ -6,6 +6,8 @@ video_id: "hzoT_ez6oeY"
 thumbnail: "https://i.ytimg.com/vi/hzoT_ez6oeY/maxresdefault.jpg"
 tags: ["miguel blanco", "safi morocco", "wave of the day"]
 type: "clips"
+clip_type: "short"
+duration: 12
 ---
 
 <div class="video-embed">

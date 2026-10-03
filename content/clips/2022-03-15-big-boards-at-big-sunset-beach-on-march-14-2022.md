@@ -6,6 +6,8 @@ video_id: "WEZ6kN_qLnc"
 thumbnail: "https://i.ytimg.com/vi/WEZ6kN_qLnc/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing sunset beach", "unedited surfing", "surf cam", "raw surfing", "north shore surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 72
 ---
 
 <div class="video-embed">

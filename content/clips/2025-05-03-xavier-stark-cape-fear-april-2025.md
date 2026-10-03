@@ -6,6 +6,8 @@ video_id: "Jma6M8seE4U"
 thumbnail: "https://i.ytimg.com/vi/Jma6M8seE4U/maxresdefault.jpg"
 tags: ["cape solander", "ours surf", "xl surf", "cape fear", "xavier stark"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

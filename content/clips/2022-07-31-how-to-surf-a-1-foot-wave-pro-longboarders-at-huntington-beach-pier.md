@@ -6,6 +6,8 @@ video_id: "zGzfuL5lfyA"
 thumbnail: "https://i.ytimg.com/vi/zGzfuL5lfyA/maxresdefault.jpg"
 tags: ["surfing california", "surfing huntington beach", "unedited surfing", "surf cam", "raw surfing", "us open of surfing 2022", "honolua blomfield", "harrison roach", "joel tudor", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 139
 ---
 
 <div class="video-embed">

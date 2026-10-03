@@ -3,9 +3,11 @@ title: "Western Australia pit"
 date: 2025-07-29T07:00:47Z
 draft: false
 video_id: "oSpthyLoJZE"
-thumbnail: "https://i9.ytimg.com/vi/oSpthyLoJZE/maxresdefault.jpg?sqp=CKjRgdYG&rs=AOn4CLBqMSNepHD8BLt81-hy9kPy9X0cLA"
+thumbnail: "https://i9.ytimg.com/vi/oSpthyLoJZE/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLCvIXPCeM8XNluny-s4lkjhZaXCRA"
 tags: ["Top 10 Surf", "perfect surf", "yallingup surf"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

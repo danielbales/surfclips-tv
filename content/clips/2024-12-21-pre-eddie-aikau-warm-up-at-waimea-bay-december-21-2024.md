@@ -6,6 +6,8 @@ video_id: "s6XbJWUg2ak"
 thumbnail: "https://i.ytimg.com/vi/s6XbJWUg2ak/maxresdefault.jpg"
 tags: ["2024 eddie aikau big wave invitational", "waimea bay surf"]
 type: "clips"
+clip_type: "clip"
+duration: 68
 ---
 
 <div class="video-embed">

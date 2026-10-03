@@ -6,6 +6,8 @@ video_id: "NAxPVLsj3jY"
 thumbnail: "https://i.ytimg.com/vi/NAxPVLsj3jY/maxresdefault.jpg"
 tags: ["Top 10 Surf", "perfect wave", "jaws surf", "albee layer"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

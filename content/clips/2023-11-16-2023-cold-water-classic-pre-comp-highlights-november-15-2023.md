@@ -6,6 +6,8 @@ video_id: "7gKnz4IFEfc"
 thumbnail: "https://i.ytimg.com/vi/7gKnz4IFEfc/maxresdefault.jpg"
 tags: ["2023 Cold Water Classic", "surfing steamer lane", "unedited surfing", "surf cam", "shaun burns", "ian crane", "jacob zkely", "keanu igarashi", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 76
 ---
 
 <div class="video-embed">

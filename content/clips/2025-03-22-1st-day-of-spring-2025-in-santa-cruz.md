@@ -6,6 +6,8 @@ video_id: "ZgKDJ5YJ43M"
 thumbnail: "https://i.ytimg.com/vi/ZgKDJ5YJ43M/maxresdefault.jpg"
 tags: ["spring surf", "santa cruz surf", "steamer lane surf"]
 type: "clips"
+clip_type: "clip"
+duration: 83
 ---
 
 <div class="video-embed">

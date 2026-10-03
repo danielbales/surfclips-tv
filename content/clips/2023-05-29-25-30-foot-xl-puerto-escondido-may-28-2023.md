@@ -6,6 +6,8 @@ video_id: "5e5z6W0AFtE"
 thumbnail: "https://i.ytimg.com/vi/5e5z6W0AFtE/maxresdefault.jpg"
 tags: ["surfing mexico", "surfing puerto escondido", "xl surf", "big wave surfing", "raw surfing", "nathan florence", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 108
 ---
 
 <div class="video-embed">

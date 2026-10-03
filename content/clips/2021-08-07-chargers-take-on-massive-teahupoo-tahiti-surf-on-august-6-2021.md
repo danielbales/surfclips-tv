@@ -6,6 +6,8 @@ video_id: "fWaUpwvsSGs"
 thumbnail: "https://i.ytimg.com/vi/fWaUpwvsSGs/maxresdefault.jpg"
 tags: ["surfing tahiti", "surfing teahupoo", "unedited surfing", "ocean sounds", "relaxing ocean", "raw surfing", "REEF break surfing", "kelly slater", "ocean meditation", "mental health"]
 type: "clips"
+clip_type: "clip"
+duration: 162
 ---
 
 <div class="video-embed">

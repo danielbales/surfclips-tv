@@ -6,6 +6,8 @@ video_id: "tNhjRl5pldQ"
 thumbnail: "https://i.ytimg.com/vi/tNhjRl5pldQ/maxresdefault.jpg"
 tags: ["surfing europe", "surfing mundaka", "surf cam", "aritz aramburu", "big surf", "ocean", "waves", "surfline rewind", "perfect surf", "surf video"]
 type: "clips"
+clip_type: "clip"
+duration: 108
 ---
 
 <div class="video-embed">

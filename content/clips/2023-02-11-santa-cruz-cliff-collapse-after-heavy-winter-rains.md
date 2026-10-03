@@ -6,6 +6,8 @@ video_id: "ViTKf0rhELg"
 thumbnail: "https://i.ytimg.com/vi/ViTKf0rhELg/maxresdefault.jpg"
 tags: ["steamer lane cliff collapse", "santa cruz california"]
 type: "clips"
+clip_type: "short"
+duration: 54
 ---
 
 <div class="video-embed">

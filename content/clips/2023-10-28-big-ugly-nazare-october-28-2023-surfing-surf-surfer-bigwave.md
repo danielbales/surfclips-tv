@@ -6,6 +6,8 @@ video_id: "bpQ_YCQTxig"
 thumbnail: "https://i.ytimg.com/vi/bpQ_YCQTxig/maxresdefault.jpg"
 tags: ["surfing nazare", "surfing portugal", "unedited surfing", "surf cam", "raw surfing", "big wave surfing", "nic von rupp", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

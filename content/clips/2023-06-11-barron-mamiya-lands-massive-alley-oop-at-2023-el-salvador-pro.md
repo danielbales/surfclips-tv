@@ -6,6 +6,8 @@ video_id: "KlRmCQhnlu4"
 thumbnail: "https://i.ytimg.com/vi/KlRmCQhnlu4/maxresdefault.jpg"
 tags: ["surfing el salvador", "2023 el salvador pro", "unedited surfing", "surf cam", "raw surfing", "baron mamiya", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 67
 ---
 
 <div class="video-embed">

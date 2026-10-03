@@ -6,6 +6,8 @@ video_id: "IbLjZ2PnuUc"
 thumbnail: "https://i.ytimg.com/vi/IbLjZ2PnuUc/maxresdefault.jpg"
 tags: ["surfing southern california", "surfing the wedge", "unedited surfing", "surf cam", "raw surfing", "orange county surf", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 57
 ---
 
 <div class="video-embed">

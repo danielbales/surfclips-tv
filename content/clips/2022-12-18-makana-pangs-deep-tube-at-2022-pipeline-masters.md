@@ -6,6 +6,8 @@ video_id: "tBZtP2mxNTs"
 thumbnail: "https://i.ytimg.com/vi/tBZtP2mxNTs/maxresdefault.jpg"
 tags: ["2022 pipeline masters", "bonzai pipeline", "unedited surfing", "surf cam", "raw surfing", "makana pang", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 32
 ---
 
 <div class="video-embed">

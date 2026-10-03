@@ -6,6 +6,8 @@ video_id: "p3S953wYcwc"
 thumbnail: "https://i.ytimg.com/vi/p3S953wYcwc/maxresdefault.jpg"
 tags: ["surfing mexico", "big wave surfing puerto escondido", "unedited surfing", "surf cam", "raw surfing", "jamie mitchell", "greg long", "kai lenny", "nate florence", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 36
 ---
 
 <div class="video-embed">

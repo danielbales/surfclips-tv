@@ -6,6 +6,8 @@ video_id: "l9SuG6vELEs"
 thumbnail: "https://i.ytimg.com/vi/l9SuG6vELEs/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing 2022 pipeline masters", "unedited surfing", "surf cam", "raw surfing", "bonzai pipeline", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 37
 ---
 
 <div class="video-embed">

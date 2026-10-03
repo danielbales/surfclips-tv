@@ -6,6 +6,8 @@ video_id: "TA3RQy5qW9A"
 thumbnail: "https://i.ytimg.com/vi/TA3RQy5qW9A/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing ala moana bowls", "unedited surfing", "surf cam", "raw surfing", "south shore surfing", "ezekiel lau", "seth moniz", "josh moniz", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 391
 ---
 
 <div class="video-embed">

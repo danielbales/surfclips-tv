@@ -6,6 +6,8 @@ video_id: "fHzYSajxrKU"
 thumbnail: "https://i.ytimg.com/vi/fHzYSajxrKU/maxresdefault.jpg"
 tags: ["Top 10 Surf", "perfect wave", "Jo\u00e3o Mendon\u00e7a", "the cave surf"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

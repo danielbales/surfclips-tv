@@ -6,6 +6,8 @@ video_id: "WU5F--0AafI"
 thumbnail: "https://i.ytimg.com/vi/WU5F--0AafI/maxresdefault.jpg"
 tags: ["Morocco surfing", "surfing safi", "unedited surfing", "surf cam", "matt bromley", "michael february", "outhmane chaoufani", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

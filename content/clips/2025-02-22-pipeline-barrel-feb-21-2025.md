@@ -6,6 +6,8 @@ video_id: "Ar1QfhA3J34"
 thumbnail: "https://i.ytimg.com/vi/Ar1QfhA3J34/maxresdefault.jpg"
 tags: ["pipeline surf", "john florence"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "u4DxlPvPUIQ"
 thumbnail: "https://i.ytimg.com/vi/u4DxlPvPUIQ/maxresdefault.jpg"
 tags: ["surfing pipeline", "surfing xl pipeline", "unedited surfing", "surf cam", "raw surfing", "mike stewart", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 48
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "K_zjOqwqx1U"
 thumbnail: "https://i.ytimg.com/vi/K_zjOqwqx1U/maxresdefault.jpg"
 tags: ["Top 10 surf", "perfect wave", "yan daberkow"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

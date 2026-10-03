@@ -3,9 +3,11 @@ title: "[2/5] Surfing PERFECT waves at Las Flores, El Salvador | June 30, 2021"
 date: 2021-07-09T09:04:57Z
 draft: false
 video_id: "i1aV3PeK24A"
-thumbnail: "https://i9.ytimg.com/vi/i1aV3PeK24A/maxresdefault.jpg?sqp=CKjRgdYG&rs=AOn4CLAZhp5gngln4EJeJ0Z1uoc7TpSdfw"
+thumbnail: "https://i9.ytimg.com/vi/i1aV3PeK24A/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLDmZzwbbpULWbgthK6V9-LbOr5MLg"
 tags: ["worldwide waves", "surfing big waves", "surfing el salvador", "surfing las flores", "unedited surfing", "ocean sounds", "relaxing ocean", "raw surfing", "point break surfing", "kelly slater"]
 type: "clips"
+clip_type: "clip"
+duration: 4205
 ---
 
 <div class="video-embed">

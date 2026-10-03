@@ -6,6 +6,8 @@ video_id: "L0wSUXGqGrI"
 thumbnail: "https://i.ytimg.com/vi/L0wSUXGqGrI/maxresdefault.jpg"
 tags: ["2nd reef pipeline", "xl pipeline", "big wave surfing"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

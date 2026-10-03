@@ -6,6 +6,8 @@ video_id: "6vm5HBWeOqQ"
 thumbnail: "https://i.ytimg.com/vi/6vm5HBWeOqQ/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing three's", "unedited surfing", "surf cam", "raw surfing", "south shore surf", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 107
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "BL0W0kYHhT0"
 thumbnail: "https://i.ytimg.com/vi/BL0W0kYHhT0/maxresdefault.jpg"
 tags: ["surfing bali", "surfing uluwatu", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 141
 ---
 
 <div class="video-embed">

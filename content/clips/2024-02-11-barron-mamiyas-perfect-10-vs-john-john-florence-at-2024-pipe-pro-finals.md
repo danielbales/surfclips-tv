@@ -6,6 +6,8 @@ video_id: "_4mpT5NFQpw"
 thumbnail: "https://i.ytimg.com/vi/_4mpT5NFQpw/maxresdefault.jpg"
 tags: ["2024 pipe pro", "john john florence", "barron mamiya", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "short"
+duration: 40
 ---
 
 <div class="video-embed">

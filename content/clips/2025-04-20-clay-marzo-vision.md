@@ -6,6 +6,8 @@ video_id: "dF6jyl6jDEw"
 thumbnail: "https://i.ytimg.com/vi/dF6jyl6jDEw/maxresdefault.jpg"
 tags: ["clay marzo", "maui surf"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "C3clBjAh6GY"
 thumbnail: "https://i.ytimg.com/vi/C3clBjAh6GY/maxresdefault.jpg"
 tags: ["john john florence", "backdoor pipeline", "north shore hawaii surf"]
 type: "clips"
+clip_type: "short"
+duration: 11
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "L10zZ2J1Oq8"
 thumbnail: "https://i.ytimg.com/vi/L10zZ2J1Oq8/maxresdefault.jpg"
 tags: ["surfing indonesia", "surfing padang padang", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "rizal tanjung", "lee smith", "chris ward", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 72
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "VEmwOWOXY2I"
 thumbnail: "https://i.ytimg.com/vi/VEmwOWOXY2I/maxresdefault.jpg"
 tags: ["kelly slater", "2025 pipeline masters"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

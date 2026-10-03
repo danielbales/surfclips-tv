@@ -6,6 +6,8 @@ video_id: "0MIiXWN5gKE"
 thumbnail: "https://i.ytimg.com/vi/0MIiXWN5gKE/maxresdefault.jpg"
 tags: ["Hurricane Franklin", "surfing", "florida", "waves", "hurricane swell", "east coast of florida", "surfers", "new smyrna beach"]
 type: "clips"
+clip_type: "clip"
+duration: 87
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "Ejvy9uLHkAg"
 thumbnail: "https://i.ytimg.com/vi/Ejvy9uLHkAg/maxresdefault.jpg"
 tags: ["surfing mexico baja", "surfing k-38 baja", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 85
 ---
 
 <div class="video-embed">

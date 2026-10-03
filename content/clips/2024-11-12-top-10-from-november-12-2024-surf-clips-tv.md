@@ -6,6 +6,8 @@ video_id: "IRua5qbO3kc"
 thumbnail: "https://i.ytimg.com/vi/IRua5qbO3kc/maxresdefault.jpg"
 tags: ["top 10 surf", "john john florence", "taj burrow", "jamie obrien", "south side big island surf", "clay marzo", "abu dhabi surf"]
 type: "clips"
+clip_type: "top10"
+duration: 168
 ---
 
 <div class="video-embed">

@@ -3,9 +3,11 @@ title: "Teahupo'o ride of a lifetime - Matahi Drollet"
 date: 2025-07-31T02:45:55Z
 draft: false
 video_id: "2W0K7XJEntE"
-thumbnail: "https://i9.ytimg.com/vi/2W0K7XJEntE/maxresdefault.jpg?sqp=CKjRgdYG&rs=AOn4CLB2oFp7uK9ejFwoCIkCWh6saPU8BA"
+thumbnail: "https://i9.ytimg.com/vi/2W0K7XJEntE/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLAbzhsf5zkvlpquEZGJTr_Xkf-15A"
 tags: ["Top 10 Surf", "perfect surf", "Matahi Drollet", "teahupoo surf"]
 type: "clips"
+clip_type: "short"
+duration: 15
 ---
 
 <div class="video-embed">

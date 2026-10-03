@@ -6,6 +6,8 @@ video_id: "YT3yRf8E4Y0"
 thumbnail: "https://i.ytimg.com/vi/YT3yRf8E4Y0/maxresdefault.jpg"
 tags: ["nathan florence", "puerto escondido surf", "surf pov"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

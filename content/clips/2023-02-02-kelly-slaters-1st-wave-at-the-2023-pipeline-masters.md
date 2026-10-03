@@ -6,6 +6,8 @@ video_id: "CDta_VNY0H4"
 thumbnail: "https://i.ytimg.com/vi/CDta_VNY0H4/maxresdefault.jpg"
 tags: ["kelly slater", "2023 pipeline masters"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

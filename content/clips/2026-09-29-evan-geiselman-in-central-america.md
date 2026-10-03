@@ -6,6 +6,8 @@ video_id: "sodx9dX8aaI"
 thumbnail: "https://i.ytimg.com/vi/sodx9dX8aaI/maxresdefault.jpg"
 tags: ["surf highlight", "Evan Geiselman", "panama surf"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

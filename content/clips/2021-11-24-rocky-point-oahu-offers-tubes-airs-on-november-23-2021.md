@@ -6,6 +6,8 @@ video_id: "XjhryIIDJ9s"
 thumbnail: "https://i.ytimg.com/vi/XjhryIIDJ9s/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing rocky point", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 190
 ---
 
 <div class="video-embed">

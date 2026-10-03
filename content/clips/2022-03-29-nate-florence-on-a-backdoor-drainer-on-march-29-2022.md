@@ -6,6 +6,8 @@ video_id: "bY2DB4sBSKw"
 thumbnail: "https://i.ytimg.com/vi/bY2DB4sBSKw/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing backdoor pipeline", "unedited surfing", "surf cam", "raw surfing", "north shore surfing", "nathan florence", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 40
 ---
 
 <div class="video-embed">

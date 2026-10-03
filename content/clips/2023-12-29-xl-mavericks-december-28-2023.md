@@ -6,6 +6,8 @@ video_id: "wgrgXp776oU"
 thumbnail: "https://i.ytimg.com/vi/wgrgXp776oU/maxresdefault.jpg"
 tags: ["xl mavericks california", "surfing Mavericks", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "clip"
+duration: 66
 ---
 
 <div class="video-embed">

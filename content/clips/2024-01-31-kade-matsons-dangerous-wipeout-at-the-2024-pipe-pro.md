@@ -6,6 +6,8 @@ video_id: "HWfwdnyCU_c"
 thumbnail: "https://i.ytimg.com/vi/HWfwdnyCU_c/maxresdefault.jpg"
 tags: ["2024 pipe pro", "unedited surfing", "surf cam", "raw surfing", "surf wipeout", "kade matson", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 38
 ---
 
 <div class="video-embed">

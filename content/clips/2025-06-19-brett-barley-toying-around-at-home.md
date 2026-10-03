@@ -6,6 +6,8 @@ video_id: "bAKW813Bcv4"
 thumbnail: "https://i.ytimg.com/vi/bAKW813Bcv4/maxresdefault.jpg"
 tags: ["Top 10 surf", "outer banks surf", "brett barley"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

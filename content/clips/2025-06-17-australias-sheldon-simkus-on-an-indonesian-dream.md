@@ -6,6 +6,8 @@ video_id: "JyqdRfzEPTk"
 thumbnail: "https://i.ytimg.com/vi/JyqdRfzEPTk/maxresdefault.jpg"
 tags: ["Top 10 surf", "sheldon simkus", "perfect wave"]
 type: "clips"
+clip_type: "short"
+duration: 6
 ---
 
 <div class="video-embed">

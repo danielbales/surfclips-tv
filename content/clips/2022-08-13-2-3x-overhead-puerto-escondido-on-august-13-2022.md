@@ -6,6 +6,8 @@ video_id: "zdIgIE49XdY"
 thumbnail: "https://i.ytimg.com/vi/zdIgIE49XdY/maxresdefault.jpg"
 tags: ["surfing mexico", "surfing puerto escondido", "unedited surfing", "surf cam", "raw surfing", "big wave surfing", "coco nogales", "greg long", "rusty long", "jojo roper"]
 type: "clips"
+clip_type: "clip"
+duration: 89
 ---
 
 <div class="video-embed">

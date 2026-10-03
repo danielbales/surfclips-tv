@@ -6,6 +6,8 @@ video_id: "47i3qICODq8"
 thumbnail: "https://i.ytimg.com/vi/47i3qICODq8/maxresdefault.jpg"
 tags: ["surf backdoor", "surfing hawaii", "unedited surfing", "surf cam", "raw surfing", "north shore surf", "kelly slater", "jamie obrien", "john john florence", "mason ho"]
 type: "clips"
+clip_type: "clip"
+duration: 82
 ---
 
 <div class="video-embed">

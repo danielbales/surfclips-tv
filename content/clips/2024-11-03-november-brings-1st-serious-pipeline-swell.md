@@ -6,6 +6,8 @@ video_id: "k72fu-5viyc"
 thumbnail: "https://i.ytimg.com/vi/k72fu-5viyc/maxresdefault.jpg"
 tags: ["surfing hawaii", "unedited surfing", "surf cam", "raw surfing", "jamie obrien", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "clip"
+duration: 84
 ---
 
 <div class="video-embed">

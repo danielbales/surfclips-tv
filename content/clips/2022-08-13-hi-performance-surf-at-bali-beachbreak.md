@@ -6,6 +6,8 @@ video_id: "nyiImXvDyuY"
 thumbnail: "https://i.ytimg.com/vi/nyiImXvDyuY/maxresdefault.jpg"
 tags: ["surfing indonesia", "surfing canguu", "unedited surfing", "surf cam", "raw surfing", "BEACH break surfing", "rizal tanjung", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 71
 ---
 
 <div class="video-embed">

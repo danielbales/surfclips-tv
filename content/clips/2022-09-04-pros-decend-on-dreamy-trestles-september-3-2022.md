@@ -6,6 +6,8 @@ video_id: "Gy-SHys6PYs"
 thumbnail: "https://i.ytimg.com/vi/Gy-SHys6PYs/maxresdefault.jpg"
 tags: ["surfing lower trestles", "surfing southern california", "unedited surfing", "surf cam", "raw surfing", "POINT break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 147
 ---
 
 <div class="video-embed">

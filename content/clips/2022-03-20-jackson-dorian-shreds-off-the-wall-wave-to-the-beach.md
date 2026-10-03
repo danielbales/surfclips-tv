@@ -6,6 +6,8 @@ video_id: "gUUxUHmhR-Y"
 thumbnail: "https://i.ytimg.com/vi/gUUxUHmhR-Y/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing off the wall", "unedited surfing", "surf cam", "raw surfing", "jackson dorian", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 63
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "esO3k0fl-YE"
 thumbnail: "https://i.ytimg.com/vi/esO3k0fl-YE/maxresdefault.jpg"
 tags: ["wilbur kookmeyer", "surfboard", "ocean", "wave"]
 type: "clips"
+clip_type: "clip"
+duration: 98
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "9siqDbs1BVc"
 thumbnail: "https://i.ytimg.com/vi/9siqDbs1BVc/maxresdefault.jpg"
 tags: ["surfing the wedge", "novelty surf", "surf cam", "mason ho", "jamie obrien", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "short"
+duration: 42
 ---
 
 <div class="video-embed">

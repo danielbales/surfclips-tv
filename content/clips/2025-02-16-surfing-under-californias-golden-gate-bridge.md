@@ -6,6 +6,8 @@ video_id: "hqsiQ4G9o8U"
 thumbnail: "https://i.ytimg.com/vi/hqsiQ4G9o8U/maxresdefault.jpg"
 tags: ["san francisco bridge", "what to do in san francisco", "surfing under the golden gate bridge", "california", "san francisco surfing", "fort point surf", "bodyboarding", "raw surf", "surfing", "surfboard"]
 type: "clips"
+clip_type: "clip"
+duration: 603
 ---
 
 <div class="video-embed">

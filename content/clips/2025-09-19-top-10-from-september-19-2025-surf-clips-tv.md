@@ -6,6 +6,8 @@ video_id: "iujGaZri2s0"
 thumbnail: "https://i.ytimg.com/vi/iujGaZri2s0/sddefault.jpg"
 tags: ["Top 10 Surf", "John Mel", "Nate Florence", "Griffin Colapinto", "Blak Bear", "Kandui Villas Mentawai", "Surf Raw Files"]
 type: "clips"
+clip_type: "top10"
+duration: 181
 ---
 
 <div class="video-embed">

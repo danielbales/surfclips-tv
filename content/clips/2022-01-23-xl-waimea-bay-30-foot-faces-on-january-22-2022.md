@@ -6,6 +6,8 @@ video_id: "baQPo9KPQp4"
 thumbnail: "https://i.ytimg.com/vi/baQPo9KPQp4/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing waimea bay", "unedited surfing", "surf cam", "raw surfing", "big wave surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 120
 ---
 
 <div class="video-embed">

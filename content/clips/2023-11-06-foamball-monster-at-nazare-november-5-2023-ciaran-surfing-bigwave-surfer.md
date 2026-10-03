@@ -6,6 +6,8 @@ video_id: "IaGEooV2jW8"
 thumbnail: "https://i.ytimg.com/vi/IaGEooV2jW8/maxresdefault.jpg"
 tags: ["surfing ciaran", "nazare surf", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves"]
 type: "clips"
+clip_type: "short"
+duration: 11
 ---
 
 <div class="video-embed">

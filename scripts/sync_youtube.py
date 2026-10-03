@@ -132,6 +132,24 @@ def existing_video_ids():
     return ids
 
 
+def parse_duration(iso):
+    """Parse ISO 8601 duration (PT1H2M3S) to seconds."""
+    m = re.match(r"PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?", iso)
+    if not m:
+        return 0
+    h, mn, s = (int(x) if x else 0 for x in m.groups())
+    return h * 3600 + mn * 60 + s
+
+
+def classify_video(title, duration_secs):
+    """Classify video as 'short', 'top10', or 'clip'."""
+    if re.search(r"top\s*10", title, re.IGNORECASE):
+        return "top10"
+    if duration_secs <= 60:
+        return "short"
+    return "clip"
+
+
 def generate_page(video):
     """Generate a Hugo markdown page for a single YouTube video."""
     snippet = video["snippet"]
@@ -141,6 +159,10 @@ def generate_page(video):
     published = snippet["publishedAt"]  # ISO 8601
     tags = snippet.get("tags", [])
     thumbnails = snippet.get("thumbnails", {})
+    duration_secs = parse_duration(video["contentDetails"]["duration"])
+
+    # Classify
+    kind = classify_video(title, duration_secs)
 
     # Best thumbnail available
     thumb_url = ""
@@ -167,6 +189,8 @@ video_id: "{video_id}"
 thumbnail: "{thumb_url}"
 tags: {json.dumps(safe_tags)}
 type: "clips"
+clip_type: "{kind}"
+duration: {duration_secs}
 ---
 
 <div class="video-embed">

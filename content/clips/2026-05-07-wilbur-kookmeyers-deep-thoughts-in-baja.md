@@ -6,6 +6,8 @@ video_id: "_4fgttapCM0"
 thumbnail: "https://i.ytimg.com/vi/_4fgttapCM0/maxresdefault.jpg"
 tags: ["wilbur kookmeyer", "surfcomic", "claymation", "surfing", "baja california", "surf clips"]
 type: "clips"
+clip_type: "short"
+duration: 42
 ---
 
 <div class="video-embed">

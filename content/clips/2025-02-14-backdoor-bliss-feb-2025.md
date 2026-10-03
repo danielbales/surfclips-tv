@@ -6,6 +6,8 @@ video_id: "2A8U2uxShkw"
 thumbnail: "https://i.ytimg.com/vi/2A8U2uxShkw/maxresdefault.jpg"
 tags: ["backdoor surf"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

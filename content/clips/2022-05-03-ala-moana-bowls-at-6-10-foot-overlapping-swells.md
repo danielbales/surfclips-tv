@@ -6,6 +6,8 @@ video_id: "N1zc6X5-Cco"
 thumbnail: "https://i.ytimg.com/vi/N1zc6X5-Cco/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing ala moana bowls", "unedited surfing", "surf cam", "raw surfing", "waikiki surfing", "josh moniz", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 102
 ---
 
 <div class="video-embed">

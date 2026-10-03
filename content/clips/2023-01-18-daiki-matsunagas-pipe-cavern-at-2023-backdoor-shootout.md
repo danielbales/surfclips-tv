@@ -6,6 +6,8 @@ video_id: "ZVGYyeaZvvs"
 thumbnail: "https://i.ytimg.com/vi/ZVGYyeaZvvs/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing 2023 backdoor shootout", "unedited surfing", "surf cam", "raw surfing", "north shore surf", "daiki matsunaga", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 45
 ---
 
 <div class="video-embed">

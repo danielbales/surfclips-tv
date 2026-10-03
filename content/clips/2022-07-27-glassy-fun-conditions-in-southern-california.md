@@ -6,6 +6,8 @@ video_id: "QufRQwVLl8c"
 thumbnail: "https://i.ytimg.com/vi/QufRQwVLl8c/maxresdefault.jpg"
 tags: ["surfing california", "surfing lower trestles", "unedited surfing", "surf cam", "raw surfing", "POINT break surfing", "kolohe andino", "filipe toledo", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 107
 ---
 
 <div class="video-embed">

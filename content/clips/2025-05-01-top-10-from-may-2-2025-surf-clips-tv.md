@@ -6,6 +6,8 @@ video_id: "uVc-2J2EbTU"
 thumbnail: "https://i.ytimg.com/vi/uVc-2J2EbTU/maxresdefault.jpg"
 tags: ["top 10 surf", "zeke szekely", "nate florence", "rio waida", "the wedge", "cape solander", "ours surf", "xl surf", "desert point"]
 type: "clips"
+clip_type: "top10"
+duration: 151
 ---
 
 <div class="video-embed">

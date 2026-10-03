@@ -6,6 +6,8 @@ video_id: "pagv84ZwXEk"
 thumbnail: "https://i.ytimg.com/vi/pagv84ZwXEk/maxresdefault.jpg"
 tags: ["surfing spain", "surfing mundaka", "unedited surfing", "surf cam", "raw surfing", "euro POINT break surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 65
 ---
 
 <div class="video-embed">

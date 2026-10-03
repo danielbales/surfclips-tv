@@ -6,6 +6,8 @@ video_id: "o7AQeeJfERM"
 thumbnail: "https://i.ytimg.com/vi/o7AQeeJfERM/maxresdefault.jpg"
 tags: ["surfing the wedge", "surfing california", "unedited surfing", "surf cam", "raw surfing", "surf wipeout", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

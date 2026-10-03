@@ -6,6 +6,8 @@ video_id: "LeX7SaH3MyY"
 thumbnail: "https://i.ytimg.com/vi/LeX7SaH3MyY/maxresdefault.jpg"
 tags: ["surfing steame lane", "surfing santa cruz", "unedited surfing", "surf cam", "raw surfing", "ocean waves with sound", "big surf", "ocean", "waves", "surfline rewind"]
 type: "clips"
+clip_type: "clip"
+duration: 74
 ---
 
 <div class="video-embed">

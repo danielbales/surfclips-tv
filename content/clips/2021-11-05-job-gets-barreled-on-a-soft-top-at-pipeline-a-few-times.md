@@ -6,6 +6,8 @@ video_id: "cM-lK2D3Zfc"
 thumbnail: "https://i.ytimg.com/vi/cM-lK2D3Zfc/maxresdefault.jpg"
 tags: ["surfing pipeline", "jamie o brien", "JOB surf", "raw surfing", "soft top surfing", "mental therapy", "big surf", "ocean", "surfline rewind", "jamie o brien surf"]
 type: "clips"
+clip_type: "short"
+duration: 44
 ---
 
 <div class="video-embed">

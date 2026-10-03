@@ -6,6 +6,8 @@ video_id: "xCYEbmGaOiE"
 thumbnail: "https://i.ytimg.com/vi/xCYEbmGaOiE/maxresdefault.jpg"
 tags: ["surfing portugal", "surfing pedro blanca", "unedited surfing", "surf cam", "raw surfing", "europe reef surf", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 74
 ---
 
 <div class="video-embed">

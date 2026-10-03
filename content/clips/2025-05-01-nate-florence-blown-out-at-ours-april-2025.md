@@ -6,6 +6,8 @@ video_id: "r8XQ29GfGGk"
 thumbnail: "https://i.ytimg.com/vi/r8XQ29GfGGk/maxresdefault.jpg"
 tags: ["nathan florence", "slab tour", "cape solander", "ours surf", "xl surf", "cape fear"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

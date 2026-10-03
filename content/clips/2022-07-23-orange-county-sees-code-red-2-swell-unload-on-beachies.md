@@ -6,6 +6,8 @@ video_id: "5Ow4R9BIyWw"
 thumbnail: "https://i.ytimg.com/vi/5Ow4R9BIyWw/maxresdefault.jpg"
 tags: ["surfing california", "surfing 56th street newport beach", "unedited surfing", "surf cam", "raw surfing", "BEACH break surfing", "luke davis", "alex knost", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 88
 ---
 
 <div class="video-embed">

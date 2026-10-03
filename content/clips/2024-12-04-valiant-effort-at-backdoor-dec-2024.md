@@ -6,6 +6,8 @@ video_id: "jUVXxnbJI7E"
 thumbnail: "https://i.ytimg.com/vi/jUVXxnbJI7E/maxresdefault.jpg"
 tags: ["big wave surfing", "backdoor surf"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

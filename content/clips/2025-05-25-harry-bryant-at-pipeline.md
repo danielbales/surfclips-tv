@@ -6,6 +6,8 @@ video_id: "F1cAFvlsTXY"
 thumbnail: "https://i.ytimg.com/vi/F1cAFvlsTXY/maxresdefault.jpg"
 tags: ["harry bryant pipeline surf"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

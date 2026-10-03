@@ -6,6 +6,8 @@ video_id: "af9xFPV8vNI"
 thumbnail: "https://i.ytimg.com/vi/af9xFPV8vNI/maxresdefault.jpg"
 tags: ["wade carmichael", "yallingup"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

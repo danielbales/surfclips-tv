@@ -6,6 +6,8 @@ video_id: "K8XS93kXxwk"
 thumbnail: "https://i.ytimg.com/vi/K8XS93kXxwk/maxresdefault.jpg"
 tags: ["surfing swami's san diego", "surfing north county san diego", "surf cam", "joel tudor", "taylor knox", "ryan burch", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 122
 ---
 
 <div class="video-embed">

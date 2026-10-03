@@ -6,6 +6,8 @@ video_id: "zIcrbXBST5s"
 thumbnail: "https://i.ytimg.com/vi/zIcrbXBST5s/maxresdefault.jpg"
 tags: ["surfing backdoor", "surfing north shore", "unedited surfing", "surf cam", "raw surfing", "kelly slater", "john florence", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 149
 ---
 
 <div class="video-embed">

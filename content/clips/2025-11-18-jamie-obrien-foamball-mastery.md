@@ -6,6 +6,8 @@ video_id: "VfVl6Q88SOY"
 thumbnail: "https://i.ytimg.com/vi/VfVl6Q88SOY/maxresdefault.jpg"
 tags: ["Top 10 Surf", "perfect wave", "jamie brien", "mexico surf"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

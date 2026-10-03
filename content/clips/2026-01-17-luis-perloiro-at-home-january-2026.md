@@ -6,6 +6,8 @@ video_id: "XJy1EhBguaY"
 thumbnail: "https://i.ytimg.com/vi/XJy1EhBguaY/maxresdefault.jpg"
 tags: ["Top 10 Surf", "carcavelos surf"]
 type: "clips"
+clip_type: "short"
+duration: 6
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "Jk9pJxXxA00"
 thumbnail: "https://i.ytimg.com/vi/Jk9pJxXxA00/maxresdefault.jpg"
 tags: ["Top 10 Surf", "hawaii surf"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

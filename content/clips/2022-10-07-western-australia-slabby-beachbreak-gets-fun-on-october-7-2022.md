@@ -6,6 +6,8 @@ video_id: "H-6ar30Vd0A"
 thumbnail: "https://i.ytimg.com/vi/H-6ar30Vd0A/maxresdefault.jpg"
 tags: ["surfing western australia", "surfing smiths beach", "unedited surfing", "surf cam", "raw surfing", "BEACH break surfing", "yallingup surf", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 64
 ---
 
 <div class="video-embed">

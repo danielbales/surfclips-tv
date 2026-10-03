@@ -6,6 +6,8 @@ video_id: "Jvl4pZs9wqk"
 thumbnail: "https://i.ytimg.com/vi/Jvl4pZs9wqk/maxresdefault.jpg"
 tags: []
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

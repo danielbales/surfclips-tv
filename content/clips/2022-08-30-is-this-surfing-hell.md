@@ -6,6 +6,8 @@ video_id: "yg-mg2mlVfA"
 thumbnail: "https://i.ytimg.com/vi/yg-mg2mlVfA/maxresdefault.jpg"
 tags: ["surfing southern california", "surfing malibu", "unedited surfing", "surf cam", "raw surfing", "POINT break surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 107
 ---
 
 <div class="video-embed">

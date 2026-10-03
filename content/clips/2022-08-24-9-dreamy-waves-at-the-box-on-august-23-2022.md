@@ -6,6 +6,8 @@ video_id: "PMXAnwlSbTc"
 thumbnail: "https://i.ytimg.com/vi/PMXAnwlSbTc/maxresdefault.jpg"
 tags: ["surfing australia", "surfing the box Margaret river", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "jack robinson", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "clip"
+duration: 77
 ---
 
 <div class="video-embed">

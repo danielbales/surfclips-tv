@@ -6,6 +6,8 @@ video_id: "YZcM12spfx4"
 thumbnail: "https://i.ytimg.com/vi/YZcM12spfx4/maxresdefault.jpg"
 tags: ["Top 10 surf", "al merrick", "Kion Martin"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

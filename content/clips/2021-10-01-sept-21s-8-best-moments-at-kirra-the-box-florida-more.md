@@ -6,6 +6,8 @@ video_id: "mJ2Jnt3s5VE"
 thumbnail: "https://i.ytimg.com/vi/mJ2Jnt3s5VE/maxresdefault.jpg"
 tags: ["surfing australia", "surfing the box", "unedited surfing", "surf cam", "raw surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 120
 ---
 
 <div class="video-embed">

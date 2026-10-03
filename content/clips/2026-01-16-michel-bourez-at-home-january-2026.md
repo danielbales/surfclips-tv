@@ -6,6 +6,8 @@ video_id: "eqoF1aZQwRY"
 thumbnail: "https://i.ytimg.com/vi/eqoF1aZQwRY/maxresdefault.jpg"
 tags: ["Top 10 Surf", "michel bourez", "kauli vaast", "Blaise Booth"]
 type: "clips"
+clip_type: "short"
+duration: 13
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "cR8DqIWDBB8"
 thumbnail: "https://i.ytimg.com/vi/cR8DqIWDBB8/maxresdefault.jpg"
 tags: ["nathan florence", "backdoor pipeline", "pov surf"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

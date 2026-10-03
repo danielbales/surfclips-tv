@@ -6,6 +6,8 @@ video_id: "TexZM0cwFDc"
 thumbnail: "https://i.ytimg.com/vi/TexZM0cwFDc/maxresdefault.jpg"
 tags: ["cape solander", "ours surf", "xl surf", "cape fear"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

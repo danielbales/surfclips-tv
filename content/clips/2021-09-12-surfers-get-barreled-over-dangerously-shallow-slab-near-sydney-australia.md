@@ -6,6 +6,8 @@ video_id: "Qn_bkz51d00"
 thumbnail: "https://i.ytimg.com/vi/Qn_bkz51d00/maxresdefault.jpg"
 tags: ["surfing australia", "surfing cronulla", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 172
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "o0AVvh6eLy0"
 thumbnail: "https://i.ytimg.com/vi/o0AVvh6eLy0/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing waimea bay canoe", "unedited surfing", "surf cam", "raw surfing", "canoe xl surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 58
 ---
 
 <div class="video-embed">

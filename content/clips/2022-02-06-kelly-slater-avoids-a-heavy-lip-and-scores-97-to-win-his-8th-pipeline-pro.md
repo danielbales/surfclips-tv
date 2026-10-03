@@ -6,6 +6,8 @@ video_id: "QaQhZv2OPxU"
 thumbnail: "https://i.ytimg.com/vi/QaQhZv2OPxU/hqdefault.jpg"
 tags: ["surfing hawaii", "surfing backdoor pipeline", "unedited surfing", "surf cam", "raw surfing", "2022 pipeline pro", "kelly slater", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "short"
+duration: 16
 ---
 
 <div class="video-embed">

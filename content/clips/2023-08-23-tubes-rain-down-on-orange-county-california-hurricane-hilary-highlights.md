@@ -6,6 +6,8 @@ video_id: "WdVdqBdGa6w"
 thumbnail: "https://i.ytimg.com/vi/WdVdqBdGa6w/maxresdefault.jpg"
 tags: ["surfing hurricane hilary", "surfing 56th street", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "clip"
+duration: 169
 ---
 
 <div class="video-embed">

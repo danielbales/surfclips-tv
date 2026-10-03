@@ -6,6 +6,8 @@ video_id: "igaezvXTRm8"
 thumbnail: "https://i.ytimg.com/vi/igaezvXTRm8/maxresdefault.jpg"
 tags: ["Top 10 Surf", "perfect wave", "hossegor surf", "la nord surf"]
 type: "clips"
+clip_type: "short"
+duration: 11
 ---
 
 <div class="video-embed">

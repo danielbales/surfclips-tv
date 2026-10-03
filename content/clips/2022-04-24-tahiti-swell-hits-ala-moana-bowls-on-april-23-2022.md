@@ -6,6 +6,8 @@ video_id: "aBvPdPSB9WE"
 thumbnail: "https://i.ytimg.com/vi/aBvPdPSB9WE/maxresdefault.jpg"
 tags: ["unedited surfing", "surf cam", "raw surfing", "big surf", "ocean", "waves", "surfline rewind", "perfect surf", "surf video", "koa rothman"]
 type: "clips"
+clip_type: "clip"
+duration: 105
 ---
 
 <div class="video-embed">

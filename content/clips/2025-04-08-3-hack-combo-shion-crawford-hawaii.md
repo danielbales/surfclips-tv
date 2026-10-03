@@ -6,6 +6,8 @@ video_id: "HjUhOYCXkBU"
 thumbnail: "https://i.ytimg.com/vi/HjUhOYCXkBU/maxresdefault.jpg"
 tags: ["shion crawford", "haleiwa surf"]
 type: "clips"
+clip_type: "short"
+duration: 12
 ---
 
 <div class="video-embed">

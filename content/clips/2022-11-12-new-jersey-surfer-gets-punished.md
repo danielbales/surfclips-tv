@@ -6,6 +6,8 @@ video_id: "ihS8Zsek-Q8"
 thumbnail: "https://i.ytimg.com/vi/ihS8Zsek-Q8/maxresdefault.jpg"
 tags: ["surfing new jersey", "surfing casino pier", "unedited surfing", "surf cam", "raw surfing", "hurricane nicole surf", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

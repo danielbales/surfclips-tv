@@ -6,6 +6,8 @@ video_id: "70cgSN2vj8Q"
 thumbnail: "https://i.ytimg.com/vi/70cgSN2vj8Q/maxresdefault.jpg"
 tags: ["wilbur kookmeyer", "surf humor", "surf wipeout", "boat rental", "surfer"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

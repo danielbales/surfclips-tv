@@ -3,9 +3,11 @@ title: "Matahi Drollet on a beast"
 date: 2025-08-22T07:00:51Z
 draft: false
 video_id: "qUctoJK4fAQ"
-thumbnail: "https://i9.ytimg.com/vi/qUctoJK4fAQ/maxresdefault.jpg?sqp=CKjRgdYG&rs=AOn4CLAx69vsh-8z0IDhMjOPLAZQuaNqZg"
+thumbnail: "https://i9.ytimg.com/vi/qUctoJK4fAQ/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLA20WLNSq9u8RblZP81qKwCXMMLbw"
 tags: ["Top 10 Surf", "perfect surf", "matahi drollet", "teahupo'o"]
 type: "clips"
+clip_type: "short"
+duration: 11
 ---
 
 <div class="video-embed">

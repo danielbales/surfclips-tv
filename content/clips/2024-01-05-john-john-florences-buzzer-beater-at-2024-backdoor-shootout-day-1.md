@@ -6,6 +6,8 @@ video_id: "s2uBI8JLdqA"
 thumbnail: "https://i.ytimg.com/vi/s2uBI8JLdqA/maxresdefault.jpg"
 tags: ["surfing 2024 backdoor shootout", "unedited surfing", "surf cam", "raw surfing", "john john florence", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "short"
+duration: 36
 ---
 
 <div class="video-embed">

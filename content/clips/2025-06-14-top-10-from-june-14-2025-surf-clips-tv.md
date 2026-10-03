@@ -6,6 +6,8 @@ video_id: "2GF5LX4XiY4"
 thumbnail: "https://i.ytimg.com/vi/2GF5LX4XiY4/sddefault.jpg"
 tags: ["Top 10 Surf", "Rio Waida", "mason ho", "eimeo czermak", "matahi drollet", "jesse mendes", "channel islands", "kyon yang"]
 type: "clips"
+clip_type: "top10"
+duration: 172
 ---
 
 <div class="video-embed">

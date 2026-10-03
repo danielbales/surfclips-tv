@@ -3,9 +3,11 @@ title: "West Coast phenomenon"
 date: 2025-07-18T03:19:17Z
 draft: false
 video_id: "CFxCh93U_Is"
-thumbnail: "https://i9.ytimg.com/vi/CFxCh93U_Is/maxresdefault.jpg?sqp=CKjRgdYG&rs=AOn4CLB7RsAhKiBlStyjDIc3Sm1kmH7hdw"
+thumbnail: "https://i9.ytimg.com/vi/CFxCh93U_Is/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLBZdt_cUNaPdj1W9Vc8e9I6JSCh3A"
 tags: ["Top 10 Surf", "the wedge surf"]
 type: "clips"
+clip_type: "short"
+duration: 6
 ---
 
 <div class="video-embed">

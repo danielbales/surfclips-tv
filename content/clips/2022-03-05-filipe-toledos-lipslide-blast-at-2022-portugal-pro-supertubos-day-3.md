@@ -6,6 +6,8 @@ video_id: "vaY-1Pf3dbI"
 thumbnail: "https://i.ytimg.com/vi/vaY-1Pf3dbI/maxresdefault.jpg"
 tags: ["surfing portugal", "surfing supertubos", "unedited surfing", "surf cam", "raw surfing", "2022 portugal pro supertubos", "filipe toledo", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 48
 ---
 
 <div class="video-embed">

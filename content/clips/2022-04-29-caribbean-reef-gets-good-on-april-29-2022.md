@@ -6,6 +6,8 @@ video_id: "quxtHGj4HwU"
 thumbnail: "https://i.ytimg.com/vi/quxtHGj4HwU/maxresdefault.jpg"
 tags: ["surfing puerto rico", "surfing maria's", "unedited surfing", "surf cam", "raw surfing", "REEf break surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 70
 ---
 
 <div class="video-embed">

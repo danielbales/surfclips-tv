@@ -6,6 +6,8 @@ video_id: "jRX9wggh1sE"
 thumbnail: "https://i.ytimg.com/vi/jRX9wggh1sE/maxresdefault.jpg"
 tags: ["surfing hawaii", "pipeline spit", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "short"
+duration: 38
 ---
 
 <div class="video-embed">

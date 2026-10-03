@@ -6,6 +6,8 @@ video_id: "TyGwNR5z-ng"
 thumbnail: "https://i.ytimg.com/vi/TyGwNR5z-ng/maxresdefault.jpg"
 tags: ["surfing waimea bay", "surfing xl surf hawaii", "unedited surfing", "surf cam", "raw surfing", "billy kemper", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 73
 ---
 
 <div class="video-embed">

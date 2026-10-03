@@ -6,6 +6,8 @@ video_id: "TIh7EbJRx0U"
 thumbnail: "https://i.ytimg.com/vi/TIh7EbJRx0U/maxresdefault.jpg"
 tags: ["2023 US Open of Surf", "huntington beach california", "unedited surfing", "surf cam", "raw surfing", "eli hanneman", "nolan rapoza", "ian gouveia", "shion crawford", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 95
 ---
 
 <div class="video-embed">

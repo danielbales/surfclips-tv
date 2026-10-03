@@ -6,6 +6,8 @@ video_id: "gEW2f4JL1zw"
 thumbnail: "https://i.ytimg.com/vi/gEW2f4JL1zw/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing sunset beach", "unedited surfing", "surf cam", "raw surfing", "POINT break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 194
 ---
 
 <div class="video-embed">

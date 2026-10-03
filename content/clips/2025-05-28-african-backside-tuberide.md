@@ -6,6 +6,8 @@ video_id: "dLDjAf9QtMw"
 thumbnail: "https://i.ytimg.com/vi/dLDjAf9QtMw/maxresdefault.jpg"
 tags: ["safi morocco surf", "pov surf", "koa smith"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

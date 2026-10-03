@@ -6,6 +6,8 @@ video_id: "y4QhE_GHXX8"
 thumbnail: "https://i.ytimg.com/vi/y4QhE_GHXX8/maxresdefault.jpg"
 tags: ["surfing hawaii", "ala moana bowls", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves", "surfline rewind", "good to epic"]
 type: "clips"
+clip_type: "clip"
+duration: 131
 ---
 
 <div class="video-embed">

@@ -3,9 +3,11 @@ title: "Slab Vision - Nate Florence, 2025"
 date: 2025-07-17T00:22:02Z
 draft: false
 video_id: "7TP9uQ1Idgc"
-thumbnail: "https://i9.ytimg.com/vi/7TP9uQ1Idgc/maxresdefault.jpg?sqp=CKjRgdYG&rs=AOn4CLCgxOC_lV3Te2pnUsHDKsdqnmWBTw"
+thumbnail: "https://i9.ytimg.com/vi/7TP9uQ1Idgc/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLCXWQXWXf2mbhoFQJpp5KUdJR2sUg"
 tags: ["Top 10 Surf", "slab tour", "nathan florence", "the box surf"]
 type: "clips"
+clip_type: "short"
+duration: 6
 ---
 
 <div class="video-embed">

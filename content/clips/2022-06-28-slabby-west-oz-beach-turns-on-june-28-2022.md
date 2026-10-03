@@ -6,6 +6,8 @@ video_id: "SlT-pLwi7Fw"
 thumbnail: "https://i.ytimg.com/vi/SlT-pLwi7Fw/maxresdefault.jpg"
 tags: ["surfing australia", "surfing smith's beach", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "yallingup surf", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 94
 ---
 
 <div class="video-embed">

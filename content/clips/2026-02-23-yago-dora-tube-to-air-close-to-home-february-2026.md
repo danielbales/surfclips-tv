@@ -6,6 +6,8 @@ video_id: "-TdD7lCf81s"
 thumbnail: "https://i.ytimg.com/vi/-TdD7lCf81s/maxresdefault.jpg"
 tags: ["Top 10 Surf", "yago fora"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

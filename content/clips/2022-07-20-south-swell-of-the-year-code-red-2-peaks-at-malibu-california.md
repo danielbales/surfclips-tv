@@ -6,6 +6,8 @@ video_id: "cRyhhKqO7Pc"
 thumbnail: "https://i.ytimg.com/vi/cRyhhKqO7Pc/maxresdefault.jpg"
 tags: ["surfing california", "surfing malibu", "unedited surfing", "surf cam", "raw surfing", "code red 2 swell california", "alex knost", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 190
 ---
 
 <div class="video-embed">

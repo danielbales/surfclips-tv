@@ -6,6 +6,8 @@ video_id: "fS_v9qhj3GU"
 thumbnail: "https://i.ytimg.com/vi/fS_v9qhj3GU/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing backdoor pipeline", "unedited surfing", "surf cam", "raw surfing", "north shore surf", "baron mamiya", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

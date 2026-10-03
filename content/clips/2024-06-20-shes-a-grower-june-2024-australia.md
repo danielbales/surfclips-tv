@@ -6,6 +6,8 @@ video_id: "af-4JZgXLyg"
 thumbnail: "https://i.ytimg.com/vi/af-4JZgXLyg/maxresdefault.jpg"
 tags: ["surfing Shark island", "surfing australia", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "short"
+duration: 12
 ---
 
 <div class="video-embed">

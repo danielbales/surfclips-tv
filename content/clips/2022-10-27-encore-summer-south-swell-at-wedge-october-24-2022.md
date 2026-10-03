@@ -6,6 +6,8 @@ video_id: "68xQXJpPZoQ"
 thumbnail: "https://i.ytimg.com/vi/68xQXJpPZoQ/maxresdefault.jpg"
 tags: ["surfing orange county", "surfing the wedge", "unedited surfing", "surf cam", "raw surfing", "novelty surf", "mason ho", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 87
 ---
 
 <div class="video-embed">

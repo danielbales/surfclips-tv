@@ -6,6 +6,8 @@ video_id: "HwIt_tlz2bs"
 thumbnail: "https://i.ytimg.com/vi/HwIt_tlz2bs/maxresdefault.jpg"
 tags: ["surfing new jersey", "ben gravy surf", "casino pier", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "clip"
+duration: 111
 ---
 
 <div class="video-embed">

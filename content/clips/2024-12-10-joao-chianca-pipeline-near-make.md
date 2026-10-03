@@ -6,6 +6,8 @@ video_id: "OXJxzU2ZtOc"
 thumbnail: "https://i.ytimg.com/vi/OXJxzU2ZtOc/maxresdefault.jpg"
 tags: ["joao chianca", "pipeline surf"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

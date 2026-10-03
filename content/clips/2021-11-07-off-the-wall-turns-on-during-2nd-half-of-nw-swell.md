@@ -6,6 +6,8 @@ video_id: "uWTz2yEE81o"
 thumbnail: "https://i.ytimg.com/vi/uWTz2yEE81o/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing off the wall", "surf cam", "raw surfing", "REEF break surfing", "kelly slater", "mental health", "mental therapy", "big surf", "ocean"]
 type: "clips"
+clip_type: "clip"
+duration: 114
 ---
 
 <div class="video-embed">

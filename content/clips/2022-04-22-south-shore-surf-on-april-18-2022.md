@@ -3,9 +3,11 @@ title: "South Shore surf on April 18, 2022"
 date: 2022-04-22T06:45:00Z
 draft: false
 video_id: "dmXZ61NdxNE"
-thumbnail: "https://i9.ytimg.com/vi/dmXZ61NdxNE/maxresdefault.jpg?sqp=CKjRgdYG&rs=AOn4CLAhVptL2CV2ZTIRVRDXxUEPXeokHw"
+thumbnail: "https://i9.ytimg.com/vi/dmXZ61NdxNE/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLDJpfmqK851JdsYrasuvzTsyZxQEQ"
 tags: ["surfing hawaii", "surfing kaiser's oahu", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "ezekiel lau", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 71
 ---
 
 <div class="video-embed">

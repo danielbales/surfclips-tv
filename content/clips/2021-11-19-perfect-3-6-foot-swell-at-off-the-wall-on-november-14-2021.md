@@ -6,6 +6,8 @@ video_id: "aDGMnGbyJec"
 thumbnail: "https://i.ytimg.com/vi/aDGMnGbyJec/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing off the wall north shore", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "kelly slater", "mental health", "mental therapy", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 240
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "hk0B7OYVyhU"
 thumbnail: "https://i.ytimg.com/vi/hk0B7OYVyhU/maxresdefault.jpg"
 tags: ["mason ho"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

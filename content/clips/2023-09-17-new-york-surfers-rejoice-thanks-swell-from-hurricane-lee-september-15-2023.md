@@ -6,6 +6,8 @@ video_id: "bxhdLuXZN5k"
 thumbnail: "https://i.ytimg.com/vi/bxhdLuXZN5k/maxresdefault.jpg"
 tags: ["hurricane lee surf", "lido beach surf", "lido beach hurricane lee"]
 type: "clips"
+clip_type: "clip"
+duration: 88
 ---
 
 <div class="video-embed">

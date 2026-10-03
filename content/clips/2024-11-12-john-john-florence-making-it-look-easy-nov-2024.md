@@ -6,6 +6,8 @@ video_id: "6krZC8Qml5A"
 thumbnail: "https://i.ytimg.com/vi/6krZC8Qml5A/maxresdefault.jpg"
 tags: ["surfing hawaii", "unedited surfing", "surf cam", "raw surfing", "john john florence", "big surf", "ocean", "waves", "surfline rewind", "good to epic"]
 type: "clips"
+clip_type: "short"
+duration: 6
 ---
 
 <div class="video-embed">

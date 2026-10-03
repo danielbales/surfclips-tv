@@ -6,6 +6,8 @@ video_id: "sJumIL2dUNA"
 thumbnail: "https://i.ytimg.com/vi/sJumIL2dUNA/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing backdoor pipeline", "unedited surfing", "surf cam", "raw surfing", "north shore surf", "jamie obrien", "JOB vlog", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 46
 ---
 
 <div class="video-embed">

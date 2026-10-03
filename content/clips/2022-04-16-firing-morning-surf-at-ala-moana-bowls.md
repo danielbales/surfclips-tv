@@ -6,6 +6,8 @@ video_id: "4bQj7UKj7DI"
 thumbnail: "https://i.ytimg.com/vi/4bQj7UKj7DI/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing ala moana", "unedited surfing", "surf cam", "raw surfing", "south shore surfing", "flynn novak", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 201
 ---
 
 <div class="video-embed">

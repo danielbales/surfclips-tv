@@ -6,6 +6,8 @@ video_id: "zCsJwC_Dgqc"
 thumbnail: "https://i.ytimg.com/vi/zCsJwC_Dgqc/maxresdefault.jpg"
 tags: ["top 10 surf", "jamie obrien", "mike stewart", "ian gentil", "aritz aramburu", "barron mamiya"]
 type: "clips"
+clip_type: "top10"
+duration: 221
 ---
 
 <div class="video-embed">

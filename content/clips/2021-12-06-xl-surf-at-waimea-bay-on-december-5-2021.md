@@ -6,6 +6,8 @@ video_id: "PfU91DOc2x4"
 thumbnail: "https://i.ytimg.com/vi/PfU91DOc2x4/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing waimea bay", "unedited surfing", "surf cam", "raw surfing", "POINT break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 282
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "kF7aRenbZjU"
 thumbnail: "https://i.ytimg.com/vi/kF7aRenbZjU/maxresdefault.jpg"
 tags: ["2025 backdoor shootout", "koa rothman"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

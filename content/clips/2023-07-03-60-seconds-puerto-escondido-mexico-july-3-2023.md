@@ -6,6 +6,8 @@ video_id: "HTLfD0p7WoY"
 thumbnail: "https://i.ytimg.com/vi/HTLfD0p7WoY/maxresdefault.jpg"
 tags: ["surfing mexico", "surfing puerto escondido", "unedited surfing", "surf cam", "raw surfing", "greg long", "rusty long", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 61
 ---
 
 <div class="video-embed">

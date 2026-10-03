@@ -6,6 +6,8 @@ video_id: "rBC9pgLd5qA"
 thumbnail: "https://i.ytimg.com/vi/rBC9pgLd5qA/maxresdefault.jpg"
 tags: ["surfing 56th street", "surfing orange county", "ocean", "waves", "surfline rewind"]
 type: "clips"
+clip_type: "clip"
+duration: 98
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "neyKi4fE0-E"
 thumbnail: "https://i.ytimg.com/vi/neyKi4fE0-E/maxresdefault.jpg"
 tags: ["Top 10 Surf", "perfect wave", "brendon gibbens", "south africa surf"]
 type: "clips"
+clip_type: "short"
+duration: 6
 ---
 
 <div class="video-embed">

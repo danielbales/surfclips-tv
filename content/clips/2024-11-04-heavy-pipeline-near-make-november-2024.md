@@ -6,6 +6,8 @@ video_id: "rAMjHpjvMr4"
 thumbnail: "https://i.ytimg.com/vi/rAMjHpjvMr4/maxresdefault.jpg"
 tags: ["surfing pipeline", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "02vseA9ULyI"
 thumbnail: "https://i.ytimg.com/vi/02vseA9ULyI/maxresdefault.jpg"
 tags: ["surfing california", "surfing lower trestles", "unedited surfing", "surf cam", "raw surfing", "POINT break surfing", "kolohe andino", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 121
 ---
 
 <div class="video-embed">

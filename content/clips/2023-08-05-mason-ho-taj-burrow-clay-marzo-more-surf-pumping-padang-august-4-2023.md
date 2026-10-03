@@ -6,6 +6,8 @@ video_id: "0Vma1eHgFds"
 thumbnail: "https://i.ytimg.com/vi/0Vma1eHgFds/maxresdefault.jpg"
 tags: ["mason ho", "taj burrow", "2023 rip curl cup padang", "miguel blanco", "clay marzo", "\"bukit\"", "\"balangan\"", "\"bingin\"", "\"padang\"", "padang padang"]
 type: "clips"
+clip_type: "clip"
+duration: 184
 ---
 
 <div class="video-embed">

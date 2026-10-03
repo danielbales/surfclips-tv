@@ -6,6 +6,8 @@ video_id: "4Gnr-zt6FBM"
 thumbnail: "https://i.ytimg.com/vi/4Gnr-zt6FBM/maxresdefault.jpg"
 tags: ["surfing blacks beach", "surfing san diego", "unedited surfing", "surf cam", "raw surfing", "socal surfing", "rob machado", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 89
 ---
 
 <div class="video-embed">

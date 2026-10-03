@@ -6,6 +6,8 @@ video_id: "HmJK8mOtUI4"
 thumbnail: "https://i.ytimg.com/vi/HmJK8mOtUI4/maxresdefault.jpg"
 tags: ["surfing el salvador", "2023 el salvador pro", "unedited surfing", "surf cam", "raw surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 64
 ---
 
 <div class="video-embed">

@@ -3,9 +3,11 @@ title: "Wild wipeout in Mexico - July 2025"
 date: 2025-07-09T00:34:49Z
 draft: false
 video_id: "SbSBphYBRwQ"
-thumbnail: "https://i9.ytimg.com/vi/SbSBphYBRwQ/maxresdefault.jpg?sqp=CKjRgdYG&rs=AOn4CLChZ16pu7_QbCOtX10R-rivfr-gSw"
+thumbnail: "https://i9.ytimg.com/vi/SbSBphYBRwQ/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLBMHzfzrJ0rgikKINtT7YC67l3K-w"
 tags: ["Top 10 Surf", "perfect surf", "puerto escondido surf", "xl surf wipeout"]
 type: "clips"
+clip_type: "short"
+duration: 6
 ---
 
 <div class="video-embed">

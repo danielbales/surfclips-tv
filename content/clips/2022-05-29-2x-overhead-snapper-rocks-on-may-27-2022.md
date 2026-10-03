@@ -6,6 +6,8 @@ video_id: "sT-ljVGCYuY"
 thumbnail: "https://i.ytimg.com/vi/sT-ljVGCYuY/maxresdefault.jpg"
 tags: ["surfing australia", "surfing snapper rocks", "unedited surfing", "surf cam", "raw surfing", "POINT break surfing", "joel parkison", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 102
 ---
 
 <div class="video-embed">

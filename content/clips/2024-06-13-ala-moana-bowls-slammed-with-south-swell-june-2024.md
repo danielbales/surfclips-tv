@@ -6,6 +6,8 @@ video_id: "GODLP-OFKBk"
 thumbnail: "https://i.ytimg.com/vi/GODLP-OFKBk/maxresdefault.jpg"
 tags: ["surfing waikiki", "surfing ala moana bowls", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "clip"
+duration: 86
 ---
 
 <div class="video-embed">

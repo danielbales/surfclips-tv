@@ -6,6 +6,8 @@ video_id: "vuq-AKUWOZQ"
 thumbnail: "https://i.ytimg.com/vi/vuq-AKUWOZQ/maxresdefault.jpg"
 tags: ["surfing teahupoo", "surfing surfline 20 foot plus", "unedited surfing", "surf cam", "raw surfing", "big wave surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 73
 ---
 
 <div class="video-embed">

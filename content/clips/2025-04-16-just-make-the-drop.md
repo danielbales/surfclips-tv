@@ -6,6 +6,8 @@ video_id: "N1oAsKjtexU"
 thumbnail: "https://i.ytimg.com/vi/N1oAsKjtexU/maxresdefault.jpg"
 tags: ["caribbean surf", "surf wipeout"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

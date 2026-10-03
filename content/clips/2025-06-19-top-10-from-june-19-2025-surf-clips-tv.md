@@ -6,6 +6,8 @@ video_id: "oywCp5vfPp0"
 thumbnail: "https://i.ytimg.com/vi/oywCp5vfPp0/sddefault.jpg"
 tags: ["Top 10 Surf", "Koa Rothman", "Cristian Merello", "Lucas Mesinas", "Dylan Graves", "Brett Barley", "Gearoid Mcdaid"]
 type: "clips"
+clip_type: "top10"
+duration: 182
 ---
 
 <div class="video-embed">

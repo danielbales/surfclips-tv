@@ -6,6 +6,8 @@ video_id: "7oTPXDL0dvQ"
 thumbnail: "https://i.ytimg.com/vi/7oTPXDL0dvQ/maxresdefault.jpg"
 tags: ["Top 10 surf", "perfect wave", "carson carr"]
 type: "clips"
+clip_type: "short"
+duration: 4
 ---
 
 <div class="video-embed">

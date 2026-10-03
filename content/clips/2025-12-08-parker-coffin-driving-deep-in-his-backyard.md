@@ -6,6 +6,8 @@ video_id: "DDRvd-LZUaQ"
 thumbnail: "https://i.ytimg.com/vi/DDRvd-LZUaQ/maxresdefault.jpg"
 tags: ["Top 10 Surf", "perfect wave", "chapter 11 tv", "dane reynolds", "parker coffin"]
 type: "clips"
+clip_type: "short"
+duration: 22
 ---
 
 <div class="video-embed">

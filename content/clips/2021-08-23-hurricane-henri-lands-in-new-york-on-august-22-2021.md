@@ -6,6 +6,8 @@ video_id: "qSMA3UiqlvI"
 thumbnail: "https://i.ytimg.com/vi/qSMA3UiqlvI/maxresdefault.jpg"
 tags: ["surfing new york", "surfing lido beach", "unedited surfing", "surf cam", "raw surfing", "BEACH break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 87
 ---
 
 <div class="video-embed">

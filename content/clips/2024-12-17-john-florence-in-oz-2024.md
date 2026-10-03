@@ -6,6 +6,8 @@ video_id: "8EazhDd_xoE"
 thumbnail: "https://i.ytimg.com/vi/8EazhDd_xoE/maxresdefault.jpg"
 tags: ["John florence", "surf"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

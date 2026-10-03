@@ -6,6 +6,8 @@ video_id: "AEJnogMijw0"
 thumbnail: "https://i.ytimg.com/vi/AEJnogMijw0/maxresdefault.jpg"
 tags: ["surfing new zealand", "surfing raglan", "unedited surfing", "surf cam", "raw surfing", "POINT break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 226
 ---
 
 <div class="video-embed">

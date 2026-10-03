@@ -6,6 +6,8 @@ video_id: "vXezhOxi4_g"
 thumbnail: "https://i.ytimg.com/vi/vXezhOxi4_g/maxresdefault.jpg"
 tags: ["surfing bali", "surfing padang padang", "unedited surfing", "surf cam", "raw surfing", "2022 rip curl cup padang padang", "shane dorian", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 63
 ---
 
 <div class="video-embed">

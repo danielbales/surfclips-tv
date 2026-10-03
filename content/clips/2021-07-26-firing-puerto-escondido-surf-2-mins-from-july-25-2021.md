@@ -6,6 +6,8 @@ video_id: "dZeZ69tUYBo"
 thumbnail: "https://i.ytimg.com/vi/dZeZ69tUYBo/maxresdefault.jpg"
 tags: ["surfing big waves", "surfing puerto escondido", "oaxaca surf", "kelly slater", "surfing mexico", "rusty long", "surfer", "summer surf", "surfing", "waves"]
 type: "clips"
+clip_type: "clip"
+duration: 164
 ---
 
 <div class="video-embed">

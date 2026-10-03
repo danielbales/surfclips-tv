@@ -6,6 +6,8 @@ video_id: "z48SmaZASis"
 thumbnail: "https://i.ytimg.com/vi/z48SmaZASis/maxresdefault.jpg"
 tags: ["ocean beach surf", "san francisco surf", "perfect wave", "pov surfing"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

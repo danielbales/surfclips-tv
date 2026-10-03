@@ -6,6 +6,8 @@ video_id: "6I-WaraCKp4"
 thumbnail: "https://i.ytimg.com/vi/6I-WaraCKp4/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing backdoor", "unedited surfing", "surf cam", "raw surfing", "kelly slater", "mental health", "mental therapy", "big surf", "ocean"]
 type: "clips"
+clip_type: "short"
+duration: 12
 ---
 
 <div class="video-embed">

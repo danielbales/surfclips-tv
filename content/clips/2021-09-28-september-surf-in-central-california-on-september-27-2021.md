@@ -6,6 +6,8 @@ video_id: "n_jE3yaPuNE"
 thumbnail: "https://i.ytimg.com/vi/n_jE3yaPuNE/maxresdefault.jpg"
 tags: ["surfing santa cruz", "surfing pleasure point", "unedited surfing", "surf cam", "raw surfing", "POINT break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 150
 ---
 
 <div class="video-embed">

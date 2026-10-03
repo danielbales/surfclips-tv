@@ -6,6 +6,8 @@ video_id: "VKU72r2RQl4"
 thumbnail: "https://i.ytimg.com/vi/VKU72r2RQl4/maxresdefault.jpg"
 tags: ["surfing indonesia", "surfing canggu bali", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "clip"
+duration: 69
 ---
 
 <div class="video-embed">

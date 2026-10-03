@@ -6,6 +6,8 @@ video_id: "nXBFJrGzALM"
 thumbnail: "https://i.ytimg.com/vi/nXBFJrGzALM/maxresdefault.jpg"
 tags: ["surfing africa", "surfing jeffreys bay j-bay", "unedited surfing", "surf cam", "raw surfing", "POINT break surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 81
 ---
 
 <div class="video-embed">

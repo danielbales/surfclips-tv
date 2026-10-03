@@ -6,6 +6,8 @@ video_id: "VNOZTVlEiMQ"
 thumbnail: "https://i.ytimg.com/vi/VNOZTVlEiMQ/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing pipeline", "unedited surfing", "surf cam", "raw surfing", "north shore surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 49
 ---
 
 <div class="video-embed">

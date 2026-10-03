@@ -6,6 +6,8 @@ video_id: "M2K84Aoc6Oo"
 thumbnail: "https://i.ytimg.com/vi/M2K84Aoc6Oo/maxresdefault.jpg"
 tags: ["surfing california", "surfing lower trestles", "combo swell", "kolohe andino", "griffin colapinto", "ocean waves with sound", "big surf", "ocean", "waves", "surfline rewind"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

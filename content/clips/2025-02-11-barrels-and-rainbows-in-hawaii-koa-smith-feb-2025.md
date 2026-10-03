@@ -6,6 +6,8 @@ video_id: "NbIut-096Lk"
 thumbnail: "https://i.ytimg.com/vi/NbIut-096Lk/maxresdefault.jpg"
 tags: ["koa smith", "backdoor surf"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

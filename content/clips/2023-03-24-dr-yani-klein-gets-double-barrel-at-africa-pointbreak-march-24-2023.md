@@ -6,6 +6,8 @@ video_id: "I1xD5TGbQzs"
 thumbnail: "https://i.ytimg.com/vi/I1xD5TGbQzs/maxresdefault.jpg"
 tags: ["surfing africa", "surfing safi morocco", "unedited surfing", "surf cam", "raw surfing", "POINT break surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 45
 ---
 
 <div class="video-embed">

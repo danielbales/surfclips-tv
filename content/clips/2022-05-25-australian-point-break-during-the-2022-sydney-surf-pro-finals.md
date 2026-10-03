@@ -6,6 +6,8 @@ video_id: "8vLAFe9ViTo"
 thumbnail: "https://i.ytimg.com/vi/8vLAFe9ViTo/maxresdefault.jpg"
 tags: ["surfing ausralia", "surfing 2022 gmw sydney surf pro", "unedited surfing", "surf cam", "raw surfing", "fairy bower", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 78
 ---
 
 <div class="video-embed">

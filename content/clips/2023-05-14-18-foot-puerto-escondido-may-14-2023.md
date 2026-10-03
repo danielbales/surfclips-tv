@@ -6,6 +6,8 @@ video_id: "pEe4mzPIUsc"
 thumbnail: "https://i.ytimg.com/vi/pEe4mzPIUsc/maxresdefault.jpg"
 tags: ["surfing mexico", "surfing puerto escondido", "unedited surfing", "surf cam", "raw surfing", "big wave surfing", "nathan florence", "billy kemper", "jamie mitchell", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 37
 ---
 
 <div class="video-embed">

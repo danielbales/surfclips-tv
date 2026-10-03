@@ -6,6 +6,8 @@ video_id: "3SqUKPFdAHI"
 thumbnail: "https://i.ytimg.com/vi/3SqUKPFdAHI/maxresdefault.jpg"
 tags: ["Top 10 Surf", "surf wipeout"]
 type: "clips"
+clip_type: "short"
+duration: 4
 ---
 
 <div class="video-embed">

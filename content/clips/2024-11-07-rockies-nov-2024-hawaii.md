@@ -6,6 +6,8 @@ video_id: "LEkr9_FB0-g"
 thumbnail: "https://i.ytimg.com/vi/LEkr9_FB0-g/maxresdefault.jpg"
 tags: ["surfing rocky point", "north shore hawaii surf", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves"]
 type: "clips"
+clip_type: "clip"
+duration: 69
 ---
 
 <div class="video-embed">

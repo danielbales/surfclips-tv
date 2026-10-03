@@ -6,6 +6,8 @@ video_id: "0b3JxiV8QFg"
 thumbnail: "https://i.ytimg.com/vi/0b3JxiV8QFg/maxresdefault.jpg"
 tags: ["surfing hawaii", "ala moana bowls code red 2 swell", "unedited surfing", "surf cam", "raw surfing", "south shore surf", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 128
 ---
 
 <div class="video-embed">

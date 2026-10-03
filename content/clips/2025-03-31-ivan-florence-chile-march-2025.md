@@ -6,6 +6,8 @@ video_id: "_xZaEiolQJg"
 thumbnail: "https://i.ytimg.com/vi/_xZaEiolQJg/maxresdefault.jpg"
 tags: ["florence surfing", "ivan florence", "arica surf", "xl surf"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "pCjGsNVQeYI"
 thumbnail: "https://i.ytimg.com/vi/pCjGsNVQeYI/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing rocky point", "unedited surfing", "surf cam", "raw surfing", "north shore surf", "john john florence", "koa rothman", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 58
 ---
 
 <div class="video-embed">

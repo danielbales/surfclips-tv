@@ -6,6 +6,8 @@ video_id: "uQ0PZM_d6XQ"
 thumbnail: "https://i.ytimg.com/vi/uQ0PZM_d6XQ/maxresdefault.jpg"
 tags: ["surfing australia", "surfing fairy bower", "unedited surfing", "surf cam rewind", "raw surfing", "point break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 109
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "xrTbSaFBeog"
 thumbnail: "https://i.ytimg.com/vi/xrTbSaFBeog/maxresdefault.jpg"
 tags: ["surfing casino pier", "surfing east coast new jersey", "unedited surfing", "surf cam", "raw surfing", "ben gravy", "balaram stack", "brett barley", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 86
 ---
 
 <div class="video-embed">

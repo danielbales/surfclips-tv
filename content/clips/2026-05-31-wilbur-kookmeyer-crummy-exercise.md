@@ -6,6 +6,8 @@ video_id: "k0q7-pSuibo"
 thumbnail: "https://i.ytimg.com/vi/k0q7-pSuibo/maxresdefault.jpg"
 tags: ["wilbur kookmeyer", "surf humor", "surf wipeout", "southern californian surf"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "atPmCcPSMms"
 thumbnail: "https://i.ytimg.com/vi/atPmCcPSMms/maxresdefault.jpg"
 tags: ["surfing Australia", "surfing snapper rocks", "unedited surfing", "surf cam", "raw surfing", "tow in surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 298
 ---
 
 <div class="video-embed">

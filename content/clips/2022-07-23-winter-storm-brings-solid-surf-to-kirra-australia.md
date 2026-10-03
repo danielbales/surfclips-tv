@@ -6,6 +6,8 @@ video_id: "cR8dIhYe0tQ"
 thumbnail: "https://i.ytimg.com/vi/cR8dIhYe0tQ/maxresdefault.jpg"
 tags: ["surfing australia", "kirra surf", "unedited surfing", "surf cam", "tow in surf", "POINt break surfing", "mick fanning", "joel parkinson", "deam morrison", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 100
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "lpNoagMcJsk"
 thumbnail: "https://i.ytimg.com/vi/lpNoagMcJsk/maxresdefault.jpg"
 tags: ["surfing australia", "surfing supertubes west australia", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 83
 ---
 
 <div class="video-embed">

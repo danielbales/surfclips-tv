@@ -6,6 +6,8 @@ video_id: "b5PwrzBN3F8"
 thumbnail: "https://i.ytimg.com/vi/b5PwrzBN3F8/maxresdefault.jpg"
 tags: ["surfing hawaii", "unedited surfing", "surf cam", "raw surfing", "REEF OR POINT OR BEACH break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 69
 ---
 
 <div class="video-embed">

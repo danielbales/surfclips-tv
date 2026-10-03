@@ -6,6 +6,8 @@ video_id: "isf43bgqxAY"
 thumbnail: "https://i.ytimg.com/vi/isf43bgqxAY/maxresdefault.jpg"
 tags: ["xl surf", "surf wipeout"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

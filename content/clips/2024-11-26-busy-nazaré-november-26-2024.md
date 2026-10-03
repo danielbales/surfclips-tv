@@ -6,6 +6,8 @@ video_id: "hgCeJ-OMcOo"
 thumbnail: "https://i.ytimg.com/vi/hgCeJ-OMcOo/maxresdefault.jpg"
 tags: ["xl nazare surf", "chianca surf", "chumbo surf"]
 type: "clips"
+clip_type: "clip"
+duration: 93
 ---
 
 <div class="video-embed">

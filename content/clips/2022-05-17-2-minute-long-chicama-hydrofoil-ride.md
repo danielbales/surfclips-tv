@@ -6,6 +6,8 @@ video_id: "x8UJgAcj3JQ"
 thumbnail: "https://i.ytimg.com/vi/x8UJgAcj3JQ/maxresdefault.jpg"
 tags: ["surfing peru", "surfing chicama", "unedited surfing", "surf cam", "raw surfing", "laird hamilton chicama", "laird hamilton", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 154
 ---
 
 <div class="video-embed">

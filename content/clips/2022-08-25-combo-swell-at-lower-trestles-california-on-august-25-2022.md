@@ -6,6 +6,8 @@ video_id: "Wx0EXstMq3o"
 thumbnail: "https://i.ytimg.com/vi/Wx0EXstMq3o/maxresdefault.jpg"
 tags: ["surfing california", "surfing lower trestles", "unedited surfing", "surf cam", "raw surfing", "POINT break surfing", "kolohe andino", "nate yeomans", "chris ward", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 131
 ---
 
 <div class="video-embed">

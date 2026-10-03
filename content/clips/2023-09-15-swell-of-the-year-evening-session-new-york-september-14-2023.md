@@ -6,6 +6,8 @@ video_id: "-1te4sk5yzA"
 thumbnail: "https://i.ytimg.com/vi/-1te4sk5yzA/maxresdefault.jpg"
 tags: ["surfing new york", "surfing hurricane lee", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves", "surfline rewind"]
 type: "clips"
+clip_type: "clip"
+duration: 68
 ---
 
 <div class="video-embed">

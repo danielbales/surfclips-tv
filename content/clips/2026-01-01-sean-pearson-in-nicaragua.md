@@ -6,6 +6,8 @@ video_id: "w7A6d_TDqCw"
 thumbnail: "https://i.ytimg.com/vi/w7A6d_TDqCw/maxresdefault.jpg"
 tags: ["Top 10 Surf", "perfect wave", "nicaragua surf", "surf pov"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

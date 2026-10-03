@@ -6,6 +6,8 @@ video_id: "nnu2tOV8ldo"
 thumbnail: "https://i.ytimg.com/vi/nnu2tOV8ldo/maxresdefault.jpg"
 tags: ["surfing tahiti", "surfing teahupoo", "unedited surfing", "surf cam", "raw surfing", "nate florence", "koa rothman", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

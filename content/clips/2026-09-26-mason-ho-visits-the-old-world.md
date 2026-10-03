@@ -6,6 +6,8 @@ video_id: "3s9ygSoO98E"
 thumbnail: "https://i.ytimg.com/vi/3s9ygSoO98E/maxresdefault.jpg"
 tags: ["surf highlight", "mason ho", "scotland surf"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

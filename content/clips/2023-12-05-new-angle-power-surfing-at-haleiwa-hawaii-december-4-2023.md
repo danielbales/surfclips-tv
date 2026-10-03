@@ -6,6 +6,8 @@ video_id: "3dPZIO3QU2M"
 thumbnail: "https://i.ytimg.com/vi/3dPZIO3QU2M/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing haleiwa", "unedited surfing", "surf cam", "raw surfing", "ezekiel lau", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 69
 ---
 
 <div class="video-embed">

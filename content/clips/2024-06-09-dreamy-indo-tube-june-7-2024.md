@@ -6,6 +6,8 @@ video_id: "LTu2de-91qU"
 thumbnail: "https://i.ytimg.com/vi/LTu2de-91qU/maxresdefault.jpg"
 tags: ["surfing indo", "surfing padang padang", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "short"
+duration: 14
 ---
 
 <div class="video-embed">

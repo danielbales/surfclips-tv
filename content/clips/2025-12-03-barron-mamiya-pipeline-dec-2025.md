@@ -6,6 +6,8 @@ video_id: "cSl_A8G9egM"
 thumbnail: "https://i.ytimg.com/vi/cSl_A8G9egM/maxresdefault.jpg"
 tags: ["Top 10 Surf", "perfect wave", "barron mamiya", "tucker wooding"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

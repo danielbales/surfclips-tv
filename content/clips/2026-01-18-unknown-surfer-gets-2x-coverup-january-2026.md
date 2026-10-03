@@ -6,6 +6,8 @@ video_id: "if23X9KbS8o"
 thumbnail: "https://i.ytimg.com/vi/if23X9KbS8o/maxresdefault.jpg"
 tags: ["Top 10 Surf", "honolua bay surf", "maui surf"]
 type: "clips"
+clip_type: "short"
+duration: 18
 ---
 
 <div class="video-embed">

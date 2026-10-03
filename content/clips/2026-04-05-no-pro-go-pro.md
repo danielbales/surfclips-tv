@@ -6,6 +6,8 @@ video_id: "TxeRg_saLOE"
 thumbnail: "https://i.ytimg.com/vi/TxeRg_saLOE/maxresdefault.jpg"
 tags: ["wilbur kookmeyer"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

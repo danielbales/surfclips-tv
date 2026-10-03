@@ -6,6 +6,8 @@ video_id: "HcDfLKVdKTE"
 thumbnail: "https://i.ytimg.com/vi/HcDfLKVdKTE/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing waikiki", "unedited surfing", "surf cam", "raw surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 113
 ---
 
 <div class="video-embed">

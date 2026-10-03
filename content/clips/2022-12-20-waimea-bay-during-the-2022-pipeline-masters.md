@@ -6,6 +6,8 @@ video_id: "6gQqSUjC5no"
 thumbnail: "https://i.ytimg.com/vi/6gQqSUjC5no/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing waimea bay", "unedited surfing", "surf cam", "raw surfing", "big wave surfing", "mark healey", "kohl christensen", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 75
 ---
 
 <div class="video-embed">

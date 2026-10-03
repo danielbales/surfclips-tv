@@ -6,6 +6,8 @@ video_id: "lEb2WjAIdZg"
 thumbnail: "https://i.ytimg.com/vi/lEb2WjAIdZg/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing laniakea", "unedited surfing", "surf cam", "raw surfing", "north shore surf", "john john florence", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 135
 ---
 
 <div class="video-embed">

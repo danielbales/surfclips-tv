@@ -6,6 +6,8 @@ video_id: "aEoqJUyzu3w"
 thumbnail: "https://i.ytimg.com/vi/aEoqJUyzu3w/maxresdefault.jpg"
 tags: ["top 10 surf", "mason ho", "nathan florence", "john florence", "lower trestles", "surf video"]
 type: "clips"
+clip_type: "top10"
+duration: 182
 ---
 
 <div class="video-embed">

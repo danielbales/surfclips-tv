@@ -6,6 +6,8 @@ video_id: "ZngW-Dfb-C0"
 thumbnail: "https://i.ytimg.com/vi/ZngW-Dfb-C0/maxresdefault.jpg"
 tags: ["al cleland jr", "2025 bells beach pro"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

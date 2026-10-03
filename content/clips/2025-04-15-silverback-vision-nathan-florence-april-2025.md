@@ -6,6 +6,8 @@ video_id: "ONUwcy_4_kM"
 thumbnail: "https://i.ytimg.com/vi/ONUwcy_4_kM/maxresdefault.jpg"
 tags: ["silverbacks surf", "panama surf", "pov surf"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

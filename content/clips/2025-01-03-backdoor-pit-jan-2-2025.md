@@ -6,6 +6,8 @@ video_id: "xcr7cf6PV6U"
 thumbnail: "https://i.ytimg.com/vi/xcr7cf6PV6U/maxresdefault.jpg"
 tags: ["backdoor pipeline", "perfect surf"]
 type: "clips"
+clip_type: "short"
+duration: 11
 ---
 
 <div class="video-embed">

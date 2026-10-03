@@ -6,6 +6,8 @@ video_id: "tVQ_wAXMaB8"
 thumbnail: "https://i.ytimg.com/vi/tVQ_wAXMaB8/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing laniakea oahu", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 150
 ---
 
 <div class="video-embed">

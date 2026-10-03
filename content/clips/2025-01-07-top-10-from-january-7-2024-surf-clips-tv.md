@@ -6,6 +6,8 @@ video_id: "OeBMHDNAdM4"
 thumbnail: "https://i.ytimg.com/vi/OeBMHDNAdM4/maxresdefault.jpg"
 tags: ["top 10 surf", "ian gentil", "john florence", "sheldon paishon", "honolua bay", "sunset beach", "pipeline"]
 type: "clips"
+clip_type: "top10"
+duration: 160
 ---
 
 <div class="video-embed">

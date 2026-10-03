@@ -6,6 +6,8 @@ video_id: "Quk_FZXULbk"
 thumbnail: "https://i.ytimg.com/vi/Quk_FZXULbk/maxresdefault.jpg"
 tags: ["Puerto Escondido", "big wave surfing"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

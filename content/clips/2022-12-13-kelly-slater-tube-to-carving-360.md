@@ -6,6 +6,8 @@ video_id: "O1oFcSzdNlg"
 thumbnail: "https://i.ytimg.com/vi/O1oFcSzdNlg/maxresdefault.jpg"
 tags: ["kelly slater", "kelly slater barbados", "kelly slater soup bowl", "kelly slater carving 360"]
 type: "clips"
+clip_type: "short"
+duration: 11
 ---
 
 <div class="video-embed">

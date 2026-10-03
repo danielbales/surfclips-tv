@@ -6,6 +6,8 @@ video_id: "yTxdUJs1Hdc"
 thumbnail: "https://i.ytimg.com/vi/yTxdUJs1Hdc/maxresdefault.jpg"
 tags: ["jamie o'brien", "job vlogs", "backdoor pipeline", "north shore hawaii", "bbonzai"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

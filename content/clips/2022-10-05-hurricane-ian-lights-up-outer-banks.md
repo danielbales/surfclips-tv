@@ -6,6 +6,8 @@ video_id: "4DvUUIhEo5A"
 thumbnail: "https://i.ytimg.com/vi/4DvUUIhEo5A/maxresdefault.jpg"
 tags: ["surfing hurricane ian", "surfing outer banks", "unedited surfing", "surf cam", "raw surfing", "BEACH break surfing", "brett barley", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 134
 ---
 
 <div class="video-embed">

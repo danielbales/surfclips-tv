@@ -6,6 +6,8 @@ video_id: "-1JdO1A--L8"
 thumbnail: "https://i.ytimg.com/vi/-1JdO1A--L8/maxresdefault.jpg"
 tags: ["perfect wave", "seth moniz", "2025 el salvador pro"]
 type: "clips"
+clip_type: "short"
+duration: 12
 ---
 
 <div class="video-embed">

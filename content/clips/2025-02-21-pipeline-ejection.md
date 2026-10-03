@@ -6,6 +6,8 @@ video_id: "rbMv7wLAATM"
 thumbnail: "https://i.ytimg.com/vi/rbMv7wLAATM/maxresdefault.jpg"
 tags: ["backdoor surf", "pipeline surf"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "RmZMCPtVJAI"
 thumbnail: "https://i.ytimg.com/vi/RmZMCPtVJAI/maxresdefault.jpg"
 tags: ["Top 10 Surf", "lances right", "perfect surf"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

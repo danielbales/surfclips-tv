@@ -6,6 +6,8 @@ video_id: "k3_3cTcUf2c"
 thumbnail: "https://i.ytimg.com/vi/k3_3cTcUf2c/maxresdefault.jpg"
 tags: ["surfing basque spain", "surfing mundaka", "unedited surfing", "surf cam", "raw surfing", "POINt break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 290
 ---
 
 <div class="video-embed">

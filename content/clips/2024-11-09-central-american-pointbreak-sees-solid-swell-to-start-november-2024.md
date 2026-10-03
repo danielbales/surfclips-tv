@@ -6,6 +6,8 @@ video_id: "vVrz037P86Y"
 thumbnail: "https://i.ytimg.com/vi/vVrz037P86Y/maxresdefault.jpg"
 tags: ["surfing el salvador", "surfing punta mango", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "clip"
+duration: 101
 ---
 
 <div class="video-embed">

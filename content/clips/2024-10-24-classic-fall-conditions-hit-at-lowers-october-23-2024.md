@@ -6,6 +6,8 @@ video_id: "MYgmgbBIaiY"
 thumbnail: "https://i.ytimg.com/vi/MYgmgbBIaiY/maxresdefault.jpg"
 tags: ["surfing san clemente", "surfing lowers", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "clip"
+duration: 172
 ---
 
 <div class="video-embed">

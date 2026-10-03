@@ -6,6 +6,8 @@ video_id: "RzCq387FbFE"
 thumbnail: "https://i.ytimg.com/vi/RzCq387FbFE/maxresdefault.jpg"
 tags: ["surfing tahiti", "surfing teahupoo", "unedited surfing", "raw surfing", "REEF break surfing", "kelly slater", "code red swell", "teahupoo tow ins surfing", "big surf", "ocean"]
 type: "clips"
+clip_type: "clip"
+duration: 64
 ---
 
 <div class="video-embed">

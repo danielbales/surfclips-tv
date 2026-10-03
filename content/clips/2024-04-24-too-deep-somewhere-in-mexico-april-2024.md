@@ -6,6 +6,8 @@ video_id: "r9RU74vFxAU"
 thumbnail: "https://i.ytimg.com/vi/r9RU74vFxAU/maxresdefault.jpg"
 tags: ["surfing mexico", "surfing puerto escondido", "surf cam", "raw surfing", "surf wipeout", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

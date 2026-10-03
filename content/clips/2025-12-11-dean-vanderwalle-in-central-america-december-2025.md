@@ -6,6 +6,8 @@ video_id: "GNZP9w1om8E"
 thumbnail: "https://i.ytimg.com/vi/GNZP9w1om8E/maxresdefault.jpg"
 tags: ["Top 10 Surf", "perfect wave", "dean vanderwalle", "costa rica surf"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

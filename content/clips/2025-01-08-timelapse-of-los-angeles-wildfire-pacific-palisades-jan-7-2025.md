@@ -6,6 +6,8 @@ video_id: "jGledNitp04"
 thumbnail: "https://i.ytimg.com/vi/jGledNitp04/maxresdefault.jpg"
 tags: ["palisades fire", "los angeles fire", "california fire 2025", "sunset point beach"]
 type: "clips"
+clip_type: "short"
+duration: 60
 ---
 
 <div class="video-embed">

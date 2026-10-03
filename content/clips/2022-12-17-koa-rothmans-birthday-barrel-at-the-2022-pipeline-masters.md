@@ -6,6 +6,8 @@ video_id: "5CO9zfDAFHg"
 thumbnail: "https://i.ytimg.com/vi/5CO9zfDAFHg/sddefault.jpg"
 tags: ["surfing 2022 pipeline masters", "koa rothman", "unedited surfing", "surf cam", "raw surfing", "pipeline bonzai", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 46
 ---
 
 <div class="video-embed">

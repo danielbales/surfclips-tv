@@ -6,6 +6,8 @@ video_id: "T1GirAnVOkU"
 thumbnail: "https://i.ytimg.com/vi/T1GirAnVOkU/maxresdefault.jpg"
 tags: ["2023 pipeline masters", "unedited surfing", "surf cam", "raw surfing", "Mason HO", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "BnPwnhJfquI"
 thumbnail: "https://i.ytimg.com/vi/BnPwnhJfquI/maxresdefault.jpg"
 tags: ["top 10 surf", "pipeline", "ballito", "maui surf", "john florence", "mason ho", "finn mcgill", "italo ferreira", "tosh tudor"]
 type: "clips"
+clip_type: "top10"
+duration: 126
 ---
 
 <div class="video-embed">

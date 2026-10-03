@@ -6,6 +6,8 @@ video_id: "QgCGVG4pf_g"
 thumbnail: "https://i.ytimg.com/vi/QgCGVG4pf_g/maxresdefault.jpg"
 tags: ["Top 10 Surf", "Koa Rothman", "Rusty", "Kai Hall", "Rio Waida", "Cristian Merello", "Jackson Bunch", "Sheldon Simkus", "Maddux Alottis"]
 type: "clips"
+clip_type: "top10"
+duration: 214
 ---
 
 <div class="video-embed">

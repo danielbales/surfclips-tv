@@ -6,6 +6,8 @@ video_id: "0w7Yw_L4dBo"
 thumbnail: "https://i.ytimg.com/vi/0w7Yw_L4dBo/maxresdefault.jpg"
 tags: ["surfing lower trestles", "2024 board riders cup wheat classic", "shane beschen", "raw surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "short"
+duration: 59
 ---
 
 <div class="video-embed">

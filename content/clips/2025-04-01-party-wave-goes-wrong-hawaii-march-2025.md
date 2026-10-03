@@ -6,6 +6,8 @@ video_id: "KJQCKwrTZxM"
 thumbnail: "https://i.ytimg.com/vi/KJQCKwrTZxM/maxresdefault.jpg"
 tags: ["jamie obrien", "supsquatch"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

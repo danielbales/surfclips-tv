@@ -6,6 +6,8 @@ video_id: "VStrh73mR8g"
 thumbnail: "https://i.ytimg.com/vi/VStrh73mR8g/maxresdefault.jpg"
 tags: ["pipeline oahu", "perfect waves", "hawaii surf", "surf wipeout"]
 type: "clips"
+clip_type: "short"
+duration: 6
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "Sp1dAPGyEPc"
 thumbnail: "https://i.ytimg.com/vi/Sp1dAPGyEPc/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing backdoor", "unedited surfing", "surf cam", "raw surfing", "north shore surfing", "michael ho", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 42
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "-HIy6oPE2uA"
 thumbnail: "https://i.ytimg.com/vi/-HIy6oPE2uA/maxresdefault.jpg"
 tags: ["Top 10 Surf", "perfect wave", "john florence"]
 type: "clips"
+clip_type: "short"
+duration: 20
 ---
 
 <div class="video-embed">

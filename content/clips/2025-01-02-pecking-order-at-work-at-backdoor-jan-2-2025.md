@@ -6,6 +6,8 @@ video_id: "f3-gb9ZYXb0"
 thumbnail: "https://i.ytimg.com/vi/f3-gb9ZYXb0/maxresdefault.jpg"
 tags: ["surf etiquette", "right of way surfing", "backdoor pipeline"]
 type: "clips"
+clip_type: "short"
+duration: 12
 ---
 
 <div class="video-embed">

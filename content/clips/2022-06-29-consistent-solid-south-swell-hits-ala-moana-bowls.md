@@ -6,6 +6,8 @@ video_id: "BmvgyT9Ikw0"
 thumbnail: "https://i.ytimg.com/vi/BmvgyT9Ikw0/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing ala moana bowls", "unedited surfing", "surf cam", "raw surfing", "waikiki surfing", "mason ho", "flynn novak", "mental therapy", "jamie o'brien"]
 type: "clips"
+clip_type: "clip"
+duration: 119
 ---
 
 <div class="video-embed">

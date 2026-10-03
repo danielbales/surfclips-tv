@@ -6,6 +6,8 @@ video_id: "Laq0SLv8RSE"
 thumbnail: "https://i.ytimg.com/vi/Laq0SLv8RSE/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing sunset beach pro 2022", "unedited surfing", "surf cam", "raw surfing", "filipe toledo", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 51
 ---
 
 <div class="video-embed">

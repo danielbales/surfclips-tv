@@ -6,6 +6,8 @@ video_id: "or0h5UV1W6I"
 thumbnail: "https://i.ytimg.com/vi/or0h5UV1W6I/maxresdefault.jpg"
 tags: ["surfing 2024 margaret river pro", "unedited surfing", "surf cam", "raw surfing", "john john florence", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "clip"
+duration: 61
 ---
 
 <div class="video-embed">

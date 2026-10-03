@@ -6,6 +6,8 @@ video_id: "aFYsXlZKXjs"
 thumbnail: "https://i.ytimg.com/vi/aFYsXlZKXjs/maxresdefault.jpg"
 tags: ["surfing barbados", "surfing soup bowl", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 64
 ---
 
 <div class="video-embed">

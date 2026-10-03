@@ -6,6 +6,8 @@ video_id: "Tn3tAYJ701o"
 thumbnail: "https://i.ytimg.com/vi/Tn3tAYJ701o/maxresdefault.jpg"
 tags: ["sur2023 Gold Coast Boost Mobile Pro", "surfing snapper rocks", "unedited surfing", "surf cam", "raw surfing", "ezekiel lau", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 50
 ---
 
 <div class="video-embed">

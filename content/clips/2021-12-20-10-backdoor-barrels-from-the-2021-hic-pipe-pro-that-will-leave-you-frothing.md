@@ -6,6 +6,8 @@ video_id: "n0CnJLo2rvs"
 thumbnail: "https://i.ytimg.com/vi/n0CnJLo2rvs/maxresdefault.jpg"
 tags: ["surfing hic pipeline pro 202`", "surfing backdoor oahu", "unedited surfing", "surf cam", "raw surfing", "REEFbreak surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 129
 ---
 
 <div class="video-embed">

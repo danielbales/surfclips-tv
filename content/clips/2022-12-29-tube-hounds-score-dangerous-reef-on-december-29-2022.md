@@ -6,6 +6,8 @@ video_id: "mI5YFA_Vl_w"
 thumbnail: "https://i.ytimg.com/vi/mI5YFA_Vl_w/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing rocky point", "unedited surfing", "surf cam", "raw surfing", "north shore surf", "ivan florence", "john florence", "noah beschen", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 94
 ---
 
 <div class="video-embed">

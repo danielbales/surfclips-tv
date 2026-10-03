@@ -6,6 +6,8 @@ video_id: "j1zyAMVjYOo"
 thumbnail: "https://i.ytimg.com/vi/j1zyAMVjYOo/maxresdefault.jpg"
 tags: ["lucas godfrey", "backdoor surf"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

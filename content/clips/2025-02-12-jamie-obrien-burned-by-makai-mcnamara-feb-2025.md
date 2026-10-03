@@ -6,6 +6,8 @@ video_id: "PBZZGYLZz4Q"
 thumbnail: "https://i.ytimg.com/vi/PBZZGYLZz4Q/maxresdefault.jpg"
 tags: ["surf wipeout", "xl pipeline"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

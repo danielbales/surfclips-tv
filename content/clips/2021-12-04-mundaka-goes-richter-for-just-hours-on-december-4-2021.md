@@ -6,6 +6,8 @@ video_id: "gctfGVKXOng"
 thumbnail: "https://i.ytimg.com/vi/gctfGVKXOng/maxresdefault.jpg"
 tags: ["surfing spain", "surfing mundaka", "unedited surfing", "surf cam", "raw surfing", "REEF OR POINT OR BEACH break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 168
 ---
 
 <div class="video-embed">

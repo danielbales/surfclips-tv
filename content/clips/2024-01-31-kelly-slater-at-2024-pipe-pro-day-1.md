@@ -6,6 +6,8 @@ video_id: "tOEKEYWe7QI"
 thumbnail: "https://i.ytimg.com/vi/tOEKEYWe7QI/maxresdefault.jpg"
 tags: ["2024 pipe pro", "unedited surfing", "surf cam", "raw surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

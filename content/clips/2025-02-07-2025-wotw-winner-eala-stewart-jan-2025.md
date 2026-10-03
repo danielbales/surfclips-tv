@@ -6,6 +6,8 @@ video_id: "gUJUTtgHdfs"
 thumbnail: "https://i.ytimg.com/vi/gUJUTtgHdfs/maxresdefault.jpg"
 tags: ["wave of the winter", "eala stewart", "pipeline surf"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

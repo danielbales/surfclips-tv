@@ -6,6 +6,8 @@ video_id: "qLrMwN7SygM"
 thumbnail: "https://i.ytimg.com/vi/qLrMwN7SygM/maxresdefault.jpg"
 tags: ["surfing california", "surfing 56th street", "unedited surfing", "surf cam", "raw surfing", "tropical storm frank", "orange county surf", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 35
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "c2RltqQjvD4"
 thumbnail: "https://i.ytimg.com/vi/c2RltqQjvD4/maxresdefault.jpg"
 tags: ["surfing southern california", "surfing 2022 trestles pro", "unedited surfing", "surf cam", "raw surfing", "POINT break surfing", "italo ferreira", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 45
 ---
 
 <div class="video-embed">

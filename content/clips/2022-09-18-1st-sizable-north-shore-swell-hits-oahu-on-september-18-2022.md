@@ -6,6 +6,8 @@ video_id: "IBbNFpG6hVU"
 thumbnail: "https://i.ytimg.com/vi/IBbNFpG6hVU/maxresdefault.jpg"
 tags: ["surfing north shore", "surfing lanikea", "unedited surfing", "surf cam", "raw surfing", "oahu surf", "jon jon florence", "makua rothman", "koa rothman", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 117
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "OgME2p4fjHU"
 thumbnail: "https://i.ytimg.com/vi/OgME2p4fjHU/maxresdefault.jpg"
 tags: ["2025 backdoor shootout", "jamie obrien"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

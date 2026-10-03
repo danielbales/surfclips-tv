@@ -6,6 +6,8 @@ video_id: "eS81Q3X5W7A"
 thumbnail: "https://i.ytimg.com/vi/eS81Q3X5W7A/maxresdefault.jpg"
 tags: ["wilbur kookmeyer", "claymation", "surfing", "funny animation", "3d animation", "stop motion", "comedy short", "animated short", "surfing fail", "surf wipeout"]
 type: "clips"
+clip_type: "clip"
+duration: 83
 ---
 
 <div class="video-embed">

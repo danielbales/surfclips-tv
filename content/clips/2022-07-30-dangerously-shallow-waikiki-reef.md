@@ -6,6 +6,8 @@ video_id: "WT6oShqvcwQ"
 thumbnail: "https://i.ytimg.com/vi/WT6oShqvcwQ/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing publics waikiki", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "ezekiel lau", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 128
 ---
 
 <div class="video-embed">

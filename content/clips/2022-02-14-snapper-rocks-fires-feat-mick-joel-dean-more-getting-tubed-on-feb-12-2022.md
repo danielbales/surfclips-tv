@@ -6,6 +6,8 @@ video_id: "zjGIoZzeAB4"
 thumbnail: "https://i.ytimg.com/vi/zjGIoZzeAB4/maxresdefault.jpg"
 tags: ["surfing australia", "surfing snapper rocks", "unedited surfing", "surf cam", "raw surfing", "gold coast surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 91
 ---
 
 <div class="video-embed">

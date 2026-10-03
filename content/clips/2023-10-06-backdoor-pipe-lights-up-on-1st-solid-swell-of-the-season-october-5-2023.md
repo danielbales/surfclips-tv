@@ -6,6 +6,8 @@ video_id: "QXim9ZVOmK4"
 thumbnail: "https://i.ytimg.com/vi/QXim9ZVOmK4/maxresdefault.jpg"
 tags: ["surfing hawaii", "backdoor pipeline", "mason ho", "gavin beschen", "john john florence", "big surf", "ocean", "waves", "surfline rewind", "good to epic"]
 type: "clips"
+clip_type: "clip"
+duration: 96
 ---
 
 <div class="video-embed">

@@ -3,9 +3,11 @@ title: "Michael Dunphy finding shade in the Caribbean"
 date: 2025-07-15T05:17:44Z
 draft: false
 video_id: "afDxIn7Fj9w"
-thumbnail: "https://i9.ytimg.com/vi/afDxIn7Fj9w/maxresdefault.jpg?sqp=CKjRgdYG&rs=AOn4CLDQ5zQin-RXE5CgwwKke1guI5X2mA"
+thumbnail: "https://i9.ytimg.com/vi/afDxIn7Fj9w/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLBzsP3BqKan7-gUC1u_5VftFHz8EA"
 tags: ["Top 10 Surf", "michael dunphy surf"]
 type: "clips"
+clip_type: "short"
+duration: 12
 ---
 
 <div class="video-embed">

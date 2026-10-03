@@ -6,6 +6,8 @@ video_id: "eD6jh52IESA"
 thumbnail: "https://i.ytimg.com/vi/eD6jh52IESA/maxresdefault.jpg"
 tags: ["2025 rip curl pro portugal", "perfect waves"]
 type: "clips"
+clip_type: "short"
+duration: 11
 ---
 
 <div class="video-embed">

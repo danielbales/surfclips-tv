@@ -6,6 +6,8 @@ video_id: "dpq3Zox1pBI"
 thumbnail: "https://i.ytimg.com/vi/dpq3Zox1pBI/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing rocky point", "unedited surfing", "surf cam", "raw surfing", "North Shore surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 47
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "COYhwmO4Jos"
 thumbnail: "https://i.ytimg.com/vi/COYhwmO4Jos/maxresdefault.jpg"
 tags: ["john john florence", "backdoor pipeline surf", "perfect surf"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "w0rNd8eWupE"
 thumbnail: "https://i.ytimg.com/vi/w0rNd8eWupE/maxresdefault.jpg"
 tags: ["surfing clay marzo", "surfing maui surf", "big surf", "ocean", "waves", "surfline rewind", "good to epic", "perfect surf", "surf video"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

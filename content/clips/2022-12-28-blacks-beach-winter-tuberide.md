@@ -6,6 +6,8 @@ video_id: "gWaUbDU5ldQ"
 thumbnail: "https://i.ytimg.com/vi/gWaUbDU5ldQ/maxresdefault.jpg"
 tags: ["blacks beach San Diego", "la Jolla surfing"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

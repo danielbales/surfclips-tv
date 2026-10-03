@@ -6,6 +6,8 @@ video_id: "VWzYqRPLHFM"
 thumbnail: "https://i.ytimg.com/vi/VWzYqRPLHFM/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing ala moana bowls", "unedited surfing", "surf cam", "raw surfing", "south shore surf", "ezekiel lau", "mason ho", "jamie obrien", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 75
 ---
 
 <div class="video-embed">

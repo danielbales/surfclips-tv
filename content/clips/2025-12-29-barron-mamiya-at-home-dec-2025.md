@@ -6,6 +6,8 @@ video_id: "D7dvCO37Eb8"
 thumbnail: "https://i.ytimg.com/vi/D7dvCO37Eb8/maxresdefault.jpg"
 tags: ["Top 10 Surf", "perfect wave", "barron mamiya", "pipeline surf"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

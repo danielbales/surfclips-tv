@@ -6,6 +6,8 @@ video_id: "bIF_8dJmEW4"
 thumbnail: "https://i.ytimg.com/vi/bIF_8dJmEW4/maxresdefault.jpg"
 tags: ["mundaka's beautiful morning", "mundaka surf", "Kepo acero", "bay of biscay surf"]
 type: "clips"
+clip_type: "clip"
+duration: 111
 ---
 
 <div class="video-embed">

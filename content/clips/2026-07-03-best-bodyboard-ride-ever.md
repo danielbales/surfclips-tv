@@ -6,6 +6,8 @@ video_id: "3TcvaZRFyaA"
 thumbnail: "https://i.ytimg.com/vi/3TcvaZRFyaA/maxresdefault.jpg"
 tags: ["arica surf", "bodyboarding"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

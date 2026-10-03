@@ -6,6 +6,8 @@ video_id: "bTPFzlUUvio"
 thumbnail: "https://i.ytimg.com/vi/bTPFzlUUvio/maxresdefault.jpg"
 tags: ["Top 10 Surf", "tom lowe", "ireland surf"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

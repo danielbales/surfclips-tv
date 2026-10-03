@@ -6,6 +6,8 @@ video_id: "Ta1xdkACeDk"
 thumbnail: "https://i.ytimg.com/vi/Ta1xdkACeDk/maxresdefault.jpg"
 tags: ["surfing malibu", "surfing southern california", "unedited surfing", "surf cam", "raw surfing", "alex knost", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 126
 ---
 
 <div class="video-embed">

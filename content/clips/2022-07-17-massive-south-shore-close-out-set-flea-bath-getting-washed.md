@@ -6,6 +6,8 @@ video_id: "oll6KVCfq3Y"
 thumbnail: "https://i.ytimg.com/vi/oll6KVCfq3Y/maxresdefault.jpg"
 tags: ["surfing COUNTRY", "surfing SPOT NAME", "unedited surfing", "surf cam", "raw surfing", "REEF OR POINT OR BEACH break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 12
 ---
 
 <div class="video-embed">

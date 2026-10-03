@@ -6,6 +6,8 @@ video_id: "HfamcwTQmlc"
 thumbnail: "https://i.ytimg.com/vi/HfamcwTQmlc/maxresdefault.jpg"
 tags: ["wilbur kookmeyer", "taj mahal"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

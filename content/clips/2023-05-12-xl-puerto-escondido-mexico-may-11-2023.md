@@ -6,6 +6,8 @@ video_id: "rvu9Dc8SCDw"
 thumbnail: "https://i.ytimg.com/vi/rvu9Dc8SCDw/maxresdefault.jpg"
 tags: ["surfing mexico", "surfing xl puerto escondido", "unedited surfing", "surf cam", "raw surfing", "big wave surfing", "billy kemper", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 60
 ---
 
 <div class="video-embed">

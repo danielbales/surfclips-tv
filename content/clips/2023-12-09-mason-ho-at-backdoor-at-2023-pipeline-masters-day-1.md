@@ -6,6 +6,8 @@ video_id: "TB-WCtEimPg"
 thumbnail: "https://i.ytimg.com/vi/TB-WCtEimPg/maxresdefault.jpg"
 tags: ["surfing 2023 Pipeline Masters", "unedited surfing", "surf cam", "raw surfing", "Mason ho", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "short"
+duration: 44
 ---
 
 <div class="video-embed">

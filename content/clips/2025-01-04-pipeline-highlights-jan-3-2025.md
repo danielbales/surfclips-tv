@@ -6,6 +6,8 @@ video_id: "kiH3aOM_-SQ"
 thumbnail: "https://i.ytimg.com/vi/kiH3aOM_-SQ/maxresdefault.jpg"
 tags: ["pipeline oahu", "perfect waves", "hawaii surf"]
 type: "clips"
+clip_type: "clip"
+duration: 91
 ---
 
 <div class="video-embed">

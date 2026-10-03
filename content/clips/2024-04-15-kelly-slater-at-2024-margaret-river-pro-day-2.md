@@ -6,6 +6,8 @@ video_id: "oLaxdnU0rzo"
 thumbnail: "https://i.ytimg.com/vi/oLaxdnU0rzo/maxresdefault.jpg"
 tags: ["surfing 2024 margaret river pro", "unedited surfing", "surf cam", "raw surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "short"
+duration: 41
 ---
 
 <div class="video-embed">

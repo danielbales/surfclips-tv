@@ -6,6 +6,8 @@ video_id: "XlUH0RSEkJI"
 thumbnail: "https://i.ytimg.com/vi/XlUH0RSEkJI/maxresdefault.jpg"
 tags: ["top 10 surf", "pipeline", "koa smith fiji", "jamie obrien pipeline", "ezekiel lau haleiwa", "ian gentil portugal"]
 type: "clips"
+clip_type: "top10"
+duration: 185
 ---
 
 <div class="video-embed">

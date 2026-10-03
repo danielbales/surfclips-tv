@@ -6,6 +6,8 @@ video_id: "aP245AwjHo8"
 thumbnail: "https://i.ytimg.com/vi/aP245AwjHo8/maxresdefault.jpg"
 tags: ["surfing portugal", "surfing supertubos peniche", "unedited surfing", "surf cam", "raw surfing", "BEACH break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 150
 ---
 
 <div class="video-embed">

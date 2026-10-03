@@ -6,6 +6,8 @@ video_id: "g0OG1a6sgT8"
 thumbnail: "https://i.ytimg.com/vi/g0OG1a6sgT8/maxresdefault.jpg"
 tags: ["christmas day 2023 surf", "backdoor pipeline surf", "raw surfing", "surf wipeout", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

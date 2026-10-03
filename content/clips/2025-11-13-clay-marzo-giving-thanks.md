@@ -6,6 +6,8 @@ video_id: "UVjcOHbwu1U"
 thumbnail: "https://i.ytimg.com/vi/UVjcOHbwu1U/maxresdefault.jpg"
 tags: ["Top 10 Surf", "perfect wave", "clay marzo"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

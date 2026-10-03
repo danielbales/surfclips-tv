@@ -6,6 +6,8 @@ video_id: "LmR9WrDXa78"
 thumbnail: "https://i.ytimg.com/vi/LmR9WrDXa78/maxresdefault.jpg"
 tags: ["2023 El Salvador Pro", "surfing el salvador", "punta roca el salvador", "surf cam", "raw surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 72
 ---
 
 <div class="video-embed">

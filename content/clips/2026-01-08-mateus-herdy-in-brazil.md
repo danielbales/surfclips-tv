@@ -6,6 +6,8 @@ video_id: "fHaOVXPQCwE"
 thumbnail: "https://i.ytimg.com/vi/fHaOVXPQCwE/maxresdefault.jpg"
 tags: ["Top 10 Surf", "perfect wave", "mateus herdy"]
 type: "clips"
+clip_type: "short"
+duration: 6
 ---
 
 <div class="video-embed">

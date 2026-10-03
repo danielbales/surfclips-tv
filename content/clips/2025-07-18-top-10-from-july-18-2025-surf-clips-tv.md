@@ -6,6 +6,8 @@ video_id: "9NjxhnyHdzA"
 thumbnail: "https://i.ytimg.com/vi/9NjxhnyHdzA/sddefault.jpg"
 tags: ["Top 10 Surf", "Kopral Tuff", "Shaka Media", "Michael Dunphy", "Brent Weldon", "Nathan Florence", "Mason Ho", "Gabriel Medina"]
 type: "clips"
+clip_type: "top10"
+duration: 140
 ---
 
 <div class="video-embed">

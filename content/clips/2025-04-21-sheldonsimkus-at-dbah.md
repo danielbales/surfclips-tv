@@ -6,6 +6,8 @@ video_id: "Y-ZYN6MHdmk"
 thumbnail: "https://i.ytimg.com/vi/Y-ZYN6MHdmk/maxresdefault.jpg"
 tags: ["sheldon simkus", "duranbah", "gold coast surf", "dean morrison", "dingo surf"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

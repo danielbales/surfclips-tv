@@ -6,6 +6,8 @@ video_id: "yMb2rTWVlOg"
 thumbnail: "https://i.ytimg.com/vi/yMb2rTWVlOg/maxresdefault.jpg"
 tags: ["surfing indonesia", "surfing 2022 padang padang cup", "unedited surfing", "surf cam", "raw surfing", "bukit surf", "erin brooks", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 57
 ---
 
 <div class="video-embed">

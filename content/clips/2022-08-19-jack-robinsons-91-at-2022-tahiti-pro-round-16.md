@@ -6,6 +6,8 @@ video_id: "V1CV6CaQTLg"
 thumbnail: "https://i.ytimg.com/vi/V1CV6CaQTLg/maxresdefault.jpg"
 tags: ["surfing tahiti", "surfing 2022 tahiti pro teahupoo", "unedited surfing", "surf cam", "raw surfing", "jack robinson", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

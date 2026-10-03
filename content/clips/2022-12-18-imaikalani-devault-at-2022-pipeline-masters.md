@@ -6,6 +6,8 @@ video_id: "LHp7DThz68w"
 thumbnail: "https://i.ytimg.com/vi/LHp7DThz68w/maxresdefault.jpg"
 tags: ["surfing hawaii", "2022 pipeline masters", "unedited surfing", "surf cam", "raw surfing", "imaikalani devault", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 31
 ---
 
 <div class="video-embed">

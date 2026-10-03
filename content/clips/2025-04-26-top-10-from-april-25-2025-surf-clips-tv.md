@@ -6,6 +6,8 @@ video_id: "8JEVp4_IgEg"
 thumbnail: "https://i.ytimg.com/vi/8JEVp4_IgEg/maxresdefault.jpg"
 tags: ["top 10 surf", "puerto escondido surf", "nic von rupp", "nate florence", "bruce irons", "chris ward", "malakai martinez"]
 type: "clips"
+clip_type: "top10"
+duration: 178
 ---
 
 <div class="video-embed">

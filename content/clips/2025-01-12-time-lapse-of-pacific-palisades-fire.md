@@ -6,6 +6,8 @@ video_id: "vfkp8yzT3ys"
 thumbnail: "https://i.ytimg.com/vi/vfkp8yzT3ys/maxresdefault.jpg"
 tags: ["pacific palisades fire", "los angeles fire", "kenneth fire"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

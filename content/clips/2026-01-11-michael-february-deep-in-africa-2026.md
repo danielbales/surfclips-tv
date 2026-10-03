@@ -6,6 +6,8 @@ video_id: "Gu_CT5rOZ2g"
 thumbnail: "https://i.ytimg.com/vi/Gu_CT5rOZ2g/maxresdefault.jpg"
 tags: ["Top 10 Surf", "perfect wave", "michael february"]
 type: "clips"
+clip_type: "short"
+duration: 17
 ---
 
 <div class="video-embed">

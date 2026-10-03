@@ -6,6 +6,8 @@ video_id: "hD3NvF6N6cg"
 thumbnail: "https://i.ytimg.com/vi/hD3NvF6N6cg/maxresdefault.jpg"
 tags: ["raw surfing", "REEF OR POINT OR BEACH break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves", "surfline rewind"]
 type: "clips"
+clip_type: "short"
+duration: 43
 ---
 
 <div class="video-embed">

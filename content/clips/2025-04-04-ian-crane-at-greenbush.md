@@ -6,6 +6,8 @@ video_id: "fGA53tvqte8"
 thumbnail: "https://i.ytimg.com/vi/fGA53tvqte8/maxresdefault.jpg"
 tags: ["perfect waves", "ian crane", "greenbush surf", "indonesia surf"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

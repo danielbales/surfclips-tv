@@ -6,6 +6,8 @@ video_id: "BBXSV7a3kWc"
 thumbnail: "https://i.ytimg.com/vi/BBXSV7a3kWc/maxresdefault.jpg"
 tags: ["kelly slater", "north shore surf"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

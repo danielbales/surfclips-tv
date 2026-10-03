@@ -6,6 +6,8 @@ video_id: "f0FKGXMu8xY"
 thumbnail: "https://i.ytimg.com/vi/f0FKGXMu8xY/maxresdefault.jpg"
 tags: ["surfing barbados", "surfing soup bowl", "unedited surfing", "surf cam", "raw surfing", "REEFbreak surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 80
 ---
 
 <div class="video-embed">

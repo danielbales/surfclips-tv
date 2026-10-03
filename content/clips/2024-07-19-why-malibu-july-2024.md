@@ -6,6 +6,8 @@ video_id: "3RY5doBl5NY"
 thumbnail: "https://i.ytimg.com/vi/3RY5doBl5NY/maxresdefault.jpg"
 tags: ["surfing malibu", "unedited surfing", "surf cam", "raw surfing", "surf crowd", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "short"
+duration: 19
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "uvrX8EDSsv8"
 thumbnail: "https://i.ytimg.com/vi/uvrX8EDSsv8/maxresdefault.jpg"
 tags: ["Top 10 Surf", "Yan Daberkow", "Rivian Rock", "Liquide", "Surf Raw Files", "Garrett Schmid", "Andrew Glover", "Carr Brothers", "Capturando Olas"]
 type: "clips"
+clip_type: "short"
+duration: 6
 ---
 
 <div class="video-embed">

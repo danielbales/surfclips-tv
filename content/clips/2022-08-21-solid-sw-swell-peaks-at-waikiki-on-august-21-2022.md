@@ -6,6 +6,8 @@ video_id: "Rzgbeta82jY"
 thumbnail: "https://i.ytimg.com/vi/Rzgbeta82jY/maxresdefault.jpg"
 tags: ["surfing oahu", "surfing kewalos", "unedited surfing", "surf cam", "raw surfing", "waikiki surf", "ezekiel lau", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 73
 ---
 
 <div class="video-embed">

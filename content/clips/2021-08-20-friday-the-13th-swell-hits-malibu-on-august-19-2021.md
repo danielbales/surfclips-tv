@@ -6,6 +6,8 @@ video_id: "ElAZ21Nb9do"
 thumbnail: "https://i.ytimg.com/vi/ElAZ21Nb9do/maxresdefault.jpg"
 tags: ["surfing california", "surfing malibu", "unedited surfing", "surf cam", "raw surfing", "POINT break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 247
 ---
 
 <div class="video-embed">

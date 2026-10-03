@@ -6,6 +6,8 @@ video_id: "Jh549MHeMmk"
 thumbnail: "https://i.ytimg.com/vi/Jh549MHeMmk/maxresdefault.jpg"
 tags: ["Kelly Slater", "2023 backdoor shootout"]
 type: "clips"
+clip_type: "short"
+duration: 13
 ---
 
 <div class="video-embed">

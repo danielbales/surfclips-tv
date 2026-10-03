@@ -6,6 +6,8 @@ video_id: "2sSaK6wPzgk"
 thumbnail: "https://i.ytimg.com/vi/2sSaK6wPzgk/maxresdefault.jpg"
 tags: ["Top 10 Surf", "perfect wave", "al cleland jr"]
 type: "clips"
+clip_type: "short"
+duration: 5
 ---
 
 <div class="video-embed">

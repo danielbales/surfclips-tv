@@ -6,6 +6,8 @@ video_id: "EqwIIb7OB8U"
 thumbnail: "https://i.ytimg.com/vi/EqwIIb7OB8U/maxresdefault.jpg"
 tags: ["surfing backdoor pipeline", "mason ho", "big surf", "ocean", "waves", "surfline rewind", "good to epic", "perfect surf", "surf video"]
 type: "clips"
+clip_type: "short"
+duration: 17
 ---
 
 <div class="video-embed">

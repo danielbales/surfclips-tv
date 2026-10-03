@@ -6,6 +6,8 @@ video_id: "q9LDZNDDBlQ"
 thumbnail: "https://i.ytimg.com/vi/q9LDZNDDBlQ/maxresdefault.jpg"
 tags: ["surfing new york", "hurricane fiona surf", "unedited surfing", "surf cam", "raw surfing", "lido beach surf", "balaram stack", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 98
 ---
 
 <div class="video-embed">

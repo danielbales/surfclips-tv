@@ -6,6 +6,8 @@ video_id: "s6mdZnbmX3k"
 thumbnail: "https://i.ytimg.com/vi/s6mdZnbmX3k/maxresdefault.jpg"
 tags: ["wilbur kookmeyer"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

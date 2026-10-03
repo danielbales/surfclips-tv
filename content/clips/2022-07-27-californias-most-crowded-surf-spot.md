@@ -6,6 +6,8 @@ video_id: "S17Fua47F-g"
 thumbnail: "https://i.ytimg.com/vi/S17Fua47F-g/maxresdefault.jpg"
 tags: ["surfing southern california", "surfing malibu", "unedited surfing", "surf cam", "raw surfing", "POINt break surfing", "alex knost", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 166
 ---
 
 <div class="video-embed">

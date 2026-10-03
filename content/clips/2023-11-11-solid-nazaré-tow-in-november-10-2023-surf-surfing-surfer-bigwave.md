@@ -6,6 +6,8 @@ video_id: "NOSCT8a_wjA"
 thumbnail: "https://i.ytimg.com/vi/NOSCT8a_wjA/maxresdefault.jpg"
 tags: ["surfing nazare", "surfing big wave portugal", "unedited surfing", "surf cam", "raw surfing", "xl surf", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 12
 ---
 
 <div class="video-embed">

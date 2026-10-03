@@ -6,6 +6,8 @@ video_id: "uubLM-0-o3A"
 thumbnail: "https://i.ytimg.com/vi/uubLM-0-o3A/maxresdefault.jpg"
 tags: ["Mollymook", "xl surf"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

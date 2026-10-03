@@ -6,6 +6,8 @@ video_id: "u6X_ISXq2nw"
 thumbnail: "https://i.ytimg.com/vi/u6X_ISXq2nw/maxresdefault.jpg"
 tags: ["Top 10 Surf", "perfect wave", "james kustino"]
 type: "clips"
+clip_type: "short"
+duration: 11
 ---
 
 <div class="video-embed">

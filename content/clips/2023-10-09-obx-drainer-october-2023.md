@@ -6,6 +6,8 @@ video_id: "Tm-o3-AZI8I"
 thumbnail: "https://i.ytimg.com/vi/Tm-o3-AZI8I/maxresdefault.jpg"
 tags: ["outer banks surf", "North Carolina surf", "cape Hatteras", "Brett barley"]
 type: "clips"
+clip_type: "short"
+duration: 5
 ---
 
 <div class="video-embed">

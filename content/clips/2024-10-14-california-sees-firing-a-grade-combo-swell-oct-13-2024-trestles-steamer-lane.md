@@ -6,6 +6,8 @@ video_id: "bA8D-e-6Ub0"
 thumbnail: "https://i.ytimg.com/vi/bA8D-e-6Ub0/maxresdefault.jpg"
 tags: ["surfing california", "surfing steamer lane", "surfing lower trestles", "combo swell", "kolohe andino", "nat young", "griffin colapinto", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "clip"
+duration: 128
 ---
 
 <div class="video-embed">

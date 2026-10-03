@@ -6,6 +6,8 @@ video_id: "W9ZAN_dlJ7U"
 thumbnail: "https://i.ytimg.com/vi/W9ZAN_dlJ7U/maxresdefault.jpg"
 tags: ["puerto escondido surf", "xxl surf"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

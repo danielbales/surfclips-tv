@@ -6,6 +6,8 @@ video_id: "cwEUv5JKgbk"
 thumbnail: "https://i.ytimg.com/vi/cwEUv5JKgbk/maxresdefault.jpg"
 tags: ["surf highlight", "eimeo czermak", "teahupoo surf"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

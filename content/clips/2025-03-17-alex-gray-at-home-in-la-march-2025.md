@@ -6,6 +6,8 @@ video_id: "pnEj0VDfoio"
 thumbnail: "https://i.ytimg.com/vi/pnEj0VDfoio/maxresdefault.jpg"
 tags: ["alex gray", "los angeles surfing", "perfect wave"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

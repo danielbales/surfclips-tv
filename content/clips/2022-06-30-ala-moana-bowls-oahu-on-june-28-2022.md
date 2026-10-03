@@ -6,6 +6,8 @@ video_id: "W197mvlojzY"
 thumbnail: "https://i.ytimg.com/vi/W197mvlojzY/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing ala moana bowls", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "waikiki surf", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 90
 ---
 
 <div class="video-embed">

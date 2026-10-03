@@ -6,6 +6,8 @@ video_id: "ZrNzRG-5o-I"
 thumbnail: "https://i.ytimg.com/vi/ZrNzRG-5o-I/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing backdoor pipeline", "unedited surfing", "surf cam", "raw surfing", "kelly slater", "john florence", "michael ho", "jamie obrien", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 89
 ---
 
 <div class="video-embed">

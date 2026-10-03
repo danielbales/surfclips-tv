@@ -6,6 +6,8 @@ video_id: "HyRwGAEvl2w"
 thumbnail: "https://i.ytimg.com/vi/HyRwGAEvl2w/maxresdefault.jpg"
 tags: ["Mason ho", "pipeline", "perfect waves"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "vrjenEYmffk"
 thumbnail: "https://i.ytimg.com/vi/vrjenEYmffk/sddefault.jpg"
 tags: ["Top 10 Surf", "Oahu Surf Films", "Kandui Surf Report", "Jamie O'Brien", "Koa Rothman", "Raw Surf Files", "Liquide", "matahi drollet"]
 type: "clips"
+clip_type: "top10"
+duration: 170
 ---
 
 <div class="video-embed">

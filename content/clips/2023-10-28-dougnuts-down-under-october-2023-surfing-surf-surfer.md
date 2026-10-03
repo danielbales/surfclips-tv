@@ -6,6 +6,8 @@ video_id: "BiHq0cTq4_I"
 thumbnail: "https://i.ytimg.com/vi/BiHq0cTq4_I/maxresdefault.jpg"
 tags: ["surfing snapper rocks", "unedited surfing", "surf cam", "raw surfing", "mick fanning", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "short"
+duration: 4
 ---
 
 <div class="video-embed">

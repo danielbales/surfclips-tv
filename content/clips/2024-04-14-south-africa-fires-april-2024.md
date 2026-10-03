@@ -6,6 +6,8 @@ video_id: "9NgxWxhx_M8"
 thumbnail: "https://i.ytimg.com/vi/9NgxWxhx_M8/maxresdefault.jpg"
 tags: ["surfing south africa", "surfing jeffrey's bay", "unedited surfing", "surf cam", "raw surfing", "jordy smith", "matthew mcgillvery", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 102
 ---
 
 <div class="video-embed">

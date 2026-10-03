@@ -6,6 +6,8 @@ video_id: "rD1Rp-Biebc"
 thumbnail: "https://i.ytimg.com/vi/rD1Rp-Biebc/maxresdefault.jpg"
 tags: ["top 10 surf", "pipeline", "maui surf", "mason ho", "finn mcgill", "nate florence", "cam richards", "jack robinson"]
 type: "clips"
+clip_type: "top10"
+duration: 172
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "u5ZkzPKIvN0"
 thumbnail: "https://i.ytimg.com/vi/u5ZkzPKIvN0/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing backdoor pipeline", "unedited surfing", "surf cam", "raw surfing", "wave of the winter", "joey johnston", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 62
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "0OvxnV_Iqyc"
 thumbnail: "https://i.ytimg.com/vi/0OvxnV_Iqyc/maxresdefault.jpg"
 tags: ["surfing tahiti", "surfing teahupoo", "unedited surfing", "friday the 13th swell", "raw surfing", "REEF break surfing", "kelly slater", "code red swell", "teahupoo tow ins surfing", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 126
 ---
 
 <div class="video-embed">

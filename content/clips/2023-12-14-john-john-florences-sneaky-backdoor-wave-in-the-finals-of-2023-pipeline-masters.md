@@ -6,6 +6,8 @@ video_id: "7CTWGZqyk5o"
 thumbnail: "https://i.ytimg.com/vi/7CTWGZqyk5o/maxresdefault.jpg"
 tags: ["surfing 2023 pipeline masters", "unedited surfing", "surf cam", "raw surfing", "john john florence", "ocean waves with sound", "big surf", "ocean", "waves", "surfline rewind"]
 type: "clips"
+clip_type: "short"
+duration: 39
 ---
 
 <div class="video-embed">

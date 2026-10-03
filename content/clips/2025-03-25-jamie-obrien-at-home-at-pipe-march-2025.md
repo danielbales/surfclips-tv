@@ -6,6 +6,8 @@ video_id: "wyEDAfXeyD4"
 thumbnail: "https://i.ytimg.com/vi/wyEDAfXeyD4/maxresdefault.jpg"
 tags: ["jamie obrien", "perfect wave"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

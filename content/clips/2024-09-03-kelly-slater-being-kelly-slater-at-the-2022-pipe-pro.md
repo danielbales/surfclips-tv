@@ -6,6 +6,8 @@ video_id: "eIHJjgjiBAs"
 thumbnail: "https://i.ytimg.com/vi/eIHJjgjiBAs/maxresdefault.jpg"
 tags: ["Kelly Slater", "pipeline pro", "epic wave"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "oOaSIWlWIkU"
 thumbnail: "https://i.ytimg.com/vi/oOaSIWlWIkU/maxresdefault.jpg"
 tags: ["surfing australia", "surfing burleigh heads", "unedited surfing", "surf cam", "raw surfing", "POINT break surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 61
 ---
 
 <div class="video-embed">

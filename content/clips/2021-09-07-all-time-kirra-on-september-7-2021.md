@@ -6,6 +6,8 @@ video_id: "dfL3ioyN1wI"
 thumbnail: "https://i.ytimg.com/vi/dfL3ioyN1wI/maxresdefault.jpg"
 tags: ["surfing australia", "surfing kirra", "unedited surfing", "surf cam", "raw surfing", "POINT break surfing", "kelly slater", "mental health", "mental therapy", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 169
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "CCBworqMvEU"
 thumbnail: "https://i.ytimg.com/vi/CCBworqMvEU/maxresdefault.jpg"
 tags: ["Top 10 surf", "Jamie O'Brien", "Koa Rothman", "WSL", "Billabong", "Brody Mulik", "Jack Zietz", "Rage", "Jordy Liackman", "Gearoid Mcdaid"]
 type: "clips"
+clip_type: "top10"
+duration: 150
 ---
 
 <div class="video-embed">

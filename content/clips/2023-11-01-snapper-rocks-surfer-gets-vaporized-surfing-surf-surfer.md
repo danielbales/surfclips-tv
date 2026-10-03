@@ -6,6 +6,8 @@ video_id: "sS8C5CG-kk0"
 thumbnail: "https://i.ytimg.com/vi/sS8C5CG-kk0/maxresdefault.jpg"
 tags: ["surfing snapper rocks", "surfing wipeout", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
+clip_type: "short"
+duration: 4
 ---
 
 <div class="video-embed">

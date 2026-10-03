@@ -6,6 +6,8 @@ video_id: "I6QJdyexTwU"
 thumbnail: "https://i.ytimg.com/vi/I6QJdyexTwU/maxresdefault.jpg"
 tags: ["surfing spain", "surfing xl mundaka", "unedited surfing", "surf cam", "raw surfing", "basque surf", "aritz aramburu", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 242
 ---
 
 <div class="video-embed">

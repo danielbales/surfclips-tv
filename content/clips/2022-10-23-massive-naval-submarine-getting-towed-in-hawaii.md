@@ -6,6 +6,8 @@ video_id: "HbxB3JENg2Q"
 thumbnail: "https://i.ytimg.com/vi/HbxB3JENg2Q/maxresdefault.jpg"
 tags: ["surfing hawaii", "naval submarine", "surf cam"]
 type: "clips"
+clip_type: "short"
+duration: 59
 ---
 
 <div class="video-embed">

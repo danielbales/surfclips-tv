@@ -3,9 +3,11 @@ title: "Wilbur Kookmeyer Gets Scammed! | \"Save the Ferrets\" Surf Contest"
 date: 2026-05-06T21:34:22Z
 draft: false
 video_id: "TCbx94YSmJU"
-thumbnail: "https://i9.ytimg.com/vi/TCbx94YSmJU/hqdefault.jpg?sqp=CKjRgdYG&rs=AOn4CLC4zlwGZp4IYDK0O71l3OgL08Barg"
+thumbnail: "https://i9.ytimg.com/vi/TCbx94YSmJU/hqdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLDHzgZweY4_TDQMIwm6zN7ldl4ikA"
 tags: ["wilbur kookmeyer", "surfboard", "ocean", "wave", "SurfComedy", "Claymation", "Surfing", "animation"]
 type: "clips"
+clip_type: "short"
+duration: 43
 ---
 
 <div class="video-embed">

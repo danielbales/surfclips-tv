@@ -1,43 +1,62 @@
 {{ define "main" }}
-<section class="hero">
-  <h1>Surf Clips TV</h1>
-  <p>The best surf clips from around the world.</p>
-</section>
 
-{{/* Weekly Top 10 - show latest if it exists */}}
-{{ $top10 := first 1 (where .Site.RegularPages "Section" "posts") }}
-{{ range $top10 }}
-<section class="latest-top10">
-  <article class="post-card featured">
-    <a href="{{ .Permalink }}">
-      <span class="featured-badge">Weekly Top 10</span>
-      <h2>{{ .Title }}</h2>
+{{/* Latest Top 10 - the anchor */}}
+{{ $top10s := where .Site.RegularPages "Params.clip_type" "top10" }}
+{{ with first 1 $top10s }}
+{{ range . }}
+<section class="top10-feature">
+  <a href="{{ .Permalink }}" class="top10-feature-link">
+    {{ with .Params.thumbnail }}
+    <img src="{{ . }}" alt="{{ $.Title }}" class="top10-feature-img" loading="eager">
+    {{ end }}
+    <div class="top10-feature-info">
+      <span class="featured-badge">Latest Top 10</span>
+      <h1>{{ .Title }}</h1>
       <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
-    </a>
-  </article>
+    </div>
+  </a>
 </section>
 {{ end }}
+{{ end }}
 
-<section class="clips-section">
-  <h2 class="section-heading">Latest Clips</h2>
-  <div class="clips-grid">
-    {{ range first 12 (where .Site.RegularPages "Section" "clips") }}
-    <article class="clip-card">
-      <a href="{{ .Permalink }}">
-        {{ with .Params.thumbnail }}
-        <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
-        {{ end }}
-        <div class="clip-card-info">
-          <h2>{{ .Title }}</h2>
-          <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
-        </div>
-      </a>
-    </article>
+{{/* Shorts widget - horizontal scroll */}}
+{{ $shorts := where .Site.RegularPages "Params.clip_type" "short" }}
+{{ with $shorts }}
+<section class="shorts-section">
+  <div class="section-header">
+    <h2 class="section-heading">Shorts</h2>
+    <a href="{{ "tags/shorts/" | absURL }}" class="see-all">All shorts</a>
+  </div>
+  <div class="shorts-rail">
+    {{ range first 20 . }}
+    <a href="{{ .Permalink }}" class="short-card">
+      {{ with .Params.thumbnail }}
+      <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+      {{ end }}
+      <span class="short-title">{{ .Title }}</span>
+    </a>
     {{ end }}
   </div>
 </section>
+{{ end }}
 
-<div class="archive-link">
-  <a href="{{ "clips/" | absURL }}">All clips &rarr;</a>
-</div>
+{{/* Previous Top 10s */}}
+{{ $prevTop10s := after 1 $top10s }}
+{{ with $prevTop10s }}
+<section class="prev-top10s">
+  <h2 class="section-heading">Previous Top 10s</h2>
+  {{ range first 8 . }}
+  <article class="post-card">
+    <a href="{{ .Permalink }}">
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Mon, Jan 2" }}</time>
+      <h2>{{ .Title }}</h2>
+    </a>
+  </article>
+  {{ end }}
+  <div class="archive-link">
+    <a href="{{ "tags/top-10/" | absURL }}">All Top 10s &rarr;</a>
+  </div>
+</section>
+{{ end }}
+
 {{ end }}

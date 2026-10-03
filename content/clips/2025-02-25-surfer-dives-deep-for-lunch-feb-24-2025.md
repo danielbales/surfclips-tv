@@ -6,6 +6,8 @@ video_id: "344zwVgk7dw"
 thumbnail: "https://i.ytimg.com/vi/344zwVgk7dw/maxresdefault.jpg"
 tags: ["pipeline surf", "surf wipeout"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

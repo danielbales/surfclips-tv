@@ -6,6 +6,8 @@ video_id: "WM6zcpTfzfU"
 thumbnail: "https://i.ytimg.com/vi/WM6zcpTfzfU/maxresdefault.jpg"
 tags: ["surfing nias", "surfing lagrundi bay", "unedited surfing", "surf cam", "raw surfing", "REE break surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 48
 ---
 
 <div class="video-embed">

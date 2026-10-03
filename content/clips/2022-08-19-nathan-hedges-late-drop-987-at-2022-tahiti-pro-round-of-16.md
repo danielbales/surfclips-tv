@@ -6,6 +6,8 @@ video_id: "GmA65ay-ovA"
 thumbnail: "https://i.ytimg.com/vi/GmA65ay-ovA/maxresdefault.jpg"
 tags: ["surfing tahiti", "surfing 2022 tahiti pro teahupoo", "unedited surfing", "surf cam", "raw surfing", "nathan hedge", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

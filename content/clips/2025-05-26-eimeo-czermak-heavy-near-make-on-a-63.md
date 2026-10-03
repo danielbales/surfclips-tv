@@ -6,6 +6,8 @@ video_id: "vJDgj0m6LhU"
 thumbnail: "https://i.ytimg.com/vi/vJDgj0m6LhU/maxresdefault.jpg"
 tags: ["Eimeo Czermak teahupoo", "surf wipeout"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

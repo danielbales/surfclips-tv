@@ -6,6 +6,8 @@ video_id: "l50v1ij6nVM"
 thumbnail: "https://i.ytimg.com/vi/l50v1ij6nVM/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing backdoor pipeline", "unedited surfing", "surf cam", "raw surfing", "north shore sure", "big waves", "surf wipeout", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 51
 ---
 
 <div class="video-embed">

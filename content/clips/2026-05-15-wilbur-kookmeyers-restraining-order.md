@@ -6,6 +6,8 @@ video_id: "KfDv9Eef-ik"
 thumbnail: "https://i.ytimg.com/vi/KfDv9Eef-ik/maxresdefault.jpg"
 tags: ["wilbur kookmeyer", "surf comedy", "surfing", "kook", "surf humor", "kelly slater", "funny surf video", "surf culture", "kook of the day", "surfing fails"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

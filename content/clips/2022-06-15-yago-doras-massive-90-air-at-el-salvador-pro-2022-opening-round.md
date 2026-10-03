@@ -6,6 +6,8 @@ video_id: "ymbOt5ptiT0"
 thumbnail: "https://i.ytimg.com/vi/ymbOt5ptiT0/maxresdefault.jpg"
 tags: ["surfing 2022 El salvador pro", "yago dora", "unedited surfing", "surf cam", "raw surfing", "POINt break surfing", "punta roca surf", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 47
 ---
 
 <div class="video-embed">

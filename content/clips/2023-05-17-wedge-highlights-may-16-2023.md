@@ -6,6 +6,8 @@ video_id: "fVGXdIMnw0g"
 thumbnail: "https://i.ytimg.com/vi/fVGXdIMnw0g/maxresdefault.jpg"
 tags: ["surfing the wedge orange county california", "surfing SPOT NAME", "unedited surfing", "surf cam", "jamie obrien", "novelty surf", "mason ho", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 122
 ---
 
 <div class="video-embed">

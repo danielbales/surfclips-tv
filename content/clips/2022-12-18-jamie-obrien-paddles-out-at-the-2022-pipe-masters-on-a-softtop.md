@@ -6,6 +6,8 @@ video_id: "c8rjgWa8i7w"
 thumbnail: "https://i.ytimg.com/vi/c8rjgWa8i7w/maxresdefault.jpg"
 tags: ["surfing 2022 pipeline masters", "jamie obrien", "unedited surfing", "surf cam", "raw surfing", "north shore surf", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 43
 ---
 
 <div class="video-embed">

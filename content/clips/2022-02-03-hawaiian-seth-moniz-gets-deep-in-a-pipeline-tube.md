@@ -6,6 +6,8 @@ video_id: "QjkPhQt7Z6k"
 thumbnail: "https://i.ytimg.com/vi/QjkPhQt7Z6k/hqdefault.jpg"
 tags: ["surfing shorts", "seth moniz", "2022 pipeline pro", "2022 pipeline masters"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

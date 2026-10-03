@@ -6,6 +6,8 @@ video_id: "emZ6YArZX_A"
 thumbnail: "https://i.ytimg.com/vi/emZ6YArZX_A/maxresdefault.jpg"
 tags: ["surfing portugal", "surfing supertubos", "wave of the day", "surf cam", "raw surfing", "italo ferreira", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 63
 ---
 
 <div class="video-embed">

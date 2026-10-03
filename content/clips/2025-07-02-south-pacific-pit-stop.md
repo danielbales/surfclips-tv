@@ -6,6 +6,8 @@ video_id: "wOhDcKMpnj8"
 thumbnail: "https://i.ytimg.com/vi/wOhDcKMpnj8/maxresdefault.jpg"
 tags: ["Top 10 Surf", "temae surf", "moorea surf"]
 type: "clips"
+clip_type: "short"
+duration: 6
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "gX_ArynxoeM"
 thumbnail: "https://i.ytimg.com/vi/gX_ArynxoeM/maxresdefault.jpg"
 tags: ["pipeline surf"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

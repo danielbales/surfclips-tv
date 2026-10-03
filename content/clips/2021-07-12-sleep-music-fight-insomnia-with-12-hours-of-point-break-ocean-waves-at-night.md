@@ -3,9 +3,11 @@ title: "SLEEP MUSIC - Fight INSOMNIA with 12 hours of POINT BREAK (OCEAN) WAVES 
 date: 2021-07-12T14:56:52Z
 draft: false
 video_id: "B-rn_XiPmx8"
-thumbnail: "https://i9.ytimg.com/vi/B-rn_XiPmx8/maxresdefault.jpg?sqp=CKjRgdYG&rs=AOn4CLCu1uutqTynSrcp7SDbFjSHkfT9aQ"
+thumbnail: "https://i9.ytimg.com/vi/B-rn_XiPmx8/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLAd4Bpr92WjP3g1-G9k2YbpyusJcw"
 tags: ["ocean sounds", "relaxing ocean", "ocean meditation", "relaxing music", "sleep music", "meditation music", "soothing relaxation", "yoga music", "background music", "calming ocean"]
 type: "clips"
+clip_type: "clip"
+duration: 43198
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "3VKafb5RZlM"
 thumbnail: "https://i.ytimg.com/vi/3VKafb5RZlM/maxresdefault.jpg"
 tags: ["surfing australia", "surfing superbank", "unedited surfing", "surf cam", "raw surfing", "mick fanning", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 155
 ---
 
 <div class="video-embed">

@@ -6,6 +6,8 @@ video_id: "yPJEs1jJXvM"
 thumbnail: "https://i.ytimg.com/vi/yPJEs1jJXvM/maxresdefault.jpg"
 tags: ["surf cam rewind highlights", "surfing australia", "unedited surfing", "surf cam", "raw surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 153
 ---
 
 <div class="video-embed">

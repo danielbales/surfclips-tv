@@ -6,6 +6,8 @@ video_id: "R7jwU7McrPQ"
 thumbnail: "https://i.ytimg.com/vi/R7jwU7McrPQ/maxresdefault.jpg"
 tags: ["kolohe andino", "perfect waves"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

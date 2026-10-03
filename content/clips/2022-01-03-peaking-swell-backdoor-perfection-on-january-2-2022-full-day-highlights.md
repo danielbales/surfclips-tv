@@ -6,6 +6,8 @@ video_id: "KjumVZDyJ5E"
 thumbnail: "https://i.ytimg.com/vi/KjumVZDyJ5E/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing backdoor pipeline", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 529
 ---
 
 <div class="video-embed">

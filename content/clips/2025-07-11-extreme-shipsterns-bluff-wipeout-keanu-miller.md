@@ -3,9 +3,11 @@ title: "Extreme Shipstern's Bluff wipeout (Keanu Miller)"
 date: 2025-07-11T04:55:19Z
 draft: false
 video_id: "dI8g7hsXRfE"
-thumbnail: "https://i9.ytimg.com/vi/dI8g7hsXRfE/maxresdefault.jpg?sqp=CKjRgdYG&rs=AOn4CLCbMRxrTLQsYGE1Gh1ac0H0E0na6g"
+thumbnail: "https://i9.ytimg.com/vi/dI8g7hsXRfE/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLBnlh0Fq8cfpSc5e4CY2hsJbSuzmQ"
 tags: ["Top 10 Surf", "xl surf wipeout"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

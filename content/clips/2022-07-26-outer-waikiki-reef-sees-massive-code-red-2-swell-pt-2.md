@@ -6,6 +6,8 @@ video_id: "oNw5emHHZ-g"
 thumbnail: "https://i.ytimg.com/vi/oNw5emHHZ-g/maxresdefault.jpg"
 tags: ["surfing waikiki", "surfing publics", "unedited surfing", "surf cam", "raw surfing", "south shore surf", "ezekiel lau", "josh moniz", "seth moniz", "ocean waves with sound"]
 type: "clips"
+clip_type: "clip"
+duration: 103
 ---
 
 <div class="video-embed">

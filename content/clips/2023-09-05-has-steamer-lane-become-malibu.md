@@ -6,6 +6,8 @@ video_id: "yoAV8mXRtjQ"
 thumbnail: "https://i.ytimg.com/vi/yoAV8mXRtjQ/maxresdefault.jpg"
 tags: ["surfing steamer lane", "surfing malibu", "crowded surfing", "surf cam", "raw surfing", "novelty surf", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "clip"
+duration: 72
 ---
 
 <div class="video-embed">

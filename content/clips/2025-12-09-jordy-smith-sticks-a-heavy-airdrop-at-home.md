@@ -6,6 +6,8 @@ video_id: "LRPBFukQjEU"
 thumbnail: "https://i.ytimg.com/vi/LRPBFukQjEU/maxresdefault.jpg"
 tags: ["Top 10 Surf", "perfect wave", "jordy smith"]
 type: "clips"
+clip_type: "short"
+duration: 7
 ---
 
 <div class="video-embed">

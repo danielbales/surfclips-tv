@@ -6,6 +6,8 @@ video_id: "8vXCfD35UqM"
 thumbnail: "https://i.ytimg.com/vi/8vXCfD35UqM/maxresdefault.jpg"
 tags: ["pipeline barrel", "perfect wave", "john john florence"]
 type: "clips"
+clip_type: "short"
+duration: 10
 ---
 
 <div class="video-embed">

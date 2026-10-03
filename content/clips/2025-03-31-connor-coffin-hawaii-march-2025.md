@@ -6,6 +6,8 @@ video_id: "JeAKBddhXJI"
 thumbnail: "https://i.ytimg.com/vi/JeAKBddhXJI/maxresdefault.jpg"
 tags: ["connor coffin", "v land surf"]
 type: "clips"
+clip_type: "short"
+duration: 9
 ---
 
 <div class="video-embed">

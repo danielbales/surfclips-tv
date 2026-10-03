@@ -6,6 +6,8 @@ video_id: "OpU5iVCNYpk"
 thumbnail: "https://i.ytimg.com/vi/OpU5iVCNYpk/maxresdefault.jpg"
 tags: ["wilbur kookmeyer", "angkor wat"]
 type: "clips"
+clip_type: "short"
+duration: 8
 ---
 
 <div class="video-embed">

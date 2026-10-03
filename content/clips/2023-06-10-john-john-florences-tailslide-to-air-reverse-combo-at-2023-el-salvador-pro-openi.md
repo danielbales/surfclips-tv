@@ -6,6 +6,8 @@ video_id: "lm_ZNLTiq08"
 thumbnail: "https://i.ytimg.com/vi/lm_ZNLTiq08/maxresdefault.jpg"
 tags: ["2023 el salvador pro", "punta roca surf", "unedited surfing", "surf cam", "raw surfing", "john john florence", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
+clip_type: "short"
+duration: 45
 ---
 
 <div class="video-embed">

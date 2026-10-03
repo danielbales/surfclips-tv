@@ -6,6 +6,8 @@ video_id: "SEw1GwLr-LA"
 thumbnail: "https://i.ytimg.com/vi/SEw1GwLr-LA/maxresdefault.jpg"
 tags: ["surfing hawaii", "2023 pipeline masters", "unedited surfing", "surf cam", "raw surfing", "north shore surfing", "gabriel medina", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
+clip_type: "short"
+duration: 44
 ---
 
 <div class="video-embed">
