@@ -1,0 +1,29 @@
+baseURL = "https://surfclips.tv"
+languageCode = "en-US"
+title = "Surf Clips TV"
+theme = "surfclips"
+
+[params]
+  description = "Daily surf report, conditions, and the best surf clips from around the world."
+  tagline = "Daily surf. Fresh clips."
+  youtube_channel = "https://www.youtube.com/@SurfClipsTV"
+
+[taxonomies]
+  tag = "tags"
+  region = "regions"
+
+[permalinks]
+  posts = "/:year/:month/:day/:slug/"
+
+[sitemap]
+  changefreq = "daily"
+  priority = 0.7
+  filename = "sitemap.xml"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+  home = ["HTML", "RSS"]

@@ -1,0 +1,26 @@
+---
+title: "Josh Redman on a Mutant in South Africa"
+date: 2026-07-18T23:58:57Z
+draft: false
+video_id: "bstDTaxu92o"
+thumbnail: "https://i.ytimg.com/vi/bstDTaxu92o/maxresdefault.jpg"
+tags: ["surf highlight", "south africa", "big waves", "josh redman", "jordy smith"]
+type: "clips"
+---
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/bstDTaxu92o" title="Josh Redman on a Mutant in South Africa" allowfullscreen loading="lazy"></iframe>
+</div>
+
+Wilbur merch!
+https://surf-clips-tv-shop.fourthwall.com/
+
+Josh Redman on a beast!
+
+And support the channel by subscribing! 
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+
+Thank you for supporting Surf Clips TV!

@@ -1,0 +1,24 @@
+---
+title: "Evan Geiselman in Central America"
+date: 2026-09-29T04:34:18Z
+draft: false
+video_id: "sodx9dX8aaI"
+thumbnail: "https://i.ytimg.com/vi/sodx9dX8aaI/maxresdefault.jpg"
+tags: ["surf highlight", "Evan Geiselman", "panama surf"]
+type: "clips"
+---
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/sodx9dX8aaI" title="Evan Geiselman in Central America" allowfullscreen loading="lazy"></iframe>
+</div>
+
+Wilbur merch!
+https://surf-clips-tv-shop.fourthwall.com/
+
+And support the channel by subscribing! 
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+
+Thank you for supporting Surf Clips TV!

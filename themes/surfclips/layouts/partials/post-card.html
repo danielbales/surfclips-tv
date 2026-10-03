@@ -1,0 +1,13 @@
+<article class="post-card">
+  <a href="{{ .Permalink }}">
+    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Mon, Jan 2" }}</time>
+    <h2>{{ .Title }}</h2>
+    {{ with .Params.conditions }}
+    <div class="conditions-preview">
+      {{ with .swell }}<span>{{ . }}</span>{{ end }}
+      {{ with .wind }}<span>{{ . }}</span>{{ end }}
+    </div>
+    {{ end }}
+    {{ with .Summary }}<p>{{ . }}</p>{{ end }}
+  </a>
+</article>

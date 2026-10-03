@@ -1,0 +1,28 @@
+---
+title: "Scratching into a HEFTY PIPE wave - November 25, 2023  #xlsurf #surfing #surfer"
+date: 2023-11-27T01:11:35Z
+draft: false
+video_id: "BwQLzT_3TkI"
+thumbnail: "https://i.ytimg.com/vi/BwQLzT_3TkI/maxresdefault.jpg"
+tags: ["surfing pipeline", "surfing xl black friday swell", "unedited surfing", "surf cam", "raw surfing", "kalani chapman", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
+type: "clips"
+---
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/BwQLzT_3TkI" title="Scratching into a HEFTY PIPE wave - November 25, 2023  #xlsurf #surfing #surfer" allowfullscreen loading="lazy"></iframe>
+</div>
+
+#shorts 
+
+Music: Godmode - Traversing
+
+Support the channel by subscribing! 
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
+
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
+
+Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!

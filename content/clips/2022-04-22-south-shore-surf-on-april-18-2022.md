@@ -1,0 +1,26 @@
+---
+title: "South Shore surf on April 18, 2022"
+date: 2022-04-22T06:45:00Z
+draft: false
+video_id: "dmXZ61NdxNE"
+thumbnail: "https://i9.ytimg.com/vi/dmXZ61NdxNE/maxresdefault.jpg?sqp=CKjRgdYG&rs=AOn4CLAhVptL2CV2ZTIRVRDXxUEPXeokHw"
+tags: ["surfing hawaii", "surfing kaiser's oahu", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "ezekiel lau", "mental health", "mental therapy", "ocean waves with sound"]
+type: "clips"
+---
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/dmXZ61NdxNE" title="South Shore surf on April 18, 2022" allowfullscreen loading="lazy"></iframe>
+</div>
+
+SSW swell with sunny and breezy 20 to 25 mph Northeast winds groomed faces and offered some fun surf on the South Shore.
+
+Support the channel by subscribing! 
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
+
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
+
+Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!

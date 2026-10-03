@@ -1,0 +1,28 @@
+---
+title: "Imaikalani DeVault spat on 3x in deep pit at Finals Day of 2023 Pipeline Masters"
+date: 2023-12-13T19:30:00Z
+draft: false
+video_id: "-u8LpoiPB3A"
+thumbnail: "https://i.ytimg.com/vi/-u8LpoiPB3A/maxresdefault.jpg"
+tags: ["surfing COUNTRY", "surfing SPOT NAME", "unedited surfing", "surf cam", "raw surfing", "REEF OR POINT OR BEACH break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
+type: "clips"
+---
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/-u8LpoiPB3A" title="Imaikalani DeVault spat on 3x in deep pit at Finals Day of 2023 Pipeline Masters" allowfullscreen loading="lazy"></iframe>
+</div>
+
+#shorts 
+
+Music: Matt Harris - Strange Stuff
+
+Support the channel by subscribing! 
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
+
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
+
+Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!

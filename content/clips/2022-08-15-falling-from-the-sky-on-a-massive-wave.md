@@ -1,0 +1,26 @@
+---
+title: "Falling from the sky on a massive wave"
+date: 2022-08-15T16:48:33Z
+draft: false
+video_id: "ol7n4vB9bs4"
+thumbnail: "https://i.ytimg.com/vi/ol7n4vB9bs4/maxresdefault.jpg"
+tags: ["surfing mexico", "surfing puerto escondido wipeout", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
+type: "clips"
+---
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/ol7n4vB9bs4" title="Falling from the sky on a massive wave" allowfullscreen loading="lazy"></iframe>
+</div>
+
+#shorts 
+
+Support the channel by subscribing! 
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
+
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
+
+Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!

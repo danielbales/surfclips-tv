@@ -1,0 +1,26 @@
+---
+title: "Unknown on a BACKDOOR DREAM on March 29, 2022"
+date: 2022-03-29T21:06:58Z
+draft: false
+video_id: "DLUPeRP6eP8"
+thumbnail: "https://i.ytimg.com/vi/DLUPeRP6eP8/maxresdefault.jpg"
+tags: ["surfing hawaii", "surfing backdoor pipeline", "unedited surfing", "surf cam", "raw surfing", "north shore surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
+type: "clips"
+---
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/DLUPeRP6eP8" title="Unknown on a BACKDOOR DREAM on March 29, 2022" allowfullscreen loading="lazy"></iframe>
+</div>
+
+Occasional overhead swell and clean winds provided this lucky surfer with a deep backside Backdoor barrel. 
+
+Support the channel by subscribing! 
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
+
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
+
+Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!

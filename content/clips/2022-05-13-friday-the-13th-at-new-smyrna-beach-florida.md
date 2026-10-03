@@ -1,0 +1,26 @@
+---
+title: "Friday the 13th at New Smyrna Beach, Florida"
+date: 2022-05-13T16:32:56Z
+draft: false
+video_id: "Nm84nmooMuE"
+thumbnail: "https://i.ytimg.com/vi/Nm84nmooMuE/maxresdefault.jpg"
+tags: ["surfing florida", "surfing new smyrna beach", "unedited surfing", "surf cam", "raw surfing", "BEACH break surfing", "eric geiselman", "mental health", "mental therapy", "ocean waves with sound"]
+type: "clips"
+---
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/Nm84nmooMuE" title="Friday the 13th at New Smyrna Beach, Florida" allowfullscreen loading="lazy"></iframe>
+</div>
+
+4-6 foot faces wrapped into New Smyrna Beach, Florida, and was accompanied by light, glassy conditions. 
+
+Support the channel by subscribing! 
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
+
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
+
+Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!

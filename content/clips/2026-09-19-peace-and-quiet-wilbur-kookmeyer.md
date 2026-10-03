@@ -1,0 +1,24 @@
+---
+title: "Peace and quiet – Wilbur Kookmeyer"
+date: 2026-09-19T04:22:52Z
+draft: false
+video_id: "NzbaNfxppXE"
+thumbnail: "https://i.ytimg.com/vi/NzbaNfxppXE/maxresdefault.jpg"
+tags: ["wilbur kookmeyer", "surf humor", "surfboards", "#Surfing"]
+type: "clips"
+---
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/NzbaNfxppXE" title="Peace and quiet – Wilbur Kookmeyer" allowfullscreen loading="lazy"></iframe>
+</div>
+
+Wilbur merch!
+https://surf-clips-tv-shop.fourthwall.com/
+
+And support the channel by subscribing! 
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+
+Thank you for supporting Surf Clips TV!

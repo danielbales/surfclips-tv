@@ -1,0 +1,43 @@
+{{ define "main" }}
+<section class="hero">
+  <h1>Surf Clips TV</h1>
+  <p>The best surf clips from around the world.</p>
+</section>
+
+{{/* Weekly Top 10 - show latest if it exists */}}
+{{ $top10 := first 1 (where .Site.RegularPages "Section" "posts") }}
+{{ range $top10 }}
+<section class="latest-top10">
+  <article class="post-card featured">
+    <a href="{{ .Permalink }}">
+      <span class="featured-badge">Weekly Top 10</span>
+      <h2>{{ .Title }}</h2>
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+    </a>
+  </article>
+</section>
+{{ end }}
+
+<section class="clips-section">
+  <h2 class="section-heading">Latest Clips</h2>
+  <div class="clips-grid">
+    {{ range first 12 (where .Site.RegularPages "Section" "clips") }}
+    <article class="clip-card">
+      <a href="{{ .Permalink }}">
+        {{ with .Params.thumbnail }}
+        <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+        {{ end }}
+        <div class="clip-card-info">
+          <h2>{{ .Title }}</h2>
+          <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+        </div>
+      </a>
+    </article>
+    {{ end }}
+  </div>
+</section>
+
+<div class="archive-link">
+  <a href="{{ "clips/" | absURL }}">All clips &rarr;</a>
+</div>
+{{ end }}

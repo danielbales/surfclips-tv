@@ -1,0 +1,28 @@
+---
+title: "John John Florence's SICK double barrel"
+date: 2022-02-04T06:59:36Z
+draft: false
+video_id: "wka4MbQFZG8"
+thumbnail: "https://i.ytimg.com/vi/wka4MbQFZG8/maxresdefault.jpg"
+tags: ["surfing hawaii", "surfing backdoor", "unedited surfing", "surf cam", "raw surfing", "john john florence", "mental health", "big surf", "ocean", "waves"]
+type: "clips"
+---
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/wka4MbQFZG8" title="John John Florence's SICK double barrel" allowfullscreen loading="lazy"></iframe>
+</div>
+
+#Shorts 
+
+Date: 1/2/22
+
+Support the channel by subscribing! 
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
+
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
+
+Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if not .IsHome }}{{ .Title }} - {{ end }}{{ .Site.Title }}</title>
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href="{{ "feed.xml" | absURL }}">
+  <link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="/" class="logo">{{ .Site.Title }}</a>
+      <p class="tagline">{{ .Site.Params.tagline }}</p>
+    </div>
+  </header>
+  <main class="container">
+    {{ block "main" . }}{{ end }}
+  </main>
+  <footer class="site-footer">
+    <div class="container">
+      <p>&copy; {{ now.Year }} {{ .Site.Title }} &middot; <a href="{{ .Site.Params.youtube_channel }}" target="_blank">YouTube</a> &middot; <a href="{{ "feed.xml" | absURL }}">RSS</a></p>
+    </div>
+  </footer>
+</body>
+</html>

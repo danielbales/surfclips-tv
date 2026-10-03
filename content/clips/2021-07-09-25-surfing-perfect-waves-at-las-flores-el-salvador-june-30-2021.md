@@ -1,0 +1,24 @@
+---
+title: "[2/5] Surfing PERFECT waves at Las Flores, El Salvador | June 30, 2021"
+date: 2021-07-09T09:04:57Z
+draft: false
+video_id: "i1aV3PeK24A"
+thumbnail: "https://i9.ytimg.com/vi/i1aV3PeK24A/maxresdefault.jpg?sqp=CKjRgdYG&rs=AOn4CLAZhp5gngln4EJeJ0Z1uoc7TpSdfw"
+tags: ["worldwide waves", "surfing big waves", "surfing el salvador", "surfing las flores", "unedited surfing", "ocean sounds", "relaxing ocean", "raw surfing", "point break surfing", "kelly slater"]
+type: "clips"
+---
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/i1aV3PeK24A" title="[2/5] Surfing PERFECT waves at Las Flores, El Salvador | June 30, 2021" allowfullscreen loading="lazy"></iframe>
+</div>
+
+Support the channel by subscribing! 
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
+
+After sunrise the waves were clean and rippable at Las Flores, El Salvador.
+
+Thank you for supporting Surf Rewind so we can continue to provide you with free content!

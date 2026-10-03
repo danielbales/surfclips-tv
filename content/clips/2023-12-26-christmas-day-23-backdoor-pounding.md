@@ -1,0 +1,30 @@
+---
+title: "Christmas Day '23 Backdoor Pounding"
+date: 2023-12-26T18:27:34Z
+draft: false
+video_id: "g0OG1a6sgT8"
+thumbnail: "https://i.ytimg.com/vi/g0OG1a6sgT8/maxresdefault.jpg"
+tags: ["christmas day 2023 surf", "backdoor pipeline surf", "raw surfing", "surf wipeout", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves"]
+type: "clips"
+---
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/g0OG1a6sgT8" title="Christmas Day '23 Backdoor Pounding" allowfullscreen loading="lazy"></iframe>
+</div>
+
+#shorts 
+
+Music: Sextile - Magenta
+
+Support the channel by subscribing! 
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
+
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
+
+Love the ocean? Consider supporting surfrider.org. 
+
+Credit: Surfline

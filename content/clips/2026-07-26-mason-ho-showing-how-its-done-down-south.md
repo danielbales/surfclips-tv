@@ -1,0 +1,24 @@
+---
+title: "Mason Ho showing how its done down south"
+date: 2026-07-26T16:27:03Z
+draft: false
+video_id: "Md2D-8JdXio"
+thumbnail: "https://i.ytimg.com/vi/Md2D-8JdXio/maxresdefault.jpg"
+tags: ["surf highlight", "mexico surf", "mason ho"]
+type: "clips"
+---
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/Md2D-8JdXio" title="Mason Ho showing how its done down south" allowfullscreen loading="lazy"></iframe>
+</div>
+
+Wilbur merch!
+https://surf-clips-tv-shop.fourthwall.com/
+
+And support the channel by subscribing! 
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+
+Thank you for supporting Surf Clips TV!

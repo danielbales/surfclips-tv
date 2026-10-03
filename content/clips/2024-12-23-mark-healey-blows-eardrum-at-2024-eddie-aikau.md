@@ -1,0 +1,32 @@
+---
+title: "Mark Healey blows eardrum at 2024 Eddie Aikau"
+date: 2024-12-23T17:28:35Z
+draft: false
+video_id: "mYB3mJ5NRD4"
+thumbnail: "https://i.ytimg.com/vi/mYB3mJ5NRD4/maxresdefault.jpg"
+tags: ["mark healey wipeout", "ian walsh big wave", "2024 eddie aikau", "surf wipeout"]
+type: "clips"
+---
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/mYB3mJ5NRD4" title="Mark Healey blows eardrum at 2024 Eddie Aikau" allowfullscreen loading="lazy"></iframe>
+</div>
+
+Surf Store Merch: 
+https://surf-clips-tv.myspreadshop.com/
+
+Mark blew an eardrum but both otherwise safe after this Waimea Bay BEAST during the 2024 Eddie Aikau invitational.
+
+And support the channel by subscribing! 
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
+
+Thank you for supporting Surf Clips TV so we can continue to provide you with free content! 
+
+Love the ocean? Consider supporting surfrider.org. 
+
+Credit: Surfline
+Music: Matt Harris - Strange Stuff

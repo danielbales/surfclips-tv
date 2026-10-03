@@ -1,0 +1,15 @@
+---
+title: "Gigantic Nazaré"
+date: 2022-11-07T18:37:01Z
+draft: false
+video_id: "89gX8q8YaCY"
+thumbnail: "https://i.ytimg.com/vi/89gX8q8YaCY/maxresdefault.jpg"
+tags: ["xxl nazare surf", "big wave surfing", "50 foot wave"]
+type: "clips"
+---
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/89gX8q8YaCY" title="Gigantic Nazaré" allowfullscreen loading="lazy"></iframe>
+</div>
+
+#shorts

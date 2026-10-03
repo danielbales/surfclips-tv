@@ -1,0 +1,30 @@
+---
+title: "Boat NEARLY avoids disaster at Teahupo'o"
+date: 2024-09-29T03:09:51Z
+draft: false
+video_id: "l-gd79HynR8"
+thumbnail: "https://i.ytimg.com/vi/l-gd79HynR8/maxresdefault.jpg"
+tags: ["surfing teahupoo", "surfing tahiti", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves"]
+type: "clips"
+---
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/l-gd79HynR8" title="Boat NEARLY avoids disaster at Teahupo'o" allowfullscreen loading="lazy"></iframe>
+</div>
+
+Surf Store Merch: 
+https://surf-cam-rewind.creator-spring.com/
+
+#shorts 
+And support the channel by subscribing! 
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
+
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
+
+Love the ocean? Consider supporting surfrider.org. 
+
+Credit: Surfline

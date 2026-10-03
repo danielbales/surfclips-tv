@@ -1,0 +1,26 @@
+---
+title: "Clean, WSW swell at Raglan, New Zealand on December 1, 2021"
+date: 2021-12-02T15:00:07Z
+draft: false
+video_id: "AEJnogMijw0"
+thumbnail: "https://i.ytimg.com/vi/AEJnogMijw0/maxresdefault.jpg"
+tags: ["surfing new zealand", "surfing raglan", "unedited surfing", "surf cam", "raw surfing", "POINT break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
+type: "clips"
+---
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/AEJnogMijw0" title="Clean, WSW swell at Raglan, New Zealand on December 1, 2021" allowfullscreen loading="lazy"></iframe>
+</div>
+
+Short period WSW swell with clean conditions gave local New Zealand surfers with some fun opportunities to put it on rail.
+
+Support the channel by subscribing! 
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
+
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
+
+Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!

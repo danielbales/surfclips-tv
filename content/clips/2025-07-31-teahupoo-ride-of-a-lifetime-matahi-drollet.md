@@ -1,0 +1,32 @@
+---
+title: "Teahupo'o ride of a lifetime - Matahi Drollet"
+date: 2025-07-31T02:45:55Z
+draft: false
+video_id: "2W0K7XJEntE"
+thumbnail: "https://i9.ytimg.com/vi/2W0K7XJEntE/maxresdefault.jpg?sqp=CKjRgdYG&rs=AOn4CLB2oFp7uK9ejFwoCIkCWh6saPU8BA"
+tags: ["Top 10 Surf", "perfect surf", "Matahi Drollet", "teahupoo surf"]
+type: "clips"
+---
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/2W0K7XJEntE" title="Teahupo'o ride of a lifetime - Matahi Drollet" allowfullscreen loading="lazy"></iframe>
+</div>
+
+Surf Store Merch: 
+https://surf-clips-tv.myspreadshop.com/
+
+#shorts  
+
+And support the channel by subscribing! 
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
+
+Thank you for supporting Surf Clips TV so we can continue to provide you with free content! 
+
+Love the ocean? Consider supporting surfrider.org. 
+
+Music: Silent Partner - Noble Dub
+From: Matahi Drollet

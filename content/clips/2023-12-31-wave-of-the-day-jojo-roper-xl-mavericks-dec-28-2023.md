@@ -1,0 +1,28 @@
+---
+title: "Wave Of The Day – Jojo Roper XL Maverick's, Dec 28, 2023"
+date: 2023-12-31T23:38:04Z
+draft: false
+video_id: "o9-0uJPBB2E"
+thumbnail: "https://i.ytimg.com/vi/o9-0uJPBB2E/maxresdefault.jpg"
+tags: ["surfing mavericks xl", "surfing wave of the day surfline", "unedited surfing", "surf cam", "raw surfing", "jojo roper", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
+type: "clips"
+---
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/o9-0uJPBB2E" title="Wave Of The Day – Jojo Roper XL Maverick's, Dec 28, 2023" allowfullscreen loading="lazy"></iframe>
+</div>
+
+During the XL Mavericks tow-in session the pride of San Diego Jojo Roper found cover and exited this cavern as if he's been doing it since birth. 
+
+Support the channel by subscribing! 
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
+
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
+
+Love the ocean? Consider supporting surfrider.org. 
+
+Credit: Surfline

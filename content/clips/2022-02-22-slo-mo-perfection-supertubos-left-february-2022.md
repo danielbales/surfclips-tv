@@ -1,0 +1,26 @@
+---
+title: "[slo-mo perfection] Supertubos left – February 2022"
+date: 2022-02-22T20:12:40Z
+draft: false
+video_id: "iAyObwDf_ws"
+thumbnail: "https://i.ytimg.com/vi/iAyObwDf_ws/maxresdefault.jpg"
+tags: ["surfing portugal", "surfing supertubos", "unedited surfing", "surf cam", "raw surfing", "surfing peniche", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
+type: "clips"
+---
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/iAyObwDf_ws" title="[slo-mo perfection] Supertubos left – February 2022" allowfullscreen loading="lazy"></iframe>
+</div>
+
+6-10 foot faces and offshore winds meant dawnpatrollers scored pristine, firing Supertubos this morning. 
+
+Support the channel by subscribing! 
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
+
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
+
+Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!

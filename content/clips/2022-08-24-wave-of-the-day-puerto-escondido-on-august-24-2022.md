@@ -1,0 +1,26 @@
+---
+title: "Wave of the Day: Puerto Escondido on August 24, 2022"
+date: 2022-08-24T21:42:17Z
+draft: false
+video_id: "gj6thGLB6Uk"
+thumbnail: "https://i.ytimg.com/vi/gj6thGLB6Uk/maxresdefault.jpg"
+tags: ["surfing mexico", "surfing puerto escondido", "unedited surfing", "surf cam", "raw surfing", "big wave surfing", "nate florence", "mental health", "mental therapy", "ocean waves with sound"]
+type: "clips"
+---
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/gj6thGLB6Uk" title="Wave of the Day: Puerto Escondido on August 24, 2022" allowfullscreen loading="lazy"></iframe>
+</div>
+
+#shorts 
+
+Support the channel by subscribing! 
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
+
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
+
+Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!

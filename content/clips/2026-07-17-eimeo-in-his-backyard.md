@@ -1,0 +1,24 @@
+---
+title: "Eimeo in his backyard"
+date: 2026-07-17T07:00:00Z
+draft: false
+video_id: "cwEUv5JKgbk"
+thumbnail: "https://i.ytimg.com/vi/cwEUv5JKgbk/maxresdefault.jpg"
+tags: ["surf highlight", "eimeo czermak", "teahupoo surf"]
+type: "clips"
+---
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/cwEUv5JKgbk" title="Eimeo in his backyard" allowfullscreen loading="lazy"></iframe>
+</div>
+
+Wilbur merch!
+https://surf-clips-tv-shop.fourthwall.com/
+
+And support the channel by subscribing! 
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+
+Thank you for supporting Surf Clips TV!

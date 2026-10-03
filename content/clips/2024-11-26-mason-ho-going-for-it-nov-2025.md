@@ -1,0 +1,32 @@
+---
+title: "Mason Ho going for it - Nov 2025"
+date: 2024-11-26T02:01:45Z
+draft: false
+video_id: "qpKsrB-vXDk"
+thumbnail: "https://i.ytimg.com/vi/qpKsrB-vXDk/maxresdefault.jpg"
+tags: ["mason ho", "pipeline surf", "surf wipeout"]
+type: "clips"
+---
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/qpKsrB-vXDk" title="Mason Ho going for it - Nov 2025" allowfullscreen loading="lazy"></iframe>
+</div>
+
+Surf Store Merch: 
+https://surf-clips-tv.myspreadshop.com/
+
+#shorts 
+
+And support the channel by subscribing! 
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
+
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
+
+Love the ocean? Consider supporting surfrider.org. 
+
+Credit: Surfline
+TrackTribe - Upstate

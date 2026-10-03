@@ -1,0 +1,26 @@
+---
+title: "Greg Long's 2022 Puerto pit"
+date: 2022-07-10T13:30:11Z
+draft: false
+video_id: "p-h1SaLiCSE"
+thumbnail: "https://i.ytimg.com/vi/p-h1SaLiCSE/maxresdefault.jpg"
+tags: ["surfing mexico", "surfing puerto escondido", "unedited surfing", "surf cam", "raw surfing", "big wave surfing", "greg long", "mental health", "mental therapy", "ocean waves with sound"]
+type: "clips"
+---
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/p-h1SaLiCSE" title="Greg Long's 2022 Puerto pit" allowfullscreen loading="lazy"></iframe>
+</div>
+
+#shorts 
+
+Support the channel by subscribing! 
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
+
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
+
+Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!

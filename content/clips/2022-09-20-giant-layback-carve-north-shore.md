@@ -1,0 +1,26 @@
+---
+title: "GIANT layback carve (North Shore)"
+date: 2022-09-20T23:53:54Z
+draft: false
+video_id: "PSRnZwJOFKA"
+thumbnail: "https://i.ytimg.com/vi/PSRnZwJOFKA/maxresdefault.jpg"
+tags: ["surfing hawaii", "surfing rocky point", "unedited surfing", "surf cam", "raw surfing", "north shore surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
+type: "clips"
+---
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/PSRnZwJOFKA" title="GIANT layback carve (North Shore)" allowfullscreen loading="lazy"></iframe>
+</div>
+
+#shorts 
+
+Support the channel by subscribing! 
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
+
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
+
+Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!

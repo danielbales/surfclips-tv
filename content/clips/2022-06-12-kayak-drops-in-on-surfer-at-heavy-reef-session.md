@@ -1,0 +1,26 @@
+---
+title: "Kayak drops in on surfer at heavy reef session"
+date: 2022-06-12T07:00:07Z
+draft: false
+video_id: "ZCm-NEvqljQ"
+thumbnail: "https://i.ytimg.com/vi/ZCm-NEvqljQ/hqdefault.jpg"
+tags: ["surfing COUNTRY", "surfing SPOT NAME", "unedited surfing", "surf cam", "raw surfing", "REEF OR POINT OR BEACH break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
+type: "clips"
+---
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/ZCm-NEvqljQ" title="Kayak drops in on surfer at heavy reef session" allowfullscreen loading="lazy"></iframe>
+</div>
+
+#shorts 
+
+Support the channel by subscribing! 
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
+
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
+
+Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!

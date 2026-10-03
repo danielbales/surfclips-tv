@@ -1,0 +1,26 @@
+---
+title: "4 psycho Backdoor waves surfed by BARRON MAMIYA on January 2, 2022"
+date: 2022-01-04T00:19:49Z
+draft: false
+video_id: "TBoDekAoJ-Q"
+thumbnail: "https://i.ytimg.com/vi/TBoDekAoJ-Q/maxresdefault.jpg"
+tags: ["surfing hawaii", "surfing backdoor", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
+type: "clips"
+---
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/TBoDekAoJ-Q" title="4 psycho Backdoor waves surfed by BARRON MAMIYA on January 2, 2022" allowfullscreen loading="lazy"></iframe>
+</div>
+
+During a solid NW swell, North Shore phenom snagged these 4 Backdoor waves. 
+
+Support the channel by subscribing! 
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
+
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
+
+Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!

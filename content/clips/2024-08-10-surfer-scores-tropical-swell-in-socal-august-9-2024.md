@@ -1,0 +1,28 @@
+---
+title: "Surfer scores tropical swell in SoCal - August 9, 2024"
+date: 2024-08-10T01:00:05Z
+draft: false
+video_id: "txleFG1TsOI"
+thumbnail: "https://i.ytimg.com/vi/txleFG1TsOI/maxresdefault.jpg"
+tags: ["surfing newport beach", "surfing 56th street", "unedited surfing", "surf cam", "raw surfing", "orange county surf", "mason ho", "mental health", "mental therapy", "ocean waves with sound"]
+type: "clips"
+---
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/txleFG1TsOI" title="Surfer scores tropical swell in SoCal - August 9, 2024" allowfullscreen loading="lazy"></iframe>
+</div>
+
+#shorts 
+
+Support the channel by subscribing! 
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
+
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
+
+Love the ocean? Consider supporting surfrider.org. 
+
+Credit: Surfline

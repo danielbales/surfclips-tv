@@ -1,0 +1,30 @@
+---
+title: "Low tide BEAST 👹 - November 2, 2023 #surfing #surfallday #surfer #bigwave"
+date: 2023-11-02T22:50:22Z
+draft: false
+video_id: "Ex98D07ZY2s"
+thumbnail: "https://i.ytimg.com/vi/Ex98D07ZY2s/maxresdefault.jpg"
+tags: ["surfing portugal", "surfing nazare", "unedited surfing", "surf cam", "raw surfing", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves"]
+type: "clips"
+---
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/Ex98D07ZY2s" title="Low tide BEAST 👹 - November 2, 2023 #surfing #surfallday #surfer #bigwave" allowfullscreen loading="lazy"></iframe>
+</div>
+
+#shorts 
+
+35-40ft #Nazare!
+
+Music: Matt Harris - Strange Stuff
+
+Support the channel by subscribing! 
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
+
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
+
+Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!

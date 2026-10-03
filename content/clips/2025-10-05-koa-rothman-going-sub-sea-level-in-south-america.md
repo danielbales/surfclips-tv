@@ -1,0 +1,32 @@
+---
+title: "Koa Rothman going sub-sea level in South America"
+date: 2025-10-05T02:07:15Z
+draft: false
+video_id: "uT4M6qqn-xM"
+thumbnail: "https://i9.ytimg.com/vi/uT4M6qqn-xM/maxresdefault.jpg?sqp=CKjRgdYG&rs=AOn4CLCsQlbIdiHpu9PnwKAHkEvgOEg-DA"
+tags: ["Top 10 Surf", "perfect surf", "koa rothman", "this is livin", "chile surf"]
+type: "clips"
+---
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/uT4M6qqn-xM" title="Koa Rothman going sub-sea level in South America" allowfullscreen loading="lazy"></iframe>
+</div>
+
+Surf Store Merch: 
+https://surf-clips-tv.myspreadshop.com/
+
+#shorts  
+
+And support the channel by subscribing! 
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
+
+Thank you for supporting Surf Clips TV so we can continue to provide you with free content! 
+
+Love the ocean? Consider supporting surfrider.org. 
+
+Music: Quincas Moreira - Jah Jah Bangs
+From: Koa Rothman

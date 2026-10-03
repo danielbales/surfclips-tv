@@ -1,0 +1,26 @@
+---
+title: "Mason Ho at Backdoor on February 4, 2022"
+date: 2022-02-04T21:32:19Z
+draft: false
+video_id: "XeL12aEyJwE"
+thumbnail: "https://i.ytimg.com/vi/XeL12aEyJwE/maxresdefault.jpg"
+tags: ["surfing hawaii", "surfing backdoor", "unedited surfing", "surf cam", "raw surfing", "North Shore surfing", "mason ho", "mental health", "mental therapy", "ocean waves with sound"]
+type: "clips"
+---
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/XeL12aEyJwE" title="Mason Ho at Backdoor on February 4, 2022" allowfullscreen loading="lazy"></iframe>
+</div>
+
+Mason Ho finds a great Backdoor barrel on an 8-10 foot day with near-perfect winds.  
+
+Support the channel by subscribing! 
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
+
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
+
+Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!

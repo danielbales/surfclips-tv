@@ -1,0 +1,26 @@
+---
+title: "Kelly Slater snaking Kalani David at Backdoor (accidentally per his Instagram apology)"
+date: 2022-07-09T03:50:56Z
+draft: false
+video_id: "g17cCPR_El0"
+thumbnail: "https://i.ytimg.com/vi/g17cCPR_El0/maxresdefault.jpg"
+tags: ["surfing hawaii", "surfing backdoor pipeline", "unedited surfing", "surf cam", "raw surfing", "north shore surf", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
+type: "clips"
+---
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/g17cCPR_El0" title="Kelly Slater snaking Kalani David at Backdoor (accidentally per his Instagram apology)" allowfullscreen loading="lazy"></iframe>
+</div>
+
+#shorts 
+
+Support the channel by subscribing! 
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
+
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
+
+Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!

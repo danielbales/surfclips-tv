@@ -1,0 +1,18 @@
+{{ define "main" }}
+<h1>All Clips</h1>
+<div class="clips-grid">
+  {{ range .Pages }}
+  <article class="clip-card">
+    <a href="{{ .Permalink }}">
+      {{ with .Params.thumbnail }}
+      <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+      {{ end }}
+      <div class="clip-card-info">
+        <h2>{{ .Title }}</h2>
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+      </div>
+    </a>
+  </article>
+  {{ end }}
+</div>
+{{ end }}
