@@ -8,6 +8,7 @@ tags: ["wilbur kookmeyer", "surfboard", "ocean", "wave"]
 type: "clips"
 clip_type: "clip"
 duration: 98
+visibility: "unlisted"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/esO3k0fl-YE" title="WK Wave Measurement" allowfullscreen loading="lazy"></iframe>
