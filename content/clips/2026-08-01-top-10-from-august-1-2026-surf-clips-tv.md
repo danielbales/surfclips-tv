@@ -16,6 +16,14 @@ surfers:
   - "Koa Rothman"
   - "Louis Ewing"
   - "Albee Layer"
+surfer_urls:
+  Ryan Callinan: "https://www.youtube.com/watch?v=vxfDc_XS_so"
+  Charger Media: "https://www.youtube.com/watch?v=AVK7yJcMToQ"
+  WSL: "https://www.youtube.com/watch?v=DNMLaovDYk0"
+  Jordy Liackman: "https://www.youtube.com/watch?v=eltFU1vJnPI"
+  Koa Rothman: "https://www.youtube.com/watch?v=XYA0yjuA6NQ"
+  Louis Ewing: "https://www.youtube.com/watch?v=edrkQwF7qi4"
+  Albee Layer: "https://www.youtube.com/watch?v=7YNn8_84-FM"
 ---
 
 <div class="video-embed">

@@ -17,6 +17,15 @@ surfers:
   - "Jordy Smith"
   - "Jamie O'Brien"
   - "Marco Micheletti"
+surfer_urls:
+  Koa Smith: "https://www.youtube.com/watch?v=66-iWyd7m14"
+  Mason Ho: "https://www.youtube.com/watch?v=5LbIZBlfjMg"
+  Sheldon Paishon: "https://www.youtube.com/watch?v=-OC4Ekyp64k"
+  Ian Crane: "https://www.youtube.com/watch?v=ZtE0iqhssAo"
+  John Florence: "https://www.youtube.com/watch?v=IQexXcdQKzI"
+  Jordy Smith: "https://www.youtube.com/watch?v=6nanVaIDqu4"
+  "Jamie O'Brien": "https://www.youtube.com/watch?v=IYf7yvDr7xM"
+  Marco Micheletti: "https://www.youtube.com/watch?v=-ZMVDeEfeWk"
 ---
 
 <div class="video-embed">

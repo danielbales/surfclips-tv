@@ -17,6 +17,15 @@ surfers:
   - "John Mel"
   - "Ollie Hamilton-Fox"
   - "Sheldon Simkus"
+surfer_urls:
+  Surfing Visions: "https://www.youtube.com/watch?v=dKzlbHKsaNA"
+  Charlie Quivront: "https://www.youtube.com/watch?v=wBFeq0-byLI"
+  Kirra Surf School: "https://www.youtube.com/watch?v=n_IpH2sJf_A"
+  Mason Ho: "https://www.youtube.com/watch?v=5LbIZBlfjMg"
+  Brett Barley: "https://www.youtube.com/watch?v=PSdw_RzS1Oc"
+  John Mel: "https://www.youtube.com/watch?v=DOk2ouJgTXQ"
+  "Ollie Hamilton-Fox": "https://www.youtube.com/watch?v=v1cucHXD5tM"
+  Sheldon Simkus: "https://www.youtube.com/watch?v=uYfyb1Oho3g"
 ---
 
 <div class="video-embed">

@@ -17,6 +17,15 @@ surfers:
   - "Smitty Knows Africa"
   - "Tahiti Tourism"
   - "Indo Moments"
+surfer_urls:
+  Josh Kerr: "https://www.youtube.com/watch?v=D1QOaYGYzXc"
+  Jordy Smith: "https://www.youtube.com/watch?v=6nanVaIDqu4"
+  Clay Marzo: "https://www.youtube.com/watch?v=ieFWHy3N1zc"
+  Edwin Morales: "https://www.youtube.com/watch?v=sDOZ2bmK5O4"
+  Albee Layer: "https://www.youtube.com/watch?v=7YNn8_84-FM"
+  Smitty Knows Africa: "https://www.youtube.com/watch?v=ZybFuiKPn8Y"
+  Tahiti Tourism: "https://www.youtube.com/watch?v=DNMLaovDYk0"
+  Indo Moments: "https://www.youtube.com/watch?v=eYM1R7ZXV1Y"
 ---
 
 <div class="video-embed">
