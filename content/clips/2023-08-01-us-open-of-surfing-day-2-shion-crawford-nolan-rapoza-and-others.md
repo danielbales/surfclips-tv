@@ -4,7 +4,7 @@ date: 2023-08-01T00:27:51Z
 description: "On day 2 of the US Open of Surf at Huntington Beach, there was still some decent size as a mix of SSW swells keep waist-chest high waves in the water...."
 draft: false
 video_id: "fFQ4F5RnsfI"
-thumbnail: "https://i.ytimg.com/vi/fFQ4F5RnsfI/maxresdefault.jpg"
+thumbnail: "https://i.ytimg.com/vi/fFQ4F5RnsfI/sddefault.jpg"
 tags: ["US Open of Surfing", "huntington beach surf", "unedited surfing", "surf cam", "raw surfing", "zeke lau", "shion crawford", "nolan rapoza", "mental therapy", "ocean waves with sound"]
 type: "clips"
 clip_type: "short"

@@ -4,7 +4,7 @@ date: 2023-09-03T23:19:14Z
 description: "[enter description here] Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "A_RcAWOCqEQ"
-thumbnail: "https://i9.ytimg.com/vi/A_RcAWOCqEQ/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLAY9M0OFDrTkOrbwBwSjQAhuJwS0A"
+thumbnail: "https://i9.ytimg.com/vi/A_RcAWOCqEQ/sddefault.jpg?sqp=CKzYgdYG&rs=AOn4CLAY9M0OFDrTkOrbwBwSjQAhuJwS0A"
 tags: ["surfing COUNTRY", "surfing SPOT NAME", "unedited surfing", "surf cam", "raw surfing", "REEF OR POINT OR BEACH break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
 clip_type: "short"

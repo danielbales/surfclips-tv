@@ -4,7 +4,7 @@ date: 2022-09-11T17:46:23Z
 description: "Consistent, clean surf from Hurricane Earl and Hurricane Danielle provided mid-period NE/ENE swell (62º) mix to Florida surfers. Support the channel by..."
 draft: false
 video_id: "1T3mqiPfcgM"
-thumbnail: "https://i.ytimg.com/vi/1T3mqiPfcgM/maxresdefault.jpg"
+thumbnail: "https://i.ytimg.com/vi/1T3mqiPfcgM/sddefault.jpg"
 tags: ["surfing florida", "surfing new smyrna beach", "unedited surfing", "surf cam", "raw surfing", "BEACH break surfing", "geiselman surf", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
 clip_type: "clip"

@@ -4,7 +4,7 @@ date: 2025-12-23T23:31:57Z
 description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Part of our new series, where we're reviving a surf icon! Credit: Bob Penuelas"
 draft: false
 video_id: "u6KRDwE2Nl8"
-thumbnail: "https://i9.ytimg.com/vi/u6KRDwE2Nl8/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLA1J8tbYDCWFEDyxYOZYGNZkJoJDw"
+thumbnail: "https://i9.ytimg.com/vi/u6KRDwE2Nl8/sddefault.jpg?sqp=CKzYgdYG&rs=AOn4CLA1J8tbYDCWFEDyxYOZYGNZkJoJDw"
 tags: ["wilbur kookmeyer"]
 type: "clips"
 clip_type: "short"

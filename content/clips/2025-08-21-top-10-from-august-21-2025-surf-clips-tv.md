@@ -4,7 +4,7 @@ date: 2025-08-21T20:44:53Z
 description: "Watch TOP 10 from August 21, 2025 – Surf Clips TV on Surf Clips TV."
 draft: false
 video_id: "uWdHpLZOSe0"
-thumbnail: "https://i.ytimg.com/vi/uWdHpLZOSe0/maxresdefault.jpg"
+thumbnail: "https://i.ytimg.com/vi/uWdHpLZOSe0/sddefault.jpg"
 tags: ["Top 10 Surf", "Sheldon Simkus", "Hurley", "Nathan Florence", "Blak Bear", "Jack Robinson", "Album surf"]
 type: "clips"
 clip_type: "top10"

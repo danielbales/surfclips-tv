@@ -4,7 +4,7 @@ date: 2023-01-11T02:04:21Z
 description: "North Shore continues to FIRE OFF with a steady mix of NW swell. Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can..."
 draft: false
 video_id: "kTQvWQPhADM"
-thumbnail: "https://i.ytimg.com/vi/kTQvWQPhADM/maxresdefault.jpg"
+thumbnail: "https://i.ytimg.com/vi/kTQvWQPhADM/sddefault.jpg"
 tags: ["surfing hawaii", "surfing backdoor pipeline", "unedited surfing", "surf cam", "raw surfing", "north shore surf", "john john florence", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
 clip_type: "short"

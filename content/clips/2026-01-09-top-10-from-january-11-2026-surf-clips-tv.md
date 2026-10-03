@@ -4,7 +4,7 @@ date: 2026-01-09T19:06:00Z
 description: "Surfing from Panama, Indonesia, California & more."
 draft: false
 video_id: "WdEcfxD65nw"
-thumbnail: "https://i.ytimg.com/vi/WdEcfxD65nw/maxresdefault.jpg"
+thumbnail: "https://i.ytimg.com/vi/WdEcfxD65nw/sddefault.jpg"
 tags: ["wave pool", "how to surf", "teahupoo", "biggest wave ever surfed", "sea waves", "boogie boarding", "big waves in the ocean", "surfing videos", "pacific ocean waves", "surfing pov"]
 type: "clips"
 clip_type: "top10"

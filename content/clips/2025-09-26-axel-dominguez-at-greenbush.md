@@ -4,7 +4,7 @@ date: 2025-09-26T05:28:14Z
 description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "jWYOIQHCYIg"
-thumbnail: "https://i9.ytimg.com/vi/jWYOIQHCYIg/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLAUmD7MFFT1wrdno5lMr9ticLOjgA"
+thumbnail: "https://i9.ytimg.com/vi/jWYOIQHCYIg/sddefault.jpg?sqp=CKzYgdYG&rs=AOn4CLAUmD7MFFT1wrdno5lMr9ticLOjgA"
 tags: ["Top 10 Surf", "perfect surf", "axel dominguez", "greenbush surf"]
 type: "clips"
 clip_type: "short"

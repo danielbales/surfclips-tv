@@ -4,7 +4,7 @@ date: 2026-09-26T14:40:40Z
 draft: false
 description: "Surfing from Africa, The Old World, California & more."
 video_id: "aebdDaKZn7k"
-thumbnail: "https://i.ytimg.com/vi/aebdDaKZn7k/maxresdefault.jpg"
+thumbnail: "https://i.ytimg.com/vi/aebdDaKZn7k/sddefault.jpg"
 tags: ["wave pool", "how to surf", "teahupoo", "biggest wave ever surfed", "sea waves", "boogie boarding", "big waves in the ocean", "surfing videos", "pacific ocean waves", "surfing pov"]
 type: "clips"
 clip_type: "top10"

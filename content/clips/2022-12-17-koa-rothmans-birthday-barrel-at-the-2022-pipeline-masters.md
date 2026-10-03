@@ -4,7 +4,7 @@ date: 2022-12-17T01:48:32Z
 description: "Not much better way to celebrate a 29th birthday than getting blown out of a Pipe barrel, especially during the 2022 Pipeline Masters. Happy birthday..."
 draft: false
 video_id: "5CO9zfDAFHg"
-thumbnail: "https://i.ytimg.com/vi/5CO9zfDAFHg/maxresdefault.jpg"
+thumbnail: "https://i.ytimg.com/vi/5CO9zfDAFHg/sddefault.jpg"
 tags: ["surfing 2022 pipeline masters", "koa rothman", "unedited surfing", "surf cam", "raw surfing", "pipeline bonzai", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
 clip_type: "short"

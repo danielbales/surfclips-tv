@@ -4,7 +4,7 @@ date: 2025-10-26T22:35:43Z
 description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "bsTyuH-etuQ"
-thumbnail: "https://i9.ytimg.com/vi/bsTyuH-etuQ/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLDbr4xoFAWtmTkrFf-ClZyhPTZ5YA"
+thumbnail: "https://i9.ytimg.com/vi/bsTyuH-etuQ/sddefault.jpg?sqp=CKzYgdYG&rs=AOn4CLDbr4xoFAWtmTkrFf-ClZyhPTZ5YA"
 tags: ["Top 10 Surf", "mason ho"]
 type: "clips"
 clip_type: "short"

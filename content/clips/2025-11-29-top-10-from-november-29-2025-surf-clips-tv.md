@@ -4,7 +4,7 @@ date: 2025-11-29T22:20:29Z
 description: "Surfing from Hawaii, Australia, & more."
 draft: false
 video_id: "7gTVyK9wpno"
-thumbnail: "https://i.ytimg.com/vi/7gTVyK9wpno/maxresdefault.jpg"
+thumbnail: "https://i.ytimg.com/vi/7gTVyK9wpno/sddefault.jpg"
 tags: ["wave pool", "how to surf", "teahupoo", "biggest wave ever surfed", "sea waves", "boogie boarding", "big waves in the ocean", "surfing videos", "pacific ocean waves", "surfing pov"]
 type: "clips"
 clip_type: "top10"

@@ -4,7 +4,7 @@ date: 2022-09-08T20:50:47Z
 description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "SdFjvWRAWqM"
-thumbnail: "https://i.ytimg.com/vi/SdFjvWRAWqM/maxresdefault.jpg"
+thumbnail: "https://i.ytimg.com/vi/SdFjvWRAWqM/sddefault.jpg"
 tags: ["surfing southern california", "surfing trestles 2022 pro", "unedited surfing", "surf cam", "raw surfing", "POINt break surfing", "italo ferreira", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
 clip_type: "short"

@@ -4,7 +4,7 @@ date: 2021-07-09T09:04:57Z
 description: "Support the channel by subscribing! After sunrise the waves were clean and rippable at Las Flores, El Salvador. Thank you for supporting Surf Rewind so..."
 draft: false
 video_id: "i1aV3PeK24A"
-thumbnail: "https://i9.ytimg.com/vi/i1aV3PeK24A/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLDmZzwbbpULWbgthK6V9-LbOr5MLg"
+thumbnail: "https://i9.ytimg.com/vi/i1aV3PeK24A/sddefault.jpg?sqp=CKzYgdYG&rs=AOn4CLDmZzwbbpULWbgthK6V9-LbOr5MLg"
 tags: ["worldwide waves", "surfing big waves", "surfing el salvador", "surfing las flores", "unedited surfing", "ocean sounds", "relaxing ocean", "raw surfing", "point break surfing", "kelly slater"]
 type: "clips"
 clip_type: "clip"

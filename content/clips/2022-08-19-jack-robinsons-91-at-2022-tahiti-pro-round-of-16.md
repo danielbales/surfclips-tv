@@ -4,7 +4,7 @@ date: 2022-08-19T02:03:03Z
 description: "Despite losing the heat to Aussie Legend Nathan Hedge, Jack Robinson found this gem during his Round 16 at the 2022 Tahiti Pro. Support the channel by..."
 draft: false
 video_id: "skxPyxqfcmc"
-thumbnail: "https://i.ytimg.com/vi/skxPyxqfcmc/maxresdefault.jpg"
+thumbnail: "https://i.ytimg.com/vi/skxPyxqfcmc/sddefault.jpg"
 tags: ["surfing tahiti", "surfing teahupoo", "unedited surfing", "surf cam", "raw surfing", "2022 outerknown tahiti pro teahupoo", "jack robinson", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
 clip_type: "short"

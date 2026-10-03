@@ -4,7 +4,7 @@ date: 2025-06-14T21:55:54Z
 description: "Watch TOP 10 from June 14, 2025 – Surf Clips TV on Surf Clips TV."
 draft: false
 video_id: "2GF5LX4XiY4"
-thumbnail: "https://i.ytimg.com/vi/2GF5LX4XiY4/maxresdefault.jpg"
+thumbnail: "https://i.ytimg.com/vi/2GF5LX4XiY4/sddefault.jpg"
 tags: ["Top 10 Surf", "Rio Waida", "mason ho", "eimeo czermak", "matahi drollet", "jesse mendes", "channel islands", "kyon yang"]
 type: "clips"
 clip_type: "top10"

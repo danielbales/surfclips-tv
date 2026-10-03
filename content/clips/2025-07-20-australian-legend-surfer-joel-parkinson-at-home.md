@@ -4,7 +4,7 @@ date: 2025-07-20T21:11:32Z
 description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "ePKNbv7HWys"
-thumbnail: "https://i9.ytimg.com/vi/ePKNbv7HWys/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLA7Gm5_3clizwKSye0BQBgPlh09kQ"
+thumbnail: "https://i9.ytimg.com/vi/ePKNbv7HWys/sddefault.jpg?sqp=CKzYgdYG&rs=AOn4CLA7Gm5_3clizwKSye0BQBgPlh09kQ"
 tags: ["Top 10 Surf", "joel parkinson surf"]
 type: "clips"
 clip_type: "short"

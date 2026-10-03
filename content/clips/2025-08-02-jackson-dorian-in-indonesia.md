@@ -4,7 +4,7 @@ date: 2025-08-02T03:46:25Z
 description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "E6KzoMZaG1M"
-thumbnail: "https://i9.ytimg.com/vi/E6KzoMZaG1M/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLD7UETnGPN4wIYZphp4i4v34JNJKg"
+thumbnail: "https://i9.ytimg.com/vi/E6KzoMZaG1M/sddefault.jpg?sqp=CKzYgdYG&rs=AOn4CLD7UETnGPN4wIYZphp4i4v34JNJKg"
 tags: ["Top 10 Surf", "perfect surf", "jackson dorian", "mentawai surf"]
 type: "clips"
 clip_type: "short"
