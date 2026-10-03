@@ -35,7 +35,7 @@
       <h2 class="section-title">Previous Top 10s</h2>
     </div>
     <div class="top10s-grid">
-      {{ range first 6 . }}
+      {{ range first 4 . }}
       <a href="{{ .Permalink }}" class="top10-card">
         {{ with .Params.thumbnail }}
         <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
@@ -72,7 +72,7 @@
         </div>
       </a>
       {{ end }}
-      {{ range first 5 $wilburNoShorts }}
+      {{ range first 3 $wilburNoShorts }}
       {{ if ne .Params.video_id "T2xWCk0BNfk" }}
       <a href="{{ .Permalink }}" class="clip-card">
         {{ with .Params.thumbnail }}
@@ -90,30 +90,6 @@
 
 </div>
 
-{{/* Recent full clips */}}
-{{ $clips := where .Site.RegularPages "Params.clip_type" "clip" }}
-{{ $nonTop10Clips := where $clips "Params.clip_type" "!=" "top10" }}
-{{ with $nonTop10Clips }}
-<section class="section clips-section">
-  <div class="section-bar">
-    <h2 class="section-title">Latest Full Clips</h2>
-    <a href="{{ "clips/" | absURL }}" class="section-link">View all</a>
-  </div>
-  <div class="clips-grid">
-    {{ range first 6 . }}
-    <a href="{{ .Permalink }}" class="clip-card">
-      {{ with .Params.thumbnail }}
-      <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
-      {{ end }}
-      <div class="clip-card-body">
-        <h3>{{ .Title }}</h3>
-        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
-      </div>
-    </a>
-    {{ end }}
-  </div>
-</section>
-{{ end }}
 
 {{/* Shorts - horizontal rail */}}
 {{ $shorts := where .Site.RegularPages "Params.clip_type" "short" }}
