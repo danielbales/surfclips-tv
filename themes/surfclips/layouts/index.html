@@ -24,51 +24,64 @@
 {{ end }}
 {{ end }}
 
-{{/* Shorts - horizontal rail */}}
-{{ $shorts := where .Site.RegularPages "Params.clip_type" "short" }}
-{{ with $shorts }}
-<section class="section shorts-section">
-  <div class="section-bar">
-    <h2 class="section-title">Shorts</h2>
-    <a href="{{ "clips/" | absURL }}" class="section-link">View all</a>
-  </div>
-  <div class="shorts-rail">
-    {{ range first 24 . }}
-    <a href="{{ .Permalink }}" class="short-card">
-      {{ with .Params.thumbnail }}
-      <div class="short-thumb">
-        <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
-      </div>
-      {{ end }}
-      <span class="short-title">{{ .Title }}</span>
-    </a>
-    {{ end }}
-  </div>
-</section>
-{{ end }}
+{{/* Two-column: Previous Top 10s (left) + Wilbur Kookmeyer merch (right) */}}
+<div class="home-split">
 
-{{/* Previous Top 10s - visual grid */}}
-{{ $prevTop10s := after 1 $top10s }}
-{{ with $prevTop10s }}
-<section class="section top10s-section">
-  <div class="section-bar">
-    <h2 class="section-title">Previous Top 10s</h2>
-  </div>
-  <div class="top10s-grid">
-    {{ range first 6 . }}
-    <a href="{{ .Permalink }}" class="top10-card">
-      {{ with .Params.thumbnail }}
-      <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+  {{/* Previous Top 10s */}}
+  {{ $prevTop10s := after 1 $top10s }}
+  {{ with $prevTop10s }}
+  <section class="section top10s-section">
+    <div class="section-bar">
+      <h2 class="section-title">Previous Top 10s</h2>
+    </div>
+    <div class="top10s-grid">
+      {{ range first 6 . }}
+      <a href="{{ .Permalink }}" class="top10-card">
+        {{ with .Params.thumbnail }}
+        <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+        {{ end }}
+        <div class="top10-card-info">
+          <h3>{{ .Title }}</h3>
+          <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+        </div>
+      </a>
       {{ end }}
-      <div class="top10-card-info">
-        <h3>{{ .Title }}</h3>
-        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
-      </div>
-    </a>
-    {{ end }}
-  </div>
-</section>
-{{ end }}
+    </div>
+  </section>
+  {{ end }}
+
+  {{/* Wilbur Kookmeyer merch */}}
+  <section class="section merch-section">
+    <div class="section-bar">
+      <h2 class="section-title">Wilbur Kookmeyer</h2>
+      <a href="{{ "shop/" | absURL }}" class="section-link">View all</a>
+    </div>
+    <div class="merch-grid">
+      <a href="{{ "shop/" | absURL }}" class="merch-card">
+        <img src="https://imgproxy.fourthwall.dev/n4h9QKKPcHMk5UjHEcJf9YJJ_TauQJJBvEq0LOFHW7c/w:720/sm:1/enc/GuYZ2f0mmKCjaJ9L/h2ej1yZemRXy_ho5/xAeeL4RLzwL5ENEU/Va9quH3Wvz2ReNDM/cOEC9oc_UNFeexy_/RERjISJhPdbpFBOS/LCe2P84-vfazNt9X/wpw_Zk4QVlOpfaVi/AEyHEHV2CTZQb9Ab/94qKwUgeov3yw3KM/8AD07eNkfTzQTnLN/F7sdOXREJaGvL6Xy/Hz9g2pY8bOq07ORT/O1i8lTtOdk_dWE1L/EoSFcAuyg1A.jpg" alt="Legend Hoodie" loading="lazy">
+        <div class="merch-card-info">
+          <h3>Legend Hoodie</h3>
+          <span class="merch-price">$60.00</span>
+        </div>
+      </a>
+      <a href="{{ "shop/" | absURL }}" class="merch-card">
+        <img src="https://imgproxy.fourthwall.dev/fE6dm30ls9QpEKfH-J9tuEmL0bO2gAP0hkP6XiwbPRs/w:720/sm:1/enc/ztiadanm6Wm8f6R0/BcHEYg8rC3x_K68d/KZo-zYtnIJhFSeoq/Wsn7fdzhNzaBDfnF/9g5iRfZrMRSw2Q_h/HxhVMHZYEGRTBFIx/eSzbEhJZ56d24riC/m63j6TYxA_7mIdPN/ISKcTnFkk6VzAat_/_q8qJ7zieA3-kzTv/N6hxtwowohP1prPL/lnS8ZH8Ea78Q5Dpn/XZB9W4TY-GJ_vujh/kRAl2vGIpIe12hGw/2Dyd8TFWRfA.jpg" alt="Legend Tee" loading="lazy">
+        <div class="merch-card-info">
+          <h3>Legend Tee</h3>
+          <span class="merch-price">$33.00</span>
+        </div>
+      </a>
+      <a href="{{ "shop/" | absURL }}" class="merch-card">
+        <img src="https://imgproxy.fourthwall.dev/pv36Nev-lKNc-QjZ6YgzdAxWwKCirWSeVFkBErqYLgw/w:720/sm:1/enc/CvyGBU0kRJAzO9t_/QnUrI4bln-ajpt_5/vGv6kegSsZ75g3O1/xPQGDUnJODo0wxfS/69K7ARYfBbHlspgb/bmlGIUhs5flDEYpQ/j-niXdO_WkU8IP94/GLIhOEfclkjFKCWW/GH_ZStP_7bUItht6/2RYkdTwJfarFmKd5/mSUs54Ut4-XlNI9P/O5qh-_UK4eQtdanZ/M-ns4948fibAXpmW/-kk29Z8wmfQN_GzX/UwxdzBpl0II.jpg" alt="Wilbur Pitched Tee" loading="lazy">
+        <div class="merch-card-info">
+          <h3>Wilbur Pitched Tee</h3>
+          <span class="merch-price">$33.00</span>
+        </div>
+      </a>
+    </div>
+  </section>
+
+</div>
 
 {{/* Recent full clips */}}
 {{ $clips := where .Site.RegularPages "Params.clip_type" "clip" }}
@@ -89,6 +102,29 @@
         <h3>{{ .Title }}</h3>
         <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
       </div>
+    </a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+
+{{/* Shorts - horizontal rail */}}
+{{ $shorts := where .Site.RegularPages "Params.clip_type" "short" }}
+{{ with $shorts }}
+<section class="section shorts-section">
+  <div class="section-bar">
+    <h2 class="section-title">Shorts</h2>
+    <a href="{{ "clips/" | absURL }}" class="section-link">View all</a>
+  </div>
+  <div class="shorts-rail">
+    {{ range first 24 . }}
+    <a href="{{ .Permalink }}" class="short-card">
+      {{ with .Params.thumbnail }}
+      <div class="short-thumb">
+        <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+      </div>
+      {{ end }}
+      <span class="short-title">{{ .Title }}</span>
     </a>
     {{ end }}
   </div>
