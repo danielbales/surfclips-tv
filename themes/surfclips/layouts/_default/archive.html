@@ -1,0 +1,22 @@
+{{ define "main" }}
+<section class="section page-section">
+  <h1 class="page-title">Top 10 Archive</h1>
+  <p class="archive-subtitle">Every weekly Top 10 countdown from Surf Clips TV.</p>
+  {{ $top10s := where .Site.RegularPages "Params.clip_type" "top10" }}
+  {{ $public := where $top10s "Params.visibility" "!=" "unlisted" }}
+  {{ with $public }}
+  <div class="top10s-grid archive-grid">
+    {{ range . }}
+    <a href="{{ .Permalink }}" class="top10-card">
+      {{ if .Params.thumbnail }}
+      <img src="{{ .Params.thumbnail }}" alt="{{ .Title }}" loading="lazy">
+      {{ end }}
+      <div class="top10-card-info">
+        <h3>{{ .Title }}</h3>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+  {{ end }}
+</section>
+{{ end }}

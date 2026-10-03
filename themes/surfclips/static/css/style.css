@@ -693,6 +693,16 @@ img { display: block; max-width: 100%; }
   margin-bottom: 1.5rem;
 }
 
+.archive-subtitle {
+  color: var(--text-muted);
+  margin-top: -1rem;
+  margin-bottom: 1.5rem;
+}
+
+.archive-grid {
+  grid-template-columns: repeat(4, 1fr);
+}
+
 .page-section {
   padding-top: 2rem;
   padding-bottom: 2rem;
@@ -944,6 +954,7 @@ img { display: block; max-width: 100%; }
   .clips-grid { grid-template-columns: repeat(2, 1fr); }
   .shop-grid { grid-template-columns: repeat(2, 1fr); }
   .merch-bottom-grid { grid-template-columns: repeat(2, 1fr); }
+  .archive-grid { grid-template-columns: repeat(2, 1fr); }
   .site-nav { display: none; }
   .site-nav.open {
     display: flex;
