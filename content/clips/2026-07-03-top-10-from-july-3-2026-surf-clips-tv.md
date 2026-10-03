@@ -17,6 +17,11 @@ surfers:
   - "Salt Water Veins"
   - "Cristian Merello"
   - "Salt n Sea Bali"
+surfer_urls:
+  Mason Ho: "https://www.youtube.com/watch?v=5LbIZBlfjMg"
+  Quetzal Estrada: "https://www.youtube.com/watch?v=i4HwrUShbKI"
+  Koa Smith: "https://www.youtube.com/watch?v=66-iWyd7m14"
+  DB Films: "https://www.youtube.com/watch?v=r6KWwfI9PFI"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/-s7Qx9RkHrg" title="TOP 10 from July 3, 2026 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

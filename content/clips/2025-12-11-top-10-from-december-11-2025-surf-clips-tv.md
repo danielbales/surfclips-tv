@@ -17,6 +17,9 @@ surfers:
   - "Rage Team"
   - "Bryan Perez"
   - "Shaka Media"
+surfer_urls:
+  Rage Team: "https://www.youtube.com/watch?v=5UF7o_BYKJ8"
+  Bryan Perez: "https://www.youtube.com/watch?v=BlgfMp7gNZ0"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/ekO9Yx4YB3A" title="TOP 10 from December 11, 2025 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

@@ -15,6 +15,8 @@ surfers:
   - "Skylens"
   - "Sheldon Simkus"
   - "Finn McGill"
+surfer_urls:
+  Skylens: "https://www.youtube.com/watch?v=MNqzSv_rfWU"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/ZTAXldTKLwQ" title="TOP 10 from November 6, 2025 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

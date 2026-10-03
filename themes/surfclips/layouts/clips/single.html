@@ -23,8 +23,10 @@
       <ul class="surfer-entries">
         {{ $urls := .Params.surfer_urls }}
         {{ range .Params.surfers }}
+          {{ $name := . }}
+          {{ $key := lower $name }}
           {{ $url := "" }}
-          {{ with $urls }}{{ $url = index $urls . }}{{ end }}
+          {{ with $urls }}{{ $url = index . $key }}{{ end }}
           <li>
             <span class="surfer-name">{{ . }}</span>
             {{ if $url }}

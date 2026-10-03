@@ -19,6 +19,8 @@ surfers:
   - "Ben Bourgeois"
   - "Joao Chianca"
   - "Mason Ho"
+surfer_urls:
+  Kai Noa: "https://www.youtube.com/watch?v=Wv8y8W8HtS8"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/W5RhOvWjEsw" title="TOP 10 from February 7, 2026 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

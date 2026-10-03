@@ -17,6 +17,11 @@ surfers:
   - "Kai Noa"
   - "Beefs TV"
   - "Josh Kerr"
+surfer_urls:
+  Jordy Smith: "https://www.youtube.com/watch?v=6nanVaIDqu4"
+  Stab: "https://www.youtube.com/watch?v=TNT30LMO9k8"
+  Clay Marzo: "https://www.youtube.com/watch?v=ieFWHy3N1zc"
+  Josh Kerr: "https://www.youtube.com/watch?v=D1QOaYGYzXc"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/Wm05T42_m7o" title="TOP 10 from March 15, 2026 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

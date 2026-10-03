@@ -17,6 +17,8 @@ surfers:
   - "Skylens surf"
   - "Ian Gentil"
   - "Kale Brock"
+surfer_urls:
+  Skylens surf: "https://www.youtube.com/watch?v=MNqzSv_rfWU"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/WdEcfxD65nw" title="TOP 10 from January 11, 2026 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

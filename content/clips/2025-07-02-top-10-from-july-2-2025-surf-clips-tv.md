@@ -18,6 +18,8 @@ surfers:
   - "Raw Surfing"
   - "Nathan Florence"
   - "Enrique Ariitu"
+surfer_urls:
+  Filipe Toledo: "https://www.youtube.com/watch?v=wvunB4Q7qTA"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/d4Te_d_rtxk" title="TOP 10 from July 2, 2025 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

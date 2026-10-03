@@ -15,6 +15,8 @@ surfers:
   - "Cristian Merello"
   - "Nathan Florence"
   - "Fluid Surfing"
+surfer_urls:
+  Soli Bailey: "https://www.youtube.com/watch?v=cobBn6vytK0"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/viM8RNZvG4o" title="TOP 10 from December 18, 2025 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

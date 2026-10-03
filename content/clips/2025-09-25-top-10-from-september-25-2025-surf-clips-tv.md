@@ -14,6 +14,9 @@ surfers:
   - "Andrés Echecopar"
   - "Axel Dominguez"
   - "Lakey Peak Surf"
+surfer_urls:
+  Axel Dominguez: "https://www.youtube.com/watch?v=TppLeiFASiQ"
+  Lakey Peak Surf: "https://www.youtube.com/watch?v=f3c74CQga0g"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/BzNcopvZNIM" title="TOP 10 from September 25, 2025 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

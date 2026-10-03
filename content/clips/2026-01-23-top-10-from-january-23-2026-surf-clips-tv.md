@@ -16,6 +16,9 @@ surfers:
   - "Koa Rothman"
   - "Sea N Surf Bali"
   - "Chapter 11"
+surfer_urls:
+  Marco Giorgi: "https://www.youtube.com/watch?v=ryyqCTM5z8Q"
+  Chapter 11: "https://www.youtube.com/watch?v=MFXhCHJXYNw"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/zq4nBzgGCIg" title="TOP 10 from January 23, 2026 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

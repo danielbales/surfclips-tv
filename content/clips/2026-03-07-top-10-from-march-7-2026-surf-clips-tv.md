@@ -16,6 +16,11 @@ surfers:
   - "Blak Bear Surf Club"
   - "Albee Layer"
   - "Sebastian Gomez Del Castillo"
+surfer_urls:
+  Sheldon Paishon: "https://www.youtube.com/watch?v=-OC4Ekyp64k"
+  James Woods: "https://www.youtube.com/watch?v=n_IpH2sJf_A"
+  Surf France Hossegor: "https://www.youtube.com/watch?v=EOuzDq6zoLE"
+  Albee Layer: "https://www.youtube.com/watch?v=7YNn8_84-FM"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/rpSg3RPWdIE" title="TOP 10 from March 7, 2026 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>
