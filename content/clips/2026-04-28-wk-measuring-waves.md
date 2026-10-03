@@ -9,6 +9,7 @@ tags: ["wilbur kookmeyer"]
 type: "clips"
 clip_type: "clip"
 duration: 117
+visibility: "unlisted"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/U6Ct-pobpPw" title="WK Measuring Waves" allowfullscreen loading="lazy"></iframe>

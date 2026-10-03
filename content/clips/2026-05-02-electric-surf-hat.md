@@ -9,6 +9,7 @@ tags: ["wilbur kookmeyer"]
 type: "clips"
 clip_type: "short"
 duration: 18
+visibility: "unlisted"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/_UFGDCNf9W0" title="Electric Surf Hat" allowfullscreen loading="lazy"></iframe>

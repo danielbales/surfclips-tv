@@ -9,6 +9,7 @@ tags: ["wilbur kookmeyer"]
 type: "clips"
 clip_type: "short"
 duration: 8
+visibility: "unlisted"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/EQxavibpG4o" title="Life Reflection" allowfullscreen loading="lazy"></iframe>

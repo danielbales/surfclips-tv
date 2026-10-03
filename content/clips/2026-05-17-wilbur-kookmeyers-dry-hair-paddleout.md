@@ -9,6 +9,7 @@ tags: ["wilbur kookmeyer", "surf comedy", "surfing", "kook", "surf humor", "kell
 type: "clips"
 clip_type: "short"
 duration: 7
+visibility: "unlisted"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/3Z-V8pzK14s" title="Wilbur Kookmeyer's Dry Hair Paddleout" allowfullscreen loading="lazy"></iframe>

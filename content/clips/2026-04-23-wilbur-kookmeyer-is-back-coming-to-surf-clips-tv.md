@@ -9,6 +9,7 @@ tags: ["wilbur kookmeyer"]
 type: "clips"
 clip_type: "short"
 duration: 30
+visibility: "unlisted"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/cn2I5-ajy2Y" title="Wilbur Kookmeyer is back (coming to Surf Clips TV!!)" allowfullscreen loading="lazy"></iframe>

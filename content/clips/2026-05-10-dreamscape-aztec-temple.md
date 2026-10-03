@@ -9,6 +9,7 @@ tags: ["wilbur kookmeyer", "aztec"]
 type: "clips"
 clip_type: "short"
 duration: 7
+visibility: "unlisted"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/uQ-CXmMVGYQ" title="Dreamscape Aztec Temple" allowfullscreen loading="lazy"></iframe>

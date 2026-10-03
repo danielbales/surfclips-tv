@@ -9,6 +9,7 @@ tags: ["wilbur kookmeyer", "surfboard", "ocean", "wave"]
 type: "clips"
 clip_type: "clip"
 duration: 64
+visibility: "unlisted"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/Pu5frgSDL-k" title="Wilbur Kookmeyer – The \"Sustainable\" Surfboard Craze Has Gone Too Far 😂" allowfullscreen loading="lazy"></iframe>

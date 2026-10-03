@@ -9,6 +9,7 @@ tags: ["wilbur kookmeyer", "surf comedy", "surfing", "kook", "surf humor", "kell
 type: "clips"
 clip_type: "short"
 duration: 7
+visibility: "unlisted"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/L3BbqInQxdQ" title="Wilbur Kookmeyer surfs better when no one is watching" allowfullscreen loading="lazy"></iframe>

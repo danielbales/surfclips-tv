@@ -9,6 +9,7 @@ tags: ["wilbur kookmeyer"]
 type: "clips"
 clip_type: "short"
 duration: 10
+visibility: "unlisted"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/_dN5H8Blqgc" title="Tuberide Day Dreamin' - Wilbur Kookmeyer" allowfullscreen loading="lazy"></iframe>

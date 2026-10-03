@@ -9,6 +9,7 @@ tags: ["wilbur kookmeyer"]
 type: "clips"
 clip_type: "short"
 duration: 44
+visibility: "unlisted"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/BFG-8S1gDDE" title="Wilbur Kookmeyer's SCAB Tour, stop 1: The Box" allowfullscreen loading="lazy"></iframe>

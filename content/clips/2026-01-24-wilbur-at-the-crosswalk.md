@@ -9,6 +9,7 @@ tags: ["wilbur kookmeyer"]
 type: "clips"
 clip_type: "short"
 duration: 7
+visibility: "unlisted"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/O2s6wYPkB_I" title="Wilbur at the crosswalk" allowfullscreen loading="lazy"></iframe>

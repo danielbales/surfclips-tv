@@ -9,6 +9,7 @@ tags: ["wilbur kookmeyer", "surf humor", "surf wipeout", "southern californian s
 type: "clips"
 clip_type: "short"
 duration: 9
+visibility: "unlisted"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/k0q7-pSuibo" title="Wilbur Kookmeyer - Crummy Exercise" allowfullscreen loading="lazy"></iframe>

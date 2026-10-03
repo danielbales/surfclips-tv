@@ -9,6 +9,7 @@ tags: ["wilbur kookmeyer", "surfcomic", "claymation", "surfing", "surf clips", "
 type: "clips"
 clip_type: "short"
 duration: 47
+visibility: "unlisted"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/LpMVVWLYf1U" title="Wilbur Kookmeyer surfs Cortez Bank" allowfullscreen loading="lazy"></iframe>

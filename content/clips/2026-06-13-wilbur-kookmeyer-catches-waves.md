@@ -9,6 +9,7 @@ tags: ["wilbur kookmeyer", "surf humor"]
 type: "clips"
 clip_type: "short"
 duration: 9
+visibility: "unlisted"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/cmbQ7lnAjkA" title="Wilbur Kookmeyer Catches Waves" allowfullscreen loading="lazy"></iframe>

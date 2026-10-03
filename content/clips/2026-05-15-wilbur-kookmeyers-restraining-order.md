@@ -9,6 +9,7 @@ tags: ["wilbur kookmeyer", "surf comedy", "surfing", "kook", "surf humor", "kell
 type: "clips"
 clip_type: "short"
 duration: 9
+visibility: "unlisted"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/KfDv9Eef-ik" title="Wilbur Kookmeyer's Restraining Order" allowfullscreen loading="lazy"></iframe>

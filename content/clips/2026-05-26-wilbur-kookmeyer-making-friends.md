@@ -9,6 +9,7 @@ tags: ["wilbur kookmeyer", "surf humor", "surf wipeout"]
 type: "clips"
 clip_type: "short"
 duration: 9
+visibility: "unlisted"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/Y0JEYyz5qog" title="Wilbur Kookmeyer Making Friends" allowfullscreen loading="lazy"></iframe>

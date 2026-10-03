@@ -9,6 +9,7 @@ tags: ["wilbur kookmeyer", "surf humor"]
 type: "clips"
 clip_type: "short"
 duration: 8
+visibility: "unlisted"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/TTIzN-0xV_s" title="Wilbur Kookmeyer Gets Good at Surfing" allowfullscreen loading="lazy"></iframe>

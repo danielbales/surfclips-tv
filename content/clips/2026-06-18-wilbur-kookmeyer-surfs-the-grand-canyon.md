@@ -9,6 +9,7 @@ tags: ["wilbur kookmeyer", "grand canyon", "surf humor", "surfing"]
 type: "clips"
 clip_type: "short"
 duration: 9
+visibility: "unlisted"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/6jlqgEscKMU" title="Wilbur Kookmeyer surfs the Grand Canyon" allowfullscreen loading="lazy"></iframe>

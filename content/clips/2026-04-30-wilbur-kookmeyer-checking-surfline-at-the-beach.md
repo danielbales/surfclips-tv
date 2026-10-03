@@ -9,6 +9,7 @@ tags: ["wilbur kookmeyer"]
 type: "clips"
 clip_type: "short"
 duration: 8
+visibility: "unlisted"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/z7YPUL5BTH4" title="Wilbur Kookmeyer checking @Surfline (at the beach)" allowfullscreen loading="lazy"></iframe>

@@ -9,6 +9,7 @@ tags: ["wilbur kookmeyer"]
 type: "clips"
 clip_type: "short"
 duration: 56
+visibility: "unlisted"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/ps-JbtnmYnY" title="WK Man Myth Legend" allowfullscreen loading="lazy"></iframe>

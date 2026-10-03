@@ -9,6 +9,7 @@ tags: ["wilbur kookmeyer"]
 type: "clips"
 clip_type: "short"
 duration: 16
+visibility: "unlisted"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/-i2UdqHEh1k" title="Wilbur Kookmeyer loves the smell of resin in the morning" allowfullscreen loading="lazy"></iframe>

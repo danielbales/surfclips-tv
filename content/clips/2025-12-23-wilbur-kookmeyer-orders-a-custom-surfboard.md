@@ -9,6 +9,7 @@ tags: ["wilbur kookmeyer"]
 type: "clips"
 clip_type: "short"
 duration: 58
+visibility: "unlisted"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/u6KRDwE2Nl8" title="Wilbur Kookmeyer orders a custom surfboard" allowfullscreen loading="lazy"></iframe>

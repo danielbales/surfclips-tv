@@ -9,6 +9,7 @@ tags: ["wilbur kookmeyer", "claymation", "surfing", "funny animation", "3d anima
 type: "clips"
 clip_type: "clip"
 duration: 83
+visibility: "unlisted"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/eS81Q3X5W7A" title="Wilbur Kookmeyer's \"Hoot-in-a-Can\"" allowfullscreen loading="lazy"></iframe>

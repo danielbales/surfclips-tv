@@ -9,6 +9,7 @@ tags: ["wilbur kookmeyer"]
 type: "clips"
 clip_type: "short"
 duration: 14
+visibility: "unlisted"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/FIEU0qH1eIU" title="Surfboard books a trip without Wilbur" allowfullscreen loading="lazy"></iframe>

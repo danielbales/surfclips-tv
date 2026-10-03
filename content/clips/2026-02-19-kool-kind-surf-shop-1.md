@@ -9,6 +9,7 @@ tags: ["wilbur kookmeyer"]
 type: "clips"
 clip_type: "short"
 duration: 8
+visibility: "unlisted"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/0L0b5iVuEp4" title="Kool Kind Surf Shop 1" allowfullscreen loading="lazy"></iframe>

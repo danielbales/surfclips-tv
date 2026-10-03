@@ -9,6 +9,7 @@ tags: ["wilbur kookmeyer", "surf humor", "surf wipeout", "boat rental", "surfer"
 type: "clips"
 clip_type: "short"
 duration: 8
+visibility: "unlisted"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/70cgSN2vj8Q" title="Wilbur Kookmeyer's Land Yacht Surf Charter" allowfullscreen loading="lazy"></iframe>

@@ -9,6 +9,7 @@ tags: ["wilbur kookmeyer", "surfboard", "ocean", "wave", "SurfComedy", "Claymati
 type: "clips"
 clip_type: "short"
 duration: 43
+visibility: "unlisted"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/TCbx94YSmJU" title="Wilbur Kookmeyer Gets Scammed! | \"Save the Ferrets\" Surf Contest" allowfullscreen loading="lazy"></iframe>

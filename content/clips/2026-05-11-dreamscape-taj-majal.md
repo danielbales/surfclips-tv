@@ -9,6 +9,7 @@ tags: ["wilbur kookmeyer", "taj mahal"]
 type: "clips"
 clip_type: "short"
 duration: 9
+visibility: "unlisted"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/HfamcwTQmlc" title="Dreamscape Taj Majal" allowfullscreen loading="lazy"></iframe>

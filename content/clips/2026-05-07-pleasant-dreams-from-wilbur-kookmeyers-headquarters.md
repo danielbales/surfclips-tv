@@ -9,6 +9,7 @@ tags: ["wilbur kookmeyer"]
 type: "clips"
 clip_type: "short"
 duration: 9
+visibility: "unlisted"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/5fmtzoIVqFM" title="Pleasant Dreams from Wilbur Kookmeyer's Headquarters" allowfullscreen loading="lazy"></iframe>

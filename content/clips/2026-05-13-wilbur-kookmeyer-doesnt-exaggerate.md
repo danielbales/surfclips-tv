@@ -9,6 +9,7 @@ tags: ["wilbur kookmeyer", "surf comedy", "surfing"]
 type: "clips"
 clip_type: "short"
 duration: 9
+visibility: "unlisted"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/vCjwhEQgAw8" title="Wilbur Kookmeyer doesn't exaggerate" allowfullscreen loading="lazy"></iframe>

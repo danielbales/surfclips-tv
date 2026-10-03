@@ -9,6 +9,7 @@ tags: ["wilbur kookmeyer"]
 type: "clips"
 clip_type: "short"
 duration: 9
+visibility: "unlisted"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/sENRJfb8TWM" title="NOW OPEN! Wilbur Kookmeyer's Ding Repair" allowfullscreen loading="lazy"></iframe>

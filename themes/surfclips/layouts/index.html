@@ -51,10 +51,8 @@
 
   {{/* Wilbur Kookmeyer videos - public only, pinned feature + recent */}}
   {{ $wilburAll := where .Site.RegularPages "Params.tags" "intersect" (slice "wilbur kookmeyer") }}
-  {{ $wilburPublic := where $wilburAll "Params.visibility" "!=" "unlisted" }}
-  {{ $pinned1 := .Site.GetPage "/clips/2026-07-16-wilbur-kookmeyer-reacts-to-a-1000000-masterpiece" }}
-  {{ $pinned2 := .Site.GetPage "/clips/2026-05-07-wilbur-kookmeyers-deep-thoughts-in-baja" }}
-  {{ $wilburNoShorts := where $wilburPublic "Params.clip_type" "!=" "short" }}
+  {{ $wilburPublic := where $wilburAll "Params.visibility" "public" }}
+  {{ $pinned := .Site.GetPage "/clips/2026-07-16-wilbur-kookmeyer-reacts-to-a-1000000-masterpiece" }}
   {{ with $wilburPublic }}
   <section class="section wilbur-section">
     <div class="section-bar">
@@ -62,7 +60,7 @@
       <a href="{{ "tags/wilbur-kookmeyer/" | absURL }}" class="section-link">View all</a>
     </div>
     <div class="wilbur-grid">
-      {{ with $pinned1 }}
+      {{ with $pinned }}
       <a href="{{ .Permalink }}" class="clip-card">
         {{ if .Params.thumbnail }}
         <img src="{{ .Params.thumbnail }}" alt="{{ .Title }}" loading="lazy">
@@ -72,18 +70,8 @@
         </div>
       </a>
       {{ end }}
-      {{ with $pinned2 }}
-      <a href="{{ .Permalink }}" class="clip-card">
-        {{ if .Params.thumbnail }}
-        <img src="{{ .Params.thumbnail }}" alt="{{ .Title }}" loading="lazy">
-        {{ end }}
-        <div class="clip-card-body">
-          <h3>{{ .Title }}</h3>
-        </div>
-      </a>
-      {{ end }}
-      {{ range first 2 $wilburNoShorts }}
-      {{ if and (ne .Params.video_id "T2xWCk0BNfk") (ne .Params.video_id "_4fgttapCM0") }}
+      {{ range first 3 . }}
+      {{ if ne .Params.video_id "T2xWCk0BNfk" }}
       <a href="{{ .Permalink }}" class="clip-card">
         {{ if .Params.thumbnail }}
         <img src="{{ .Params.thumbnail }}" alt="{{ .Title }}" loading="lazy">

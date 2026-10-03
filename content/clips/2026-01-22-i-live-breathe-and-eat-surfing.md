@@ -9,6 +9,7 @@ tags: ["wilbur kookmeyer"]
 type: "clips"
 clip_type: "short"
 duration: 8
+visibility: "unlisted"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/Eoz9yiudZdY" title="I live, breathe, and eat surfing.." allowfullscreen loading="lazy"></iframe>
