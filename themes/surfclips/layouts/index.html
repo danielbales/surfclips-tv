@@ -1,21 +1,23 @@
 {{ define "main" }}
 
-{{/* Latest Top 10 - big hero */}}
+{{/* Latest Top 10 - featured hero card */}}
 {{ $top10s := where .Site.RegularPages "Params.clip_type" "top10" }}
 {{ with first 1 $top10s }}
 {{ range . }}
 <section class="hero-top10">
   <a href="{{ .Permalink }}" class="hero-top10-link">
-    {{ with .Params.thumbnail }}
-    <img src="{{ . }}" alt="{{ $.Title }}" class="hero-top10-img" loading="eager">
-    {{ end }}
-    <div class="hero-top10-overlay">
+    <div class="hero-top10-thumb">
+      {{ with .Params.thumbnail }}
+      <img src="{{ . }}" alt="{{ $.Title }}" class="hero-top10-img" loading="eager">
+      {{ end }}
+      <span class="play-btn">
+        <svg viewBox="0 0 24 24" width="40" height="40" fill="currentColor"><polygon points="5,3 19,12 5,21"/></svg>
+      </span>
+    </div>
+    <div class="hero-top10-info">
       <span class="badge">Weekly Top 10</span>
       <h1>{{ .Title }}</h1>
       <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
-      <span class="play-btn">
-        <svg viewBox="0 0 24 24" width="48" height="48" fill="currentColor"><polygon points="5,3 19,12 5,21"/></svg>
-      </span>
     </div>
   </a>
 </section>

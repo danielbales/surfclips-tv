@@ -11,9 +11,9 @@
   --text: #eaf0f7;
   --text-secondary: #8ba3c0;
   --text-muted: #5a7393;
-  --accent: #00c6fb;
-  --accent-glow: rgba(0, 198, 251, 0.15);
-  --accent-hover: #33d4fc;
+  --accent: #ff0033;
+  --accent-glow: rgba(255, 0, 51, 0.15);
+  --accent-hover: #ff3355;
   --yt-red: #ff0033;
   --radius: 12px;
   --radius-sm: 8px;
@@ -68,7 +68,12 @@ img { display: block; max-width: 100%; }
   color: var(--text);
 }
 
-.logo-icon { color: var(--accent); display: flex; }
+.logo-icon {
+  width: 36px;
+  height: 36px;
+  border-radius: 8px;
+  object-fit: cover;
+}
 
 .logo-text {
   font-size: 1.125rem;
@@ -118,47 +123,57 @@ img { display: block; max-width: 100%; }
 /* ---- Hero Top 10 ---- */
 
 .hero-top10 {
-  position: relative;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 1.5rem 1.25rem 0;
 }
 
 .hero-top10-link {
-  display: block;
+  display: grid;
+  grid-template-columns: 1.6fr 1fr;
+  gap: 0;
+  background: var(--surface);
+  border-radius: var(--radius);
+  overflow: hidden;
+  text-decoration: none;
+  color: inherit;
+  transition: box-shadow 0.3s, transform 0.2s;
+}
+
+.hero-top10-link:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.5);
+}
+
+.hero-top10-thumb {
   position: relative;
   overflow: hidden;
 }
 
 .hero-top10-img {
   width: 100%;
-  aspect-ratio: 2.2 / 1;
+  height: 100%;
   object-fit: cover;
   display: block;
   transition: transform 0.5s ease;
 }
 
 .hero-top10-link:hover .hero-top10-img {
-  transform: scale(1.03);
+  transform: scale(1.04);
 }
 
-.hero-top10-overlay {
-  position: absolute;
-  inset: 0;
+.hero-top10-info {
   display: flex;
   flex-direction: column;
-  justify-content: flex-end;
-  padding: 3rem 2.5rem 2.5rem;
-  background: linear-gradient(
-    to top,
-    rgba(5, 10, 18, 0.95) 0%,
-    rgba(5, 10, 18, 0.6) 40%,
-    transparent 70%
-  );
+  justify-content: center;
+  padding: 2rem;
 }
 
 .badge {
   display: inline-block;
   width: fit-content;
   background: var(--accent);
-  color: var(--bg);
+  color: white;
   font-size: 0.65rem;
   font-weight: 800;
   padding: 0.25rem 0.6rem;
@@ -168,18 +183,17 @@ img { display: block; max-width: 100%; }
   margin-bottom: 0.75rem;
 }
 
-.hero-top10-overlay h1 {
-  font-size: 2.25rem;
+.hero-top10-info h1 {
+  font-size: 1.5rem;
   font-weight: 800;
   letter-spacing: -0.03em;
-  line-height: 1.15;
-  max-width: 600px;
+  line-height: 1.2;
 }
 
-.hero-top10-overlay time {
+.hero-top10-info time {
   font-size: 0.85rem;
   color: var(--text-secondary);
-  margin-top: 0.4rem;
+  margin-top: 0.5rem;
 }
 
 .play-btn {
@@ -187,8 +201,8 @@ img { display: block; max-width: 100%; }
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 72px;
-  height: 72px;
+  width: 56px;
+  height: 56px;
   background: rgba(0, 0, 0, 0.5);
   border-radius: 50%;
   display: flex;
@@ -199,10 +213,10 @@ img { display: block; max-width: 100%; }
   backdrop-filter: blur(4px);
 }
 
-.play-btn svg { margin-left: 4px; }
+.play-btn svg { margin-left: 3px; }
 
 .hero-top10-link:hover .play-btn {
-  background: var(--yt-red);
+  background: var(--accent);
   transform: translate(-50%, -50%) scale(1.1);
 }
 
@@ -670,20 +684,28 @@ img { display: block; max-width: 100%; }
 /* ---- Responsive ---- */
 
 @media (max-width: 768px) {
-  .hero-top10-img { aspect-ratio: 16/9; }
+  .hero-top10 { padding: 1rem 1rem 0; }
 
-  .hero-top10-overlay {
-    padding: 2rem 1.25rem 1.5rem;
+  .hero-top10-link {
+    grid-template-columns: 1fr;
   }
 
-  .hero-top10-overlay h1 { font-size: 1.35rem; }
+  .hero-top10-thumb {
+    aspect-ratio: 16 / 9;
+  }
+
+  .hero-top10-info {
+    padding: 1.25rem;
+  }
+
+  .hero-top10-info h1 { font-size: 1.15rem; }
 
   .play-btn {
-    width: 56px;
-    height: 56px;
+    width: 48px;
+    height: 48px;
   }
 
-  .play-btn svg { width: 36px; height: 36px; }
+  .play-btn svg { width: 32px; height: 32px; }
 
   .top10s-grid { grid-template-columns: repeat(2, 1fr); }
   .clips-grid { grid-template-columns: repeat(2, 1fr); }
@@ -706,7 +728,7 @@ img { display: block; max-width: 100%; }
 }
 
 @media (max-width: 480px) {
-  .hero-top10-overlay h1 { font-size: 1.15rem; }
+  .hero-top10-info h1 { font-size: 1rem; }
   .top10s-grid { grid-template-columns: 1fr; }
   .clips-grid { grid-template-columns: 1fr; }
   .short-card { flex: 0 0 150px; }
