@@ -1,5 +1,5 @@
 /*
-  Content-Security-Policy: default-src 'self'; img-src 'self' https://i.ytimg.com https://*.googleusercontent.com data:; media-src 'self' https://www.youtube.com; frame-src https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://www.googletagmanager.com https://www.google-analytics.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://cdn.jsdelivr.net; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://www.google-analytics.com https://*.analytics.google.com
+  Content-Security-Policy: default-src 'self'; img-src 'self' https://i.ytimg.com https://imgproxy.fourthwall.dev https://*.googleusercontent.com data:; media-src 'self' https://www.youtube.com; frame-src https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://www.googletagmanager.com https://www.google-analytics.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://cdn.jsdelivr.net; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://www.google-analytics.com https://*.analytics.google.com
   X-Content-Type-Options: nosniff
   X-Frame-Options: SAMEORIGIN
   Referrer-Policy: strict-origin-when-cross-origin
