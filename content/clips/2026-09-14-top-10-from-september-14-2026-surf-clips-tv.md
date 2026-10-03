@@ -17,15 +17,6 @@ surfers:
   - "Saltwater Veins"
   - "Koa Rothman"
   - "Jarvis Earle"
-surfer_urls:
-  Nathan Florence: "https://www.youtube.com/watch?v=5pRGPsorknQ"
-  Billabong: "https://www.youtube.com/watch?v=KgdySbaRPbI"
-  Sheldon Paishon: "https://www.youtube.com/watch?v=-OC4Ekyp64k"
-  Luke Swanson: "https://www.youtube.com/watch?v=5V94-c9Ub0c"
-  Surf n Sea Bali: "https://www.youtube.com/watch?v=-wtchac7IHY"
-  Saltwater Veins: "https://www.youtube.com/watch?v=uskBkyUre4k"
-  Koa Rothman: "https://www.youtube.com/watch?v=XYA0yjuA6NQ"
-  Jarvis Earle: "https://www.youtube.com/watch?v=H1UwK3v6nkc"
 ---
 
 <div class="video-embed">
