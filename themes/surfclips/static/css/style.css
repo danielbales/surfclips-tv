@@ -369,6 +369,31 @@ img { display: block; max-width: 100%; }
   font-weight: 600;
 }
 
+/* ---- Wilbur Grid (homepage sidebar) ---- */
+
+.wilbur-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.75rem;
+}
+
+.wilbur-grid .clip-card img {
+  aspect-ratio: 16/9;
+  object-fit: cover;
+}
+
+.wilbur-grid .clip-card-body h3 {
+  font-size: 0.8rem;
+}
+
+/* ---- Bottom Merch Row ---- */
+
+.merch-bottom-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+}
+
 /* ---- Top 10s Grid ---- */
 
 .top10s-grid {
@@ -912,6 +937,7 @@ img { display: block; max-width: 100%; }
   .top10s-grid { grid-template-columns: repeat(2, 1fr); }
   .clips-grid { grid-template-columns: repeat(2, 1fr); }
   .shop-grid { grid-template-columns: repeat(2, 1fr); }
+  .merch-bottom-grid { grid-template-columns: repeat(2, 1fr); }
   .site-nav { display: none; }
   .site-nav.open {
     display: flex;
