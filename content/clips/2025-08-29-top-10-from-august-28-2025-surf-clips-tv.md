@@ -9,6 +9,7 @@ tags: ["Top 10 Surf", "Jack Robinson", "Surf n Sea Bali", "Koa Rothman", "Ben Gr
 type: "clips"
 clip_type: "top10"
 duration: 198
+views: 14554
 surfers:
   - "Jack Robinson"
   - "Surf n Sea Bali"

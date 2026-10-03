@@ -9,6 +9,7 @@ tags: ["top 10 surf", "mason ho", "surf video", "Italo Ferreira", "jamie obrien"
 type: "clips"
 clip_type: "top10"
 duration: 161
+views: 1001
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/jqwGksWJQNg" title="TOP 10 from November 26, 2024 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

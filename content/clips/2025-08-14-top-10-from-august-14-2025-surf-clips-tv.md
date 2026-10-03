@@ -9,6 +9,7 @@ tags: ["Top 10 Surf", "Oahu Surf Films", "Raw Surf Files", "Liquide", "Surf Visi
 type: "clips"
 clip_type: "top10"
 duration: 168
+views: 27200
 surfers:
   - "Oahu Surf Films"
   - "Raw Surf Files"

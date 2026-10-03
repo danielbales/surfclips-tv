@@ -9,6 +9,7 @@ tags: ["top 10 surf", "john john florence", "taj burrow", "jamie obrien", "south
 type: "clips"
 clip_type: "top10"
 duration: 168
+views: 2807
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/IRua5qbO3kc" title="TOP 10 from November 12, 2024 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

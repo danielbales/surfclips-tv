@@ -9,6 +9,7 @@ tags: ["Top 10 surf", "Koa Rothman", "mason ho", "billy kemper", "eli olson", "e
 type: "clips"
 clip_type: "top10"
 duration: 198
+views: 5633
 surfers:
   - "Koa Rothman"
   - "Mason Ho"

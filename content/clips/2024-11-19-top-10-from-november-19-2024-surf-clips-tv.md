@@ -9,6 +9,7 @@ tags: ["top 10 surf", "mason ho", "nathan florence", "john florence", "lower tre
 type: "clips"
 clip_type: "top10"
 duration: 182
+views: 1351
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/aEoqJUyzu3w" title="TOP 10 from November 19, 2024 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

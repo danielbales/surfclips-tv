@@ -9,6 +9,7 @@ tags: ["top 10 surf", "mason ho", "nathan florence", "kalani robb", "the cave po
 type: "clips"
 clip_type: "top10"
 duration: 198
+views: 954
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/-ulcrJvu9Pg" title="TOP 10 from November 5, 2024 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

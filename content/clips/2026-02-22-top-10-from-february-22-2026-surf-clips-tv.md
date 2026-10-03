@@ -9,6 +9,7 @@ tags: ["wave pool", "how to surf", "teahupoo", "biggest wave ever surfed", "sea 
 type: "clips"
 clip_type: "top10"
 duration: 204
+views: 42055
 surfers:
   - "Yago Dora"
   - "Mason Ho"

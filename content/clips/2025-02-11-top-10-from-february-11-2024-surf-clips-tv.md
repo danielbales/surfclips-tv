@@ -9,6 +9,7 @@ tags: ["top 10 surf", "pipeline", "ballito", "maui surf", "john florence", "maso
 type: "clips"
 clip_type: "top10"
 duration: 126
+views: 550
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/BnPwnhJfquI" title="TOP 10 from February 11, 2024 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

@@ -9,6 +9,7 @@ tags: ["Top 10 Surf", "Kopral Tuff", "Shaka Media", "Michael Dunphy", "Brent Wel
 type: "clips"
 clip_type: "top10"
 duration: 140
+views: 4106
 surfers:
   - "Kopral Tuff"
   - "Shaka Media"

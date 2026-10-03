@@ -9,6 +9,7 @@ tags: ["top 10 surf", "john florence", "clay marzo", "eli hanneman", "max beach"
 type: "clips"
 clip_type: "top10"
 duration: 219
+views: 1443
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/dGhCRuMxX7A" title="TOP 10 from December 17, 2024 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

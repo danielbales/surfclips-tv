@@ -9,6 +9,7 @@ tags: ["Top 10 Surf", "Nathan Florence", "Ezra Clark", "Ben Gravy", "Nic Von Rup
 type: "clips"
 clip_type: "top10"
 duration: 179
+views: 19985
 surfers:
   - "Nathan Florence"
   - "Ezra Clark"

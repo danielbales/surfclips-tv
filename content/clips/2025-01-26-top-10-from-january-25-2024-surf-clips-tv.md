@@ -9,6 +9,7 @@ tags: ["top 10 surf", "pipeline", "honolua bay", "imai devault", "nathan florenc
 type: "clips"
 clip_type: "top10"
 duration: 166
+views: 962
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/rrMxNxSpyYI" title="TOP 10 from January 25, 2024 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

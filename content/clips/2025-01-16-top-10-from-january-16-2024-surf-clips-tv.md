@@ -9,6 +9,7 @@ tags: ["top 10 surf", "john florence", "pipeline", "2025 backdoor shootout", "ja
 type: "clips"
 clip_type: "top10"
 duration: 140
+views: 596
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/Irai5Cy38rI" title="TOP 10 from January 16, 2024 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

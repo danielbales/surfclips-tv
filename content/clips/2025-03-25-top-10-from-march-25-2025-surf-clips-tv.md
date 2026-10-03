@@ -9,6 +9,7 @@ tags: ["top 10 surf", "pipeline", "koa smith fiji", "jamie obrien pipeline", "ez
 type: "clips"
 clip_type: "top10"
 duration: 185
+views: 643
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/XlUH0RSEkJI" title="TOP 10 from March 25, 2025 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

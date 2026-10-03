@@ -9,6 +9,7 @@ tags: ["Top 10 Surf", "Koa Rothman", "Rusty", "Kai Hall", "Rio Waida", "Cristian
 type: "clips"
 clip_type: "top10"
 duration: 214
+views: 186810
 surfers:
   - "Koa Rothman"
   - "Rusty"

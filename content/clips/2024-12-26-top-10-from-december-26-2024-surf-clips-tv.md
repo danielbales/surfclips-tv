@@ -9,6 +9,7 @@ tags: ["top 10 surf", "mason ho", "ian gentil", "the eddie surf", "luke shepards
 type: "clips"
 clip_type: "top10"
 duration: 160
+views: 571
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/CfHlz2pE_Vs" title="TOP 10 from December 26, 2024 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

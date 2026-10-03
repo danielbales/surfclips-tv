@@ -9,6 +9,7 @@ tags: ["top 10 surf", "zeke szekely", "nate florence", "rio waida", "the wedge",
 type: "clips"
 clip_type: "top10"
 duration: 151
+views: 2568
 surfers:
   - "B. Jacobson"
   - "Surfing Visions"

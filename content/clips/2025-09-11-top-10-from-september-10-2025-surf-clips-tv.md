@@ -9,6 +9,7 @@ tags: ["Top 10 Surf", "Sammy Lowe", "Zeke Lau", "DB Films", "Jon Aspuru", "Soli 
 type: "clips"
 clip_type: "top10"
 duration: 199
+views: 6693
 surfers:
   - "Sammy Lowe"
   - "Zeke Lau"

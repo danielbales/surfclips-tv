@@ -9,6 +9,7 @@ tags: ["top 10 surf", "ian crane africa", "brett barley africa", "mason ho pov",
 type: "clips"
 clip_type: "top10"
 duration: 263
+views: 2903
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/6qObE3T3Yqw" title="TOP 10 from April 7, 2025 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

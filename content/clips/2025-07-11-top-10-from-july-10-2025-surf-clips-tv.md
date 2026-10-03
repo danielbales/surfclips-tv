@@ -9,6 +9,7 @@ tags: ["Top 10 Surf", "Volcom", "Lakey Peterson", "Oahu Surf Films", "Nathan Flo
 type: "clips"
 clip_type: "top10"
 duration: 202
+views: 11452
 surfers:
   - "Volcom"
   - "Lakey Peterson"

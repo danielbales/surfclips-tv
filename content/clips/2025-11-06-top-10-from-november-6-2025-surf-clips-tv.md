@@ -9,6 +9,7 @@ tags: ["wave pool", "how to surf", "teahupoo", "biggest wave ever surfed", "sea 
 type: "clips"
 clip_type: "top10"
 duration: 171
+views: 8437
 surfers:
   - "Ripitup"
   - "Jordy Smith"

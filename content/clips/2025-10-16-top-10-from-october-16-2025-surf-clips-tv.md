@@ -9,6 +9,7 @@ tags: ["wave pool", "how to surf", "teahupoo", "biggest wave ever surfed", "sea 
 type: "clips"
 clip_type: "top10"
 duration: 169
+views: 82633
 surfers:
   - "Peter King"
   - "Craig Anderson"

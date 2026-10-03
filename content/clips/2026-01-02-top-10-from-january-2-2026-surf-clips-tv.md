@@ -9,6 +9,7 @@ tags: ["wave pool", "how to surf", "teahupoo", "biggest wave ever surfed", "sea 
 type: "clips"
 clip_type: "top10"
 duration: 170
+views: 73141
 surfers:
   - "Bryan Perez"
   - "Jacob Turner"

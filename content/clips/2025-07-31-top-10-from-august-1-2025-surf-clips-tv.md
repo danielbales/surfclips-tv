@@ -9,6 +9,7 @@ tags: ["Top 10 Surf", "Sheldon Simkus", "Maddix Alotis", "Chapter 11", "Matahi D
 type: "clips"
 clip_type: "top10"
 duration: 179
+views: 53608
 surfers:
   - "Sheldon Simkus"
   - "Maddix Alotis"

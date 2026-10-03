@@ -9,6 +9,7 @@ tags: ["Top 10 surf", "Jamie O'Brien", "Koa Rothman", "WSL", "Billabong", "Brody
 type: "clips"
 clip_type: "top10"
 duration: 150
+views: 3752
 surfers:
   - "Jamie O'Brien"
   - "Koa Rothman"

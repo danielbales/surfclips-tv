@@ -9,6 +9,7 @@ tags: ["top 10 surf", "ian gentil", "john florence", "sheldon paishon", "honolua
 type: "clips"
 clip_type: "top10"
 duration: 160
+views: 778
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/OeBMHDNAdM4" title="TOP 10 from January 7, 2024 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

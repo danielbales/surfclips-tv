@@ -10,6 +10,7 @@ type: "clips"
 clip_type: "top10"
 duration: 166
 visibility: "public"
+views: 9358
 surfers:
   - "Josh Kerr"
   - "Jordy Smith"

@@ -9,6 +9,7 @@ tags: ["wave pool", "how to surf", "teahupoo", "biggest wave ever surfed", "sea 
 type: "clips"
 clip_type: "top10"
 duration: 174
+views: 19069
 surfers:
   - "Jamie O'Brien"
   - "Ace Flynn"

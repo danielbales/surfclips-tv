@@ -9,6 +9,7 @@ tags: ["Top 10 Surf", "John Mel", "Nate Florence", "Griffin Colapinto", "Blak Be
 type: "clips"
 clip_type: "top10"
 duration: 181
+views: 11780
 surfers:
   - "John Mel"
   - "Nate Florence"

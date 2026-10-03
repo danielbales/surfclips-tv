@@ -9,6 +9,7 @@ tags: ["Top 10 Surf", "Koa Rothman", "Cristian Merello", "Lucas Mesinas", "Dylan
 type: "clips"
 clip_type: "top10"
 duration: 182
+views: 30328
 surfers:
   - "Koa Rothman"
   - "Cristian Merello"

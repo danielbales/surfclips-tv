@@ -9,6 +9,7 @@ tags: ["Top 10 Surf", "Yan Daberkow", "Rivian Rock", "Liquide", "Surf Raw Files"
 type: "clips"
 clip_type: "top10"
 duration: 159
+views: 129646
 surfers:
   - "Yan Daberkow"
   - "Rivian Rock"

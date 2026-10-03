@@ -9,6 +9,7 @@ tags: ["Top 10 Surf", "Sheldon Simkus", "Hurley", "Nathan Florence", "Blak Bear"
 type: "clips"
 clip_type: "top10"
 duration: 162
+views: 35714
 surfers:
   - "Sheldon Simkus"
   - "Hurley"

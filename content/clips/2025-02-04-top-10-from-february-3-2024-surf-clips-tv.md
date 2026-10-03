@@ -9,6 +9,7 @@ tags: ["top 10 surf", "pipeline", "jordy smith", "ballito", "maui surf", "john f
 type: "clips"
 clip_type: "top10"
 duration: 174
+views: 1104
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/q5s2B2dDM-8" title="TOP 10 from February 3, 2024 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

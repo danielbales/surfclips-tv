@@ -9,6 +9,7 @@ tags: ["top 10 surf", "pipeline", "jack robinson", "tosh tudor", "nate florence"
 type: "clips"
 clip_type: "top10"
 duration: 156
+views: 1639
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/U8DPTCzJgAY" title="TOP 10 from March 18, 2025 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

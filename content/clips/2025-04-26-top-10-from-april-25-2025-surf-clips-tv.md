@@ -9,6 +9,7 @@ tags: ["top 10 surf", "puerto escondido surf", "nic von rupp", "nate florence", 
 type: "clips"
 clip_type: "top10"
 duration: 178
+views: 7470
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/8JEVp4_IgEg" title="TOP 10 from April 25, 2025 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

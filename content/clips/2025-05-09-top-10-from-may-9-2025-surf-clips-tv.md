@@ -9,6 +9,7 @@ tags: ["Top 10 surf", "Mason Ho", "Nic Von Rupp", "Michael February", "Sheldon S
 type: "clips"
 clip_type: "top10"
 duration: 177
+views: 50015
 surfers:
   - "Surfline"
   - "Mason Ho"

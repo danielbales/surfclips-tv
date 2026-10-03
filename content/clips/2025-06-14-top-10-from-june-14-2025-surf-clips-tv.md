@@ -9,6 +9,7 @@ tags: ["Top 10 Surf", "Rio Waida", "mason ho", "eimeo czermak", "matahi drollet"
 type: "clips"
 clip_type: "top10"
 duration: 172
+views: 8028
 surfers:
   - "Rio Waida"
   - "Tatiana Weston-Webb"

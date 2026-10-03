@@ -9,6 +9,7 @@ tags: ["wave pool", "how to surf", "teahupoo", "biggest wave ever surfed", "sea 
 type: "clips"
 clip_type: "top10"
 duration: 165
+views: 16422
 surfers:
   - "Gui Fonseca"
   - "Ventura Water District"

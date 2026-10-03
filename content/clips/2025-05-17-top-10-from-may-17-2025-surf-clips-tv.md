@@ -9,6 +9,7 @@ tags: ["Top 10 surf", "Mason Ho", "Michael February", "Dylan Graves", "Maddix Al
 type: "clips"
 clip_type: "top10"
 duration: 212
+views: 1541
 surfers:
   - "Mason Ho"
   - "Michael February"

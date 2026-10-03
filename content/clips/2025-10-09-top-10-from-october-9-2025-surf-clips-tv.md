@@ -9,6 +9,7 @@ tags: ["wave pool", "how to surf", "teahupoo", "biggest wave ever surfed", "sea 
 type: "clips"
 clip_type: "top10"
 duration: 184
+views: 16454
 surfers:
   - "Koa Rothman"
   - "Max Elkington"

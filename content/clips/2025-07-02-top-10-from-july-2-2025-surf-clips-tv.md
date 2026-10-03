@@ -9,6 +9,7 @@ tags: ["Top 10 Surf", "Tatiana Weston-Webb", "Ian Gentil", "Filipe Toledo", "Nat
 type: "clips"
 clip_type: "top10"
 duration: 128
+views: 7199
 surfers:
   - "Yeti"
   - "Hudson Church"

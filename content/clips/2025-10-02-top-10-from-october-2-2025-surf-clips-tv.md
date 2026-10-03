@@ -9,6 +9,7 @@ tags: ["wave pool", "how to surf", "teahupoo", "biggest wave ever surfed", "sea 
 type: "clips"
 clip_type: "top10"
 duration: 168
+views: 10448
 surfers:
   - "Foamballed"
   - "Dark Seas"

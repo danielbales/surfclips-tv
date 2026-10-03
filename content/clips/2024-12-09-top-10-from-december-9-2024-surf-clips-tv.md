@@ -9,6 +9,7 @@ tags: ["top 10 surf", "jamie obrien", "gavin beschen", "mason ho", "kai lenny sw
 type: "clips"
 clip_type: "top10"
 duration: 153
+views: 1207
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/rsD6MJg-wE8" title="TOP 10 from December 9, 2024 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

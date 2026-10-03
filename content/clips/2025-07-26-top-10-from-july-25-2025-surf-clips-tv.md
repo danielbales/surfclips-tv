@@ -9,6 +9,7 @@ tags: ["Top 10 Surf", "Mason Ho", "Snapt", "William Aliotti", "Surfers of Bali",
 type: "clips"
 clip_type: "top10"
 duration: 207
+views: 10645
 surfers:
   - "Mason Ho"
   - "Snapt"

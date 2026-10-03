@@ -9,6 +9,7 @@ tags: ["wave pool", "how to surf", "teahupoo", "biggest wave ever surfed", "sea 
 type: "clips"
 clip_type: "top10"
 duration: 166
+views: 26884
 surfers:
   - "Jamie O'Brien"
   - "Nathan Florence"

@@ -9,6 +9,7 @@ tags: ["top 10 surf", "pipeline", "maui surf", "mason ho", "finn mcgill", "nate 
 type: "clips"
 clip_type: "top10"
 duration: 172
+views: 530
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/rD1Rp-Biebc" title="TOP 10 from March 2, 2025 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

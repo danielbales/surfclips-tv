@@ -9,6 +9,7 @@ tags: ["top 10 surf", "clay marzo", "tosh tudor", "dylan graves", "ezekiel lau",
 type: "clips"
 clip_type: "top10"
 duration: 169
+views: 5348
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/oASA4-LwIvQ" title="TOP 10 from April 19, 2025 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

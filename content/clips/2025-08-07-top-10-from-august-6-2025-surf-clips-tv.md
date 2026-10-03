@@ -9,6 +9,7 @@ tags: ["Top 10 Surf", "Oahu Surf Films", "Kandui Surf Report", "Jamie O'Brien", 
 type: "clips"
 clip_type: "top10"
 duration: 170
+views: 5111
 surfers:
   - "Oahu Surf Films"
   - "Kandui Surf Report"

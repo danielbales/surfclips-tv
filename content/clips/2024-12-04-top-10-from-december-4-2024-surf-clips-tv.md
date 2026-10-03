@@ -9,6 +9,7 @@ tags: ["top 10 surf", "jamie obrien", "mike stewart", "ian gentil", "aritz aramb
 type: "clips"
 clip_type: "top10"
 duration: 221
+views: 2926
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/zCsJwC_Dgqc" title="TOP 10 from December 4, 2024 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

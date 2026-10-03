@@ -1,22 +1,49 @@
 {{ define "main" }}
 <section class="section page-section">
   <h1 class="page-title">Top 10 Archive</h1>
-  <p class="archive-subtitle">Every weekly Top 10 countdown from Surf Clips TV.</p>
+  <div class="archive-header">
+    <p class="archive-subtitle">Every weekly Top 10 countdown from Surf Clips TV.</p>
+    <div class="archive-filters">
+      <button class="filter-btn active" data-sort="recent">Most Recent</button>
+      <button class="filter-btn" data-sort="views">Most Viewed</button>
+    </div>
+  </div>
   {{ $top10s := where .Site.RegularPages "Params.clip_type" "top10" }}
   {{ $public := where $top10s "Params.visibility" "!=" "unlisted" }}
   {{ with $public }}
-  <div class="top10s-grid archive-grid">
+  <div class="top10s-grid archive-grid" id="archive-grid">
     {{ range . }}
-    <a href="{{ .Permalink }}" class="top10-card">
+    <a href="{{ .Permalink }}" class="top10-card" data-date="{{ .Date.Unix }}" data-views="{{ .Params.views | default 0 }}">
       {{ if .Params.thumbnail }}
       <img src="{{ .Params.thumbnail }}" alt="{{ .Title }}" loading="lazy">
       {{ end }}
       <div class="top10-card-info">
         <h3>{{ .Title }}</h3>
+        <span class="top10-views">{{ lang.FormatNumber 0 (.Params.views | default 0) }} views</span>
       </div>
     </a>
     {{ end }}
   </div>
   {{ end }}
 </section>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var grid = document.getElementById('archive-grid');
+  var buttons = document.querySelectorAll('.filter-btn');
+  buttons.forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      buttons.forEach(function(b) { b.classList.remove('active'); });
+      btn.classList.add('active');
+      var cards = Array.from(grid.children);
+      var sort = btn.dataset.sort;
+      cards.sort(function(a, b) {
+        if (sort === 'views') return (parseInt(b.dataset.views) || 0) - (parseInt(a.dataset.views) || 0);
+        return (parseInt(b.dataset.date) || 0) - (parseInt(a.dataset.date) || 0);
+      });
+      cards.forEach(function(card) { grid.appendChild(card); });
+    });
+  });
+});
+</script>
 {{ end }}

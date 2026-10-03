@@ -228,6 +228,7 @@ def generate_page(video):
     thumbnails = snippet.get("thumbnails", {})
     duration_secs = parse_duration(video["contentDetails"]["duration"])
     visibility = video.get("status", {}).get("privacyStatus", "public")
+    view_count = int(video.get("statistics", {}).get("viewCount", 0))
 
     # Classify
     kind = classify_video(title, duration_secs)
@@ -276,6 +277,7 @@ type: "clips"
 clip_type: "{kind}"
 duration: {duration_secs}
 visibility: "{visibility}"
+views: {view_count}
 {surfer_yaml}---
 
 <div class="video-embed">
