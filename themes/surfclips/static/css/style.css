@@ -421,6 +421,7 @@ img { display: block; max-width: 100%; }
 }
 
 .top10-card img {
+  display: block;
   width: 100%;
   aspect-ratio: 16/9;
   object-fit: cover;
