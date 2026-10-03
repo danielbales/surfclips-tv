@@ -16,6 +16,22 @@ surfers:
   - "Michael Dunphy"
   - "John Florence"
   - "Saltwater Veins"
+surfer_urls:
+  Ethan Ewing: "https://www.youtube.com/watch?v=IFVVk4Bp5o0"
+  Mason Ho: "https://www.youtube.com/watch?v=5LbIZBlfjMg"
+  Billabong: "https://www.youtube.com/watch?v=KgdySbaRPbI"
+  Kai Noa: "https://www.youtube.com/watch?v=Wv8y8W8HtS8"
+  Michael Dunphy: "https://www.youtube.com/watch?v=mOAUoadxU8A"
+  John Florence: "https://www.youtube.com/watch?v=IQexXcdQKzI"
+  Saltwater Veins: "https://www.youtube.com/watch?v=uskBkyUre4k"
+surfer_video_titles:
+  Ethan Ewing: "ETHAN - MEXICO"
+  Mason Ho: "CAVEHEART II The Surf Movie"
+  Billabong: "Cold Barrels in South America | Billabong Adventure Division"
+  Kai Noa: "POV BODYBOARD - TAHITIAN REEF SLAB"
+  Michael Dunphy: "The Ultimate Caribbean Surf Mission"
+  John Florence: "ONE PERFECT LITTLE RIGHT"
+  Saltwater Veins: "PERFECT BALI SLAB WITH NO ONE OUT"
 ---
 
 <div class="video-embed">

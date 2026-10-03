@@ -18,6 +18,9 @@ surfers:
 surfer_urls:
   Quinn Biviano: "https://www.youtube.com/watch?v=AIU2bSxPXxE"
   Jordy Smith: "https://www.youtube.com/watch?v=6nanVaIDqu4"
+surfer_video_titles:
+  Quinn Biviano: "The Barrel Tax (I got Injured) Ep.4 | Bocas del Toro"
+  Jordy Smith: "Best Ive Surfed Scottbrough Main Beach!"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/CU7cPPCu3Vc" title="TOP 10 from February 22, 2026 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

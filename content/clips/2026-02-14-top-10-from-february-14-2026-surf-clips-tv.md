@@ -18,6 +18,9 @@ surfers:
 surfer_urls:
   Italo Ferreira: "https://www.youtube.com/watch?v=vApoGb6VLYI"
   ApTV: "https://www.youtube.com/watch?v=KHe9OVPfZ-Y"
+surfer_video_titles:
+  Italo Ferreira: "Será que eu teria futuro dentro do Futebol? ⚽️ kkkk #italoferreira"
+  ApTV: "Prestan - Carnival 2014 *FLY AWAY*"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/EgrSgkFyH7Y" title="TOP 10 from February 14, 2026 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

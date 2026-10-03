@@ -22,6 +22,11 @@ surfer_urls:
   Stab: "https://www.youtube.com/watch?v=TNT30LMO9k8"
   Clay Marzo: "https://www.youtube.com/watch?v=ieFWHy3N1zc"
   Josh Kerr: "https://www.youtube.com/watch?v=D1QOaYGYzXc"
+surfer_video_titles:
+  Jordy Smith: "Best Ive Surfed Scottbrough Main Beach!"
+  Stab: "Harry's Love Letter to His Pickle"
+  Clay Marzo: "Island Hop With Clay Marzo 2026"
+  Josh Kerr: "1v1 CHALLENGE EPISODE 5: Josh Kerr vs Sierra Kerr in pumping waves "
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/Wm05T42_m7o" title="TOP 10 from March 15, 2026 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

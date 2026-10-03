@@ -18,6 +18,9 @@ surfers:
 surfer_urls:
   Indomoment: "https://www.youtube.com/watch?v=YzLVDlvlohU"
   Sheldon Paishon: "https://www.youtube.com/watch?v=-OC4Ekyp64k"
+surfer_video_titles:
+  Indomoment: "ESCAPING THE ULUWATU CROWDS | SURFING DREAMLAND"
+  Sheldon Paishon: "Sheldon Paishon on a Surf Bender 🌊"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/M6zAOm_98-Q" title="TOP 10 from March 1, 2026 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

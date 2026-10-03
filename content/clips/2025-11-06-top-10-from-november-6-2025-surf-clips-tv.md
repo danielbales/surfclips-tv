@@ -17,6 +17,8 @@ surfers:
   - "Finn McGill"
 surfer_urls:
   Skylens: "https://www.youtube.com/watch?v=MNqzSv_rfWU"
+surfer_video_titles:
+  Skylens: "PERFECT WAVES IN MENTAWAI | Lances Right X Rocco Rigliaco | 2026"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/ZTAXldTKLwQ" title="TOP 10 from November 6, 2025 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

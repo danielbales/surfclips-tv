@@ -21,6 +21,11 @@ surfer_urls:
   James Woods: "https://www.youtube.com/watch?v=n_IpH2sJf_A"
   Surf France Hossegor: "https://www.youtube.com/watch?v=EOuzDq6zoLE"
   Albee Layer: "https://www.youtube.com/watch?v=7YNn8_84-FM"
+surfer_video_titles:
+  Sheldon Paishon: "Sheldon Paishon on a Surf Bender 🌊"
+  James Woods: "TEMPLES: An Arvo Alone | Best & Worst Beach Access EVER"
+  Surf France Hossegor: "Surf Hossegor: The Day HOSSEGOR Went WILD !"
+  Albee Layer: "TAVARUA w/ Cole Houshmand, Yago Dora, Crosby Colapinto, Erin Brooks"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/rpSg3RPWdIE" title="TOP 10 from March 7, 2026 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

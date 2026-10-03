@@ -17,6 +17,8 @@ surfers:
   - "Brett Barley"
 surfer_urls:
   Chapter 11 TV: "https://www.youtube.com/watch?v=MFXhCHJXYNw"
+surfer_video_titles:
+  Chapter 11 TV: "80 degrees: Daily Exports"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/ZW9lzB1N4dM" title="TOP 10 from December 5, 2025 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

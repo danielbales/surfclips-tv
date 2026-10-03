@@ -22,6 +22,11 @@ surfer_urls:
   Quetzal Estrada: "https://www.youtube.com/watch?v=i4HwrUShbKI"
   Koa Smith: "https://www.youtube.com/watch?v=66-iWyd7m14"
   DB Films: "https://www.youtube.com/watch?v=r6KWwfI9PFI"
+surfer_video_titles:
+  Mason Ho: "CAVEHEART II The Surf Movie"
+  Quetzal Estrada: "PUERTO GOES OFF IN JUNE SWELL BENDER"
+  Koa Smith: "Locals Waited 8 Years For This Swell!"
+  DB Films: "Germán Aguirre en el Norte Peruano"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/-s7Qx9RkHrg" title="TOP 10 from July 3, 2026 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

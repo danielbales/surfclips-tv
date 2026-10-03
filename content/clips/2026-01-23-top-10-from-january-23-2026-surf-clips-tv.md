@@ -19,6 +19,9 @@ surfers:
 surfer_urls:
   Marco Giorgi: "https://www.youtube.com/watch?v=ryyqCTM5z8Q"
   Chapter 11: "https://www.youtube.com/watch?v=MFXhCHJXYNw"
+surfer_video_titles:
+  Marco Giorgi: "Explorando Florianópolis"
+  Chapter 11: "80 degrees: Daily Exports"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/zq4nBzgGCIg" title="TOP 10 from January 23, 2026 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

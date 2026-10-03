@@ -20,6 +20,9 @@ surfers:
 surfer_urls:
   Rage Team: "https://www.youtube.com/watch?v=5UF7o_BYKJ8"
   Bryan Perez: "https://www.youtube.com/watch?v=BlgfMp7gNZ0"
+surfer_video_titles:
+  Rage Team: "Rage vs Ontario Gold 2nd Half @ Sun & Surf Huntington Beach"
+  Bryan Perez: "beach Breaks in El Salvador incredible"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/ekO9Yx4YB3A" title="TOP 10 from December 11, 2025 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>

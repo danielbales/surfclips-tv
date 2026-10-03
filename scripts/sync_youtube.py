@@ -218,7 +218,7 @@ def clean_description(description, clip_type):
 def find_surfer_source_video(youtube, surfer_name):
     """Search YouTube for a surfer's latest non-short video.
 
-    Returns the video URL if found, empty string otherwise.
+    Returns (url, title) tuple if found, ("", "") otherwise.
     Uses YouTube search to find the surfer's channel, then checks
     their recent uploads for a landscape-format video (>60s).
     """
@@ -232,7 +232,7 @@ def find_surfer_source_video(youtube, surfer_name):
         ).execute()
 
         if not search_resp.get("items"):
-            return ""
+            return "", ""
 
         # Try each channel result
         for ch_item in search_resp["items"]:
@@ -265,12 +265,13 @@ def find_surfer_source_video(youtube, surfer_name):
                 dur = parse_duration(vid["contentDetails"]["duration"])
                 # Skip shorts (<=60s) and very long videos (>30min compilations)
                 if 61 <= dur <= 1800:
-                    return f"https://www.youtube.com/watch?v={vid['id']}"
+                    title = vid["snippet"]["title"]
+                    return f"https://www.youtube.com/watch?v={vid['id']}", title
 
-        return ""
+        return "", ""
     except Exception as e:
         print(f"  Warning: Could not look up source video for {surfer_name}: {e}")
-        return ""
+        return "", ""
 
 
 def generate_page(video, youtube=None):
@@ -308,13 +309,16 @@ def generate_page(video, youtube=None):
 
     # Look up source videos for Top 10 surfers
     surfer_urls = {}
+    surfer_titles = {}
     if surfers and youtube and kind == "top10":
         print(f"  Looking up source videos for {len(surfers)} surfers...")
         for name in surfers:
-            url = find_surfer_source_video(youtube, name)
+            url, title = find_surfer_source_video(youtube, name)
             if url:
                 surfer_urls[name] = url
-                print(f"    {name} -> {url}")
+                if title:
+                    surfer_titles[name] = title
+                print(f"    {name} -> {title or url}")
             else:
                 print(f"    {name} -> not found")
 
@@ -325,9 +329,14 @@ def generate_page(video, youtube=None):
     if surfer_urls:
         surfer_yaml += "surfer_urls:\n"
         for name, url in surfer_urls.items():
-            # Quote keys with special YAML chars
             safe_key = f'"{name}"' if any(c in name for c in ":'-@") else name
             surfer_yaml += f'  {safe_key}: "{url}"\n'
+    if surfer_titles:
+        surfer_yaml += "surfer_video_titles:\n"
+        for name, title in surfer_titles.items():
+            safe_key = f'"{name}"' if any(c in name for c in ":'-@") else name
+            safe_title = title.replace('"', '\\"')
+            surfer_yaml += f'  {safe_key}: "{safe_title}"\n'
 
     content = f"""---
 title: "{escape_yaml(title)}"

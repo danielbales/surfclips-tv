@@ -17,6 +17,8 @@ surfers:
   - "Album surf"
 surfer_urls:
   Album surf: "https://www.youtube.com/watch?v=h982pZJXHHc"
+surfer_video_titles:
+  Album surf: "SUN MOON LIGHT SUN with Asher Pacey"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/uWdHpLZOSe0" title="TOP 10 from August 21, 2025 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>
