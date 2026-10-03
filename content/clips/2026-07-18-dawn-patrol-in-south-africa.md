@@ -8,6 +8,7 @@ tags: ["surf highlight", "south africa", "pov surf"]
 type: "clips"
 clip_type: "short"
 duration: 18
+visibility: "public"
 ---
 
 <div class="video-embed">

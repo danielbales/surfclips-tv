@@ -8,6 +8,7 @@ tags: ["surf highlight", "eimeo czermak", "teahupoo surf"]
 type: "clips"
 clip_type: "short"
 duration: 8
+visibility: "public"
 ---
 
 <div class="video-embed">

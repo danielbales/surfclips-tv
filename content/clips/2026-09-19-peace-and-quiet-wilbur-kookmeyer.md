@@ -8,6 +8,7 @@ tags: ["wilbur kookmeyer", "surf humor", "surfboards", "#Surfing"]
 type: "clips"
 clip_type: "short"
 duration: 7
+visibility: "public"
 ---
 
 <div class="video-embed">

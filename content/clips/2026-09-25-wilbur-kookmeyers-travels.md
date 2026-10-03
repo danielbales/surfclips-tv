@@ -8,6 +8,7 @@ tags: ["wilbur kookmeyer", "surf humor", "surfboards", "#Surfing", "gulliver's t
 type: "clips"
 clip_type: "short"
 duration: 6
+visibility: "public"
 ---
 
 <div class="video-embed">

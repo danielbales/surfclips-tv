@@ -8,6 +8,7 @@ tags: ["surf highlight", "mexico surf", "mason ho"]
 type: "clips"
 clip_type: "short"
 duration: 10
+visibility: "public"
 ---
 
 <div class="video-embed">

@@ -8,6 +8,7 @@ tags: ["Wilbur Kookmeyer", "surf comedy", "modern art parody", "Surf Clips TV", 
 type: "clips"
 clip_type: "short"
 duration: 52
+visibility: "public"
 ---
 
 <div class="video-embed">

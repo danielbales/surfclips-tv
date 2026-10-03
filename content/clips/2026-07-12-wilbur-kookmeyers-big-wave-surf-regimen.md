@@ -8,6 +8,7 @@ tags: ["wilbur kookmeyer", "claymation", "surfing", "funny animation", "3d anima
 type: "clips"
 clip_type: "short"
 duration: 48
+visibility: "public"
 ---
 
 <div class="video-embed">

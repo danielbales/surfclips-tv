@@ -8,6 +8,7 @@ tags: ["surf highlight", "Marco Micheletti", "nigeria surf"]
 type: "clips"
 clip_type: "short"
 duration: 7
+visibility: "public"
 ---
 
 <div class="video-embed">

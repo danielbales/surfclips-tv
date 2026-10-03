@@ -8,6 +8,7 @@ tags: ["surf highlight", "south africa", "big waves", "josh redman", "jordy smit
 type: "clips"
 clip_type: "short"
 duration: 11
+visibility: "public"
 ---
 
 <div class="video-embed">

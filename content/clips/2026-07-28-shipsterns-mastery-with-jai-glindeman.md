@@ -8,6 +8,7 @@ tags: ["surf highlight", "shipsterns bluff surf", "jai glindeman"]
 type: "clips"
 clip_type: "short"
 duration: 9
+visibility: "public"
 ---
 
 <div class="video-embed">
