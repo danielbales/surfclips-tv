@@ -1,6 +1,8 @@
 name: Sync YouTube & Deploy
 
 on:
+  push:
+    branches: [main]
   schedule:
     # Run every 6 hours
     - cron: '0 */6 * * *'
@@ -46,18 +48,15 @@ jobs:
           git push
 
       - name: Setup Hugo
-        if: steps.check.outputs.has_changes == 'true'
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: '0.160.0'
           extended: true
 
       - name: Build
-        if: steps.check.outputs.has_changes == 'true'
         run: hugo --minify
 
       - name: Deploy to Cloudflare Pages
-        if: steps.check.outputs.has_changes == 'true'
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
