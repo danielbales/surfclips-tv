@@ -1,8 +1,8 @@
 ---
 title: "The mysterious surf spot of Machu Picchu"
 date: 2026-09-02T18:06:22Z
-description: "Wilbur Kookmeyer at one of his favorite waves."
 draft: false
+description: "Wilbur Kookmeyer at one of his favorite waves."
 video_id: "AemtQNb8Rxg"
 thumbnail: "https://i.ytimg.com/vi/AemtQNb8Rxg/maxresdefault.jpg"
 tags: ["wilbur kookmeyer", "surf humor", "surfboards", "#Surfing", "#SurfAnimation", "dreamscape"]

@@ -1,8 +1,8 @@
 ---
 title: "Wilbur Kookmeyer Dreamscape #9"
 date: 2026-08-18T20:08:49Z
-description: "Wilbur Kookmeyer is back at one of his favorite waves."
 draft: false
+description: "Wilbur Kookmeyer is back at one of his favorite waves."
 video_id: "3ZNyQbOrsHE"
 thumbnail: "https://i.ytimg.com/vi/3ZNyQbOrsHE/maxresdefault.jpg"
 tags: ["wilbur kookmeyer", "surf humor", "surfboards", "#Surfing", "#SurfAnimation"]

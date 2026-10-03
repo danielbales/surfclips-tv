@@ -1,8 +1,8 @@
 ---
 title: "Eimeo in his backyard"
 date: 2026-07-17T07:00:00Z
-description: "Watch Eimeo in his backyard on Surf Clips TV."
 draft: false
+description: "Watch Eimeo in his backyard on Surf Clips TV."
 video_id: "cwEUv5JKgbk"
 thumbnail: "https://i.ytimg.com/vi/cwEUv5JKgbk/maxresdefault.jpg"
 tags: ["surf highlight", "eimeo czermak", "teahupoo surf"]

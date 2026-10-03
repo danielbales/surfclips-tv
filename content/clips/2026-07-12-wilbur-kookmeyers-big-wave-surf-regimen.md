@@ -1,8 +1,8 @@
 ---
 title: "Wilbur Kookmeyer's \"Big Wave Surf Regimen\""
 date: 2026-07-12T01:17:43Z
-description: "https://surf-clips-tv-shop.fourthwall.com/. 👍 If this made you laugh or if you've ever had an embarrassing wipeout, SMASH that LIKE button! 🔔 Don't..."
 draft: false
+description: "https://surf-clips-tv-shop.fourthwall.com/. 👍 If this made you laugh or if you've ever had an embarrassing wipeout, SMASH that LIKE button! 🔔 Don't..."
 video_id: "tDTYOt0d96M"
 thumbnail: "https://i.ytimg.com/vi/tDTYOt0d96M/maxresdefault.jpg"
 tags: ["wilbur kookmeyer", "claymation", "surfing", "funny animation", "3d animation", "stop motion", "comedy short", "animated short", "surfing fail", "epic fail"]
@@ -13,7 +13,7 @@ visibility: "public"
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/tDTYOt0d96M" title="Wilbur Kookmeyer's \"Big Wave Surf Regimen\"" allowfullscreen loading="lazy"></iframe>
+<iframe src="https://www.youtube.com/embed/tDTYOt0d96M" title="Wilbur Kookmeyer&#x27;s &quot;Big Wave Surf Regimen&quot;" allowfullscreen loading="lazy"></iframe>
 </div>
 
 https://surf-clips-tv-shop.fourthwall.com/.

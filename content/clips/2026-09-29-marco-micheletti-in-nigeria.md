@@ -1,8 +1,8 @@
 ---
 title: "Marco Micheletti in Nigeria"
 date: 2026-09-29T04:30:13Z
-description: "Watch Marco Micheletti in Nigeria on Surf Clips TV."
 draft: false
+description: "Watch Marco Micheletti in Nigeria on Surf Clips TV."
 video_id: "YCk5cMGX1JM"
 thumbnail: "https://i.ytimg.com/vi/YCk5cMGX1JM/maxresdefault.jpg"
 tags: ["surf highlight", "Marco Micheletti", "nigeria surf"]

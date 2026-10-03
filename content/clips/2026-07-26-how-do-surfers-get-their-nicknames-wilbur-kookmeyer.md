@@ -1,8 +1,8 @@
 ---
 title: "How Do Surfers Get Their Nicknames? 🤔🏄‍♂️ | Wilbur Kookmeyer"
 date: 2026-07-26T23:36:22Z
-description: "Wilbur Kookmeyer is back and on a mission to join the legends on the Wall of Fame! But first, he needs an epic surf nickname to match the greats like..."
 draft: false
+description: "Wilbur Kookmeyer is back and on a mission to join the legends on the Wall of Fame! But first, he needs an epic surf nickname to match the greats like..."
 video_id: "fGxQRkbkzOM"
 thumbnail: "https://i.ytimg.com/vi/fGxQRkbkzOM/maxresdefault.jpg"
 tags: ["wilbur kookmeyer", "surf humor", "surfboards", "#Surfing", "#SurfAnimation", "#SurferNicknames", "#SurfComedy", "#SurfCulture"]

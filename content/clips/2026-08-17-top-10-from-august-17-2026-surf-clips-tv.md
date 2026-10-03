@@ -1,8 +1,8 @@
 ---
 title: "TOP 10 from August 17, 2026 – Surf Clips TV"
 date: 2026-08-17T17:01:55Z
-description: "Surfing from Indonesia, Hawaii, Fiji & more."
 draft: false
+description: "Surfing from Indonesia, Hawaii, Fiji & more."
 video_id: "VB0LSy3xwjc"
 thumbnail: "https://i.ytimg.com/vi/VB0LSy3xwjc/sddefault.jpg"
 tags: ["wave pool", "how to surf", "teahupoo", "biggest wave ever surfed", "sea waves", "boogie boarding", "big waves in the ocean", "surfing videos", "pacific ocean waves", "surfing pov"]

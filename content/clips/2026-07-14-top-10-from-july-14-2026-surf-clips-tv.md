@@ -1,8 +1,8 @@
 ---
 title: "TOP 10 from July 14, 2026 – Surf Clips TV"
 date: 2026-07-14T22:19:46Z
-description: "Surfing from Indonesia, Mexico, South Africa, Hawaii & more."
 draft: false
+description: "Surfing from Indonesia, Mexico, South Africa, Hawaii & more."
 video_id: "NvH4H1lCVR0"
 thumbnail: "https://i.ytimg.com/vi/NvH4H1lCVR0/sddefault.jpg"
 tags: ["wave pool", "how to surf", "teahupoo", "biggest wave ever surfed", "sea waves", "boogie boarding", "big waves in the ocean", "surfing videos", "pacific ocean waves", "surfing pov"]

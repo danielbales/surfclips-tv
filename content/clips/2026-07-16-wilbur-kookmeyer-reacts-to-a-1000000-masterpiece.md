@@ -1,8 +1,8 @@
 ---
 title: "Wilbur Kookmeyer reacts to a $1,000,000 \"Masterpiece\" 🎨🏄‍♂️"
 date: 2026-07-16T19:59:43Z
-description: "Have you ever looked at high-end fine art and thought, \"A kindergartener could draw that?\" Wilbur Kookmeyer hits a high-society gallery opening to..."
 draft: false
+description: "Have you ever looked at high-end fine art and thought, \"A kindergartener could draw that?\" Wilbur Kookmeyer hits a high-society gallery opening to..."
 video_id: "T2xWCk0BNfk"
 thumbnail: "https://i.ytimg.com/vi/T2xWCk0BNfk/maxresdefault.jpg"
 tags: ["Wilbur Kookmeyer", "surf comedy", "modern art parody", "Surf Clips TV", "funny surfer animation", "surf art", "fine art critique satire", "animated sitcom shorts", "surfing humor", "AI animation"]
@@ -13,7 +13,7 @@ visibility: "public"
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/T2xWCk0BNfk" title="Wilbur Kookmeyer reacts to a $1,000,000 \"Masterpiece\" 🎨🏄‍♂️" allowfullscreen loading="lazy"></iframe>
+<iframe src="https://www.youtube.com/embed/T2xWCk0BNfk" title="Wilbur Kookmeyer reacts to a $1,000,000 &quot;Masterpiece&quot; 🎨🏄‍♂️" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Have you ever looked at high-end fine art and thought, "A kindergartener could draw that?" Wilbur Kookmeyer hits a high-society gallery opening to witness the elite critiquing some truly "profound" masterpieces.
