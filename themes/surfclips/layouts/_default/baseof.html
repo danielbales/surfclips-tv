@@ -16,7 +16,9 @@
   {{ with .Params.thumbnail }}<meta property="og:image" content="{{ . }}">{{ end }}
   <meta name="twitter:card" content="summary_large_image">
 
-  <link rel="stylesheet" href="{{ "css/style.css" | absURL }}?v=3">
+  <link rel="stylesheet" href="{{ "css/style.css" | absURL }}?v=4">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lite-youtube-embed@0.3.4/src/lite-yt-embed.css">
+  <script src="https://cdn.jsdelivr.net/npm/lite-youtube-embed@0.3.4/src/lite-yt-embed.js" defer></script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">

@@ -1,8 +1,31 @@
 {{ define "main" }}
+
+{{/* VideoObject structured data for SEO */}}
+{{ $dur := .Params.duration | default 0 }}
+{{ $h := div $dur 3600 }}
+{{ $m := div (mod $dur 3600) 60 }}
+{{ $s := mod $dur 60 }}
+{{ $isoDuration := printf "PT%s%s%s" (cond (gt $h 0) (printf "%dH" $h) "") (cond (gt $m 0) (printf "%dM" $m) "") (cond (gt $s 0) (printf "%dS" $s) "") }}
+{{ $schemaDesc := .Site.Params.description }}
+{{ if .Description }}{{ $schemaDesc = .Description }}{{ end }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": {{ .Title }},
+  "description": {{ $schemaDesc }},
+  "thumbnailUrl": ["{{ .Params.thumbnail }}"],
+  "uploadDate": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  "duration": "{{ $isoDuration }}",
+  "embedUrl": "https://www.youtube.com/embed/{{ .Params.video_id }}",
+  "contentUrl": "https://www.youtube.com/watch?v={{ .Params.video_id }}"
+}
+</script>
+
 <article class="clip-page">
   <div class="clip-page-inner">
     <div class="clip-player">
-      {{ .Content }}
+      <lite-youtube videoid="{{ .Params.video_id }}"></lite-youtube>
     </div>
 
     <div class="clip-meta">
@@ -14,6 +37,10 @@
           Watch on YouTube
         </a>
       </div>
+    </div>
+
+    <div class="clip-description">
+      {{ .Content }}
     </div>
 
     {{/* Surfer list for Top 10 clips */}}
