@@ -4,7 +4,7 @@ date: 2023-08-21T16:49:26Z
 description: "Durinfg the early morning of Aufgust 20, 2023, this Wedge surfer snagged this deep pit and showed us all how it's done. Support the channel by..."
 draft: false
 video_id: "25qOO69oVP0"
-thumbnail: "https://i.ytimg.com/vi/25qOO69oVP0/sddefault.jpg"
+thumbnail: "https://i.ytimg.com/vi/25qOO69oVP0/maxresdefault.jpg"
 tags: ["surfing california", "hurricane hilary", "wedge hurricane hilary", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
 clip_type: "short"

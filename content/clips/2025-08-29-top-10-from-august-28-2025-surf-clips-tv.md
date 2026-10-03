@@ -4,7 +4,7 @@ date: 2025-08-29T01:37:49Z
 description: "Watch TOP 10 from August 28, 2025 – Surf Clips TV on Surf Clips TV."
 draft: false
 video_id: "WvQs_FhdgZY"
-thumbnail: "https://i.ytimg.com/vi/WvQs_FhdgZY/sddefault.jpg"
+thumbnail: "https://i.ytimg.com/vi/WvQs_FhdgZY/maxresdefault.jpg"
 tags: ["Top 10 Surf", "Jack Robinson", "Surf n Sea Bali", "Koa Rothman", "Ben Gravy", "Surfing Visions", "Waida Bros", "Jamie O'Brien", "2025 fiji pro"]
 type: "clips"
 clip_type: "top10"

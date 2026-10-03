@@ -4,7 +4,7 @@ date: 2025-08-07T01:19:45Z
 description: "Watch TOP 10 from August 6, 2025 – Surf Clips TV on Surf Clips TV."
 draft: false
 video_id: "vrjenEYmffk"
-thumbnail: "https://i.ytimg.com/vi/vrjenEYmffk/sddefault.jpg"
+thumbnail: "https://i.ytimg.com/vi/vrjenEYmffk/maxresdefault.jpg"
 tags: ["Top 10 Surf", "Oahu Surf Films", "Kandui Surf Report", "Jamie O'Brien", "Koa Rothman", "Raw Surf Files", "Liquide", "matahi drollet"]
 type: "clips"
 clip_type: "top10"

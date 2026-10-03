@@ -4,7 +4,7 @@ date: 2026-02-07T21:37:46Z
 description: "Surfing from Indonesia, Africa, Hawaii & more."
 draft: false
 video_id: "W5RhOvWjEsw"
-thumbnail: "https://i.ytimg.com/vi/W5RhOvWjEsw/sddefault.jpg"
+thumbnail: "https://i.ytimg.com/vi/W5RhOvWjEsw/maxresdefault.jpg"
 tags: ["wave pool", "how to surf", "teahupoo", "biggest wave ever surfed", "sea waves", "boogie boarding", "big waves in the ocean", "surfing videos", "pacific ocean waves", "surfing pov"]
 type: "clips"
 clip_type: "top10"

@@ -4,7 +4,7 @@ date: 2025-11-14T16:43:48Z
 description: "Watch TOP 10 from November 14, 2025 – Surf Clips TV on Surf Clips TV."
 draft: false
 video_id: "sb-rt62wB4o"
-thumbnail: "https://i.ytimg.com/vi/sb-rt62wB4o/sddefault.jpg"
+thumbnail: "https://i.ytimg.com/vi/sb-rt62wB4o/maxresdefault.jpg"
 tags: ["wave pool", "how to surf", "teahupoo", "biggest wave ever surfed", "sea waves", "boogie boarding", "big waves in the ocean", "surfing videos", "pacific ocean waves", "surfing pov"]
 type: "clips"
 clip_type: "top10"

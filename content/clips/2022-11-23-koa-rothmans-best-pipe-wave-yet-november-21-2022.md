@@ -4,7 +4,7 @@ date: 2022-11-23T00:27:02Z
 description: "North Shore hellman Koa Smith dropped into this dream was got blown out during this am pipeline session. Shortly afterward he said it was \"his best..."
 draft: false
 video_id: "ARHzkrzhc3s"
-thumbnail: "https://i.ytimg.com/vi/ARHzkrzhc3s/sddefault.jpg"
+thumbnail: "https://i.ytimg.com/vi/ARHzkrzhc3s/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing pipeline", "unedited surfing", "surf cam", "raw surfing", "north shore surfing", "koa rothman", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
 clip_type: "short"

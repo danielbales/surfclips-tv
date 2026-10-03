@@ -4,7 +4,7 @@ date: 2022-08-20T07:00:08Z
 description: "Despite going down to Kelly Slater at the 2022 Tahiti Pro, Yago Dora found this gem during his Quarterfinal heat. Support the channel by subscribing!..."
 draft: false
 video_id: "MnWFWugVpcI"
-thumbnail: "https://i.ytimg.com/vi/MnWFWugVpcI/sddefault.jpg"
+thumbnail: "https://i.ytimg.com/vi/MnWFWugVpcI/maxresdefault.jpg"
 tags: ["surfing tahiti", "2022 outerknown tahiti pro teahupoo", "unedited surfing", "surf cam", "raw surfing", "yago dora", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
 clip_type: "short"

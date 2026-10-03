@@ -4,7 +4,7 @@ date: 2023-06-13T17:45:06Z
 description: "Griffin Colapinto showed off his high performance surfing skills on day 1 of the 2023 El Salvador Pro. Support the channel by subscribing! Thank you..."
 draft: false
 video_id: "KdnZrI-rW_o"
-thumbnail: "https://i.ytimg.com/vi/KdnZrI-rW_o/sddefault.jpg"
+thumbnail: "https://i.ytimg.com/vi/KdnZrI-rW_o/maxresdefault.jpg"
 tags: ["surfing el salvador", "2023 el salvador pro", "unedited surfing", "surf cam", "raw surfing", "griffin colapinto", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
 clip_type: "short"

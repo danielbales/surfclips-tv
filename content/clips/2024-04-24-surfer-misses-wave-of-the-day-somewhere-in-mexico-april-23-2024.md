@@ -1,10 +1,10 @@
 ---
 title: "Surfer misses wave of the day - Somewhere in Mexico - April 23, 2024"
 date: 2024-04-24T20:03:28Z
-description: "nI\" thumbnail: \"https://i.ytimg.com/vi/oZ13J1---nI/sddefault.jpg\" tags: [] type: \"clips\" clip_type: \"short\" duration: 42 --- In solid 2x overhead surf,..."
+description: "nI\" thumbnail: \"https://i.ytimg.com/vi/oZ13J1---nI/maxresdefault.jpg\" tags: [] type: \"clips\" clip_type: \"short\" duration: 42 --- In solid 2x overhead surf,..."
 draft: false
 video_id: "oZ13J1---nI"
-thumbnail: "https://i.ytimg.com/vi/oZ13J1---nI/sddefault.jpg"
+thumbnail: "https://i.ytimg.com/vi/oZ13J1---nI/maxresdefault.jpg"
 tags: []
 type: "clips"
 clip_type: "short"

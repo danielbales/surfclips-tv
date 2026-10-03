@@ -232,12 +232,8 @@ def generate_page(video):
     # Classify
     kind = classify_video(title, duration_secs)
 
-    # Best thumbnail available
-    thumb_url = ""
-    for quality in ["maxres", "standard", "high", "medium", "default"]:
-        if quality in thumbnails:
-            thumb_url = thumbnails[quality]["url"]
-            break
+    # Always use maxresdefault (16:9, 1280x720) - available for virtually all videos
+    thumb_url = f"https://i.ytimg.com/vi/{video_id}/maxresdefault.jpg"
 
     # Parse date for slug
     pub_date = datetime.fromisoformat(published.replace("Z", "+00:00"))
