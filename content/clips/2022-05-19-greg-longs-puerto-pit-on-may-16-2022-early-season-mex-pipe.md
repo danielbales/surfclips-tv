@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 48
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/uNaIXHpT5pU" title="Greg Long's Puerto pit on May 16, 2022 (early season Mex Pipe)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 48
 Early season Mex Pipe delivered this gem to Puerto Escondido stalwart Greg Long. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

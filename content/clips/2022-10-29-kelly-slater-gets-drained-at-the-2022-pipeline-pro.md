@@ -9,11 +9,8 @@ type: "clips"
 clip_type: "short"
 duration: 10
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/_6t2ec23qBs" title="Kelly Slater gets drained at the 2022 Pipeline Pro" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts 
 
 scored an 8.

@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 5
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/Tm-o3-AZI8I" title="OBX drainer! October 2023" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

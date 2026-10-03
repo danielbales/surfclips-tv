@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 70
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/LrPPDqCR8qQ" title="Hollow & dreamy Mexican beach on August 14  2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 70
 Old SSW swell (211º) faded during the morning of August 12, 2022, however that just made the surf more manageable and local surfers took full advantage. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

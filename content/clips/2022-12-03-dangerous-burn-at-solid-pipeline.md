@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 76
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/F6xeqHx2Plc" title="DANGEROUS burn at solid Pipeline" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 76
 On a solid 8-12 Pipe day, two surfers found themselves in a dangerous situation that luckily resulted in nothing more than one broken leash and surely some lineup hostility. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

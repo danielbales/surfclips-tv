@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 40
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/SWDhPyIZouc" title="Rocky Point, Hawaii – November 11, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 40
 Fun swell + offshore winds = occassional tubes and air sections for the North Shore's best surfers.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 89
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/ZrNzRG-5o-I" title="Caught on Camera – Top 5 Waves of 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 89
 Kelly Slater, John Florence, JOB & Mike Ho stuck our favorite waves of 2022. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

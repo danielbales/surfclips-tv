@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 54
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/2hPhZWLYELc" title="South swell at THE WEDGE" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 54
 Long-period south swell hit Orange County's freak man-made wave on April 26, 2022. Skimboarders, surfers and bodyboarders waiting on lully sets and sent it!
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

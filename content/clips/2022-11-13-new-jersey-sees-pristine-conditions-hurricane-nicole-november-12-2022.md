@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 71
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/uRC5jb6NIGg" title="New Jersey sees pristine conditions (Hurricane Nicole – November 12, 2022)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 71
 Hurricane Nicole delivered a strong S swell (156º and 142º) mix, with light offshore W/WSW winds. High quality surf was on tap for the thick Jersey crowd.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 90
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/2sGYZJWi-g8" title="Hale'iwa, Hawaii – February 5, 2024" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,14 +16,8 @@ duration: 90
 Combination of solid WNW-NW swell along with a steadily fading NNE swell provided some sizable surf to the North Shore's Hale'iwa, while breezy ENE winds on tap this afternoon. Wave heights are hovering in the overhead to well overhead high range with sets hitting the double to near triple overhead.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline

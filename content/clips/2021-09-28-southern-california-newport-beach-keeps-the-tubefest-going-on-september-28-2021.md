@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 79
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/_tfnMJruSsE" title="Southern California (Newport Beach) keeps the TUBEFEST going on September 28, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,14 +16,7 @@ duration: 79
 https://surf-clips-tv.myspreadshop.com/
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 4-5 foot surf (2 meter) continues to give 56th street locals fun barrels to surf. Swell was a combo - NW + SW that provided the goods!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

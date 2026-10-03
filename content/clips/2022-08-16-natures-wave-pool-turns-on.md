@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 94
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/I5rFyYZlfZ0" title="Nature's wave pool turns on" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 94
 Peaking SW swell (220º) provided well overhead set waves while light offshore winds created the dreamiest of conditions - even if crowds were thick. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

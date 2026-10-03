@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 9
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/3cQOcrIKHRE" title="2-turn combo at Caribbean reef - Sept 22, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

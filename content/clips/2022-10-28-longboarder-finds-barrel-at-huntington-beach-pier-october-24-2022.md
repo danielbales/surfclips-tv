@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 42
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/iNxS5TEPe90" title="Longboarder finds barrel at Huntington Beach Pier - October 24, 2022" allowfullscreen loading="lazy"></iframe>
 </div>

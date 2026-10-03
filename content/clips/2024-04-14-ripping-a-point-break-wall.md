@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 10
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/81MOBwo0j14" title="Ripping a point break wall" allowfullscreen loading="lazy"></iframe>
 </div>
-
-

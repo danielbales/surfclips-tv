@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 181
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/l8GpBkWaLfQ" title="Snapper Rocks FIRES – July 11, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 181
 SSE swell (153º) filled in throughout the morning, offering well-overhead and powerful tubes on the Gold Coast's most famous point break while a light SW wind ruffled faces a touch.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

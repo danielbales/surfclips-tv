@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 166
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/gYEQF0joLik" title="Ala Moana Bowls — South Swell of the Summer - August 17, 2021" allowfullscreen loading="lazy"></iframe>
 </div>

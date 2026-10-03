@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 38
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/mN-ls3tRuo0" title="Sheldon Simkus' INSANE behind-the-rock barrel at 2022 Gold Coast Pro (R 48)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 38
 Sheldon Simkus shows his local knowledge by catching the lion's share of set waves in his heat, including this tube to kick things off. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

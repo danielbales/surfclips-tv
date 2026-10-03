@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 47
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/ymbOt5ptiT0" title="Yago Dora's MASSIVE 9.0 air at El Salvador Pro 2022 (Opening Round)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 47
 Yago Dora blasts a large backside air during the Opening Round of the 2022 El Salvador Pro, scoring a 9.0.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

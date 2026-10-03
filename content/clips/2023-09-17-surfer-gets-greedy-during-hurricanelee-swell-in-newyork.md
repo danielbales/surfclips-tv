@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 10
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/W2s3LnkU0XE" title="Surfer gets greedy during #HurricaneLee swell in #NewYork" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

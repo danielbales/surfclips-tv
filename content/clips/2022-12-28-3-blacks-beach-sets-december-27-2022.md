@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 53
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/H5kCB_xet3o" title="3 Blacks Beach sets – December 27, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 53
 Solid WNW swell (283º) and smaller secondary SSW swell (217º) rolled up this deepwater canyon and offered Blacks surfers some late December magic.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

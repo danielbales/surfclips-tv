@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 155
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/pNHH1Lp1tI8" title="Uncrowded Mundaka on December 11, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 155
 Large NW swell creates massive waves (10 foot+) at Mundaka, Spain on December 11, 2021. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

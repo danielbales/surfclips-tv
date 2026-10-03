@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 63
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/09npn73tkq0" title="South Swell hits Hawaii - May 10, 2024" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -20,14 +19,8 @@ https://surf-cam-rewind.creator-spring.com/
 Highlights from the early morning session at Ala Moana Bowls. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline

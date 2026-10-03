@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 41
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/3bxldIbJIZo" title="Wave of the Day: Dawn Patrol at Puerto August 24, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 41
 SW/SSW swell (214º) filled in while am morning offshores created fantastic conditions for this lucky (unidentified) surfer.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

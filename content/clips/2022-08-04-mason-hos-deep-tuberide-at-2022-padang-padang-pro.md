@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 63
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/hJ6ZPtX6bNQ" title="Mason Ho's deep tuberide at 2022 Padang Padang Pro" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 63
 In his heat with Legend Shane Dorian, Mason Ho wins the heat thanks to this 8.6 during the 2022 Padang Padang Pro.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

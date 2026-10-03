@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 34
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/dOq8PuUAm0I" title="Jordy Smith's 8.0 HACK at 2022 Sunset Beach Pro (Opening Round)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 34
 In the 1st heat of the Sunset Beach contest, Jordday grabbed this big right and hacked his way to a great score while skipping the elimination round.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

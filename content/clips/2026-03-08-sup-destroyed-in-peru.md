@@ -9,24 +9,13 @@ type: "clips"
 clip_type: "short"
 duration: 10
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/qoE8MpijES8" title="SUP destroyed in Peru" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Surf Store Merch: 
-https://surf-clips-tv-shop.fourthwall.com/
 
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Clips TV so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
-Credit: Sebastian Gomez Del Castillo 
-Music:
+Credit: Sebastian Gomez Del Castillo

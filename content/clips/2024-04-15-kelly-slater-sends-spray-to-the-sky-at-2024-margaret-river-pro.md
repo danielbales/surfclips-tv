@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 6
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/L6s1dQzXvo8" title="Kelly Slater sends spray to the sky at 2024 Margaret River Pro" allowfullscreen loading="lazy"></iframe>
 </div>
-
-

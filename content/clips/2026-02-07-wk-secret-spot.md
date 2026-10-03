@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 34
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/JZGtjtWkDM4" title="WK Secret Spot" allowfullscreen loading="lazy"></iframe>
 </div>
-
-

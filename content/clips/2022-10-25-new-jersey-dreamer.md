@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 11
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/WeR9MzpLTs0" title="New Jersey dreamer 🤙" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 64
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/4r1d8-Kd38I" title="Shane Dorian outrunning a 💣 at the 2023 Eddie Aikau Big Wave Invitational" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 64
 During his heat 1 performance, big wave Legend Shane Dorian grabs this massive 4x OH wave at The Eddie Aikau Invitational.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

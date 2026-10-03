@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 7
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/TimS2B4n5EY" title="Jamie O'Brien ejects on 1st Pipeline day of the year!" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

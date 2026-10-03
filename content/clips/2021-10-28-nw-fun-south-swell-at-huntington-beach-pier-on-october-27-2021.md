@@ -9,20 +9,12 @@ type: "clips"
 clip_type: "clip"
 duration: 139
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/xC0-j0bS2ns" title="NW + fun south swell at Huntington Beach Pier on October 27, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Overhead peaks from a combo of northwest swell and a fun south swell (comboland) meant tubes and rippable faces on October 27, 2021. 
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subcribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

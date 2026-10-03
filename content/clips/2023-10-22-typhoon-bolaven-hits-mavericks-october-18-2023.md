@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 60
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/OyZvSboA52M" title="TYPHOON BOLAVEN hits MAVERICKS – OCTOBER 18, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 60
 Large, XL-sized swell hit Northern California's most famous big wave reef. Afternoon sets were in the 20-30 foot face range.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

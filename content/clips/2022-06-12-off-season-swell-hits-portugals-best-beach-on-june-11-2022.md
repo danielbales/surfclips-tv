@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 62
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/7SrdjccRZKo" title="Off season swell hits Portugal's best beach on June 11, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 62
 Short period 5-7 foot waves from the North (346º) offered occasional overhead sets, while N winds groomed faces.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 70
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/rfaDBEe1u_Q" title="2 immaculate Backdoor tubes from (Mason Ho) January 18, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 70
 After the dust settled from the Backdoor Shootout, fun waves offered slightly overhead waves and glassy conditions.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

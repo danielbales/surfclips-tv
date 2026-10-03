@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 113
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/lqU2xgFsBq8" title="Solid swell meets IMPECCABLE wind at PIPELINE, Oahu on November 14, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 113
 While backdoor stole the show on November 14, 2021, Pipeline also saw some magic moments with ESE wind on the North Shore. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

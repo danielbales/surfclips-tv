@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 91
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/7mzLpdAf_DA" title="Kelly Slater's waves at the 2023 El Salvador Pro" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 91
 Kelly Slater surfs against Brazilian Gabriel Medina in his elimination round heat and surfed well but still not enough to beat Gabby.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

@@ -9,20 +9,12 @@ type: "clips"
 clip_type: "clip"
 duration: 66
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/Xk3Gx9s8Fek" title="6 TUBERIDES at 90th STREET ROCKAWAYS!!! in New York on September 10, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Hurricane Larry provided some amazing lefts for the crew at 90th street Rockaways, New York on September 10, 2021.
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

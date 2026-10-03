@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 45
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/iDTvA5mK43A" title="Keala Kennelly's insane wipeout at 2023 Eddie Aikau Invitational" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -20,12 +19,5 @@ https://surf-clips-tv.myspreadshop.com/
 Keala Kennedy's disastrous wipeout during the 2023 Eddie Aikau Invitational was a scary one and luckily she was just fine. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

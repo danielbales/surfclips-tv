@@ -9,20 +9,12 @@ type: "clips"
 clip_type: "clip"
 duration: 153
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/yPJEs1jJXvM" title="PUERTO, HAWAII, OZ - August 2021 HIGHLIGHTS – Surf Cam Rewind" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 From Australia to Tahiti to Hawaii, California and beyond, August had great waves! Check out some of the best rides here. 
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subcribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

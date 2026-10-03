@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 19
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/tHi-SRA1-RE" title="WK Budget North Shore Season" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -19,16 +18,7 @@ https://surf-clips-tv.myspreadshop.com/
 
 [enter description here]
 
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Clips TV so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit:
-Music:

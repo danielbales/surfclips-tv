@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 145
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/Z1e4L0ddKOU" title="2/3X overhead surf hits INDO – August 5, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 145
 Solid surf as the peak of a SSW swell (9.8ft @16s) lights up nooks and crannies like this. Winds were clean early and the tide was low. Lot's of water moving around. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

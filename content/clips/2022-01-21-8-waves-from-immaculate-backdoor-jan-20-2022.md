@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 142
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/-4de3LI2f0E" title="8 waves from IMMACULATE Backdoor (Jan 20, 2022)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 142
 Featuring the Florence Brothers and other expert North Shore surfers. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 52
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/aI3BgjirfM4" title="Seth Moniz's classic Sunset Style earns 7.6 at 2022 Sunset Beach Pro (Round of 32)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 52
 Seth taps into his dad's playbook and unleashes powerful, smooth surfing in large Sunset Beach surf. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

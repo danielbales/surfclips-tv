@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 58
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/756lR_dunF8" title="4th of JULY 2024 FIRES – Puerto Escondido, Mexico" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -20,14 +19,8 @@ https://surf-cam-rewind.creator-spring.com/
 Healthy SSW swell (5.7@17, 202º) maxes out with triple+ overhead surf. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline

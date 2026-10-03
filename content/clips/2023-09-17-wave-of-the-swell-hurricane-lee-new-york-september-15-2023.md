@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 46
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/kSUxbsuRNaM" title="Wave of the swell !!! Hurricane Lee, New York – September 15, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 46
 During a morning session during a peaking Hurricane Lee swell, this surfer found what may be the wave of the swell. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

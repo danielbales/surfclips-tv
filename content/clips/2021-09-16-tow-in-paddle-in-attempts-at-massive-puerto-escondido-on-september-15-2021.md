@@ -9,20 +9,12 @@ type: "clips"
 clip_type: "clip"
 duration: 231
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/56hr7K9P2Js" title="TOW-IN + PADDLE-IN ATTEMPTS at MASSIVE PUERTO!! Escondido on   September 15, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Long period south swell dropped from occasional 20ft on September 14 to occasional 15ft on September 15, offering paddle in and tow-in surfing at Puerto Escondido, Mexico. There weren't many great rides but it was entertaining to watch!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subcribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

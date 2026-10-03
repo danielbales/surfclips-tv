@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 75
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/utT53qhX2z0" title="WK Epic Dribbles" allowfullscreen loading="lazy"></iframe>
 </div>
-
-

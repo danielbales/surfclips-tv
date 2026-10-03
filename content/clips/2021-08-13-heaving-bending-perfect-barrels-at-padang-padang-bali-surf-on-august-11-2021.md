@@ -9,17 +9,11 @@ type: "clips"
 clip_type: "clip"
 duration: 197
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/pW53bv8ZvEM" title="HEAVING, bending & PERFECT BARRELS at PADANG PADANG!!! Bali surf on August 11, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Balinese surfers enjoyed some draining left barrels and some extra magical surf during a short, 2-3 hour window on August 11, 2021. 
 

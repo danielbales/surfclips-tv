@@ -9,17 +9,12 @@ type: "clips"
 clip_type: "clip"
 duration: 251
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/Cw8c5Auesds" title="SURFING BIG WAVES AT Puerto Escondido - Raw & FIRING!!! - June 30, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
-
-SUBSCRIBE FOR MORE VIDS!!!
 
 June 30, 2021 served up huge, perfect waves for surfing at the "Mexican Pipeline", Playa Zicatela, Puerto Escondido, Oaxaca Mexico!! 
 
 Surfers were riding some big waves on a near-perfect day. Consider subscribing to support Daily Surf Clips 🌊  and enjoy!!!!
 
 Footage courtesy of Bungalos Zicatela.
-
-#MexPipe #SurfCamRewind

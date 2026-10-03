@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 111
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/NYquptzntq8" title="2022 Da Hui Backdoor Shootout Day 1 Highlights" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 111
 Billy, Mason, John and a ton more rippers enjoying Pipeline with just 3 others out on January 6, 2022.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

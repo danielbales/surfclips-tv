@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 44
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/cM-lK2D3Zfc" title="JOB gets barreled on a SOFT-TOP at Pipeline (a few times!)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 44
 Waves were 2nd-reefing and JOB managed to get the best waves of the day (seen here). Heavy pipe waves for Jamie O'Brien and crew on November 3, 2021.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 125
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/xNHybshQO_Q" title="Barbados dreaming – December 5, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 125
 NNE/N swell built in this early December day, while conditions were very clean with light winds. Surf was in the overhead range, and some surfers found themselves in the bellies of the Caribbean's crown jewel.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

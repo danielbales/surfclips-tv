@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 69
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/WpgEbLXuIlk" title="Bali's most famous reef gets dreamy on July 28, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 69
 A new SSW swell (209º@16) filled in, providing solid surf in the 1/2x overhead range for premier breaks, like this one on the infamous Bukit Peninsula. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

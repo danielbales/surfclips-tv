@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 242
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/I6QJdyexTwU" title="XL Mundaka - Day of the Year!" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 242
 While Nazaré went XL with 25 foot+ (15m), Europe's best pointbreak turned on with 2x, occasional 3x faces and groomed offshore faces. Surfers were finding multiple tube sections all morning! 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

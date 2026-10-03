@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 10
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/hIRf0CT16hg" title="Slater's favorite reef LIGHTS UP" allowfullscreen loading="lazy"></iframe>
 </div>
-
-

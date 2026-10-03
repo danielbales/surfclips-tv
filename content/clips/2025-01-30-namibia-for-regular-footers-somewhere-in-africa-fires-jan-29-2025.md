@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 310
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/oqfkogAoh_Q" title="🌍 NAMIBIA FOR REGULAR-FOOTERS? Somewhere in Africa FIRES – Jan 29, 2025" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -19,16 +18,7 @@ https://surf-clips-tv.myspreadshop.com/
 
 A day for the history books, this point break provided long, perfect, sub-sea level pits for locals. 
 
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Clips TV so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline
-Music: Anno Domini Beats - Archetype / Still Standing

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 41
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/FRl9Ba3Jv-I" title="Italo Ferreira defies logic at the 2023 Sunset Beach Pro" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 41
 Italo Ferreira late-drops and falls from the sky and into a quick head dip during the 2023 Sunset Beach Pro
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

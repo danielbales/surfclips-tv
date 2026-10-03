@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 47
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/Wo6AAADeziU" title="3 waves from The Wedge – August 28 & 29, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 47
 Solid SW swell hit Southern California for a late-August run of overhead swell. Winds were tricky but dawnpatrollers lucked out with some occasional makeable tuberides.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 45
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/aG_QiHpBF0c" title="JOHN JOHN FLORENCE'S BUZZER-BEATER at 2024 Pipe Pro (Quarterfinals)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -20,14 +19,8 @@ https://surf-cam-rewind.creator-spring.com/
 In the final minute of his quarterfinals heat against Italian Leo Fiorvanti, John  John Florence finds this great Pipe pit, scoring an 8.0 and helping him advance to the Semis at the 2024 Pipe Pro.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline

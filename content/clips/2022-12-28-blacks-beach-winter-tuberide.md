@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 9
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/gWaUbDU5ldQ" title="Blacks beach winter tuberide" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

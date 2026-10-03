@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 63
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/vUoeMGGgIB0" title="The Caribbean gets EPIC – September 27, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 63
 Absolutely dreamy conditions with overhead swell offered some incredible barrels and turn sections at this Caribbean reef break.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

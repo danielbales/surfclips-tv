@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 148
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/2eO7THmy9M4" title="TEAHUPO'O SWELL arrives at TRESTLES on August 19, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -18,11 +17,6 @@ Surf Store Merch:
 https://surf-clips-tv.myspreadshop.com/
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Rippable rights and long lefts were on tap when the Teahupo'o Friday the 13th swell made it to Trestles on August 19, 2021.
 

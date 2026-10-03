@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 91
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/Ykr62kYcgns" title="North Shore shredders put on demo at Rocky Point – November 18, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 91
 Fun-zone NNW swell (351º) were on tap, while NE-ENE trades set up a great air wind for North Shore rippers.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

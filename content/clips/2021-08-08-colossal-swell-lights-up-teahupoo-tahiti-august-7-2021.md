@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 161
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/BbvHydAitAI" title="COLOSSAL SWELL — lights up TEAHUPO'O, Tahiti - August 7, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -18,11 +17,6 @@ Surf Store Merch:
 https://surf-clips-tv.myspreadshop.com/
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Occasional 15ft sets (5m) hit the reef at Teahupo'o, Tahiti on August 7, 2021. Locals charged in-betweeners and have some great rides
 

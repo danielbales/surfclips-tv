@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 40
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/R3zhmAF_WeY" title="JJF being JJF at Pipeline after the 2022 Backdoor Shootout (Jan 19, 2022)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 40
 John found this Pipe wave early in the morning of January 19, 2022. Waves were 6-10 foot faces and light/no wind.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

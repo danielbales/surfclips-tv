@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 35
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/pZs6TNfhhZk" title="3 Pipe waves – November 30, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 35
 Reinforcing NW swell energy provided some nice sized surf with favorable light S-SSE winds conditions on tap this morning for Pipe surfers.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

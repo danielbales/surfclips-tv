@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 95
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/p4OUFni_xvI" title="Freight trains, Indo style — July 16, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 95
 Long period swell from the SSW (198º) with clean, light winds offer 6-8 foot tubes for local Indo surfers.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 50
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/RZ4_Hbar4Sc" title="Clean, building SW swell hits Puerto Escondido on July 26, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 50
 Solid, new SSW swell (210º) topped out while morning winds and a nice tide push produced very manageable and fun conditions for local surfers.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

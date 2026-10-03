@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 48
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/iFXXf4-HvyM" title="Spring combo swell at Trestles – April 11, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 48
 Fun but lully combo of S and NW swells offered occasional head-high waves at San Clemente's most famous reef.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

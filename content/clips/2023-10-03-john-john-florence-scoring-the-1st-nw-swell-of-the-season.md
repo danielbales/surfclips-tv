@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 6
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/M-J07GpuWQ0" title="John John Florence scoring the 1st NW swell of the season" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

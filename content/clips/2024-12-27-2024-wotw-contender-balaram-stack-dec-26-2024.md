@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 46
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/KrP1E9j3ct8" title="2024 WOTW Contender – Balaram Stack – Dec 26, 2024" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -19,16 +18,7 @@ https://surf-clips-tv.myspreadshop.com/
 
 BalStack snags one of the best waves of the morning during a memorable 2024 XL Pipe session. 
 
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Clips TV so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline
-Music: Letter Box - Far The Days Come

@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 7
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/NmFV4qy66NE" title="John John Florence's 9.17 at 2024 #PipePro" allowfullscreen loading="lazy"></iframe>
 </div>
-
-

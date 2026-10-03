@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 46
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/LoLl6TToxKM" title="Jordy Smith's 2-turn 8.5 at 2022 Sunset Beach Pro (Round of 32)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 46
 Jordy lays down his rail twice on a 15-18ft day at the 2022 Sunset Beach Pro on February 16, 2022.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

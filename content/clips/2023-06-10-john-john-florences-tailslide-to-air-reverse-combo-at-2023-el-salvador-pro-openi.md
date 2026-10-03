@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 45
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/lm_ZNLTiq08" title="John John Florence's tailslide-to-air reverse combo at 2023 El Salvador Pro (opening day)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 45
 Scoring a 6.5 for this wave, John John Florence showed off his quick feet on this Punta Roca wave at the 2023 El Salvador Pro
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

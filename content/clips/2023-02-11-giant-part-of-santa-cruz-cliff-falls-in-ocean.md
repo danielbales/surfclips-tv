@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 8
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/ygl8UguhxCw" title="Giant part of Santa Cruz cliff falls in ocean" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

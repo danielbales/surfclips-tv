@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 163
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/KkRvjEaNSu4" title="XL surf at Mundaka, Spain on December 13, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 163
 10-15 foot (4-5 meter) waves steamrolled down Mundaka's sandbank on this XL day of surf. This was the same day as the Nazaré tow surf challenge.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

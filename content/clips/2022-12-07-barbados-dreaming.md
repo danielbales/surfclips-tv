@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 13
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/qvdICqx4iY8" title="Barbados Dreaming" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

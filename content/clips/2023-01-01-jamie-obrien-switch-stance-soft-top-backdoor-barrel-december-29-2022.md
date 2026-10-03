@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 46
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/sJumIL2dUNA" title="Jamie O'Brien switch-stance soft top Backdoor barrel – December 29, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 46
 On a 8-10 foot day, Jamie O'Brien got spat this Backdoor pit during a packed Thursday morning session.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

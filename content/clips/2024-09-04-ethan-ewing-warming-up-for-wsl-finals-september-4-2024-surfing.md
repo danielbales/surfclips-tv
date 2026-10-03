@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 16
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/azjtx7Qhxbs" title="Ethan Ewing warming up for WSL Finals - September 4, 2024 #surfing" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -19,15 +18,8 @@ https://surf-cam-rewind.creator-spring.com/
 
 Days before the @wsl Finals, Hawaiian golden boy John John Florence shreds this Trestles wave to pieces. 
 
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline

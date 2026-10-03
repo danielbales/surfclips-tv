@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 49
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/DkoL-8djGwA" title="John John Florence's Sunset Beach barrel at 2023 Sunset Beach Pro (Day 1)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 49
 John John lit up Sunset Beach on day 1 with a tube ride only JJF could make. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

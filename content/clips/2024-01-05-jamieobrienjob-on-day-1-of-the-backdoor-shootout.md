@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 10
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/EAWKkemEn-g" title="@JamieOBrienJOB on day 1 of the Backdoor Shootout" allowfullscreen loading="lazy"></iframe>
 </div>
-
-

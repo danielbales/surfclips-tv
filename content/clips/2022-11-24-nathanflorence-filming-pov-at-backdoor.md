@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 10
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/4Tfhb-fb_j0" title="@Nathanflorence filming POV at Backdoor" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 75
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/6gQqSUjC5no" title="Waimea Bay DURING the 2022 Pipeline Masters" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 75
 During the 2022 Pipe Masters, a large NNW swell (322º) filled in across the North Shore, pushing wave heights in the 18 - 20 foot face value mark at select locations, like here at Waimea Bay.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 48
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/x2cEZ37DKf0" title="John John Florence STUNS CROWD with deep Backdoor tube at 2023 Pipeline Masters" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -20,12 +19,5 @@ https://surf-clips-tv.myspreadshop.com
 John John Florence pulls a rabbit out of a hat with this disappearance act during the 2023 Pipeline Masters. This wave earned John a 9.9. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

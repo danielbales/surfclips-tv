@@ -9,19 +9,11 @@ type: "clips"
 clip_type: "clip"
 duration: 98
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/siQKd4GJHX4" title="Massive MARGARET RIVER + Hollow (& empty) at THE BOX on September 12, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Huge 15+ foot (5 meter) Main Beach at Margaret River offered surfers a few bombs mostly on lefts, while over at The Box occasional perfection rolled through! 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

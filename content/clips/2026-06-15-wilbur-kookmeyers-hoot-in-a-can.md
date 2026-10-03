@@ -9,12 +9,10 @@ type: "clips"
 clip_type: "clip"
 duration: 83
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/eS81Q3X5W7A" title="Wilbur Kookmeyer's \"Hoot-in-a-Can\"" allowfullscreen loading="lazy"></iframe>
 </div>
 
-Wilbur merch!
 https://surf-clips-tv-shop.fourthwall.com/.
 
 Ever bought something online to make yourself look cooler, only for it to completely backfire? 📦🤦‍♂️
@@ -31,11 +29,3 @@ What is the worst, funniest, or most useless thing YOU'VE ever ordered online? T
 🔔 Don't forget to SUBSCRIBE and hit the bell icon for more hilarious animations and relatable comedy shorts! 🤙
 
 If you’re stoked to see more of Wilbur's animated adventures, hit that Subscribe button, drop a like, and let us know down in the comments which classic Kookmeyer comic moments you want to see clay-ified next!
-
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-
-Thank you for supporting Surf Clips TV!

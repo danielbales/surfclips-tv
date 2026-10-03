@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 119
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/BmvgyT9Ikw0" title="Consistent, solid South swell hits Ala Moana Bowls" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 119
 Tahiti swell (187º) and trade winds made their way to Oahu's south shore on the afternoon of June 26. Sets were well overhead, and surfers like Flynn Novak and Mason Ho showed us how to surf it.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 298
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/atPmCcPSMms" title="Jetski STEPOFFS at SNAPPER ROCKS (Tropical Cyclone Seth swell) on January 2, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -20,12 +19,5 @@ https://surf-clips-tv.myspreadshop.com/
 8-12 foot (3-4 meter) swell offered jetski surf teams opportunity to get into heavy Snapper waves early, making quite a show! 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

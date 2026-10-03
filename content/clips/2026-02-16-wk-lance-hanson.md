@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 37
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/vYYcjgDgRCU" title="WK Lance Hanson" allowfullscreen loading="lazy"></iframe>
 </div>
-
-

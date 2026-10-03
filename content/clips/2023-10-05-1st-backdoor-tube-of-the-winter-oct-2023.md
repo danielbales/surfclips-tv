@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 6
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/82_PhiACLE0" title="1st Backdoor tube of the winter! Oct 2023" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

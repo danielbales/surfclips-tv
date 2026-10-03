@@ -9,20 +9,12 @@ type: "clips"
 clip_type: "clip"
 duration: 157
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/Vpe4RWyWkNg" title="Fall swell & high-performance surfing at Lower Trestles on October 13, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Great rights and long lefts were on tap when a solid south swell met a northwest swell at Trestles on October 13, 2021.
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

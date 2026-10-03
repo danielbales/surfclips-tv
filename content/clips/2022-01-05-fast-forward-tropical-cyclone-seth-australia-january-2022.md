@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 83
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/A_k8ygb0Ob0" title="Fast-forward — Tropical Cyclone Seth, Australia – January 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 83
 Australian pointbreaks came to life one afternoon during Tropical Cyclone Seth, 2022. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

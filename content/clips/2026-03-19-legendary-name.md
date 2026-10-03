@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 13
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/e0DjwpojJAg" title="Legendary name" allowfullscreen loading="lazy"></iframe>
 </div>
-
-

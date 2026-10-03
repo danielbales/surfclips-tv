@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 44
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/SEw1GwLr-LA" title="Gabriel Medina BLOWS KISSES to fans at the 2023 Pipeline Masters" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 44
 Gabriel Medina returns to competition and gets the wave of the morning (9.33) on day 4 of the 2023 Pipeline Masters. 
  
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

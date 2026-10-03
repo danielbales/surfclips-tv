@@ -9,17 +9,11 @@ type: "clips"
 clip_type: "clip"
 duration: 131
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/5QJg1a1LuoQ" title="OFFSHORE + OVERHEAD PUERTO!!! Escondido surfing, August 17, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Solid south swell hit Puerto Escondido, Mexico on August 17, 2021. Local Mexican rippers Coco Nogales, Roger Ramirez and others enjoyed the prime summertime conditions. 
 

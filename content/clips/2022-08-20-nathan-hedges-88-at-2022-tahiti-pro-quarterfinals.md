@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 37
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/bDCPj5jpTM8" title="Nathan Hedge's 8.8 at 2022 Tahiti Pro (Quarterfinals)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 37
 In sync with Teahupo'o, Hedgy gets blown out of this dreamy pit during his Quarterfinal heat agains Caio Ibelli. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

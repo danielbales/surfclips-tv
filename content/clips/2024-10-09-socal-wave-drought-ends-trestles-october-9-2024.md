@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 153
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/1ZLn83VUejg" title="SoCal WAVE DROUGHT ENDS – Trestles, October 9, 2024" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -19,15 +18,8 @@ https://surf-clips-tv.myspreadshop.com/
 
 Fresh SW swell boosted size while surface conditions were clean courtesy of light/variable wind. The westerly angle on the primary SW swell makes for inconsistent surf, but worth the wait on bigger sets.
 
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline

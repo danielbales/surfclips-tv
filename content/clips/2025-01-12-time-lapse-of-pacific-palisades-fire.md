@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 9
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/vfkp8yzT3ys" title="Time lapse of Pacific Palisades fire" allowfullscreen loading="lazy"></iframe>
 </div>

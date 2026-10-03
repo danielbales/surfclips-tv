@@ -9,19 +9,11 @@ type: "clips"
 clip_type: "clip"
 duration: 76
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/wHw4ZOC3sS8" title="KING OF BINGIN!! Bali, Indonesia surf, July 31, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Shallow coral reef meets headhigh grinders at the Bukit Penninsula's infamous Bingin on July 31, 2021.
 Thank you for supporting Daily Surf Clips 🌊  so we can continue to provide you with free content!
-
-#bali #bingin #surfcamrewind

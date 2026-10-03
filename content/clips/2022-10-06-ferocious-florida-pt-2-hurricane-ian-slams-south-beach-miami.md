@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 96
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/wiv3BoV2FUw" title="Ferocious Florida, pt. 2 - Hurricane Ian slams South Beach, Miami" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -20,12 +19,5 @@ https://surf-clips-tv.myspreadshop.com/
 Some locals say the biggest they've ever seen it thanks to a strong pulse of NNE swell from Hurricane Ian, while offshore NW winds groomed faces a bit. Waves were nearly 2x overhead and borderline dangerous during this early AM session.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 158
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/iEvU0uP5OLU" title="MOROCCAN POINT BREAK wakes up from winter swell on November 15, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 158
 Overhead faces rolled through the Anchor Point lineup on November 15, 2021. Glassy conditions kept the faces clean and locals ripping.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

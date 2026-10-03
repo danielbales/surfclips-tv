@@ -9,13 +9,9 @@ type: "clips"
 clip_type: "short"
 duration: 9
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/KfDv9Eef-ik" title="Wilbur Kookmeyer's Restraining Order" allowfullscreen loading="lazy"></iframe>
 </div>
-
-Wilbur merch!
-https://surf-clips-tv-shop.fourthwall.com/
 
 Wilbur Kookmeyer has done a lot of questionable things in pursuit of surf greatness. This might be the most legally complicated.
 
@@ -24,13 +20,3 @@ After a series of incidents too embarrassing to detail here, Wilbur is now requi
 Some call it a restraining order. Wilbur calls it a front-row seat.
 
 🏄 New Wilbur Kookmeyer animated shorts — Subscribe so you don't miss the next episode.
-
-#wilburkookmeyer  
-
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-
-Thank you for supporting Surf Clips TV!

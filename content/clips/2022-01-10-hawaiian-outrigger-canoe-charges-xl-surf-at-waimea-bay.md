@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 58
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/o0AVvh6eLy0" title="Hawaiian outrigger canoe charges XL surf at Waimea Bay" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 58
 On a XL WNW swell, one Hawaiian outrigger canoe charged a solid 10 foot wave and was unable to make the section. No clean up sets followed so recovery looked swift.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

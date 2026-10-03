@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 97
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/KN_9NsaCwu4" title="Huntington Beach Pier sees GOOD combo swell" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -19,15 +18,8 @@ https://surf-clips-tv.myspreadshop.com/
 
 After a long drought HB saw a great combo swell that lit of the beachbreak and offered fun high performance waves for local surfers.
 
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline

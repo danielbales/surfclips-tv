@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 44
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/sKS1uRIkeIw" title="MASON HO's INSANE Pipe wave at 2024 Pipe Masters" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -19,16 +18,7 @@ https://surf-clips-tv.myspreadshop.com/
 
 Mason Ho doesn't find the exit but left everyone's mind blown none-the-less.
 
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Clips TV so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline
-Music: Silent Partner - Wobble Theory

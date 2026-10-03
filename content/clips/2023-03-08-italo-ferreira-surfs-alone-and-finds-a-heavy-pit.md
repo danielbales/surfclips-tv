@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 11
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/KDKEYJMy7IE" title="Italo Ferreira surfs alone and finds a heavy pit" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

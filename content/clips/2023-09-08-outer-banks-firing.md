@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 5
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/wO1GnaBEH0E" title="Outer Banks firing!" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

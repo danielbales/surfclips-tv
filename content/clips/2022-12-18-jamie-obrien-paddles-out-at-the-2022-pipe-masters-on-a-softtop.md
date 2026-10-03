@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 43
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/c8rjgWa8i7w" title="Jamie O'Brien paddles out at the 2022 PIPE MASTERS on a Softtop" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 43
 North Shore fixture Jamie O'Brien paddled out at the 2022 Pipeline Masters on a softtop surfboard and found this tube on the afternoon of day 2. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

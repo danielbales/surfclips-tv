@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 56
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/5hO0HcgLIJE" title="EUROPEAN SUPERSESSION – October 20, 2024" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -19,15 +18,8 @@ https://surf-clips-tv.myspreadshop.com/
 
 After a long slumber, this European point wakes up to give local surfers a taste of what's (hopefully) to come this upcoming winter season.
 
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline

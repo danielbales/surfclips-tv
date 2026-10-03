@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 94
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/mI5YFA_Vl_w" title="Tube hounds score dangerous reef on December 29, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 94
 A solid WNW swell (307º) moved and peaked in the late evening at this notoriously dangerous and high-performance North Shore reef, offering locals like Ivan Florence and others a ton of great tube rides.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

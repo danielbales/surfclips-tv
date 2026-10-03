@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 8
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/xt3JbPWTsq4" title="Billy Kemper gets blown out of a Pipeline barrel" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

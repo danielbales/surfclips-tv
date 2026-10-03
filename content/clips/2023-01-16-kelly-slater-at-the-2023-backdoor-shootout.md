@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 9
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/7jHEkzvrE-k" title="Kelly Slater at the 2023 Backdoor Shootout" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

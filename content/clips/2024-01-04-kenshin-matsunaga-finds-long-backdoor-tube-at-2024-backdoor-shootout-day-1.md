@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 56
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/sVl9kVnVQkU" title="KENSHIN MATSUNAGA finds LONG BACKDOOR TUBE at 2024 Backdoor Shootout (Day 1)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,14 +16,8 @@ duration: 56
 Team Japan's Kenshin Matsunaga finds this deep, long Backdoor ride in the 1st heat of the day for the shortboard division. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 211
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/kqgow0-4bEo" title="2022 J Bay Pro sees firing conditions + swell" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 211
 First two days of the 2022 J-Bay Pro offered big, clean swell (224º) with offshore wind. It was an excellent of surf with pumping waves both days.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

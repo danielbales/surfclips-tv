@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 219
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/j6r8l0i2DK8" title="Famous (& fickle) Caribbean reef lights up – pt. 2" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 219
 Solid N swell and trade swell mix (6º and 65º), while light SE/SSE winds created textured/semi-clean conditions.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

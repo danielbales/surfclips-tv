@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 8
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/ycV_OKae-Zg" title="Dreams do come true in New Jersey - Oct '23" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

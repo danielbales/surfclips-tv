@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 53
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/4woTVGCbnHs" title="Eli Olson gets BLASTED by a Pipeline spit at the 2022 Backdoor Shootout (Round 3)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 53
 During Round 3 in the Florence Team's heat at the 2022 Backdoor Shootout, Eli Olson stalls himself in front of a Pipeline cannon!
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

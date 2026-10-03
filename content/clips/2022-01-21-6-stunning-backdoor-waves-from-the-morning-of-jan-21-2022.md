@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 84
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/a4dCE2cLhwc" title="6 stunning Backdoor waves from the morning of Jan 21, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 84
 8-10 foot perfection was on tap for yet another day of near-flawless conditions. Heavy hitters were scoring insane drainers!
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

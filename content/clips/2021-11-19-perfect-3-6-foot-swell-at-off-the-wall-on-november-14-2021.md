@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 240
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/aDGMnGbyJec" title="Perfect, 3-6 foot swell at OFF THE WALL on November 14, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 240
 While pipe and backdoor did their thing on November 14, 2021, Off The Wall also saw some pool-like conditions + solid swell. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

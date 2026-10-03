@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 66
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/kmey0CoJhPk" title="Code Red 2 swell hits Mexico's heaviest beach on July 20, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 66
 Puerto Escondido saw some stellar conditions as the Code Red 2 swell made it's way into the America's and lit up Playa Zicatela. Winds were offshore all morning, making faces smooth as can be.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

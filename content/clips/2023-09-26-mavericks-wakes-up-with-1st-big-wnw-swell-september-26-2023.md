@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 41
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/WOUqKHi5QWU" title="Mavericks wakes up with 1st BIG WNW swell – September 26, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 41
 The first WNW of the '23-'24 winter season was met with semi-clean surface conditions at California's most famous big-wave surf break. Faces were small for Mavs but there were still some huge sets.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

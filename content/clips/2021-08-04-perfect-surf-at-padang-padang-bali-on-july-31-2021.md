@@ -9,20 +9,12 @@ type: "clips"
 clip_type: "clip"
 duration: 107
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/U6e2SvNWkj0" title="PERFECT!!! surf at PADANG PADANG, Bali on July 31, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 A light crowd and perfect waves made for a DREAM session for those out. 
 
 Thank you for supporting Daily Surf Clips 🌊  so we can continue to provide you with free content!
-
-#bali #padangpadang #surfcamrewind

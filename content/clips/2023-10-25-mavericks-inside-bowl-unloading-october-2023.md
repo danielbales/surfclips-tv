@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 7
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/bM2Q5xWRU8g" title="#mavericks inside bowl unloading - October 2023" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

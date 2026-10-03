@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 42
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/WuxouJBvwDw" title="John John Florence rides 1st wave at 2023 Eddie Aikau Big Wave Invitational" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 42
 XL NW swell pounded the North Shore of Oahu with large surf (30 - 35 foot faces) for 2023 Eddie Aikau Big Wave Invitational at Waimea Bay. John John Florence kicked off the contest with a solid ride shown here.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

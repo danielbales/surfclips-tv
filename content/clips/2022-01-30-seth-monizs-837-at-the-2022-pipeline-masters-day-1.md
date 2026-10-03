@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 46
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/kz5--N0qPnU" title="Seth Moniz's 8.37 at the 2022 Pipeline Masters (Day 1)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 46
 Seth Moniz found this Pipe wave that hit the reef perfectly and gave him this great tube ride. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

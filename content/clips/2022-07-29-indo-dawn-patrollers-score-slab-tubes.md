@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 104
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/ncLwL6U_pCk" title="Indo dawn patrollers score slab tubes" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 104
 SSW swell (210 @ 15sec) dropped off into but still offered some nice sized lines coming into Bali for the early morning session.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

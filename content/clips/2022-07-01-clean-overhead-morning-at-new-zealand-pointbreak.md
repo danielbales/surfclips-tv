@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 107
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/_m3pIh6gcaE" title="Clean, overhead morning at New Zealand pointbreak" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 107
 Overhead WSW swell (237º) with light winds wrapped into New Zealand's most famous point. Local surfers tore into faces on what was a great day of surf.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

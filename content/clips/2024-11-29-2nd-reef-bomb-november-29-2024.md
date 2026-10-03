@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 48
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/SRST8ijGeGA" title="2nd REEF BOMB – November 29, 2024" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -20,15 +19,7 @@ https://surf-clips-tv.myspreadshop.com/
 Fresh shot of NW swell energy and rapidly building longer period energy from the NW (300-330°) created gorgeous conditions and large waves, like this one.
 
 
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Clips TV so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline

@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 13
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/zcdLxxI3BEE" title="Jack Robinson's 8-second Backdoor pit (near-make)" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 52
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/K-xVxh76I6A" title="JJF's barrel to air (attempt) on Round 3 of 2022 Da Hui Backdoor Shootout" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 52
 During Round 3 of the Da Hui Backdoor Shootout John John Florence gets himself perfectly slotted then blasts an air-reverse attempt.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

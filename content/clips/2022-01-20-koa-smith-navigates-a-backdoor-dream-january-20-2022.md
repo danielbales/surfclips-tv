@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 54
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/Up9wDpky4ok" title="Koa Smith navigates a Backdoor dream, January 20, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 54
 Koa Smith's experience shows as he snags this early am Backdoor barrel on January 20, 2022 in 8-10 foot surf
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

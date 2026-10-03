@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 35
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/HCGsumGKlac" title="Bodyboarder drops in on surfer's wave of a lifetime" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 35
 In double overhead Puerto Escondido, a surfer finds an incredible tube ride only to have a bodyboarder shoulder hop it. Somehow the surfer made it out unscathed.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

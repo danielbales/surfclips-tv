@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 73
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/Yhhx9RmySn0" title="South Shore reef turns on April 16, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 73
 Inconsistent but solid south swell and light trade winds hit Oahu, lighting up this reefbreak during an early morning session.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

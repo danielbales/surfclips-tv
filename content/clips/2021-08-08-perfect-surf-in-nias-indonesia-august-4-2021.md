@@ -9,17 +9,11 @@ type: "clips"
 clip_type: "clip"
 duration: 145
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/2R0PfApZveE" title="PERFECT SURF in Nias, Indonesia!! August 4, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Offshore winds and occasional bombs came through the lineup for the local contingent. They were ripping! 
 

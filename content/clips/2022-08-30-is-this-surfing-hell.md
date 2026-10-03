@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 107
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/yg-mg2mlVfA" title="Is this surfing hell?" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 107
 One of Southern California's most crowded and disrespectful surf spots hosted yet another day of surf where typical surf etiquette is forgotten, as every surfer is out for themselves. Is this true surf hell?
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

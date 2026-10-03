@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 132
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/Ny37QpFh37k" title="Code Red 2 swell in Santa Cruz, California" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 132
 Long-period swell peaked at Santa Cruz's famed-right points on July 19, 2022, offering long, playful waves to East Side surfers.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

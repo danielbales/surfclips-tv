@@ -9,11 +9,8 @@ type: "clips"
 clip_type: "short"
 duration: 8
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/alwUHSWOnlY" title="Kelly Slater fades takeoff in Tahiti" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts 
 
 Kelly Slater finds this wave during the 2023 Tahiti Pro against Australian Ryan Callinan.

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 67
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/KE1vTpZPmtY" title="Opening day at THE WEDGE! JOB & others score" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 67
 6 waves from opening day at Southern California's most famous novelty wave. Jamie O'Brien and others sent it!
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 47
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/j-VO_KhnjAM" title="Balaram Stack puts PIPELINE skills on display in April 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 47
 On a gorgeous morning on Hawaii's most infamous stretch of beach, New York's Balaram Stack shows off his pipeline skills on this dreamy barrel.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

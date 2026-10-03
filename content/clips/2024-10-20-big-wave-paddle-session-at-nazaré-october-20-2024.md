@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 121
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/D5EiNwxPkss" title="BIG WAVE PADDLE session at Nazaré – October 20, 2024" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -19,15 +18,8 @@ https://surf-clips-tv.myspreadshop.com/
 
 SOLID winter swell slams Nazaré, while a dozen tow teams buzz around hardcore paddle surfers charging 3x overhead bombs. 
 
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline

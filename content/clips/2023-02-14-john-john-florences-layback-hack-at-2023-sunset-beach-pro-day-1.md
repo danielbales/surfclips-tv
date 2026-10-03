@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 53
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/r9_Q81V1hNc" title="John John Florence's layback hack at 2023 Sunset Beach Pro (Day 1)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 53
 John John Florence puts his rail on display during his day 1 heat of the 2023 Sunset Beach Pro. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

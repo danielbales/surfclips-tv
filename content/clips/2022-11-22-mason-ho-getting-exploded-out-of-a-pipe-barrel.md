@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 10
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/HyRwGAEvl2w" title="Mason Ho getting exploded out of a Pipe barrel" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

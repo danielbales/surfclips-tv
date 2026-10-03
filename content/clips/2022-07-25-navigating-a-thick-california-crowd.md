@@ -9,23 +9,14 @@ type: "clips"
 clip_type: "short"
 duration: 30
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/RE9kD0Tj280" title="Navigating a THICK California crowd" allowfullscreen loading="lazy"></iframe>
 </div>
 
-#shorts 
-
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
 
 Barroom Ballet - Silent Film Light by Kevin MacLeod is licensed under a Creative Commons Attribution 4.0 license. https://creativecommons.org/licenses/by/4.0/
 

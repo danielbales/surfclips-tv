@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 111
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/4c7h7rhOnIw" title="XL Pipeline, Hawaii – March 24, 2025" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -19,16 +18,7 @@ https://surf-clips-tv.myspreadshop.com/
 
 Many spots were maxed out with surf in the 3x+ overhead range (15-20' faces), up to 4x+ overhead (20-25'+ faces).
 
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Clips TV so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline
-Music: Silent Partner - True Love

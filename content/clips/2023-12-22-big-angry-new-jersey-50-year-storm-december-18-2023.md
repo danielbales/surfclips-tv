@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 48
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/3avM6b9mMIk" title="Big, angry NEW JERSEY (50 year storm – December 18, 2023)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,14 +16,8 @@ duration: 48
 Large, double overhead sets slammed the Jersey Shore on December 18, 2023, which many say is the largest surf in 50 years. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline

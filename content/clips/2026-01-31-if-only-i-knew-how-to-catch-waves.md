@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 7
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/-Cz2tqFz_5Q" title="If only I knew how to catch waves" allowfullscreen loading="lazy"></iframe>
 </div>
-
-

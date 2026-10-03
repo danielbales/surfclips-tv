@@ -9,17 +9,11 @@ type: "clips"
 clip_type: "clip"
 duration: 248
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/-mv3dGHyB78" title="RIPPABLE LEFTS over reef in Bali, Indonesia July 21, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Great waves broke throughout the day on this Bukit Peninsula stretch of reef.  Those out had some fun rides, enjoy! 
 

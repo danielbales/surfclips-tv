@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 8
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/Q2lNuXbSITc" title="Ivan Florence on a perfect North Shore left" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

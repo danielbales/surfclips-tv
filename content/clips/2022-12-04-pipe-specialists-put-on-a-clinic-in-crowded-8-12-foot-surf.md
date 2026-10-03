@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 160
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/sBNj6zg6N2c" title="Pipe specialists put on a CLINIC in crowded, 8-12 foot surf" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -18,12 +17,5 @@ December 2022 kicked off with a solid 2x OH Pipe swell, and the crowd, including
 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

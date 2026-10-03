@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 63
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/emZ6YArZX_A" title="Wave of the Day: Italo Ferreira, Supertubos, Feb 28, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -20,12 +19,5 @@ https://surf-clips-tv.myspreadshop.com/
 Italo Ferreira surfed Supertubos along during a maxing swell and found a heavy pit before the 2023 Supertubos Pro.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

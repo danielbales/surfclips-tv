@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 34
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/KKkB79Ug_Bs" title="Wave of the day – Backdoor, November 27, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 34
 On the backside of the XL Black Friday November 2023 swell, this lucky surfer found a gem and surfed it as good as anyone. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

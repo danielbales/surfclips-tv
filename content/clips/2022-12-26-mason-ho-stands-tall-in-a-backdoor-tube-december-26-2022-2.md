@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 44
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/kK-A2kKrf8c" title="Mason Ho STANDS TALL in a Backdoor tube – December 26, 2022 2" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 44
 Reinforcing WNW-NW swell (316º) continues to provide some good sized surf to the North Shore with much improved wind conditions on tap for this gorgeous Monday morning.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

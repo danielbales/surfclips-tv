@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 56
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/iOFfgAd3tx4" title="Kanoa Igarashi's 7.3 at the 2022 Sunset Beach Pro (Opening Round)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 56
 Kanoa found this Sunset Beach wave right as his heat kicked off. He ended up winning the heat and moving directly into the elimination round. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

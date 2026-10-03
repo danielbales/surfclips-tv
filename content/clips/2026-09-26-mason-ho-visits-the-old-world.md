@@ -9,18 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 10
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/3s9ygSoO98E" title="Mason Ho visits the Old World" allowfullscreen loading="lazy"></iframe>
 </div>
-
-Wilbur merch!
-https://surf-clips-tv-shop.fourthwall.com/
-
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-
-Thank you for supporting Surf Clips TV!

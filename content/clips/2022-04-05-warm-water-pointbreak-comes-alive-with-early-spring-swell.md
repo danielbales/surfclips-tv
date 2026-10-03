@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 109
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/zCh6QKheI1c" title="Warm-water pointbreak comes alive with early Spring swell" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 109
 Head-high to occasional overhead SW sets with light winds hit this cobblestone pointbreak on April 2, 2022. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

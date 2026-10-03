@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 102
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/Ul-iGC5ypGU" title="6 Mundaka great tuberides – November 16, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 102
 Solid mid period waves from the WNW with strong offshore winds turned on Europe's most famous point break this evening.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

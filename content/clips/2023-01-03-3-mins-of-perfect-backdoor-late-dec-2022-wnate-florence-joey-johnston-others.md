@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 192
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/cWVn52eahSU" title="3 mins of perfect BACKDOOR - Late Dec 2022 w/Nate Florence, Joey Johnston & others" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 192
 A solid 6-10 foot WNW-NW swell brought out all the North Shore regulars, who promptly put on a demo on how to get tubed at Backdoor. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

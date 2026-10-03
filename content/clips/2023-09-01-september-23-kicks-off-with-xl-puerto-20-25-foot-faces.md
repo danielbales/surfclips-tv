@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 87
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/nrIqUEf0gMU" title="September '23 kicks off with XL PUERTO (20 - 25+ foot faces)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 87
 Solid SSW swell (6@16  198º) was greeted with stiff early morning offshore winds and big wave surfers licking their chops. Crazy wipeouts, beatdowns, and occasional completed tubes were on tap!
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 76
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/zfrWobqZl54" title="2nd reef PIPE roll-ins on XL day, January 9, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 76
 A few North Shore surfers took on an XL WNW swell on January 9, 2022. These three waves were solid!
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

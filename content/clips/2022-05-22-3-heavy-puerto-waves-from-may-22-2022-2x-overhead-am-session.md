@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 31
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/gAATdJ2AcdY" title="3 heavy Puerto waves from May 22, 2022 (2x overhead am session)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 31
 Blend of SSW/S swells with light morning wind made for great conditions, however sets looked shifty, hard to track down, and rip currents appeared to be a nuisance.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

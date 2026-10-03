@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 10
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/Ld-KfZN1pHA" title="Mason Ho Backdoor barrel to air!" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

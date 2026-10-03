@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 21
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/AHoEufUYAys" title="Back in the Day" allowfullscreen loading="lazy"></iframe>
 </div>
-
-

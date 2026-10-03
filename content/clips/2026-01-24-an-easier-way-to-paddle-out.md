@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 6
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/KRwrxJvdIHI" title="An easier way to paddle out" allowfullscreen loading="lazy"></iframe>
 </div>
-
-

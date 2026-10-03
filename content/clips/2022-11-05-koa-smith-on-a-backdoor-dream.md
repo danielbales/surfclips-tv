@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 12
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/N32gtNRyVyE" title="Koa Smith on a Backdoor dream" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 45
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/ZVGYyeaZvvs" title="Daiki Matsunaga's Pipe CAVERN at 2023 Backdoor Shootout" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 45
 Team Japan summoned the North Pacific during their Day 2 heat of the 2023 Backdoor Shootout, with Daiki Matsunaga finding this Pipeline gem during the heat.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

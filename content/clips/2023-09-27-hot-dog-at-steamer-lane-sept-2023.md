@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 8
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/ZlWztPCyPdo" title="Hot dog at steamer lane - Sept 2023" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

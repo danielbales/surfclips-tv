@@ -9,22 +9,13 @@ type: "clips"
 clip_type: "short"
 duration: 11
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/kcGZj0RW2g4" title="Quick tuck under the hood - June 2, 2024" allowfullscreen loading="lazy"></iframe>
 </div>
 
-#shorts 
-
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline

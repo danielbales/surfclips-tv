@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 35
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/Cb1naYMU-Do" title="WK Abstract Wilbur" allowfullscreen loading="lazy"></iframe>
 </div>
-
-

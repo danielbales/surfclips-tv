@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 184
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/0Vma1eHgFds" title="Mason Ho, Taj Burrow, Clay Marzo & more surf PUMPING PADANG – August 4, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 184
 While the 2023 Rip Curl Curl Cup Padang was on hold at Padang Padang Bali, Mason Ho, Taj Burrow, Clay Marzo, Miguel Blanco and others put on a clinic.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

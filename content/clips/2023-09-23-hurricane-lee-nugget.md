@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 11
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/vOIy9elKUnA" title="Hurricane Lee NUGGET" allowfullscreen loading="lazy"></iframe>
 </div>
-
-

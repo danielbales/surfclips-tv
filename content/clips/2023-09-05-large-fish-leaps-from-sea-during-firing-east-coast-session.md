@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 5
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/V9EGVnlbq-s" title="Large \"fish\" leaps from sea during firing east coast session" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

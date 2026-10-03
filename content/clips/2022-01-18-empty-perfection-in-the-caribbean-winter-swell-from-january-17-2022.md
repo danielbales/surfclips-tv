@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 65
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/Y3uYcQjUB8w" title="Empty perfection in the Caribbean (Winter swell from January 17, 2022)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 65
 This reef came alive and offered a crowd of none perfect, empty waves the morning of January 17, 2022.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

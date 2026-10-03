@@ -9,20 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 7
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/L3BbqInQxdQ" title="Wilbur Kookmeyer surfs better when no one is watching" allowfullscreen loading="lazy"></iframe>
 </div>
-
-Wilbur merch!
-https://surf-clips-tv-shop.fourthwall.com/
-
-#wilburkookmeyer  
-
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-
-Thank you for supporting Surf Clips TV!

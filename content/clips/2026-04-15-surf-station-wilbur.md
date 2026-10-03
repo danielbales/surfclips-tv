@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 8
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/sDhDcOuk4OM" title="Surf Station Wilbur" allowfullscreen loading="lazy"></iframe>
 </div>
-
-

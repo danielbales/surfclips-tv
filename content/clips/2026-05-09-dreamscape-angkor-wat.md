@@ -9,20 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 8
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/OpU5iVCNYpk" title="Dreamscape Angkor Wat" allowfullscreen loading="lazy"></iframe>
 </div>
-
-Wilbur merch!
-https://surf-clips-tv-shop.fourthwall.com/
-
-#wilburkookmeyer 
-
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-
-Thank you for supporting Surf Clips TV!

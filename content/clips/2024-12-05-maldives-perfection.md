@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 9
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/U2pq-vdChT8" title="Maldives perfection" allowfullscreen loading="lazy"></iframe>
 </div>
-
-

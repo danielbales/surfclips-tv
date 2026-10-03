@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 7
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/1JsF-XWly18" title="Jamie O'Brien getting vaporized on a soft top at Backdoor" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

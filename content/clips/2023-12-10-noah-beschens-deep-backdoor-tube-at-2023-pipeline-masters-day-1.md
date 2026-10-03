@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 39
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/gF7X6HLZatk" title="Noah Beschen's DEEP Backdoor tube at 2023 Pipeline Masters (Day 1)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 39
 Noah Beschen finds a stretched out Backdoor / Aint's bowl ride and shocks the crowd. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

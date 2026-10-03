@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 10
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/HdyQfQ36rh4" title="Ocean Beach, SF TOW IN" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

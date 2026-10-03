@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 30
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/CLXRMrYfcEU" title="Surfer gets EVAPORATED during Outer Banks super session – October 7, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 30
 As an ideal ESE swell hit the North Carolina's Outer Banks, this unlucky surfer sent it and paid the price (he was ok). 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

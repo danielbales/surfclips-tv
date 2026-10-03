@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 53
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/9WjzYlDAorg" title="Kelly Slater's 9.7 in the FINALS of 2022 Pipeline Pro (Finals Day 8)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -20,12 +19,5 @@ https://surf-clips-tv.myspreadshop.com/
 Kelly Slater defeated Hawaiian surfer Seth Moniz (see Seth's 9.4 wave after Kelly's) with help from this Backdoor tube, earning him another Pipeline Pro win just before his 50th birthday. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

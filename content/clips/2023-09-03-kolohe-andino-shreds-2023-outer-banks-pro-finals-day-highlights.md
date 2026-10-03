@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 41
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/RUI2aqB-YA8" title="KOLOHE ANDINO shreds 2023 OUTER BANKS PRO (Finals day highlights)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 41
 In his thrilling final against Levi Slawson, Kolohe Andino put on an air reverse clinic and eventually lost out to Levi.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 64
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/JhXn7FxY3nw" title="Kirra, Snapper Rocks see large, long period swell" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 64
 Solid early morning lines from a 15s ESE swell (108º) with light S breezes groomed faces and while quality seemed a bit difficult to find, there were still some great rides on tap. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

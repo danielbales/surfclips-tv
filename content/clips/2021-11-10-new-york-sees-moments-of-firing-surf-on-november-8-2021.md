@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 91
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/LoFH4JAXuuI" title="New York sees moments of FIRING SURF on November 8, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 91
 3-5 foot peaks hit Nassau County's Lido Beach, offering occasional tubes, and rippable faces on November 8, 2021. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

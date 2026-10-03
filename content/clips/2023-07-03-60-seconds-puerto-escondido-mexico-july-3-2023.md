@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 61
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/HTLfD0p7WoY" title="60 seconds: Puerto Escondido, Mexico – July 3, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 61
 A mix of old + new SSW swell (198º & 200º) and tropical swell (159º) with offshore winds provided some great tube rides for Zicatela surfers.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

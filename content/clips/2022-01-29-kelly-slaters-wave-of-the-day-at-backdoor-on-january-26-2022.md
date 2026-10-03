@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 53
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/jgvyFUkgIpg" title="Kelly Slater's Wave of the Day at Backdoor on January 26, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -20,12 +19,5 @@ https://surf-clips-tv.myspreadshop.com/
 Kelly Slater's triple-pump tube gets him deep and also Surfline's Wave of the Day on January 26, 2022. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

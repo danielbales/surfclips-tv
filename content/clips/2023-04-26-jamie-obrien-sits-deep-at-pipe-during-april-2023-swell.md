@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 42
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/AJCznfWXXkU" title="Jamie O'Brien sits DEEP AT PIPE during April 2023 swell" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 42
 Jamie O'Brien find this Pipe barrel while sitting waaaaaay up the reef and deeper than everyone.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

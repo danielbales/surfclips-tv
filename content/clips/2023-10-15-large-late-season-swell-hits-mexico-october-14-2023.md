@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 85
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/VBoBjuUmQoI" title="Large, late-season swell hits Mexico – October 14, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 85
 A large, long period swell hit this big wave surf spot and offered occasional 3x overhead waves with offshore winds. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

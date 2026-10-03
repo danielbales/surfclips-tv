@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 45
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/9lFTQHxM6D4" title="JOHN JOHN FLORENCE at 2024 Pipe Pro – Day 1 (8.33)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,14 +16,8 @@ duration: 45
 In John John Florence's day 1 heat against Jake Marshall and Caio Ibelli, this 8.3 came through solidifying his win. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline

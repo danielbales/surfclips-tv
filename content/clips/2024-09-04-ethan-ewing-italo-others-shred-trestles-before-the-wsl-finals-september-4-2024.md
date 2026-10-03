@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 127
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/qx-L0DBGBxA" title="ETHAN EWING, ITALO, & others shred TRESTLES before the WSL FINALS – September 4, 2024" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -19,15 +18,8 @@ https://surf-cam-rewind.creator-spring.com/
 
 JJF, Italo, and other 2024 world champion contenders took advantage of clean conditions with rippable sets at Trestles during the early morning window. 
 
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline

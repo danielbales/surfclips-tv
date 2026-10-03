@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 209
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/p1PN9OFnM8Q" title="Waikiki (Ala Moana Bowls) long-period swell on 1st day of June 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 209
 Second day or peaking long-period SSW swell (188º) hitting the South Shore during the morning of June 1, 2022.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

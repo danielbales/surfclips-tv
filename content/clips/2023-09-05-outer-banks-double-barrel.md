@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 13
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/9666VYorxhg" title="Outer Banks double barrel!" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 284
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/OVfxM01VWso" title="SLAB surf near SYDNEY, Australia on August 27, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,14 +16,7 @@ duration: 284
 https://surf-clips-tv.myspreadshop.com/
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 A south-east swell wrapped into New South Wales, Australia on August 27, 2021. Bodyboarders were on most waves this day, but a number of surfers lucked into some nuggets too! 
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

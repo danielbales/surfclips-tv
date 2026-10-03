@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 162
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/t1f6jGTE3Ok" title="[Afternoon session] 40 foot XL swell at Nazaré, Portugal on December 11, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 162
 A huge NW swell and light winds created 30-40 foot (13 meter) XL waves at Nazaré, Portugal on December 11, 2021. There were some monstrous drops and heavy wipeouts.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 11
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/O1oFcSzdNlg" title="Kelly Slater tube to carving 360" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

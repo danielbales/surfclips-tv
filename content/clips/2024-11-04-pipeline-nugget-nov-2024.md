@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 10
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/gX_ArynxoeM" title="Pipeline nugget - Nov 2024" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

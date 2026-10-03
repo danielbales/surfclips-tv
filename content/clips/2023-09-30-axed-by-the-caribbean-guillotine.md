@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 5
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/MwgrIdHvYjQ" title="Axed by the Caribbean guillotine 🪓" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

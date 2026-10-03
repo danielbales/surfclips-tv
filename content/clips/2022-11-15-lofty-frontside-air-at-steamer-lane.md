@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 10
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/Pg8dxjRnFwM" title="LOFTY frontside air at Steamer Lane" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

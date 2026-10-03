@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 8
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/s6mdZnbmX3k" title="I actually surf good" allowfullscreen loading="lazy"></iframe>
 </div>
-
-

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 40
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/zdpanFPNpu8" title="3 waves at Central American point during combo swell" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 40
 Overhead SSW + WNW swell filled into this Central American pointbreak and offered long rides and occasional tubes.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

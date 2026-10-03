@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 44
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/-lm8fe8yWvg" title="Wave of the Day – Puerto Escondido, August 14, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 44
 Declining swell in the still overhead range meant "playful" Playa Zicatela pits, and this lucky surfer found himself in just the right spot. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

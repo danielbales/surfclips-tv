@@ -9,20 +9,12 @@ type: "clips"
 clip_type: "clip"
 duration: 158
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/_Wc8IDYu90k" title="XL PUERTO!! Escondido surf on September 13 & 14, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 With surfline reporting 15 - 20 foot ( ), 3 - 4 times overhead surf, the lineup was empty but there still were some special moments! 
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

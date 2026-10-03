@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 72
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/OSJ5bE0Vid4" title="Pre-Comp Freesurf - Portugal Pro Supertubos 2024" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -20,14 +19,8 @@ https://surf-cam-rewind.creator-spring.com/
 The day before the contest kicked off lumpy, bumpy, but occasional big deep pits were on offer. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline

@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 8
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/z-GRCUa2LOI" title="Mason Ho going for his morning surf" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

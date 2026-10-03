@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 11
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/BUk2vxxsLY0" title="Laying rail into a NorCal set wave - October 2023" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

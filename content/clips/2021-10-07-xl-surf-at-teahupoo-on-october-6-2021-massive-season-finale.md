@@ -9,20 +9,12 @@ type: "clips"
 clip_type: "clip"
 duration: 64
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/RzCq387FbFE" title="XL surf at Teahupo’o!! on October 6, 2021 (MASSIVE SEASON FINALE!!!)" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 10 - 15 foot, occasional 20 foot waves (6 - 7 meter) slammed into the reef at Teahupo'o, Tahiti on October 6, 2021. Needless to say it was a day to remember.
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

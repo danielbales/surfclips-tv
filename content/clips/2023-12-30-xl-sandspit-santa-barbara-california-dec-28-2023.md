@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 98
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/RQo8XrRHtDM" title="XL Sandspit, Santa Barbara, California - Dec 28, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,14 +16,8 @@ duration: 98
 Sandspit, Santa Barbara saw firing afternoon conditions thanks to a late December XL swell that lit the entire west coast up. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline

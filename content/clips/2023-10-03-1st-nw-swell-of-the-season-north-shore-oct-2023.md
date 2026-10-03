@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 5
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/jMpkgAD5fAc" title="1st NW swell of the season! North Shore, Oct 2023" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

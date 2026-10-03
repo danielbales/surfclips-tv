@@ -9,17 +9,11 @@ type: "clips"
 clip_type: "clip"
 duration: 123
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/zGCn-JCnMhA" title="TEAHUPO'O SWELL hits STEAMER LANE on August 20, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Well overhead surf wrapped into Steamer Lane on the morning of August 20, 2021. Westsiders were out ripping! 
 

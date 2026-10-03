@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 242
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/BvwUT4L4xTg" title="SURFING under the GOLDEN GATE BRIDGE! (2021 winter swell at Fort Point, San Francisco)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -18,14 +17,3 @@ Surf Store Merch:
 https://surf-clips-tv.myspreadshop.com/
 
 The ultimate novelty surf spot comes alive in October 2021, offering overhead lefts directly under San Francisco's Golden Gate Bridge.
-
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
-
-Thank you for supporting Surf Clips TV so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org.

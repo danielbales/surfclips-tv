@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 90
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/05DT0nSbvWo" title="TOW-INS at XL OCEAN BEACH, SF – October 19, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 90
 While paddle-in surfers mostly stayed dry, this tow-in team whipped in to a few large set waves as San Francisco's famous Ocean Beach provided occassioanl 20 foot faces.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

@@ -9,17 +9,11 @@ type: "clips"
 clip_type: "clip"
 duration: 141
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/9ohGZcuKXkw" title="HIGH PERFORMANCE surfing at TRESTLES on Sunday, August 9, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Solid South swell filled in on Sunday, August 9, 2021 for local San Clemente surfers like Chris Ward, Pat Gudauskas, Matt Archibald, and others! 
 

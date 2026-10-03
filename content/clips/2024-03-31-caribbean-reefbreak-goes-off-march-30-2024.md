@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 102
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/SA6gUFqRzq8" title="Caribbean reefbreak goes off - March 30, 2024" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -20,14 +19,8 @@ https://surf-cam-rewind.creator-spring.com/
 Head-high surf hits this infamous Caribbean reef break, while light winds groomed faces and offered hollow, rippable surf.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline

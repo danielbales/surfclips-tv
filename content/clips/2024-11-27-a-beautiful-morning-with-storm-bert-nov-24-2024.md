@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 111
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/bIF_8dJmEW4" title="A beautiful morning with Storm Bert – Nov 24, 2024" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -19,16 +18,7 @@ https://surf-clips-tv.myspreadshop.com/
 
 Mundaka lit up despite a higher morning tide, and offered basque surfers long, groomed, and hollow lefts. 
 
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Clips TV so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline
-Music: Andrew Huang - Accordion

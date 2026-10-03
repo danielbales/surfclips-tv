@@ -9,20 +9,12 @@ type: "clips"
 clip_type: "clip"
 duration: 108
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/lExBUr3n-FA" title="Rippable, A-frame peaks in Portugal on October 24, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Morning peaks in Peniche on October 24, 2021. Waves were 5-7foot (2 meter) in the middle of the beach. 
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 77
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/CaDhH9P7lHU" title="Wave of the Day: Jamie O’Brien + Mike Stewart, 2nd reef Pipeline" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -19,16 +18,7 @@ https://surf-clips-tv.myspreadshop.com/
 
 Perhaps the best party wave ever, Pipe Master Jamie O'Brien and GOAT Mike Stewart connected on a deep 2nd reef bomb, both emerging unscathed.
 
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Clips TV so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline
-Music: Audio Hertz - Mission to Mars

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 76
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/7gKnz4IFEfc" title="2023 COLD WATER CLASSIC pre-comp highlights – November 15, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 76
 Locals and international rippers decended on high tide Steamer Lane before day 1 of the 2023 Cold Water Classic and found ramps and rippable sections before showcasing their talents in their heats.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

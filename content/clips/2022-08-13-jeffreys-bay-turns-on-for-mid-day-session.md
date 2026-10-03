@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 65
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/LbIiA1OJ-OU" title="Jeffrey's Bay turns on for mid-day session" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 65
 Solid long period waves from the SW, with offshore provided clean, rippable conditions for Zaffa surfers on August 12, 2022. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

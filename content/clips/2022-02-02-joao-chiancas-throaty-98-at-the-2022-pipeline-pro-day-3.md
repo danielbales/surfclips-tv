@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 47
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/eOPYjNUKCo8" title="Joao Chianca's THROATY 9.8 at the 2022 Pipeline Pro (Day 3)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 47
 Against JJF, Joao Chianca found this heavy Pipe ledge and earned a near-perfect score during an afternoon of quickly-rising swell.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

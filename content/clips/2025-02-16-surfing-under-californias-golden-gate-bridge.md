@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 603
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/hqsiQ4G9o8U" title="Surfing under California's GOLDEN GATE BRIDGE!" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -20,14 +19,3 @@ https://surf-clips-tv.myspreadshop.com/
 Raw footage of surfing at San Francisco, California's Fort Point National Historic Site. 
 
 Surfline showed 6 - 10 ft. If you see a good ride or wipeout, tag the time code in the comments section!
-
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
-
-Thank you for supporting Surf Clips TV so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org.

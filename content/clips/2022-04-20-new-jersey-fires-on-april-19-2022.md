@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 41
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/EpsuLurXmR4" title="New Jersey fires on April 19, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 41
 5-8 foot faces and strong offshore winds turned on this East Coast beach in the early hours of April 19, 2022. It must've been tough since most of the best waves went unridden. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

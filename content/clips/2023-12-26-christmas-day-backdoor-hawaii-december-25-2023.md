@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 65
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/aYZu_QsXQxY" title="🎄 Christmas Day 🎄 Backdoor, Hawaii – December 25, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,14 +16,8 @@ duration: 65
 Backdoor, Pipeline saw great conditions with well-overhead waves on Christmas Day 2023. Just another day in Paradise.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline

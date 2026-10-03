@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 73
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/UT4nDsB9eHg" title="5 waves from FIRING Orange County surf – October 15, 2024" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -19,15 +18,8 @@ https://surf-clips-tv.myspreadshop.com/
 
 Midday surf turned on at this Orange County staple during a solid run of combo swell. 
 
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline

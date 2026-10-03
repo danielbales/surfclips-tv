@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 1683
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/y1PqU4YEK4A" title="4X OVERHEAD & OFFSHORE OCEAN BEACH SAN FRANCISCO! Heavy & Raw Footage" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -22,14 +21,3 @@ Surfing at Ocean Beach, San Francisco on a 4x overhead day!! According to Surfli
 This was shot throughout the morning of January 19, 2020 from Noriega Street. 
 
 If you see a good ride or wipeout, tag the time code in the comments section!
-
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
-
-Thank you for supporting Surf Clips TV so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org.

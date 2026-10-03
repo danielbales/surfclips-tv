@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 58
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/7E1cuIeLNTI" title="Griffin Colapinto at 2023 2023 Sunset Beach Pro" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 58
 The pride of San Clemente found the sweet spot on his board and showcased his powerful rail game at 2023 Sunset Beach Pro.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

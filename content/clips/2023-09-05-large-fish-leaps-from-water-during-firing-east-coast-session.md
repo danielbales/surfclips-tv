@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 27
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/kY1VI9vc-fk" title="LARGE \"FISH\" LEAPS from water during FIRING EAST COAST session" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 27
 During perhaps the day of the year at North Carolina's Outer Banks, this creature flew from the sea and went unnoticed by the crew of surfers.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

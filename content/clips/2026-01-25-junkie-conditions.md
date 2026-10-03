@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 7
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/wqwI52Up_mY" title="Junkie conditions" allowfullscreen loading="lazy"></iframe>
 </div>
-
-

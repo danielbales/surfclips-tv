@@ -9,22 +9,13 @@ type: "clips"
 clip_type: "short"
 duration: 19
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/3RY5doBl5NY" title="Why? Malibu, July 2024" allowfullscreen loading="lazy"></iframe>
 </div>
 
-#shorts 
-
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline

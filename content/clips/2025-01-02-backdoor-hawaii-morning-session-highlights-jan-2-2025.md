@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 62
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/U-QAKf93ZQ0" title="Backdoor, Hawaii morning session highlights – Jan 2, 2025" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -19,16 +18,7 @@ https://surf-clips-tv.myspreadshop.com/
 
 Solid swell continues at Backdoor Pipeline, with specialists out showing us all how it's done. 
 
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Clips TV so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline
-Music: Topher Mohr and Alex Elena - Hot Heat

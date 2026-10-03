@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 4
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/tm3deId6mrM" title="Backflip on the North Shore - Oct 2023 (near-make)" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

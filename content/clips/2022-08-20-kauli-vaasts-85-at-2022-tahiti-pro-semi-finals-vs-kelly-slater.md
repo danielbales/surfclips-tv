@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 36
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/LcgFFi_CXOk" title="Kauli Vaast's 8.5 at 2022 Tahiti Pro (Semi-finals vs Kelly Slater)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 36
 In his heat that stunned the surf world, Kauli Vaast found this gem and surfed it flawlessly to help him progress onto the Finals of the 2022 Tahiti Pro.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

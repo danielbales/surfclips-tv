@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 36
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/Y6ImSMfUAwU" title="Kauli Vaast's 6.3 at 2022 Tahiti Pro" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 36
 In the Quarterfinals of the 2022 Tahiti Pro Kauli Vaast found this 6.6 (his highest score of the heat) to help him secure the win against Matthew McGillvary.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

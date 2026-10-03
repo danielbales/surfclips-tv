@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 66
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/wgrgXp776oU" title="XL MAVERICKS – December 28, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,14 +16,8 @@ duration: 66
 Tow teams decend on Northern California's most famous big wave reef, while a massive, extra long-period W swell maxed out with light South winds.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline

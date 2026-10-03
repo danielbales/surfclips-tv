@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 8
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/OgME2p4fjHU" title="JAMIE O'BRIEN BLOWN OUT at 2025 Backdoor Shootout" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,17 +16,4 @@ duration: 8
 Surf Store Merch: 
 https://surf-clips-tv.myspreadshop.com/
 
-JOB caught this SICK Pipeline pit on day 4 of the 2025 Backdoor Shootout. 
-
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
-
-Thank you for supporting Surf Clips TV so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org. 
-
-Music: Kevin MacLeod - C-Funk - Funkorama
+JOB caught this SICK Pipeline pit on day 4 of the 2025 Backdoor Shootout.

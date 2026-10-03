@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 82
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/aK3emQzbSGA" title="ROCKIES during the 2023 PIPELINE MASTERS – December 10, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 82
 While surfers groveled for occasional 2-3 foot Pipeline and Backdoor waves, Rocky Point lit up offering hollow, fast and rippable faces.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 79
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/zrQvs6plrrE" title="🇲🇽 Combo swell hits STEAMER LANE on Cinco de Mayo 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 79
 Fun, overhead and rippable waves hit Steamer Lane on Cinco de Mayo '23! 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

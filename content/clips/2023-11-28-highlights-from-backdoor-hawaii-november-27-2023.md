@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 114
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/3mAkWwQ2EAQ" title="Highlights from Backdoor, Hawaii – November 27, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 114
 Fun, clean 6-8 foot faces hit Backdoor after the XL Black Friday swell died down. Crowd was relatively light and there were some great hollow slabs.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

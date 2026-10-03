@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 125
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/mxTbx7ObmUI" title="Golden hour bliss in New Jersey on November 9, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 125
 Casino Pier, New Jersey fires with 4-6 foot (2 meter) waves and offshore winds on November 9, 2021. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

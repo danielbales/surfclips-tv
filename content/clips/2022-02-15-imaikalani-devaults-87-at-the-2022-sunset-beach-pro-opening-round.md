@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 47
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/x-kATwr9GMI" title="Imaikalani deVault's 8.7 at the 2022 Sunset Beach Pro (Opening Round)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 47
 Imai gets his first ever CT heat win with help from this Sunset Beach wave that offered multiple hacks and the opportunity to showcase his style.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

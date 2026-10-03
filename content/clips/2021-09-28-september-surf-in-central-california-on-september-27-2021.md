@@ -9,19 +9,11 @@ type: "clips"
 clip_type: "clip"
 duration: 150
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/n_jE3yaPuNE" title="September SURF in CENTRAL CALIFORNIA on September 27, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Fun, rippable surf hits Central California on September 27, 2021. High high northwest in addition to a solid south swell offered gave eastside locals fun morning surf conditions.
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

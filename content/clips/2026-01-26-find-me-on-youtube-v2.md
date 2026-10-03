@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 7
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/jpGfuE6vBng" title="Find me on YouTube v2" allowfullscreen loading="lazy"></iframe>
 </div>
-
-

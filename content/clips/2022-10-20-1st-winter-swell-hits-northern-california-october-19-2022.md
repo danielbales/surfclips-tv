@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 104
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/NNoFKn3grVw" title="1st Winter swell hits Northern California – October 19, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 104
 Long period NW swell (296º) and secondary SSW swell with clean surface conditions produced very rippable, occ. overhead sets.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

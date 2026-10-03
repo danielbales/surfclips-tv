@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 60
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/jGledNitp04" title="Timelapse of Los Angeles wildfire (Pacific Palisades) – Jan 7, 2025" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -19,15 +18,7 @@ https://surf-clips-tv.myspreadshop.com/
 
 Shot from Sunset Beach Point before the cameras went down. Praying for all victims 🙏
 
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Clips TV so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline

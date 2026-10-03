@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 78
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/t_OGurM86Eo" title="Combo swell LIGHTS UP ORANGE COUNTY! October 14, 2024" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -19,15 +18,8 @@ https://surf-clips-tv.myspreadshop.com/
 
 Day 2 of a SOLID combo swell lit up California's most infamous novelty wave (Wedge), along with other Orange County staples. 
 
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline

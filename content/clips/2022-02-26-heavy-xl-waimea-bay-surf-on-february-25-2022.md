@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 105
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/fbtpInoawT0" title="HEAVY XL Waimea Bay surf on February 25, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 105
 Consistent XL WNW swell (295-315°) slammed the North Shore and offered 20 to 25 foot faces all day, with breezes picking up in the afternoon.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

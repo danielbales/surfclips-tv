@@ -150,6 +150,71 @@ def classify_video(title, duration_secs):
     return "clip"
 
 
+def clean_description(description, clip_type):
+    """Strip YouTube boilerplate from description. For top10s, extract surfer names."""
+    boilerplate_patterns = [
+        r"^Wilbur\s*(Kookmeyer)?\s*[Mm]erch[:\!]?\s*$",
+        r"^https?://surf-clips-tv-shop\.fourthwall\.com/?$",
+        r"^And support the channel by subscribing!?\s*$",
+        r"^[╔║╠╚╗╣╝═╦╩╬─│┌┐└┘├┤┬┴┼].*$",
+        r"^SUBSCRIBE\s+FOR\s+VIDEOS.*$",
+        r"^Thank you for supporting Surf Clips TV.*$",
+        r"^Love the ocean\?.*surfrider\.org.*$",
+        r"^Music:\s*.*$",
+        r"^#\w+",
+        r"^Subscribe.*$",
+        r"^https?://www\.youtube\.com/@.*$",
+        r"^https?://www\.instagram\.com/.*$",
+        r"^https?://www\.tiktok\.com/.*$",
+    ]
+    compiled = [re.compile(p, re.IGNORECASE) for p in boilerplate_patterns]
+    lines = description.split("\n")
+
+    surfers = []
+    location_line = ""
+
+    if clip_type == "top10":
+        # Extract surfer names from "From:" line
+        for line in lines:
+            m = re.match(r"^From:\s*(.+)$", line.strip(), re.IGNORECASE)
+            if m:
+                for name in m.group(1).split(","):
+                    name = name.strip().lstrip("@").rstrip(".")
+                    if name and name.lower() not in ("", "more"):
+                        surfers.append(name)
+
+        # Extract location summary line
+        for line in lines:
+            if re.match(r"^Surfing from .+", line.strip(), re.IGNORECASE):
+                location_line = re.sub(
+                    r"\s*in this week'?s Top 10\.?\s*$", ".", line.strip()
+                )
+                break
+
+        clean = f"\n{location_line}\n" if location_line else ""
+        return clean, surfers
+    else:
+        # Strip boilerplate, keep meaningful lines
+        clean_lines = []
+        for line in lines:
+            stripped = line.strip()
+            if not stripped:
+                continue
+            if re.match(r"^From:\s", stripped):
+                continue
+            is_junk = False
+            for pattern in compiled:
+                if pattern.match(stripped):
+                    is_junk = True
+                    break
+            if not is_junk:
+                clean_lines.append(line)
+
+        remaining = "\n".join(clean_lines).strip()
+        clean = f"\n{remaining}\n" if remaining else ""
+        return clean, []
+
+
 def generate_page(video):
     """Generate a Hugo markdown page for a single YouTube video."""
     snippet = video["snippet"]
@@ -180,7 +245,14 @@ def generate_page(video):
     # Limit tags to 10 most relevant
     safe_tags = [t for t in tags[:10] if len(t) < 50]
 
+    # Clean description
+    clean_desc, surfers = clean_description(description, kind)
+
     # Build front matter + content
+    surfer_yaml = ""
+    if surfers:
+        surfer_yaml = "surfers:\n" + "".join(f'  - "{s}"\n' for s in surfers)
+
     content = f"""---
 title: "{escape_yaml(title)}"
 date: {published}
@@ -191,14 +263,12 @@ tags: {json.dumps(safe_tags)}
 type: "clips"
 clip_type: "{kind}"
 duration: {duration_secs}
----
+{surfer_yaml}---
 
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/{video_id}" title="{escape_yaml(title)}" allowfullscreen loading="lazy"></iframe>
 </div>
-
-{description}
-"""
+{clean_desc}"""
 
     CONTENT_DIR.mkdir(parents=True, exist_ok=True)
     filename.write_text(content)

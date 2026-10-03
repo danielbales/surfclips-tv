@@ -9,24 +9,13 @@ type: "clips"
 clip_type: "short"
 duration: 6
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/_3WXeTxk3jk" title="New Jersey perfection - January 7, 2024" allowfullscreen loading="lazy"></iframe>
 </div>
 
-#shorts 
-
-Music: The Tower of Light - Stuck In The Air 
-
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline

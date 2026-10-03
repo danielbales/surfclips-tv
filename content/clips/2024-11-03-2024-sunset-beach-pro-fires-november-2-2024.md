@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 167
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/c6Uf7ItEFZI" title="2024 SUNSET BEACH PRO FIRES – November 2, 2024" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -19,15 +18,8 @@ https://surf-clips-tv.myspreadshop.com/
 
 2024 Sunset Beach Pro surfers took on challenging conditions that offered occasional barrels and plenty of open face. 
 
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline

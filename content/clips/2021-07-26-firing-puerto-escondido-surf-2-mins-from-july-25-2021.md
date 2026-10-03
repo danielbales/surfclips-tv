@@ -9,17 +9,11 @@ type: "clips"
 clip_type: "clip"
 duration: 164
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/dZeZ69tUYBo" title="FIRING Puerto Escondido surf! 2-mins from July 25, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Lucas “Chumbo” Chianca, Coco Nogales and other big wave tube masters were out charging Puerto Escondido, Oaxaca Mexico on the morning of July 25, 2021. 
 

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 54
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/kWClRPFhPQU" title="Wave of the Day: Mason Ho at Backdoor– December 26, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 54
 On a 8-12 foot day where Mason found himself on set wave after set wave, here he goes deep and just does what he's been doing since he was on a surfboard. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

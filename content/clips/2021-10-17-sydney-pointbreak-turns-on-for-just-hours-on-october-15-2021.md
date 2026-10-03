@@ -9,20 +9,12 @@ type: "clips"
 clip_type: "clip"
 duration: 109
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/uQ0PZM_d6XQ" title="Sydney POINTBREAK TURNS ON for just hours on October 15, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Conditions came together for just a few hours at this Sydney (Manly) pointbreak on October 15, 2021. 
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subcribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

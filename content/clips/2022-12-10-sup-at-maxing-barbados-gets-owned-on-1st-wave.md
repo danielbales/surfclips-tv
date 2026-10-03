@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 112
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/VQMvPPE6pYo" title="SUP at MAXING Barbados gets OWNED on 1st wave" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 112
 This poor bloke decided to paddle out on a stand up paddleboard in 10-15 foot maxing Soup Bowl, only to get decimated on his 1st wave, then packs it up for the day. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 73
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/Rzgbeta82jY" title="Solid SW swell peaks at Waikiki on August 21, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 73
 Healthy dose of SSW-S swell peaked across the South Shore, providing easily overhead sets at reef breaks like this. It looked pretty darn fun!
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

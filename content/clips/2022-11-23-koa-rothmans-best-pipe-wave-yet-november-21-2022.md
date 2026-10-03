@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 52
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/ARHzkrzhc3s" title="Koa Rothman's BEST PIPE WAVE YET – November 21, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 52
 North Shore hellman Koa Smith dropped into this dream was got blown out during this am pipeline session. Shortly afterward he said it was "his best pipe wave yet". 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

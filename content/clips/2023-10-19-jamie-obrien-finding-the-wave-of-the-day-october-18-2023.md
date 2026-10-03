@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 9
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/vRedYC-oYd0" title="Jamie O'Brien finding the wave of the day - October 18, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

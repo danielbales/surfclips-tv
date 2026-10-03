@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 36
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/WYbVfRFKDh8" title="Mason Ho's DEEP Pipeline Masters tube (Best wave of the morning)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 36
 Tube magician and Hawaiian legend Mason Ho found this jewel during his heat 3 performance. No one thought he's make this one, and judges rewarded him with a 26 (9 average across 3 judges).
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

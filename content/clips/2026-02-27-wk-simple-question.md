@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 29
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/exXnBmInPms" title="WK Simple Question" allowfullscreen loading="lazy"></iframe>
 </div>
-
-

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 6
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/zUcpZYgRW38" title="Malibu CHAOS on Memorial Day 2023" allowfullscreen loading="lazy"></iframe>
 </div>

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 91
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/mEkTwnsLq8A" title="Trestles combo swell on April 26, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 91
 Slow rising, long-period SSW + shorter-period NW swell with light SSW winds produced clean conditions at Trestles for a pretty packed lineup. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

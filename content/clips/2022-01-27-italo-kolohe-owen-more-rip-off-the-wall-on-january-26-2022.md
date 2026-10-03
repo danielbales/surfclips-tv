@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 120
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/DLXOi3fqxg4" title="Italo, Kolohe, Owen & more rip Off the Wall on January 26, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 120
 With occassional overhead waves coming into the 7 mile miracle, Italo Ferreira, Kolohe Andino, Owen Wright and others tear Off the Wall the pieces on January 26, 2022. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 80
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/XAVsEqpKsLw" title="20-25 foot PUERTO - May 21, 2023 (XL cond's w/Nate Florence & others)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 80
 Peaking SW swell (194º) slammed the Mexican Pipeline, offering XL surf with faces in the 20-25 foot range. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

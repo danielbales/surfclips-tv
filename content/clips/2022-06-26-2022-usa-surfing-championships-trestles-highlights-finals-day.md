@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 134
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/iGYeKmHX1fw" title="2022 USA Surfing Championships Trestles highlights (Finals Day)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 134
 Fun-zone SW swell (214º) created head-high waves, while bumpy faces from a moderate onshore flow ruffled faces but still allowed surfers to unleash.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 70
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/aRf4yohHvOk" title="Kelly Slater's highest scoring wave at 2022 Gold Coast Pro (R 48)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 70
 In his heat against Leonardo Fiorvanti & Cam Richards, the GOAT Kelly Slater snags this multi-hack ride to earn a 7.3. He was unable to progress in the contest unfortunately.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

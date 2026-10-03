@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 50
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/7MEWlOT1pyo" title="BACKDOOR shows SIGNS OF LIFE - October 4, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 50
 Fresh WNW-NW swell (305-315°) lit up the North Shore while ideal ENE wind conditions groomed faces this morning. Waves were inconsistent but SOLID when they arrived.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 112
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/LXpRodmjv6A" title="Teahupo'o, Tahiti on September 29, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 112
 Good size SSW swell (198º) rolled in as winds were moderate offshore NNE. End result was well-groomed faces on consistent overhead surf.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

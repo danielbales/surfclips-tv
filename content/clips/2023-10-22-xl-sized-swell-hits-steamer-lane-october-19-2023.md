@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 91
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/Gcn_1ePhjzw" title="XL-sized swell hits STEAMER LANE - October 19, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 91
 As Typhoon Bolaven hit Maverick's, Santa Cruz also saw big, cleaner sets thanks to a large WNW swell and glassy conditions.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

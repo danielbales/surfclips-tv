@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 102
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/N1zc6X5-Cco" title="Ala Moana Bowls at 6-10 foot (overlapping swells)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 102
 Large, overlapping, long period SSW swells (200-185°, 16-18+ seconds) filled in and were accompanied by ENE trade winds, grooming faces and offering a memorable day of South Shore surf.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

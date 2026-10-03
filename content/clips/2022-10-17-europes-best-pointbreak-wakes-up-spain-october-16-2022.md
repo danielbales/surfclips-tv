@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 166
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/5oU29y0bi-I" title="Europe's best pointbreak wakes up! – Spain, October 16, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 166
 Solid mid period waves from the NW (305º) and light SSW winds create clean conditions and a fall session to remember.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

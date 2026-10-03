@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 10
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/zXlLwU2GS8M" title="Kalani David Backdoor barrel to air combo" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

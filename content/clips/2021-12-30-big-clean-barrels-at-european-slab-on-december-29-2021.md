@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 145
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/k7_jowD2J68" title="Big, clean BARRELS at EUROPEAN SLAB on December 29, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 145
 An Ericeira, Portugal slab turned on for just hours and offered 3 lucky surfers 8-12 foot (3-4 meter) waves and an occasional tube.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

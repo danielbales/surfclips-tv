@@ -9,20 +9,8 @@ type: "clips"
 clip_type: "short"
 duration: 9
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/_upSryF-Mgw" title="Wilbur Kookmeyer's Mystery Surfboard" allowfullscreen loading="lazy"></iframe>
 </div>
 
-Wilbur merch!
-https://surf-clips-tv-shop.fourthwall.com/
-
 Wilbur Kookmeyer is back on a sustainable surfboard.
-
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-
-Thank you for supporting Surf Clips TV!

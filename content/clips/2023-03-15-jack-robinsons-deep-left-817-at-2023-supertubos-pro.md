@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 42
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/oIJnFGr4js8" title="Jack Robinson's deep left (8.17) at 2023 Supertubos Pro" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 42
 In this semi-final heat, Jack Robinson found this solid left pit and made easy work of it, helping him move onto the finals. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 282
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/PfU91DOc2x4" title="XL surf at WAIMEA BAY!! on December 5, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 282
 10-20 knot SW winds + 3x overhead NNW swell offered large & dangerous surf at The Bay on December 5, 2021. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 17
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/0PGQx-QQkpo" title="Tech Support Blues" allowfullscreen loading="lazy"></iframe>
 </div>
-
-

@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 7
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/MePh6iT6kJ8" title="Hawaiian Supaman" allowfullscreen loading="lazy"></iframe>
 </div>
-
-

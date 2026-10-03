@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 57
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/FXR1xYbT34g" title="Surfing Pipeline backwash out to sea" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 57
 On an 8-12 foot Pipe day, this surfer pulled into a pretty solid PIpe wave, didn't make it, then on his paddle back out caught a backwash wave to help out his cause. Work smart not hard! 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

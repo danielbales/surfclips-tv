@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 39
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/bPUYpwFnKxw" title="Kelly Slater barrel attempt at 2023 Pipeline masters" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 39
 Kelly Slater's barrel attempt at the 2023 Pipeline Masters shows why he's still one of the best surfers in the world.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

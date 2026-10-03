@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 8
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/xlg5mbQOyxg" title="Hardcore Waterman" allowfullscreen loading="lazy"></iframe>
 </div>
-
-

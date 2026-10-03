@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 68
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/P3dno8YWT3k" title="2 massive waves at Mavericks on Opening Day 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 68
 Occasional 20ft faces slammed Pillar Point on January 11, 2022, offering these to massive waves to big wave surfers.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

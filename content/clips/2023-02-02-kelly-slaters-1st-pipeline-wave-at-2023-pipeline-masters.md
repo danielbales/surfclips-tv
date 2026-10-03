@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 38
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/RiYfCel710U" title="Kelly Slater's 1st Pipeline wave at 2023 Pipeline Masters" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 38
 Kelly Slater gets his feet in his wax on the 1st day of competition at the 2023 Pipeline Masters.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

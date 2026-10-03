@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 117
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/bLso5BwYaeo" title="🎄 Christmas Day DELIVERS firing surf to MUNDAKA surfers" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 117
 6 foot faces (2 meter) waves graced Mundaka surfers on Christmas Day, 2021. Crowd was light and wind was offshore.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

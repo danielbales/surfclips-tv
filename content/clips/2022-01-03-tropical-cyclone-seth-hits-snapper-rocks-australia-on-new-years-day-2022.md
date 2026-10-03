@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 121
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/MPMm8_hwb7c" title="Tropical Cyclone Seth hits Snapper Rocks, Australia on New Year's Day, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 121
 A large powerful & solid East swell produced by Tropical Cyclone Seth provided double overhead plus + sets on January 2, 2022. This footage is pre-peak of the swell.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

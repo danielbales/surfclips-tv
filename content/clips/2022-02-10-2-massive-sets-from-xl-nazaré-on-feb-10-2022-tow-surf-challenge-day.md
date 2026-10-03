@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 77
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/LrBRC5RZqOI" title="2 massive sets from XL Nazaré on Feb 10 (2022 Tow Surf Challenge day)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 77
 With the fog coming and going throughout the day of the the Nazaré Tow Surfing Challenge, tracking down these 15-20 foot (5-6 meter) waves were challenging. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

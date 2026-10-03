@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 57
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/9sMv5QYZ_II" title="Moana Jones' Pipe barrel at the 2022 Backdoor Shootout on Day 2" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 57
 Wahines charged Pipeline and Backdoor on Day 2 of the 2022 Da Hui Backdoor Shootout, with Moana Jones leading the charge.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

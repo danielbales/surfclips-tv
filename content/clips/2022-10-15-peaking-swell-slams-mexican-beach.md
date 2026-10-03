@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 67
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/xYm3G0Lz9d0" title="Peaking swell slams Mexican beach" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 67
 October 15 brought good-size, peaking SSW swell (209º) and clean morning winds light Zicatela up with easily 2x overhead tubes.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 54
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/qA_6hdXHWNE" title="Firing (& crowded) Snapper Rocks on October 13, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -18,12 +17,5 @@ Strong Mid period East swell (90º@12s) provided well overhead surf at the point
 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

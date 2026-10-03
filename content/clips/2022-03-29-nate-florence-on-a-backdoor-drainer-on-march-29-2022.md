@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 40
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/bY2DB4sBSKw" title="Nate Florence on a BACKDOOR DRAINER on March 29, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 40
 5-8 foot faces hit the North Shore of Hawaii on what could be one the last swells of the 2022 winter season. Nasty Nate wasn't letting this one get by! 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

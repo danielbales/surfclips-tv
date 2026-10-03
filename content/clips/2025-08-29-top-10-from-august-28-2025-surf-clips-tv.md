@@ -8,27 +8,15 @@ tags: ["Top 10 Surf", "Jack Robinson", "Surf n Sea Bali", "Koa Rothman", "Ben Gr
 type: "clips"
 clip_type: "top10"
 duration: 198
+surfers:
+  - "Jack Robinson"
+  - "Surf n Sea Bali"
+  - "Koa Rothman"
+  - "Ben Gravy"
+  - "Surfing Visions"
+  - "Waida Bros"
+  - "Jamie O'Brien"
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/WvQs_FhdgZY" title="TOP 10 from August 28, 2025 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>
 </div>
-
-Surf Store Merch: 
-https://surf-clips-tv.myspreadshop.com/
-
-Stunning surfing from Oz, Hawaii, Tahiti, and more in this week's Top 10. Enjoy! 
-
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
-
-Thank you for supporting Surf Clips TV so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org. 
-
-Music: Joel Cummins, Kris Myers, Andy Farag - Chasing the Dragons
-From:  Jack Robinson, Surf n Sea Bali, Koa Rothman, Ben Gravy, Surfing Visions, Waida Bros, Jamie O'Brien

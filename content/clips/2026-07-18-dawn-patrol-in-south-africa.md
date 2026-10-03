@@ -9,20 +9,8 @@ type: "clips"
 clip_type: "short"
 duration: 18
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/0oeBzfHjFxk" title="Dawn Patrol in South Africa" allowfullscreen loading="lazy"></iframe>
 </div>
 
-Wilbur merch!
-https://surf-clips-tv-shop.fourthwall.com/
-
 Scotty Know Surf on a heater! Just look at those colors
-
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-
-Thank you for supporting Surf Clips TV!

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 37
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/HF6ovuLG7z8" title="Billy Kemper's FLAWLESS PIPE PIT at 2023 Pipeline Masters (Day 1)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,14 +16,8 @@ duration: 37
 In the first heat of the day, Billy Kemper finds and rides a perfect Pipe wave. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline

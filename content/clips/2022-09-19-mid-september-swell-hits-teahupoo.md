@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 82
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/ur-_qmVgzU8" title="Mid-September swell hits Teahupo'o" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 82
 New/solid SW-SSW swell (206º) built in, providing overhead to occasional well overhead sets at the End of the Road. Clean conditions were on tap thanks to moderate offshore ENE wind. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

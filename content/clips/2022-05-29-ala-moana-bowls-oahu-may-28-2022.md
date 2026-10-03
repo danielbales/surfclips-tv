@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 110
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/0RvWLtdircw" title="Ala Moana Bowls, Oahu - May 28, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 110
 Long period SSW swell (200-190°) peaked on a mostly overcast day with East winds 10 to 15 mph. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

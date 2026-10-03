@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 43
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/yMEk5dHigQw" title="WK Save The Ferrets" allowfullscreen loading="lazy"></iframe>
 </div>
-
-

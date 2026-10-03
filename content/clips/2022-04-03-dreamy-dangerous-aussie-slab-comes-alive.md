@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 83
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/dy07uLMUXZY" title="Dreamy (& dangerous) Aussie slab comes alive" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 83
 6-8 foot faces and offshore winds lit up this Sydney slab on April 3, 2022. Bodyboarders were out in force and a few surfers grabbed some hollow ones. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

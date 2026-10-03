@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 33
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/xqzM96R66SE" title="TAYLOR KNOX destroys left at LOWERS during 2024 Board Riders Pro" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -20,14 +19,8 @@ https://surf-cam-rewind.creator-spring.com/
 At the ripe age of 53 San Diego Legend destroys this clean rippable Lowers left during the 2024 Board Riders Pro. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline

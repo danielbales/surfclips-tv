@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 25
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/yTVaBqmPOgE" title="Harry Bryant Backdoor tube at 2022 Pipeline Masters" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 25
 Harry Byrant lucked into this hefty Backdoor barrel during the 2022 Pipeline Masters on day 2 during the morning. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

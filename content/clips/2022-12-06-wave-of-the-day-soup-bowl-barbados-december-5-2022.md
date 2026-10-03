@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 49
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/XnLN-i3E9Pw" title="Wave of the Day: Soup Bowl, Barbados – December 5, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 49
 An epic day of surf at Barbados' Soup Bowl resulted in this lucky surfer finding a solid tube during his afternoon session.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

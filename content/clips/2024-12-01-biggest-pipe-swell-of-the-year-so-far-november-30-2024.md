@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 116
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/oVI-hHbaWas" title="BIGGEST Pipe swell of the year (so far) – November 30, 2024" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -19,16 +18,7 @@ https://surf-clips-tv.myspreadshop.com/
 
 Shot of longer period energy from the NW (300-330°) created amazing conditions and large waves at the North Shore's most famous reef.
 
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Clips TV so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline
-Music: Anno Domini Beats - Still Standing

@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 6
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/gO_lfVc5z30" title="Caribbean Dream Drainer" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

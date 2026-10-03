@@ -9,20 +9,12 @@ type: "clips"
 clip_type: "clip"
 duration: 151
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/9UAXafvNxvs" title="FIRING SURF at SNAPPER ROCKS!!! on September 7, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 The day after the swell peaked at Snapper Rocks, Australia was still looking quite fun, with head high barreling rights steamrolling down the sandbank. 
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

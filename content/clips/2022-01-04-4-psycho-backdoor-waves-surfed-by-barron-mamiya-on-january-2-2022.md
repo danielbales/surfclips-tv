@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 83
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/TBoDekAoJ-Q" title="4 psycho Backdoor waves surfed by BARRON MAMIYA on January 2, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 83
 During a solid NW swell, North Shore phenom snagged these 4 Backdoor waves. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

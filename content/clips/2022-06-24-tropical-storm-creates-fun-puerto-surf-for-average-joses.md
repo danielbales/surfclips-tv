@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 49
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/XUC_E1tRvgY" title="Tropical storm creates fun Puerto surf for average Jose's" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 49
 SW swell  (221º) + smaller tropical swell (193º)and light AM winds produced fun waves for average Joses on June 23, 2022. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

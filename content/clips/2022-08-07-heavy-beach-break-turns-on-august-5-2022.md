@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 59
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/1V6PO-oIlhs" title="Heavy beach break turns on August 5, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 59
 SSW/S swell (202º) with offshore AM winds lit up the Mexican Pipeline on August 5, 2022. Winds switched pretty early but there were some dawn patrol gems. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

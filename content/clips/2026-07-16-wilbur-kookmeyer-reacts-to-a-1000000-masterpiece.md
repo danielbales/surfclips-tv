@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 52
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/T2xWCk0BNfk" title="Wilbur Kookmeyer reacts to a $1,000,000 \"Masterpiece\" 🎨🏄‍♂️" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -22,13 +21,4 @@ Drop a comment with your favorite piece of art from the gallery!
 
 🔔 Subscribe to Surf Clips TV for more original animated surf comedy, character shorts, and weekly surfing highlights!
 
-Wilbur merch!
 https://surf-clips-tv-shop.fourthwall.com/.
-
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-
-Thank you for supporting Surf Clips TV!

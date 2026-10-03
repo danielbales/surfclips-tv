@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 166
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/S17Fua47F-g" title="California's MOST CROWDED surf spot?" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 166
 If you think your break is crowded, the infamous Code Red 2 swell that hit California brought out serious crowds, but here at Malibu it was just business as usual.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

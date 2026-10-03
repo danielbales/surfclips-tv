@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 529
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/KjumVZDyJ5E" title="Peaking swell + Backdoor perfection on January 2, 2022 (Full day highlights)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 529
 Overhead to occasional double overhead swell hit the 7-mile miracle on January 2, 2022. Water was brown but conditions were nearly flawless. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

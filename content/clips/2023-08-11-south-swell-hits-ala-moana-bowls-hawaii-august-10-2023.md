@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 81
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/2DEEew67IZw" title="South swell hits Ala Moana Bowls, Hawaii – August 10, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 81
 Pulse of SSW swell energy provided some fun sized albeit rather inconsistent surf to the South Shore on this picture perfect morning. Wave heights were occasionally hitting shoulder to head high+.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

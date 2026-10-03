@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 51
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/IQ-foFc3fi4" title="Mason Ho at Ala Moana Bowls on May 4, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 51
 Mason Ho enjoying long period SSW-S swells (16-18+ seconds) on the South Shore of Oahu.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

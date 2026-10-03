@@ -9,17 +9,11 @@ type: "clips"
 clip_type: "clip"
 duration: 100
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/XtPHnz0D-BQ" title="Surfer's DREAM (6 - 8 foot) Teahupo'o, Tahiti on August 5, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Overhead glass provided the Teahupo'o local crew with Tahitian perfection on August 5, 2021. 
 

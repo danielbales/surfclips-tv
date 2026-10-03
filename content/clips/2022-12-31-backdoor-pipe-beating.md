@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 9
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/Z0Y_PK-RXHI" title="Backdoor Pipe beating" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

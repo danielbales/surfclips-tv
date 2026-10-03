@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 125
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/a6Cgj9zBVUc" title="Snapper Rocks SUPERSESSION – January 12, 2024" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,14 +16,8 @@ duration: 125
 Good pulse of 8-9s East swell and clean SE winds provided early birds with draining, heavy, spitting pits on the first great swell of 2024.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline

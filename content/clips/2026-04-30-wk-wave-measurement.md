@@ -9,20 +9,8 @@ type: "clips"
 clip_type: "clip"
 duration: 98
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/esO3k0fl-YE" title="WK Wave Measurement" allowfullscreen loading="lazy"></iframe>
 </div>
 
-Wilbur merch!
-https://surf-clips-tv-shop.fourthwall.com/
-
 The alternative surfboard market has officially peaked. We've got yoga mats, compost, and dairy products hitting the lineup... meanwhile, Wilbur's just happy his board floats. 🤷‍♂️🌊
-
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-
-Thank you for supporting Surf Clips TV!

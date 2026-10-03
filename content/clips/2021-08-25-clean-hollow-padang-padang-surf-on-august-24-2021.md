@@ -9,17 +9,11 @@ type: "clips"
 clip_type: "clip"
 duration: 112
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/xF86iBK2I1c" title="CLEAN + HOLLOW!!! PADANG PADANG surf on August 24, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Window for surfing was extremely limited (this was the ONLY real set of the day basically) but when they came in the waves were amazing for those that were out on August 24, 2021.
 

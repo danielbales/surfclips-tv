@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 78
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/p1QVpZ91bCA" title="Waimea Bay the day THE EDDIE was expected to run" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 78
 The day The Eddie was expected to run (but didn't) still served up some solid Waimea Bay surf. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

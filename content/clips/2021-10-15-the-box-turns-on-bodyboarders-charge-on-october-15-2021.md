@@ -9,20 +9,12 @@ type: "clips"
 clip_type: "clip"
 duration: 121
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/VbCcnoGHdCA" title="THE BOX TURNS ON!! & bodyboarders CHARGE on October 15, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Offshore winds and solid swell at Main Beach Margaret River meant heavy slab surf for the local bodyboard contingent in west oz! 
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 54
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/g5RzbMpvTS4" title="3 waves: MASON HO at Rocky Point – October 26, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 54
 Mason Ho was on fire this am, sending it on nearly every wave he caught at Rocky Point.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

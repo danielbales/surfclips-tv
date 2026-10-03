@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 7
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/cNFzd9sHyzw" title="Backdoor barrel (funny near-make!)" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

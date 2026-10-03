@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 42
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/22GvAoHgeuI" title="Big, heavy Teahupo'o (May Day weekend swell)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 42
 10-15 foot faces on the biggest sets of the day meant a borderline tow-in day at the End of the Road. Winds were stiff but in an ideal direction. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

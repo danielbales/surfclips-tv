@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 113
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/TDW0mKQY6ZA" title="XL PIPELINE swell highlights – November 25, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 113
 XL NW swell provided double overhead sets still with occasional triple overhead high faces rolling in at Pipeline, and breaking on the outer reefs from time to time
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 50
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/90LBIP954wY" title="Zeke Lau's LAYBACK TAILSLIDE at 2023 Sunset Beach Pro (Day 2)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 50
 In his elimination round, Ezekiel Lau destroys this unsuspecting lip during his heat at 2023 Sunset Beach Pro. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

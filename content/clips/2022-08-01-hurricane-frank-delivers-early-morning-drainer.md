@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 35
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/qLrMwN7SygM" title="Hurricane Frank DELIVERS early morning drainer" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 35
 Very low morning tide (0.2' @ 6:20am) with clean surface conditions along with combo South swells (SW swell + building SSE tropical swell from Tropical Storm Frank) offered up this dawn patrol 10/10 to this lucky Orange County surfer.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

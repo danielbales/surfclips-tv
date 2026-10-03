@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 70
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/o2TM5ZOXbXA" title="Filipe Toledo tube-turn-air combo at Backdoor" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 70
 Filipe Toledo getting in his reps at Backdoor on a slightly overhead day on February 11, 2022.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

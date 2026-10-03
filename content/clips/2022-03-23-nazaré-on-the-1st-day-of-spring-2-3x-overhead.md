@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 70
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/HgAuBCYKVmQ" title="Nazaré on the 1st day of Spring (2-3x overhead)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 70
 A massive WNW swell hit Nazaré, Portugal on March 20, 2022. Wave faces were 13-18 foot and a local big wave tow-in surf team took advantage before winds switched.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

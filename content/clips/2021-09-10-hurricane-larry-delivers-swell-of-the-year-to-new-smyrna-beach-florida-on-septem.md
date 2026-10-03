@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 188
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/mtylf_Tb1r0" title="Hurricane LARRY DELIVERS!!! Swell of the YEAR to NEW SMYRNA BEACH, Florida on September 10, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,14 +16,7 @@ duration: 188
 https://surf-clips-tv.myspreadshop.com/
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Locals and pros alike were ripping as Hurricane Larry's energy provided barrels, air sections and more on September 10, 2021. 
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subcribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 69
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/3dPZIO3QU2M" title="*New Angle* Power surfing at Hale'iwa, Hawaii – December 4, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 69
 NW swell peaked provided some SOLID surf with favorable ENE wind conditions on tap for this morning session. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 11
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/cYEp_Ht1bnk" title="Mason Ho doing his thing at a shallow reef" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

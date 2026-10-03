@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 82
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/kC-b9HzJ1O4" title="Pros CHARGING Supertubos - March 3, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 82
 8-10 foot (3 meter) roll-in takeoffs turned into shallow pits for the world's best surfers before the 2023 Supertubos pro.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

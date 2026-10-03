@@ -9,20 +9,12 @@ type: "clips"
 clip_type: "clip"
 duration: 126
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/0OvxnV_Iqyc" title="1st day of SEPTEMBER 2021 FIRES!!! at Teahupo'o, Tahiti" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 6 - 8 ft (2-3m) sets were inconsistent but clean and powerful on September 1, 2021. 
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subcribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

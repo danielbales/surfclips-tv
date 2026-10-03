@@ -9,17 +9,11 @@ type: "clips"
 clip_type: "clip"
 duration: 87
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/qSMA3UiqlvI" title="HURRICANE HENRI lands in NEW YORK!!! on August 22, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Surfable windows were short, but there were some moments of windswell bliss for those who made it to Lido Beach, New York on August 22, 2021.
 

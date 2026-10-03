@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 9
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/5IoaPTW6ya4" title="Seth Moniz's long Backdoor pit at the 2024 Backdoor Shootout" allowfullscreen loading="lazy"></iframe>
 </div>
-
-

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 131
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/Wx0EXstMq3o" title="Combo swell at Lower Trestles, California on August 25, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 131
 Fun mix of SW/SSW swells (206º & 178º), plus a small NW swell offered very rippable faces for the packed crowd at Lowers.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

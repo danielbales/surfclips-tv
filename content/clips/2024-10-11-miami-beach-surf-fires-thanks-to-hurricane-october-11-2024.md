@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 150
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/8fELbGIREAY" title="MIAMI BEACH surf FIRES thanks to Hurricane – October 11, 2024" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -19,15 +18,8 @@ https://surf-clips-tv.myspreadshop.com/
 
 Hurricane Milton delivered a steep angled NNE swell to South Beach Miami, providing well-overhead and hollow surf to Florida surfers. 
 
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 166
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/uPKZyuPj3Sc" title="XL-sized PIPELINE FIRES – October 18, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 166
 During a short window of midday surf, wave heights hovering in the 18-20 foot face range, with even larger sets, hit the Oahu's Pipeline. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

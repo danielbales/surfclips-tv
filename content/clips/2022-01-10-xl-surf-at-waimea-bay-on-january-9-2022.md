@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 89
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/uAY6SS67O_I" title="XL surf at WAIMEA BAY on January 9, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 89
 An XL WNW swell produced double to triple overhead high faces with larger sets nearing the 20 - 25 foot range on the morning of January 9, 2022. Winds were light all day and crowd was thick.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

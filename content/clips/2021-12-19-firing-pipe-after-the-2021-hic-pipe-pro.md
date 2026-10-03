@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 237
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/WGTvZzY_cUg" title="FIRING PIPE after the 2021 HIC Pipe Pro!!" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 237
 Plenty of 2x overhead swell hit Bonzai Pipeline after the HIC Pipe Pro contest on December 17, 2021. Made for quite an evening session!
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

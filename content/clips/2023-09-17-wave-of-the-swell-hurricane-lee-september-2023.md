@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 13
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/O7AF5SZWAcA" title="Wave of the swell !!(?) Hurricane Lee September 2023" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

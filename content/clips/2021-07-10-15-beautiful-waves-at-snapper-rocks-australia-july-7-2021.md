@@ -9,17 +9,11 @@ type: "clips"
 clip_type: "clip"
 duration: 4207
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/k9Vzs_M1Ok8" title="[1/5] BEAUTIFUL WAVES at Snapper Rocks, AUSTRALIA | July 7, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 As the sun came up, near-perfect barrels rolled down the beach. Talk about a surfer's paradise! 
 

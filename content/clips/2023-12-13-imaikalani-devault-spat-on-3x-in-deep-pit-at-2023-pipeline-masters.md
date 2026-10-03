@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 43
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/rurYOqdFuII" title="Imaikalani DeVault spat on 3x in deep pit at 2023 Pipeline Masters" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,14 +16,8 @@ duration: 43
 Imaikalani finds a multi-section and deep Backdoor barrel on the last day at the 2023 Pipeline Masters.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline

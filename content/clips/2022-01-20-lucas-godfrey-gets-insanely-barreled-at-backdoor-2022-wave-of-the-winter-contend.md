@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 72
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/DTbJQ9GRxR4" title="Lucas Godfrey gets insanely barreled at Backdoor (2022 Wave of the Winter contender?)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -20,12 +19,5 @@ https://surf-clips-tv.myspreadshop.com/
 Lucas Godfrey parts the sea & scores a wave of a lifetime (for most of us) at Backdoor on January 20, 2022. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

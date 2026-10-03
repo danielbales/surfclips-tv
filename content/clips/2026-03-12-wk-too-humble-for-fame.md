@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 45
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/KL2-DSQQtfA" title="WK Too Humble For Fame" allowfullscreen loading="lazy"></iframe>
 </div>
-
-

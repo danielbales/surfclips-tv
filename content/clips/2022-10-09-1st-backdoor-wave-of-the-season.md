@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 12
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/HCFTwUVLnQg" title="1st BACKDOOR wave of the season" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 12
 NNW-N swell picked up enough (7@11 355º) to offer this lucky surfer the 1st quick barrel ride of the 2022-2023 winter season. Pray for a great upcoming winter!
  
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

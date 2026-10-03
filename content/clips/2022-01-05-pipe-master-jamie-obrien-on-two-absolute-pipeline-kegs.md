@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 60
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/ks4RR_78pSo" title="Pipe Master (Jamie O'Brien) on two absolute Pipeline kegs" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -20,12 +19,5 @@ https://surf-clips-tv.myspreadshop.com/
 January 2, 2022 was a memorable day at both Backdoor and Pipeline, with Pipeline Master Jamie O'Brien finding these Pipe gems. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

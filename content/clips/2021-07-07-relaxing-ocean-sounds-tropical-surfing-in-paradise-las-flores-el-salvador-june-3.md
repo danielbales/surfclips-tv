@@ -9,17 +9,11 @@ type: "clips"
 clip_type: "clip"
 duration: 212
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/mgldUhPbsZs" title="RELAXING Ocean Sounds & TROPICAL surfing in PARADISE! Las Flores, El Salvador June 30, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Las Flores, El Salvador had some beautiful waves, and surfers were out enjoying warm sun! 
 

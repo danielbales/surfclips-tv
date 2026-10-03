@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 57
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/79p7VYeW2M0" title="Wave of the Day, John John Florence – December 28, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 57
 A fresh run of solid WNW swell (307º) moved in this afternoon and peaked in the late evening, offering John John Florence this deep, spitting Backdoor pit.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

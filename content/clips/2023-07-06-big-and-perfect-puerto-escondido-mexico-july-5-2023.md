@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 88
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/wkVh2Bmr2ws" title="BIG (and perfect) Puerto Escondido, Mexico – July 5, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 88
 Combo souths produced occasional 15-18 foot overhead waves at Puerto Escondido.  
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

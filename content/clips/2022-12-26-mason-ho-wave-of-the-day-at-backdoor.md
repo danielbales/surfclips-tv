@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 8
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/81VumLSV4i4" title="Mason Ho Wave of the day at Backdoor" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

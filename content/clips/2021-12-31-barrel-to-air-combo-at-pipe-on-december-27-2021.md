@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 73
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/1-nn0nb3gEg" title="BARREL TO AIR combo at PIPE on December 27, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 73
 Surfer blasts a stock-standard barrel to air combo at Pipeline in great conditions on December 27, 2021.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

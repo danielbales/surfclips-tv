@@ -9,22 +9,14 @@ type: "clips"
 clip_type: "clip"
 duration: 245
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/Lzo72gKfPPA" title="PERFECT Puerto Escondido, Mexico, July 15, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Even though the swell was dropping, some epic rides went down at the Mexican Pipeline on July 15, 2021. Enjoy!
 
 Thank you for supporting Daily Surf Clips 🌊  so we can continue to provide you with free content!
 
 Footage courtesy of Bungalos Zicatela.
-
-#MexPipe #SurfCamRewind

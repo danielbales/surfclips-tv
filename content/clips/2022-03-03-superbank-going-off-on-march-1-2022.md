@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 155
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/3VKafb5RZlM" title="Superbank going off on March 1, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 155
 Solid ESE swell hits the Superbank on the Gold Coast of Australia and provides multiple tube sections in brown murky water.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

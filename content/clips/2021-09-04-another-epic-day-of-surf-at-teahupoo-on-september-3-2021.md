@@ -9,20 +9,12 @@ type: "clips"
 clip_type: "clip"
 duration: 84
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/FGsngV9ntUk" title="Another EPIC DAY of SURF at TEAHUPO'O!!! on September 3, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Clean, 6 - 8 foot (2 - 3 meter) slabs rolled in for the locals at Teahupo'o, Tahiti on September 3, 2021.
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

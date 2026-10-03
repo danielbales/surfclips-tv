@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 111
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/h1PAOdN04Ms" title="Early birds find Padang perfection" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 111
 Well overhead for other SW swell (215º) with a light N/ENE wind created lightly textured conditions, but surf down along the Bukit saw moments of perfection.
  
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

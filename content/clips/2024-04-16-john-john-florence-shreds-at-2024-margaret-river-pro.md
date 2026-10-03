@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 10
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/Jvl4pZs9wqk" title="John John Florence shreds at 2024 Margaret River Pro" allowfullscreen loading="lazy"></iframe>
 </div>
-
-

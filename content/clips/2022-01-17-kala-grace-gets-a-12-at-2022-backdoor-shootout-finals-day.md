@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 63
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/s3hL2ayFlU0" title="Kala Grace gets a 12 at 2022 Backdoor Shootout (Finals day)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -20,12 +19,5 @@ https://surf-clips-tv.myspreadshop.com/
 Kala Grace scored the highest score of the 2022 Da Hui Backdoor Shootout.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

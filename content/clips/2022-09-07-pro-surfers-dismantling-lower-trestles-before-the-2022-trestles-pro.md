@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 140
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/N5UlBg1vxJs" title="Pro surfers dismantling Lower Trestles before the 2022 Trestles Pro" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 140
 Nice size on tap before the 2022 Trestles Pro, thanks to a holding SSW swell (202º) provides chest-head high surf for the likes of Kelly Slater, Jack Robinson and others.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

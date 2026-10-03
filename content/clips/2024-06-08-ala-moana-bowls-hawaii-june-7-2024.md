@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 121
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/PaBtiWDmKQ0" title="Ala Moana Bowls, Hawaii – June 7, 2024" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -20,14 +19,8 @@ https://surf-cam-rewind.creator-spring.com/
 Second solid swell from the South slams Ala Moana Bowls and provides nearly surfed-out surfers with even more tubes.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline

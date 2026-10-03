@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 98
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/q9LDZNDDBlQ" title="Hurricane Fiona hits New York on September 23, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 98
 Fiona delivered great surf from the north Atlantic, while stiff, offshore winds turned waves into hollow wedges for New York surfers. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

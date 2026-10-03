@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 74
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/xCYEbmGaOiE" title="Europe SLAB FIRES for 2 lucky surfers (last Winter swell of 2022)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 74
 2x overhead WNW swell lights up this shallow water reef on March 23, 2022. Winds were light offshore and two lucky surfers 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

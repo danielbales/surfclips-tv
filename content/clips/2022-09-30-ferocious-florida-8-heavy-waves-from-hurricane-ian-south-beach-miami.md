@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 72
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/oZQo3-YgCD4" title="Ferocious Florida - 8 HEAVY waves from Hurricane Ian (South Beach, Miami)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -20,12 +19,5 @@ https://surf-clips-tv.myspreadshop.com/
 One of the better days in a while thanks to a strong pulse of NNE swell from Hurricane Ian, while offshore NW winds groomed faces a bit. Waves were nearly 2x overhead and borderline dangerous.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

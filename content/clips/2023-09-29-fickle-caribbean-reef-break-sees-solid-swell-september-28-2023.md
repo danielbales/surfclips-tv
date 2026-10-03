@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 85
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/KKPIYMDCFxg" title="Fickle Caribbean reef break sees SOLID swell - September 28, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 85
 NNE swell with light winds/conditions produced very fun surf at this reef break in the Caribbean.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

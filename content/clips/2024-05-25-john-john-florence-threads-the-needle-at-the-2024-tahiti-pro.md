@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 12
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/5XvW10uI6kQ" title="John John Florence Threads the Needle at the 2024 Tahiti Pro" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,14 +16,8 @@ duration: 12
 In the first round of event, John John Florence threads the needle in his heat against Yago Dora and Rio Waida.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline

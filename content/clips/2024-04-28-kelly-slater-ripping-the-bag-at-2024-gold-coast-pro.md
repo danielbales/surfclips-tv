@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 12
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/2-0Jp2U-dZE" title="Kelly Slater ripping the bag at 2024 Gold Coast Pro" allowfullscreen loading="lazy"></iframe>
 </div>
-
-

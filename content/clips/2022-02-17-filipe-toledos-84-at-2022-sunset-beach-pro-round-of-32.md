@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 51
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/Laq0SLv8RSE" title="Filipe Toledo's 8.4 at 2022 Sunset Beach Pro (Round of 32)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 51
 Filipe Toledo gets two back-to-back waves at the end of his heat to take down Billy Kemper in solid, triple overhead Sunset Beach
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

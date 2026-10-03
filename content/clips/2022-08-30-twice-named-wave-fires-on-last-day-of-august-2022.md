@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 98
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/PrKtR4f7fTQ" title="Twice-named wave fires on last day of August 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 98
 August 31, 2022 produced firing conditions, with solid overhead SSW swell (208@19sec) and light offshore winds. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

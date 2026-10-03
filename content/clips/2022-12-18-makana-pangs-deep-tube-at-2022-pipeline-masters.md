@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 32
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/tBZtP2mxNTs" title="Makana Pang's DEEP tube at 2022 Pipeline Masters" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 32
 In the 2nd to last heat of day 2 of the 2022 Pipeline Masters, Makana Pang found this gem of a Pipe wave in the final moments of his heat.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

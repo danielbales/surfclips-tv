@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 11
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/gYWymIVL3TY" title="@NathanFlorence at Backdoor on December 6, 2022 #shorts" allowfullscreen loading="lazy"></iframe>
 </div>
-
-

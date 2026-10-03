@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 124
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/WnNEs9p7MyM" title="Solid, clean barrels at Australia slab on June 12, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 124
 Epic day of surf as offshore winds and long lines of powerful South swell (180º) closed out most beaches while reefs like this offered amazing tubes.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 40
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/ULjDXMjsTeY" title="4 waves from Labor Day weekend at the HB Pier" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 40
 A decent-sized South swell rolled into Orange County, California, providing some fun, occassionally hollow sections for north-side HB pier surfers.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

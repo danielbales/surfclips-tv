@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 68
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/-1te4sk5yzA" title="Swell of the year (evening session) New York – September 14, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 68
 Afternoon and evening footage from the Day of the year with NNW winds and groomed conditions, while a longer period SSE/SE swell from Hurricane Lee offered 1-3' overhead sets. Surfers were shredding and stoked!
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

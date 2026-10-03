@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 64
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/rsRDc3n3ZpI" title="ETHAN EWING showcases SMOOTH STYLE at 2022 Sunset Beach Pro (Semi Final heat)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 64
 Ethan Ewing caught this Sunset Beach wave in his semi-final heat and earned a 8.0 for the effort. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

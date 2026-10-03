@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 66
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/EdD-S-zbBXI" title="New Jersey fires on April Fool's Day 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 66
 Good sized S/SE swell and moderate W (offshore) wind made conditions fun and clean. Occasional chest to shoulder+ high range rights roping down the beach, with decent rideability and shape.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

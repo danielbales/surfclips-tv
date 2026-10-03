@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 12
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/FHXhgsyAwWE" title="Backdoor kickstall - January 26, 2024" allowfullscreen loading="lazy"></iframe>
 </div>
-
-

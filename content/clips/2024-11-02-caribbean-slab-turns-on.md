@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 10
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/WD_wwU5eEY4" title="Caribbean slab turns on" allowfullscreen loading="lazy"></iframe>
 </div>
-
-

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 65
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/bw5jk_S7Z9Y" title="Cam Richards backside barrel at 2022 Gold Coast Pro (R 48)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 65
 Cam Richards takes down Kelly Slater in the final moments of this heat and earning him a 8.3.
  
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

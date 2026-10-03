@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 7
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/xSAqh7yWJ1U" title="Early morning STEAMER LANE TUBE - May, 2024" allowfullscreen loading="lazy"></iframe>
 </div>
-
-

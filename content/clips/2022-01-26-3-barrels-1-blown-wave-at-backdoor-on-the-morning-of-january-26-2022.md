@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 55
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/0agQzazJ37A" title="3 barrels & 1 blown wave at Backdoor on the morning of January 26, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 55
 Overhead waves (4-7 foot faces) and light winds (8 knot ESE) were on tap the morning of January 26, 2022 at Backdoor.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

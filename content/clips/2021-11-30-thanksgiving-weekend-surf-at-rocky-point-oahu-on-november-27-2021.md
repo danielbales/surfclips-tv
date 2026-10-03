@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 97
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/Y9qQOWTcmok" title="Thanksgiving weekend surf at ROCKY POINT, Oahu on November 27, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 97
 Jon Jon Florence & crew shred early afternoon Rocky Point, Oahu on November 27, 2021. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

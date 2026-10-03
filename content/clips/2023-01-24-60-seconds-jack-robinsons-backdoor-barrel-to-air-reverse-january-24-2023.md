@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 61
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/LXbJXJF-STE" title="60 seconds: Jack Robinson's Backdoor Barrel to Air-Reverse – January 24, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 61
 WNW-NW swell (300-320º) provided this surfer with an excellent tube - air combo attempt.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

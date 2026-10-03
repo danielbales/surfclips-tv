@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 69
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/0hj2BNEkgKk" title="3 sets at cruisey, Australian point break" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 69
 Easterly swell (95º) under grey skies and a light WNW to northerly breeze offered some mellow yet long, fun rides for longboarders and fun-board surfers on July 25, 2022
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

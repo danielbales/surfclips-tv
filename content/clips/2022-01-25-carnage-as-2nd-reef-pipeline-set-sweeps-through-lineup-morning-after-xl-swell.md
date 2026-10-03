@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 80
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/HHg3CEal6_U" title="Carnage as 2nd reef Pipeline set sweeps through lineup (morning after XL swell)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 80
 Five 2nd reef Pipeline waves rolled through the lineup on January 23, 2022 as a reminder to surfers who's boss. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

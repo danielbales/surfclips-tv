@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 62
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/u5ZkzPKIvN0" title="Wave of the Winter Contender (2nd angle) – Joey Johnston, December 29, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -20,12 +19,5 @@ https://surf-clips-tv.myspreadshop.com/
 Second angle of Joey Johnston's INSANE Backdoor wave, during a solid 6-10 foot WNW-NW swell on a crowded morning surf on the North Shore. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

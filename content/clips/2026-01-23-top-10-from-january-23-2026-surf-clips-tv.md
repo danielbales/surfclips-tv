@@ -8,27 +8,17 @@ tags: ["wave pool", "how to surf", "teahupoo", "biggest wave ever surfed", "sea 
 type: "clips"
 clip_type: "top10"
 duration: 223
+surfers:
+  - "Jordy Smith"
+  - "Marco Giorgi"
+  - "Francisco Campos"
+  - "Justin Spencer"
+  - "Koa Rothman"
+  - "Sea N Surf Bali"
+  - "Chapter 11"
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/zq4nBzgGCIg" title="TOP 10 from January 23, 2026 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>
 </div>
 
-Surf Store Merch: 
-https://surf-clips-tv.myspreadshop.com/
-
-Surfing from Africa, Indonesia, Hawaii & more in this week's Top 10.  
-
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
-
-Thank you for supporting Surf Clips TV so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org. 
-
-Music: 
-From: Jordy Smith, Marco Giorgi, Francisco Campos, Justin Spencer, Koa Rothman, Sea N Surf Bali, Chapter 11
+Surfing from Africa, Indonesia, Hawaii & more.

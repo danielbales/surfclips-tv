@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 36
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/yzgUgfk2dYo" title="KOA ROTHMAN snags a PIPE BOMB   December 3, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 36
 Koa Rothman gets blown out of a solid Pipeline bomb in 2x overhead surf. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

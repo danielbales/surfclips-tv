@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 83
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/h969qutlTcM" title="Large & clean Puerto Escondido on August 16, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 83
 Combo of two SSW swells (203º & 189º) kept the surf size up with occasional 2x overhead wave faces, while offshore winds in the AM kept things more than manageable for Zicatela chargers.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

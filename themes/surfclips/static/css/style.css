@@ -521,6 +521,43 @@ img { display: block; max-width: 100%; }
   color: var(--accent);
 }
 
+.surfer-list {
+  margin-top: 1.25rem;
+}
+
+.surfer-list-title {
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-muted);
+  margin-bottom: 0.5rem;
+}
+
+.surfer-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.surfer-chip {
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+  background: var(--surface);
+  padding: 0.3rem 0.7rem;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+}
+
+.surfer-chip-linked {
+  transition: border-color 0.15s, color 0.15s;
+}
+
+.surfer-chip-linked:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
 .related-section {
   padding-bottom: 2rem;
 }

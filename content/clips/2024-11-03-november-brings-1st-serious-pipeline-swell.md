@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 84
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/k72fu-5viyc" title="November brings 1st SERIOUS Pipeline swell" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -19,15 +18,8 @@ https://surf-clips-tv.myspreadshop.com/
 
 Mid-range NW swell (310º-330º) peaked for some SOLID surf to the North Shore first week of November 2024. Wave heights were hovering in the head high to double overhead high range.
 
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline

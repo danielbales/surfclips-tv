@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 85
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/D5UcRU7d6oQ" title="Rocky Point with JOHN JOHN, MASON & others on March 16, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 85
 5-8 foot NW swell and 10 to 20 mph East winds graced the North Shore's Rocky Point as Hawaiian legends like John John Florence, Mason Ho and others enjoy an unseasonably fun day of surfing.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

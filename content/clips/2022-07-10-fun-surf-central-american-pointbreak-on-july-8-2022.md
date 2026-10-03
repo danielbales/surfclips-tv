@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 66
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/b5WMQ4V_Z0s" title="Fun surf: Central American pointbreak on July 8, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 66
 SSW swell (198º) and light  morning winds provided fun, rippable and occasionally hollow sections at this Central American point break. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

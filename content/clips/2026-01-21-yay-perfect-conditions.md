@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 6
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/cO08rAlb9xs" title="Yay! Perfect conditions." allowfullscreen loading="lazy"></iframe>
 </div>
-
-

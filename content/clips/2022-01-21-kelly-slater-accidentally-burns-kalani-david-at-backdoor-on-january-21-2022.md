@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 61
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/w9Fnyp_ILCo" title="Kelly Slater accidentally burns Kalani David at Backdoor on January 21, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -20,12 +19,5 @@ https://surf-clips-tv.myspreadshop.com/
 With Backdoor on absolute fire the morning of January 21, 2022, Kelly Slater nabs this wave with Kalani David behind him. Snake? 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

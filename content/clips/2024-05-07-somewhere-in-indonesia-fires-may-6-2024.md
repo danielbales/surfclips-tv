@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 89
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/1l29aZdXBsI" title="Somewhere in Indonesia FIRES – May 6, 2024" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -20,14 +19,8 @@ https://surf-cam-rewind.creator-spring.com/
 SSW swell provided good waves at this famed spot. Size was mostly head to overhead+ range and tubes were aplenty.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline

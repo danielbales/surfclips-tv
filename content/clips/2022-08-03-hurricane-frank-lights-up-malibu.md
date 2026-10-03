@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 168
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/n6THOfCWsEg" title="Hurricane Frank lights up Malibu" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 168
 SSE/S swell (190º) from Hurricane Frank mixed with a blend of SW/SSW Southern Hemi swells (210º, 230º), offering well overhead sets on August 2, 2022. Winds were light through the morning but came up mid-day.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

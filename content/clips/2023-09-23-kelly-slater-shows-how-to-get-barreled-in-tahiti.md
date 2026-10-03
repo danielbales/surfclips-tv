@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 7
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/312b3Qq9Zg0" title="Kelly Slater shows how to get barreled in Tahiti" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 153
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/3Ms4NYdoVvI" title="XL-sized surf hits PIPELINE – October 17, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 153
 XL-sized NW swell (315-335°) filled in while ideal light wind conditions on tap this morning. Waves in the double to triple overhead high were consistent, and some larger sets even feathered on the outer reefs occasionally. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

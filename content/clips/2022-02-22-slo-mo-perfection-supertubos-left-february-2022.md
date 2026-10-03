@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 37
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/iAyObwDf_ws" title="[slo-mo perfection] Supertubos left – February 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 37
 6-10 foot faces and offshore winds meant dawnpatrollers scored pristine, firing Supertubos this morning. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

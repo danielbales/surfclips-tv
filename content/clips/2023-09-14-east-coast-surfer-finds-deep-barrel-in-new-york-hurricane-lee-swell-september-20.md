@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 9
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/DsyNLVbqP0E" title="East Coast surfer finds deep barrel in New York - Hurricane Lee swell September 2023" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

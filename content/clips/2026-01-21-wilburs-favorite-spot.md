@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 7
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/jTek4RwAIl8" title="Wilbur's favorite spot" allowfullscreen loading="lazy"></iframe>
 </div>
-
-

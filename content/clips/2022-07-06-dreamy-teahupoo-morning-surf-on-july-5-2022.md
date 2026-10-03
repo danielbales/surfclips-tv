@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 55
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/c1mupNoMbxc" title="Dreamy Teahupo'o morning surf on July 5, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 55
 A rising yet lully SW swell (214º) topped out at The End of the Road, providing overhead sets that occasionally blasted lucky surfers out of beautiful caverns. Conditions were clean with light offshore NE wind.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

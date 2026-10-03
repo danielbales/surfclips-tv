@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 391
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/TA3RQy5qW9A" title="Ala Moana Bowls SLAMMED by long-period swell –  Day of 10,000 Tubes" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 391
 Double overhead high from longer period SSW swell (200-185°) and light offshore winds produced perhaps the best day of the year on the South Shore.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

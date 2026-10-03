@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 9
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/nGPjzy4ZEcM" title="Hale'iwa pit - February 5, 2024" allowfullscreen loading="lazy"></iframe>
 </div>
-
-

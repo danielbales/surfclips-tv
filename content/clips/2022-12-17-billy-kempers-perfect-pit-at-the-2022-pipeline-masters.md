@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 37
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/l9SuG6vELEs" title="Billy Kemper's PERFECT PIT at the 2022 Pipeline Masters" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 37
 Big wave surfer Billy Kemper scored a 29.9 (7.9) at the 2022 Pipeline Masters with help from this perfect Pipe wave. Must've been a nice view! 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

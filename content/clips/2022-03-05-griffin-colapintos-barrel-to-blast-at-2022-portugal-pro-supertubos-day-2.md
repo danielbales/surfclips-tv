@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 51
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/29lZsgNna20" title="Griffin Colapinto's barrel-to-blast at 2022 Portugal Pro Supertubos (Day 2)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 51
 Up against fellow Californians Nat Young and Kolohe Andino, Griffin finds a heavy backside tube that offered him a bonus blast before the shorebreak ate him alive. He earned a 7.0 for this effort.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

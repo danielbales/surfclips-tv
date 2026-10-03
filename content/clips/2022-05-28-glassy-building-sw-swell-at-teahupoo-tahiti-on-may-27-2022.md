@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 86
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/z3tigaDE3ik" title="Glassy, building SW swell at Teahupo'o, Tahiti on May 27, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 86
 Blend of SW swells (6@14 204º & 5@16 206º) offered sets occasionally up to double overhead, while no wind created a dreamy canvas for Teahupo'o surfers. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

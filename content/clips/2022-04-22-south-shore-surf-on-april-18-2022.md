@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 71
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/dmXZ61NdxNE" title="South Shore surf on April 18, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 71
 SSW swell with sunny and breezy 20 to 25 mph Northeast winds groomed faces and offered some fun surf on the South Shore.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

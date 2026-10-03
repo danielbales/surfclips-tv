@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 10
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/8vXCfD35UqM" title="Surfer BLASTED out of a Pipeline tube" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

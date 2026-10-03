@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 88
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/e1HeDy3ksws" title="Gavin Beschen & crew SHRED 1ST NW SWELL of the season – October 2, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 88
 Fresh NW swell (320-350°) filled in and provided some great surf to the North Shore with favorable light ENE wind conditions on tap this morning. John John Florence and friends put on a demo on how to surf this reef.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

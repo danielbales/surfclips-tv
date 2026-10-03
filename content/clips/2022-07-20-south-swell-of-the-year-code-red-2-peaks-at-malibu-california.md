@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 190
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/cRyhhKqO7Pc" title="South Swell of the year (Code Red 2) peaks at MALIBU, California" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -20,12 +19,5 @@ https://surf-clips-tv.myspreadshop.com/
 The 'Bu saw lully but occasionally solid lines thanks to Code Red 2 swell on July 19, 2022. Crowds were thick like usual, and hollow sections were rare but long rides were enjoyed by many.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

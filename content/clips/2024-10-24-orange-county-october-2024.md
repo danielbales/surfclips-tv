@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 16
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/xiEpD6TBSxo" title="Orange County - October 2024" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,17 +16,9 @@ duration: 16
 Surf Store Merch: 
 https://surf-clips-tv.myspreadshop.com/
 
-#shorts 
 
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline

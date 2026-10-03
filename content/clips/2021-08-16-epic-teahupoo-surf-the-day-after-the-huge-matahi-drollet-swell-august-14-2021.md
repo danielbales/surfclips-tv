@@ -9,17 +9,11 @@ type: "clips"
 clip_type: "clip"
 duration: 168
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/Bqw4zqsLdRM" title="EPIC TEAHUPO'O!!! surf the day AFTER the HUGE (Matahi Drollet) swell, August 14, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 The day AFTER Matahi Drollet's Teahupo'o BOMB provided huge, double-overhead big waves with tow surfing teams still towing into the day's biggest (one of which waves is shown here).
 

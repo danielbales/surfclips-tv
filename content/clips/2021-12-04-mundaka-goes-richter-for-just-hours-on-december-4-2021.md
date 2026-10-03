@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 168
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/gctfGVKXOng" title="MUNDAKA goes RICHTER for just hours on December 4, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 168
 Over just 3 hours, a solid short period WNW swell provided hollow, 8-10 foot (2-3 meter) faces for Basque region surfers at Mundaka. Winds were SW winds and provided clean conditions. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

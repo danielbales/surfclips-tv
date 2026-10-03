@@ -9,17 +9,11 @@ type: "clips"
 clip_type: "clip"
 duration: 3979
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/qtkcEJiOOBQ" title="[1/5] Surfing PERFECT waves at Las Flores, El Salvador | June 30, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 A beautiful sunrise with great waves for surfing showed up on June 30, 2021.
 

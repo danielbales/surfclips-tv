@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 143
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/ynvitBLqd9I" title="Snapper Rocks pits on July 6, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 143
 Combo mix of short period E/NE swells (146º) with a little bump in SSE swell (157º) and  light WNW winds offered occasional head high pits for Gold Coast surfers.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

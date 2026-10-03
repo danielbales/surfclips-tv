@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 127
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/yS2QCvbjNfA" title="3X OVERHEAD Puerto pumps late season" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 127
 Late season Zicatela lured tow-in surf teams out into the lineup thanks to a healthy SSW swell, while offshore winds groomed faces. There was some solid juice on tap!
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

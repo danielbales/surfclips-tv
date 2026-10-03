@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 74
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/xn44ezGuuhg" title="High-performance longboarding at Waikiki" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 74
 A late season September swell at Waikiki turned on this nook, offering fun, long, rippable rights for South Shore longboarders during this afternoon session.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

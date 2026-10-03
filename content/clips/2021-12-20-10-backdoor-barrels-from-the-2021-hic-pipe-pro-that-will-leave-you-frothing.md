@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 129
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/n0CnJLo2rvs" title="10 BACKDOOR BARRELS from the 2021 HIC PIPE PRO that will leave you frothing" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 129
 The day of the event showed some solid double-overhead and clean barrels at Backdoor, Oahu on December 17, 2021.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

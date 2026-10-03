@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 38
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/HWfwdnyCU_c" title="Kade Matson's DANGEROUS WIPEOUT at the 2024 Pipe Pro" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,14 +16,8 @@ duration: 38
 In his debut on the championship tour, San Clemente's Kade Matson sends it and shows what not to do when Pipeline is 8-12 feet. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline

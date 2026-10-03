@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 78
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/8vLAFe9ViTo" title="Australian point break during the 2022 Sydney Surf Pro Finals" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 78
 During the finals day of the 2022 GMW Sydney Surf Pro, this point break offered occassional rides thanks to SSE swell, long period swell and NE swell. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

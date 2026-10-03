@@ -9,20 +9,12 @@ type: "clips"
 clip_type: "clip"
 duration: 106
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/0IXlc6-abzI" title="Combo swell (NW + SW) hits Newport Beach, California on October 27, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Great NW swell and a fun south swell in October lit up most of California, including 56th street Newport Beach. 
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subcribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

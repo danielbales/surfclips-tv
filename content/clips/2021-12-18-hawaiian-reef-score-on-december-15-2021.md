@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 168
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/p6RWBbgBr-0" title="Hawaiian reef SCORE on December 15, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 168
 Solid overhead WNW swell lit up this north shore reef and offered heavy, rippable faces with occasional barrels.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

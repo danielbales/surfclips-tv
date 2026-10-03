@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 7
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/JQixVifr410" title="Carnage at Jaws – Jan 2025" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,17 +16,4 @@ duration: 7
 Surf Store Merch: 
 https://surf-clips-tv.myspreadshop.com/
 
-Jack Akrop sends it during XL swell on Maui! 
-
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
-
-Thank you for supporting Surf Clips TV so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org. 
-
-Music: Kevin MacLeod - C-Funk - Funkorama
+Jack Akrop sends it during XL swell on Maui!

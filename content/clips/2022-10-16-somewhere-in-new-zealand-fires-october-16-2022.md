@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 121
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/QiKjk3b368E" title="Somewhere in New Zealand fires – October 16, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 121
 Mid period ENE swell (73º) saw a strong pulse of surf at this rivermouth pointbreak, while light SW winds in the morning were offshore, providing good waves.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

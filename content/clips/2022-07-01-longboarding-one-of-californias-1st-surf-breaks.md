@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 161
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/GNkhCmgmE6k" title="Longboarding one of California's 1st surf breaks" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 161
 SSW (202º) and NW windswell (284º) mix with calm winds out of the NNE with a bottomed out tide produced clean surface conditions and occasional waist high waves on June 30, 2022.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

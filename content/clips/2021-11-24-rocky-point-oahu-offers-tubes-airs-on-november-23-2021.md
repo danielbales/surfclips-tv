@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 190
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/XjhryIIDJ9s" title="ROCKY POINT, Oahu offers TUBES & AIRS on November 23, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 190
 A combo of slowly decreasing and steadily increasing NW-NNW swells provided some great North Shore surf on this absolutely stunning Tuesday.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

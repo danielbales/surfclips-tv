@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 8
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/w3drFiRfWH4" title="Heavy pipe barrel near-make - October 17, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

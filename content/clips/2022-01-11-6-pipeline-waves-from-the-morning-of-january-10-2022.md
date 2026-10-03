@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 79
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/k1LvgtmunC4" title="6 Pipeline waves from the morning of January 10, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 79
 10-15 foot (3-4 meter) wave faces hit Pipeline as a XL swell dies. These Pipe surfers knew exactly where to be.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

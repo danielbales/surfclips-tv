@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 62
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/BDvZ0tLFRSc" title="Fun South Shore surf (1st swell of 2022 season)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 62
 4-5 foot faces and offshore winds turned on this reef near the famous Waikiki beach (albeit smaller) on the 1st solid south swell of the summer.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

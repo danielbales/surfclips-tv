@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 18
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/76ld32S2Yn4" title="Sheldon Simkus deep in Indo" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,18 +16,8 @@ duration: 18
 Surf Store Merch: 
 https://surf-clips-tv.myspreadshop.com/
 
-#shorts 
 
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Clips TV so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Sheldon Simkus
-Music: Craig MacArthur - The Old RV

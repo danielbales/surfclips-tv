@@ -9,17 +9,11 @@ type: "clips"
 clip_type: "clip"
 duration: 172
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/xxSyJA1mLHc" title="Padang Padang TUBEFEST in Bali on August 12, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 A dying swell meant normal surfers could have at ALL-TIME Padang on August 12, 2021.
 

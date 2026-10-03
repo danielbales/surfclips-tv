@@ -9,17 +9,11 @@ type: "clips"
 clip_type: "clip"
 duration: 247
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/ElAZ21Nb9do" title="FRIDAY THE 13TH SWELL hits MALIBU!!! on August 19, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 As expected, uber-thick crowds were out at 1st point Malibu when the massive Friday the 13th swell (Teahupo'o) arrived onto the shores of Southern California on August 19, 2021. 
 

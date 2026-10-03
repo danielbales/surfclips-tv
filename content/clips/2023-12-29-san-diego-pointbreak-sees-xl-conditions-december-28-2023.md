@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 122
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/K8XS93kXxwk" title="San Diego pointbreak sees XL conditions – December 28, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,14 +16,8 @@ duration: 122
 While Northern Calfornia's Mavericks was seeing 40 foot faces, this San Diego reef saw fun, overhead swell and its usually thick crowd. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline

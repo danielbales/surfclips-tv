@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 182
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/k_r85CsRrwo" title="1st EPIC BACKDOOR day of the season – Nov 24, 2024" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -19,16 +18,7 @@ https://surf-clips-tv.myspreadshop.com/
 
 Mason Ho, John Florence, JOB & more were out of the first firing day of the season. Swell was 6@13 315º. 
 
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Clips TV so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline
-Music: Silent Partner - Winter Embrace / DJ Williams - Love In LA

@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 8
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/u8uwx9lcg1o" title="Mason Ho being Mason Ho at Pipeline" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

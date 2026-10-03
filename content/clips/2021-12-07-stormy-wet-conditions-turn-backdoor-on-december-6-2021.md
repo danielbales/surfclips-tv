@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 234
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/YBw6-8oLFqQ" title="Stormy & wet conditions turn Backdoor on! December 6, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 234
 NW swell on the North Shore during a stormy and wet day offer head high to near overhead high and south winds at Backdoor, Oahu. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 10
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/vOiph_f_sv0" title="Kelly Slater weaves thru Backdoor wave of the month" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

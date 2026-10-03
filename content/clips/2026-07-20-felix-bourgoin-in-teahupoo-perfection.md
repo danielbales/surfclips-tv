@@ -9,20 +9,8 @@ type: "clips"
 clip_type: "short"
 duration: 10
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/YeVmT53GD44" title="Felix Bourgoin in Teahupo'o perfection" allowfullscreen loading="lazy"></iframe>
 </div>
 
-Wilbur merch!
-https://surf-clips-tv-shop.fourthwall.com/
-
-2026 Big wave entry submission, video by Maiko Mou. 
-
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-
-Thank you for supporting Surf Clips TV!
+2026 Big wave entry submission, video by Maiko Mou.

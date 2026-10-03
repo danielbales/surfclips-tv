@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 16
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/GBSQll8-j54" title="Very well-read Moroccan tube" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#shorts

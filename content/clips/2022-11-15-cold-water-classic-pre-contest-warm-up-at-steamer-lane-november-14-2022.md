@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 155
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/D1atQdAX4mM" title="Cold Water Classic pre-contest warm up at Steamer Lane – November 14, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 155
 Solid, long-period WNW swell topped out, while light SW winds created clean conditions on consistent surf. Lots of pro surfers were out taking advantage before the following day's contest.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

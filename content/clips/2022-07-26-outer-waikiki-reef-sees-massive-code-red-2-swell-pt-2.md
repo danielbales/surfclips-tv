@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 103
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/oNw5emHHZ-g" title="Outer Waikiki reef sees massive Code Red 2 swell (Pt 2)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 103
 More from the large and dangerous Code Red 2 swell (SSW 183º) that pounded this outer South Shore reef, offering long, long rides to Honolulu surfers on July 17, 2022.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

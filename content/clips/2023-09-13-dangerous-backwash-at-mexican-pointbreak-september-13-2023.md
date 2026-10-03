@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 58
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/uG8aMhhQkxE" title="DANGEROUS BACKWASH at Mexican pointbreak – September 13, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 58
 While a large XL swell hit nearby beachies, this pointbreak saw some tricky but very entertaining backwash waves .
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

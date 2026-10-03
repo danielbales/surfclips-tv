@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 60
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/rvu9Dc8SCDw" title="XL Puerto Escondido, Mexico - May 11, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 60
 20 foot bombs landed on Playa Zicatela, while big wave surfers waited for their perfect entry. Successful rides were few and far between but it sure was entertaining. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

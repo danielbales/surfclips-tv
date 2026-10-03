@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 238
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/xYMbV0gqIDA" title="Highly anticipated & potentially largest swell in years hits Ala Moana Bowls on July 16, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 238
 Code Red 2 swell (long period S 182º) built in while East offshore winds 15 to 20 mph groomed faces, offering occasional double overhead faces for Oahu's South Shore surfers. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

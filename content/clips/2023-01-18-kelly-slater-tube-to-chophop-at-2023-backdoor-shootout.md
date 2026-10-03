@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 67
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/nRawIPH0lig" title="Kelly Slater tube-to-chophop at 2023 Backdoor Shootout" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 67
 Kelly Slater shows off his Pipe Master status by getting a quick blast out of a Pipe tube, then attempts a chop-hop on the inside. The guy makes it look too easy.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

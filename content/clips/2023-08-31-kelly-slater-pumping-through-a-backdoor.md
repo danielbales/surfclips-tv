@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 12
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/76WtxX1Ly90" title="Kelly Slater pumping through a backdoor 💎" allowfullscreen loading="lazy"></iframe>
 </div>
-
-#beach #surfing #surf #shorts

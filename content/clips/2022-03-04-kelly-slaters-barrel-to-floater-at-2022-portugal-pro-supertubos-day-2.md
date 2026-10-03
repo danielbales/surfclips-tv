@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 35
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/CKQcBseWgAI" title="Kelly Slater's barrel-to-floater at 2022 Portugal Pro Supertubos (Day 2)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -20,12 +19,5 @@ https://surf-clips-tv.myspreadshop.com/
 Kelly Slater gets spit out of a Supertubos left & earns a 7.3 and a spot in the next round of the 2022 Portugal Pro.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

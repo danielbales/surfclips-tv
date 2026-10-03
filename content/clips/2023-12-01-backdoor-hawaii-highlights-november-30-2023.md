@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 149
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/zIcrbXBST5s" title="Backdoor, Hawaii Highlights – November 30, 2023" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 149
 Near-perfect slightly overhead Backdoor waves with glassy conditions and a thick crowd were on tap for a great day of surf at Backdoor.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

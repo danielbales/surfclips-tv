@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 8
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/0N1CZdGL76g" title="Snapper Rocks surfer dropped in on during firing conditions" allowfullscreen loading="lazy"></iframe>
 </div>
-
-

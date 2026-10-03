@@ -9,20 +9,12 @@ type: "clips"
 clip_type: "clip"
 duration: 149
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/JwyZPMjDRcw" title="TEAHUPO’O LOCALS SCORE!! tubes on September 21, 2021" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 5 - 8 foot (2 - 3 meter) surf rolled across the reef at Teahupo'o, Tahiti on September 21, 2021. 
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subcribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

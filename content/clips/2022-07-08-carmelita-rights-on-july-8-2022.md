@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 50
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/ziA-Tr4AU0w" title="Carmelita Rights on July 8, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 50
 Good shot of SSW swell (193º) peaked, while an additional small, short-period SSE pulse (163º) joined in along with great AM winds producing some great rides for those who were in the right spot. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 11
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/0OKoOzGB8_4" title="Backside hacks at The Lane" allowfullscreen loading="lazy"></iframe>
 </div>
-
-

@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 51
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/PsHfOfK-M3Q" title="John John Florence's 9.13 right at 2022 Portugal Pro Supertubos (Day 4)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 51
 John John's love for Supertubos showed in his heat against fellow American Nat Young. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

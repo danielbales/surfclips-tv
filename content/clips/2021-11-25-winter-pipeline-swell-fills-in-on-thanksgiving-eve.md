@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 213
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/t7NQpSJ7qT8" title="Winter PIPELINE SWELL fills in on Thanksgiving Eve" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 213
 Reinforcing NW-NNW swell energy filles in across the North Shore. Locals charged head high to well overhead high range with sets nearing the double overhead high. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

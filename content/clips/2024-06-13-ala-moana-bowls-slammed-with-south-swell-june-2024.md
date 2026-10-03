@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 86
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/GODLP-OFKBk" title="ALA MOANA BOWLS slammed with SOUTH SWELL - June 2024" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -20,14 +19,8 @@ https://surf-cam-rewind.creator-spring.com/
 Overlapping South swells continued delivering solid waves to Hawaii's South Shore, exciting surfers and spectators. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
 Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
 
-Love the ocean? Consider supporting surfrider.org. 
 
 Credit: Surfline

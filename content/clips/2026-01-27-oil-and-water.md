@@ -9,9 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 15
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/xDLeaXWfxwE" title="Oil and Water" allowfullscreen loading="lazy"></iframe>
 </div>
-
-

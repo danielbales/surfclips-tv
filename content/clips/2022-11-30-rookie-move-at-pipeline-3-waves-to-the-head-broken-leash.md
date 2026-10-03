@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 90
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/0wUPCfZ7ubU" title="Rookie move at Pipeline (3 waves to the head + broken leash)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -20,12 +19,5 @@ https://surf-clips-tv.myspreadshop.com/
 During a gorgeous morning of building Pipe swell, this unlucky surfer got caught in the lip and went over the falls, breaking his leash and taking a few on his head before swimming to the beach. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

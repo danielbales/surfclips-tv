@@ -9,19 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 30
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/cn2I5-ajy2Y" title="Wilbur Kookmeyer is back (coming to Surf Clips TV!!)" allowfullscreen loading="lazy"></iframe>
 </div>
-
-Wilbur merch:
-https://surf-clips-tv-shop.fourthwall.com/
-
-And support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
-
-Thank you for supporting Surf Clips TV so we can continue to provide you with free content!

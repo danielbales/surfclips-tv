@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 36
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/skxPyxqfcmc" title="Jack Robinson's 9.1 at 2022 Tahiti Pro (Round of 16)" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 36
 Despite losing the heat to Aussie Legend Nathan Hedge, Jack Robinson found this gem during his Round 16 at the 2022 Tahiti Pro. 
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

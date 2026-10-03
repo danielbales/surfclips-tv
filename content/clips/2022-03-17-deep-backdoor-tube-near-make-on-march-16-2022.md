@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "short"
 duration: 43
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/p7LSPWzwZGI" title="DEEP Backdoor tube near-make on March 16, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -17,12 +16,5 @@ duration: 43
 While most attention was on Rocky Point this day, Backdoor also had some occasional great rides. This surfer nearly made a memorable one (WOTW?) in 5-8 foot Backdoor.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!

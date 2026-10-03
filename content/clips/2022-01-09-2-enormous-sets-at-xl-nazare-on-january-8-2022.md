@@ -9,7 +9,6 @@ type: "clips"
 clip_type: "clip"
 duration: 93
 ---
-
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/g32w2U4H0WI" title="2 enormous sets at XL Nazaré on January 8, 2022" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -20,12 +19,5 @@ https://surf-clips-tv.myspreadshop.com/
 A large XL NW swell hit Nazaré, Portugal on January 8, 2022. Tow in surfers including Lucas “Chumbo” Chianca and Gabriel Sampaio.
 
 Support the channel by subscribing! 
-╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ 
-╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
-SUBSCRIBE FOR VIDEOS FROM THE NEXT SWELL!!
 
-Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! 
-
-Love the ocean? Consider supporting surfrider.org and subscribe to surfline.com!
+Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!
