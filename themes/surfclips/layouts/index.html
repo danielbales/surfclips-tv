@@ -50,8 +50,9 @@
   </section>
   {{ end }}
 
-  {{/* Wilbur Kookmeyer videos */}}
-  {{ $wilbur := where .Site.RegularPages "Params.tags" "intersect" (slice "wilbur kookmeyer") }}
+  {{/* Wilbur Kookmeyer videos - landscape only (no shorts) */}}
+  {{ $wilburAll := where .Site.RegularPages "Params.tags" "intersect" (slice "wilbur kookmeyer") }}
+  {{ $wilbur := where $wilburAll "Params.clip_type" "!=" "short" }}
   {{ with $wilbur }}
   <section class="section wilbur-section">
     <div class="section-bar">
