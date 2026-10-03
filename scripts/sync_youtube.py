@@ -100,7 +100,7 @@ def fetch_video_details(youtube, video_ids):
     for i in range(0, len(video_ids), 50):
         batch = video_ids[i:i + 50]
         resp = youtube.videos().list(
-            part="snippet,contentDetails,statistics",
+            part="snippet,contentDetails,statistics,status",
             id=",".join(batch),
         ).execute()
         videos.extend(resp.get("items", []))
@@ -228,6 +228,7 @@ def generate_page(video):
     tags = snippet.get("tags", [])
     thumbnails = snippet.get("thumbnails", {})
     duration_secs = parse_duration(video["contentDetails"]["duration"])
+    visibility = video.get("status", {}).get("privacyStatus", "public")
 
     # Classify
     kind = classify_video(title, duration_secs)
@@ -266,6 +267,7 @@ tags: {json.dumps(safe_tags)}
 type: "clips"
 clip_type: "{kind}"
 duration: {duration_secs}
+visibility: "{visibility}"
 {surfer_yaml}---
 
 <div class="video-embed">
