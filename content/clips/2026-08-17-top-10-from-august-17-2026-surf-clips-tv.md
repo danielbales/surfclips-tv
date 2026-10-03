@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "TOP 10 from August 17, 2026 – Surf Clips TV"
 date: 2026-08-17T17:01:55Z
 draft: false
 video_id: "VB0LSy3xwjc"
@@ -19,7 +19,7 @@ surfers:
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/VB0LSy3xwjc" title="" allowfullscreen loading="lazy"></iframe>
+<iframe src="https://www.youtube.com/embed/VB0LSy3xwjc" title="TOP 10 from August 17, 2026 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Surfing from Indonesia, Hawaii, Fiji & more.

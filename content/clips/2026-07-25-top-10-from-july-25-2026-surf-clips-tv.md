@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "TOP 10 from July 25, 2026 – Surf Clips TV"
 date: 2026-07-25T17:00:48Z
 draft: false
 video_id: "dwLXt7uXBYk"
@@ -20,7 +20,7 @@ surfers:
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/dwLXt7uXBYk" title="" allowfullscreen loading="lazy"></iframe>
+<iframe src="https://www.youtube.com/embed/dwLXt7uXBYk" title="TOP 10 from July 25, 2026 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Surfing from Indonesia, Mexico, South Africa & more.
