@@ -1,22 +1,49 @@
 {{ define "main" }}
-<article class="post clip-page">
-  <header class="post-header">
-    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
-    <h1>{{ .Title }}</h1>
-  </header>
+<article class="clip-page">
+  <div class="clip-page-inner">
+    <div class="clip-player">
+      {{ .Content }}
+    </div>
 
-  <div class="post-content">
-    {{ .Content }}
-  </div>
+    <div class="clip-meta">
+      <h1>{{ .Title }}</h1>
+      <div class="clip-meta-row">
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+        <a href="https://www.youtube.com/watch?v={{ .Params.video_id }}" target="_blank" rel="noopener" class="yt-link">
+          <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor"><path d="M23.5 6.2c-.3-1-1-1.8-2-2.1C19.6 3.5 12 3.5 12 3.5s-7.6 0-9.5.6c-1 .3-1.7 1.1-2 2.1C0 8.1 0 12 0 12s0 3.9.5 5.8c.3 1 1 1.8 2 2.1 1.9.6 9.5.6 9.5.6s7.6 0 9.5-.6c1-.3 1.7-1.1 2-2.1.5-1.9.5-5.8.5-5.8s0-3.9-.5-5.8zM9.5 15.6V8.4l6.3 3.6-6.3 3.6z"/></svg>
+          Watch on YouTube
+        </a>
+      </div>
+    </div>
 
-  {{ with .Params.tags }}
-  <div class="post-tags">
-    {{ range . }}<a href="{{ "tags/" | absURL }}{{ . | urlize }}/">#{{ . }}</a> {{ end }}
-  </div>
-  {{ end }}
-
-  <div class="clip-cta">
-    <a href="https://www.youtube.com/watch?v={{ .Params.video_id }}" target="_blank" rel="noopener">Watch on YouTube</a>
+    {{ with .Params.tags }}
+    <div class="clip-tags">
+      {{ range . }}<a href="{{ "tags/" | absURL }}{{ . | urlize }}/">#{{ . }}</a>{{ end }}
+    </div>
+    {{ end }}
   </div>
 </article>
+
+{{/* Related clips - same tags or nearby dates */}}
+{{ $related := .Site.RegularPages.Related . | first 6 }}
+{{ with $related }}
+<section class="section related-section">
+  <div class="section-bar">
+    <h2 class="section-title">More Clips</h2>
+  </div>
+  <div class="clips-grid">
+    {{ range . }}
+    <a href="{{ .Permalink }}" class="clip-card">
+      {{ with .Params.thumbnail }}
+      <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+      {{ end }}
+      <div class="clip-card-body">
+        <h3>{{ .Title }}</h3>
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
 {{ end }}

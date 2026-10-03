@@ -1,6 +1,30 @@
 {{ define "main" }}
-<h1>{{ .Title }}</h1>
-{{ range .Pages }}
-  {{ partial "post-card.html" . }}
-{{ end }}
+<section class="section page-section">
+  <h1 class="page-title">{{ .Title }}</h1>
+  {{ $clips := where .Pages "Params.thumbnail" "!=" nil }}
+  {{ if $clips }}
+  <div class="clips-grid">
+    {{ range $clips }}
+    <a href="{{ .Permalink }}" class="clip-card">
+      {{ with .Params.thumbnail }}
+      <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+      {{ end }}
+      <div class="clip-card-body">
+        <h3>{{ .Title }}</h3>
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+  {{ else }}
+  {{ range .Pages }}
+  <article class="post-card">
+    <a href="{{ .Permalink }}">
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Mon, Jan 2" }}</time>
+      <h2>{{ .Title }}</h2>
+    </a>
+  </article>
+  {{ end }}
+  {{ end }}
+</section>
 {{ end }}

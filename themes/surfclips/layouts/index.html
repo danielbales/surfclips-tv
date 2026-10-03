@@ -1,37 +1,42 @@
 {{ define "main" }}
 
-{{/* Latest Top 10 - the anchor */}}
+{{/* Latest Top 10 - big hero */}}
 {{ $top10s := where .Site.RegularPages "Params.clip_type" "top10" }}
 {{ with first 1 $top10s }}
 {{ range . }}
-<section class="top10-feature">
-  <a href="{{ .Permalink }}" class="top10-feature-link">
+<section class="hero-top10">
+  <a href="{{ .Permalink }}" class="hero-top10-link">
     {{ with .Params.thumbnail }}
-    <img src="{{ . }}" alt="{{ $.Title }}" class="top10-feature-img" loading="eager">
+    <img src="{{ . }}" alt="{{ $.Title }}" class="hero-top10-img" loading="eager">
     {{ end }}
-    <div class="top10-feature-info">
-      <span class="featured-badge">Latest Top 10</span>
+    <div class="hero-top10-overlay">
+      <span class="badge">Weekly Top 10</span>
       <h1>{{ .Title }}</h1>
       <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+      <span class="play-btn">
+        <svg viewBox="0 0 24 24" width="48" height="48" fill="currentColor"><polygon points="5,3 19,12 5,21"/></svg>
+      </span>
     </div>
   </a>
 </section>
 {{ end }}
 {{ end }}
 
-{{/* Shorts widget - horizontal scroll */}}
+{{/* Shorts - horizontal rail */}}
 {{ $shorts := where .Site.RegularPages "Params.clip_type" "short" }}
 {{ with $shorts }}
-<section class="shorts-section">
-  <div class="section-header">
-    <h2 class="section-heading">Shorts</h2>
-    <a href="{{ "tags/shorts/" | absURL }}" class="see-all">All shorts</a>
+<section class="section shorts-section">
+  <div class="section-bar">
+    <h2 class="section-title">Shorts</h2>
+    <a href="{{ "clips/" | absURL }}" class="section-link">View all</a>
   </div>
   <div class="shorts-rail">
-    {{ range first 20 . }}
+    {{ range first 24 . }}
     <a href="{{ .Permalink }}" class="short-card">
       {{ with .Params.thumbnail }}
-      <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+      <div class="short-thumb">
+        <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+      </div>
       {{ end }}
       <span class="short-title">{{ .Title }}</span>
     </a>
@@ -40,23 +45,62 @@
 </section>
 {{ end }}
 
-{{/* Previous Top 10s */}}
+{{/* Previous Top 10s - visual grid */}}
 {{ $prevTop10s := after 1 $top10s }}
 {{ with $prevTop10s }}
-<section class="prev-top10s">
-  <h2 class="section-heading">Previous Top 10s</h2>
-  {{ range first 8 . }}
-  <article class="post-card">
-    <a href="{{ .Permalink }}">
-      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Mon, Jan 2" }}</time>
-      <h2>{{ .Title }}</h2>
+<section class="section top10s-section">
+  <div class="section-bar">
+    <h2 class="section-title">Previous Top 10s</h2>
+  </div>
+  <div class="top10s-grid">
+    {{ range first 6 . }}
+    <a href="{{ .Permalink }}" class="top10-card">
+      {{ with .Params.thumbnail }}
+      <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+      {{ end }}
+      <div class="top10-card-info">
+        <h3>{{ .Title }}</h3>
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+      </div>
     </a>
-  </article>
-  {{ end }}
-  <div class="archive-link">
-    <a href="{{ "tags/top-10/" | absURL }}">All Top 10s &rarr;</a>
+    {{ end }}
   </div>
 </section>
 {{ end }}
+
+{{/* Recent full clips */}}
+{{ $clips := where .Site.RegularPages "Params.clip_type" "clip" }}
+{{ $nonTop10Clips := where $clips "Params.clip_type" "!=" "top10" }}
+{{ with $nonTop10Clips }}
+<section class="section clips-section">
+  <div class="section-bar">
+    <h2 class="section-title">Latest Full Clips</h2>
+    <a href="{{ "clips/" | absURL }}" class="section-link">View all</a>
+  </div>
+  <div class="clips-grid">
+    {{ range first 6 . }}
+    <a href="{{ .Permalink }}" class="clip-card">
+      {{ with .Params.thumbnail }}
+      <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+      {{ end }}
+      <div class="clip-card-body">
+        <h3>{{ .Title }}</h3>
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+
+{{/* Subscribe CTA */}}
+<section class="section subscribe-cta">
+  <h2>Never miss a clip</h2>
+  <p>Subscribe on YouTube for weekly Top 10s, Shorts, and full surf edits.</p>
+  <a href="{{ .Site.Params.youtube_channel }}?sub_confirmation=1" target="_blank" rel="noopener" class="btn btn-subscribe">
+    <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M23.5 6.2c-.3-1-1-1.8-2-2.1C19.6 3.5 12 3.5 12 3.5s-7.6 0-9.5.6c-1 .3-1.7 1.1-2 2.1C0 8.1 0 12 0 12s0 3.9.5 5.8c.3 1 1 1.8 2 2.1 1.9.6 9.5.6 9.5.6s7.6 0 9.5-.6c1-.3 1.7-1.1 2-2.1.5-1.9.5-5.8.5-5.8s0-3.9-.5-5.8zM9.5 15.6V8.4l6.3 3.6-6.3 3.6z"/></svg>
+    Subscribe
+  </a>
+</section>
 
 {{ end }}

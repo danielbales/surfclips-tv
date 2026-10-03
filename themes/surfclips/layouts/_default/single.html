@@ -1,19 +1,11 @@
 {{ define "main" }}
-<article class="post">
-  <header class="post-header">
+<article class="section page-section">
+  <header>
     <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
-    <h1>{{ .Title }}</h1>
-    {{ with .Params.region }}<span class="region-tag">{{ . }}</span>{{ end }}
+    <h1 class="page-title">{{ .Title }}</h1>
   </header>
-
   <div class="post-content">
     {{ .Content }}
   </div>
-
-  {{ with .Params.tags }}
-  <div class="post-tags">
-    {{ range . }}<a href="{{ "tags/" | absURL }}{{ . | urlize }}/">#{{ . }}</a> {{ end }}
-  </div>
-  {{ end }}
 </article>
 {{ end }}

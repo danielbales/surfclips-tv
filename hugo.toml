@@ -4,16 +4,18 @@ title = "Surf Clips TV"
 theme = "surfclips"
 
 [params]
-  description = "Daily surf report, conditions, and the best surf clips from around the world."
-  tagline = "Daily surf. Fresh clips."
+  description = "The best surf clips from around the world. Weekly Top 10 countdowns, Shorts, and full edits."
+  tagline = "The best surf clips from around the world"
   youtube_channel = "https://www.youtube.com/@SurfClipsTV"
+  merch_url = "https://surf-clips-tv-shop.fourthwall.com/"
+  instagram = "https://www.instagram.com/surfclipstv/"
+  tiktok = "https://www.tiktok.com/@surfclipstv"
 
 [taxonomies]
   tag = "tags"
-  region = "regions"
 
 [permalinks]
-  posts = "/:year/:month/:day/:slug/"
+  clips = "/clips/:contentbasename/"
 
 [sitemap]
   changefreq = "daily"
