@@ -962,8 +962,8 @@ img { display: block; max-width: 100%; }
 
 @media (max-width: 480px) {
   .hero-top10-info h1 { font-size: 1rem; }
-  .top10s-grid { grid-template-columns: 1fr; }
-  .clips-grid { grid-template-columns: 1fr; }
+  .top10s-grid { grid-template-columns: repeat(2, 1fr); }
+  .clips-grid { grid-template-columns: repeat(2, 1fr); }
   .shop-grid { grid-template-columns: repeat(2, 1fr); }
   .short-card { flex: 0 0 150px; }
   .short-thumb { width: 150px; height: 85px; }
