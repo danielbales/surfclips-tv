@@ -1,6 +1,7 @@
 ---
 title: "Mini Vacation"
 date: 2026-04-04T23:14:47Z
+description: "Watch Mini Vacation on Surf Clips TV."
 draft: false
 video_id: "13CrPG-dUHY"
 thumbnail: "https://i.ytimg.com/vi/13CrPG-dUHY/maxresdefault.jpg"

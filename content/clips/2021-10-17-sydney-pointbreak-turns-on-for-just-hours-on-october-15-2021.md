@@ -1,6 +1,7 @@
 ---
 title: "Sydney POINTBREAK TURNS ON for just hours on October 15, 2021"
 date: 2021-10-17T17:21:06Z
+description: "Support the channel by subscribing! Conditions came together for just a few hours at this Sydney (Manly) pointbreak on October 15, 2021. Thank you for..."
 draft: false
 video_id: "uQ0PZM_d6XQ"
 thumbnail: "https://i.ytimg.com/vi/uQ0PZM_d6XQ/maxresdefault.jpg"

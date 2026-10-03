@@ -1,6 +1,7 @@
 ---
 title: "Mason Ho visits the Old World"
 date: 2026-09-26T15:38:46Z
+description: "Watch Mason Ho visits the Old World on Surf Clips TV."
 draft: false
 video_id: "3s9ygSoO98E"
 thumbnail: "https://i.ytimg.com/vi/3s9ygSoO98E/maxresdefault.jpg"

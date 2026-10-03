@@ -1,6 +1,7 @@
 ---
 title: "WK Measuring Waves"
 date: 2026-04-28T22:31:28Z
+description: "Watch WK Measuring Waves on Surf Clips TV."
 draft: false
 video_id: "U6Ct-pobpPw"
 thumbnail: "https://i.ytimg.com/vi/U6Ct-pobpPw/maxresdefault.jpg"

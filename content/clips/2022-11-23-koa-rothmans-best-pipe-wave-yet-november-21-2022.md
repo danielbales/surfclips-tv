@@ -1,6 +1,7 @@
 ---
 title: "Koa Rothman's BEST PIPE WAVE YET – November 21, 2022"
 date: 2022-11-23T00:27:02Z
+description: "North Shore hellman Koa Smith dropped into this dream was got blown out during this am pipeline session. Shortly afterward he said it was \"his best..."
 draft: false
 video_id: "ARHzkrzhc3s"
 thumbnail: "https://i.ytimg.com/vi/ARHzkrzhc3s/sddefault.jpg"

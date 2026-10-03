@@ -1,6 +1,7 @@
 ---
 title: "Cam Richards on a 3 stair drop"
 date: 2025-08-26T04:06:24Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "20yVLhbrK5s"
 thumbnail: "https://i9.ytimg.com/vi/20yVLhbrK5s/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLDHZkxLi8sGeGKu8oXwQVUixqPhrQ"

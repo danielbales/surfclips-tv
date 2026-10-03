@@ -1,6 +1,7 @@
 ---
 title: "*New Angle* Power surfing at Hale'iwa, Hawaii – December 4, 2023"
 date: 2023-12-05T18:29:07Z
+description: "NW swell peaked provided some SOLID surf with favorable ENE wind conditions on tap for this morning session. Support the channel by subscribing! Thank..."
 draft: false
 video_id: "3dPZIO3QU2M"
 thumbnail: "https://i.ytimg.com/vi/3dPZIO3QU2M/maxresdefault.jpg"

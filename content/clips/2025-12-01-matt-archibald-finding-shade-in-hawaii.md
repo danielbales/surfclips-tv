@@ -1,6 +1,7 @@
 ---
 title: "Matt Archibald finding shade in Hawaii"
 date: 2025-12-01T08:00:19Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "Hu_s1B3CwDI"
 thumbnail: "https://i.ytimg.com/vi/Hu_s1B3CwDI/maxresdefault.jpg"

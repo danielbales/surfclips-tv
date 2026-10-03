@@ -1,6 +1,7 @@
 ---
 title: "HUGE straight air (Rio Waida at home)"
 date: 2025-06-07T21:51:24Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Rio Waida"
 draft: false
 video_id: "9cwbcGZ_4jc"
 thumbnail: "https://i.ytimg.com/vi/9cwbcGZ_4jc/maxresdefault.jpg"

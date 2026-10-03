@@ -1,6 +1,7 @@
 ---
 title: "Hi-performance surf at Bali beachbreak"
 date: 2022-08-13T14:01:43Z
+description: "Chest to shoulder high swell (210º) with light ENE winds offers nice conditions for local rippers. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "nyiImXvDyuY"
 thumbnail: "https://i.ytimg.com/vi/nyiImXvDyuY/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Too deep! Somewhere in Mexico.. April 2024"
 date: 2024-04-24T19:48:54Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "r9RU74vFxAU"
 thumbnail: "https://i.ytimg.com/vi/r9RU74vFxAU/maxresdefault.jpg"

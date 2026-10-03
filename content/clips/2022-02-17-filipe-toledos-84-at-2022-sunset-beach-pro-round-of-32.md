@@ -1,6 +1,7 @@
 ---
 title: "Filipe Toledo's 8.4 at 2022 Sunset Beach Pro (Round of 32)"
 date: 2022-02-17T18:17:34Z
+description: "Filipe Toledo gets two back-to-back waves at the end of his heat to take down Billy Kemper in solid, triple overhead Sunset Beach Support the channel..."
 draft: false
 video_id: "Laq0SLv8RSE"
 thumbnail: "https://i.ytimg.com/vi/Laq0SLv8RSE/maxresdefault.jpg"

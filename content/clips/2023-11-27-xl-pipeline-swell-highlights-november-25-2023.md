@@ -1,6 +1,7 @@
 ---
 title: "XL PIPELINE swell highlights – November 25, 2023"
 date: 2023-11-27T04:33:58Z
+description: "XL NW swell provided double overhead sets still with occasional triple overhead high faces rolling in at Pipeline, and breaking on the outer reefs from..."
 draft: false
 video_id: "TDW0mKQY6ZA"
 thumbnail: "https://i.ytimg.com/vi/TDW0mKQY6ZA/maxresdefault.jpg"

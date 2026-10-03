@@ -1,6 +1,7 @@
 ---
 title: "Hawaiian Supaman"
 date: 2024-12-05T02:30:54Z
+description: "Watch Hawaiian Supaman on Surf Clips TV."
 draft: false
 video_id: "MePh6iT6kJ8"
 thumbnail: "https://i.ytimg.com/vi/MePh6iT6kJ8/maxresdefault.jpg"

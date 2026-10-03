@@ -1,6 +1,7 @@
 ---
 title: "Kelly Slater INTERFERES w/ JJF at 2022 Sunset Beach Pro (1st non-prio interference EVER!)"
 date: 2022-02-17T02:44:11Z
+description: "In solid, triple overhead Sunset Beach surf, Kelly Slater took a set wave in and wasn't able to kickout before John John Florence to avoid crossing his..."
 draft: false
 video_id: "xRL68-rB-Eg"
 thumbnail: "https://i.ytimg.com/vi/xRL68-rB-Eg/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Brett Barley from above - Dec 2025"
 date: 2025-12-10T18:12:20Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "Cj0qlKIp4Ew"
 thumbnail: "https://i.ytimg.com/vi/Cj0qlKIp4Ew/maxresdefault.jpg"

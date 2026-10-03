@@ -1,6 +1,7 @@
 ---
 title: "Billy Kemper's FLAWLESS PIPE PIT at 2023 Pipeline Masters (Day 1)"
 date: 2023-12-10T16:06:00Z
+description: "In the first heat of the day, Billy Kemper finds and rides a perfect Pipe wave. Support the channel by subscribing! Thank you for supporting Surf Cam..."
 draft: false
 video_id: "HF6ovuLG7z8"
 thumbnail: "https://i.ytimg.com/vi/HF6ovuLG7z8/maxresdefault.jpg"

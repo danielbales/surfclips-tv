@@ -1,6 +1,7 @@
 ---
 title: "Sunset Beach 💣"
 date: 2022-11-18T04:33:38Z
+description: "Peaking NW swell delivered well-overhead surf to the North Shore, lighting up Sunset Beach while trade winds groomed faces. Even though this wave..."
 draft: false
 video_id: "UGLl-ldvxGc"
 thumbnail: "https://i.ytimg.com/vi/UGLl-ldvxGc/maxresdefault.jpg"

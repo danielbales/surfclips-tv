@@ -1,6 +1,7 @@
 ---
 title: "1st ever Supertubos ROLL IN PIT - Jack Robinson, March 2025"
 date: 2025-03-16T00:00:13Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Supersession the day before the 2025 Supertubos Pro provided deep lowtide drainers, like this..."
 draft: false
 video_id: "aeFSn4QJ8yk"
 thumbnail: "https://i.ytimg.com/vi/aeFSn4QJ8yk/maxresdefault.jpg"

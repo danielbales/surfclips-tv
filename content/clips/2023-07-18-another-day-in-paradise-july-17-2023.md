@@ -1,6 +1,7 @@
 ---
 title: "Another day in Paradise - July 17, 2023"
 date: 2023-07-18T04:36:51Z
+description: "The South Pacific sees overhead swell and glassy conditions thanks to a SW swell (217º). Support the channel by subscribing! Thank you for supporting..."
 draft: false
 video_id: "gBJPQQ9fjes"
 thumbnail: "https://i.ytimg.com/vi/gBJPQQ9fjes/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Wilbur Kookmeyer Gets Scammed! | \"Save the Ferrets\" Surf Contest"
 date: 2026-05-06T21:34:22Z
+description: "Wilbur learns a hard lesson about beachside charity in this classic scam! 🏄‍♂️ When a \"$20 Entry\" benefit surf contest promises glory, Wilbur is eager..."
 draft: false
 video_id: "TCbx94YSmJU"
 thumbnail: "https://i9.ytimg.com/vi/TCbx94YSmJU/hqdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLDHzgZweY4_TDQMIwm6zN7ldl4ikA"

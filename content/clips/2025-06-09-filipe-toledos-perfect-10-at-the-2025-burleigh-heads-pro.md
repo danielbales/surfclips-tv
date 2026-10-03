@@ -1,6 +1,7 @@
 ---
 title: "Filipe Toledo's PERFECT 10 at the 2025 Burleigh Heads Pro"
 date: 2025-06-09T07:00:21Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ In his super heat during the Semi-finals of the 2025 Burleigh Heads Pro, Filipe Toledo gets..."
 draft: false
 video_id: "W4A0clv9yFI"
 thumbnail: "https://i.ytimg.com/vi/W4A0clv9yFI/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Perfect San Francisco"
 date: 2025-02-18T08:00:10Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "Ga7DRh3k_o0"
 thumbnail: "https://i.ytimg.com/vi/Ga7DRh3k_o0/maxresdefault.jpg"

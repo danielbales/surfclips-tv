@@ -1,6 +1,7 @@
 ---
 title: "2 immaculate Backdoor tubes from (Mason Ho) January 18, 2022"
 date: 2022-01-19T03:42:21Z
+description: "After the dust settled from the Backdoor Shootout, fun waves offered slightly overhead waves and glassy conditions. Support the channel by subscribing!..."
 draft: false
 video_id: "rfaDBEe1u_Q"
 thumbnail: "https://i.ytimg.com/vi/rfaDBEe1u_Q/maxresdefault.jpg"

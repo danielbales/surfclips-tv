@@ -1,6 +1,7 @@
 ---
 title: "MASON HO launches a BIG BACKSIDE AIR - October 2023 #surfing #surf #surfer"
 date: 2023-10-27T04:26:10Z
+description: "Music - Nat Keefe & BeatMower - Creeping Spiders Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to..."
 draft: false
 video_id: "fQwt8fTRIks"
 thumbnail: "https://i.ytimg.com/vi/fQwt8fTRIks/maxresdefault.jpg"

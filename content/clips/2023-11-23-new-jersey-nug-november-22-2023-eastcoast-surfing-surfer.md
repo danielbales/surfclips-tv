@@ -1,6 +1,7 @@
 ---
 title: "New Jersey nug - November 22, 2023  #eastcoast #surfing #surfer"
 date: 2023-11-23T00:57:08Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "_3qjb2sn6CQ"
 thumbnail: "https://i.ytimg.com/vi/_3qjb2sn6CQ/maxresdefault.jpg"

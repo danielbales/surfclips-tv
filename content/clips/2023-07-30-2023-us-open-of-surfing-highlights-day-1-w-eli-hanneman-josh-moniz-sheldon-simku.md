@@ -1,6 +1,7 @@
 ---
 title: "2023 US Open of Surfing – Highlights Day 1 (w/ Eli Hanneman, Josh Moniz, Sheldon Simkus & more)"
 date: 2023-07-30T16:43:33Z
+description: "Fun waves were in the water from a combo of SSW swell and NW windswell for day 1 of the 2023 US Open of Surf. Waist-stomach sets were decimated by top..."
 draft: false
 video_id: "TIh7EbJRx0U"
 thumbnail: "https://i.ytimg.com/vi/TIh7EbJRx0U/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Surfer gets blown out of beachbreak tube"
 date: 2022-02-21T21:03:49Z
+description: "6-10 foot faces lit this European beachbreak up on February 20, 2022. Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so..."
 draft: false
 video_id: "icOgitHxUF4"
 thumbnail: "https://i.ytimg.com/vi/icOgitHxUF4/maxresdefault.jpg"

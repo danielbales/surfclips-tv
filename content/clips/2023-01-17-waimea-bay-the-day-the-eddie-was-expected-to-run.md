@@ -1,6 +1,7 @@
 ---
 title: "Waimea Bay the day THE EDDIE was expected to run"
 date: 2023-01-17T01:11:17Z
+description: "The day The Eddie was expected to run (but didn't) still served up some solid Waimea Bay surf. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "p1QVpZ91bCA"
 thumbnail: "https://i.ytimg.com/vi/p1QVpZ91bCA/maxresdefault.jpg"

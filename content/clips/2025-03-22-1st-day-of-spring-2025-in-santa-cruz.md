@@ -1,6 +1,7 @@
 ---
 title: "1st day of Spring 2025 in Santa Cruz"
 date: 2025-03-22T14:00:42Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ A fun combo swell and light winds provided Steamer Lane surfers with fun walls during the am..."
 draft: false
 video_id: "ZgKDJ5YJ43M"
 thumbnail: "https://i.ytimg.com/vi/ZgKDJ5YJ43M/maxresdefault.jpg"

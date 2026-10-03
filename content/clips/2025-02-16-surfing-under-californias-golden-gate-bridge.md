@@ -1,6 +1,7 @@
 ---
 title: "Surfing under California's GOLDEN GATE BRIDGE!"
 date: 2025-02-16T04:22:44Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Raw footage of surfing at San Francisco, California's Fort Point National Historic Site...."
 draft: false
 video_id: "hqsiQ4G9o8U"
 thumbnail: "https://i.ytimg.com/vi/hqsiQ4G9o8U/maxresdefault.jpg"

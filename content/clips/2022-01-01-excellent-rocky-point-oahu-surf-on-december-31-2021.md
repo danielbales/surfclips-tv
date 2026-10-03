@@ -1,6 +1,7 @@
 ---
 title: "Excellent Rocky Point, Oahu surf on December 31, 2021"
 date: 2022-01-01T14:52:13Z
+description: "5-8 foot (2-3 meter) surf at Rocky Point offered ramps, barrels and hackable sections on December 31, 2021. Support the channel by subscribing! Thank..."
 draft: false
 video_id: "Xe9nGMSLT0s"
 thumbnail: "https://i.ytimg.com/vi/Xe9nGMSLT0s/maxresdefault.jpg"

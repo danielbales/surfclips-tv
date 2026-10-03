@@ -1,6 +1,7 @@
 ---
 title: "Kelly Slater's Backdoor SHACK at 2023 Backdoor Shootout"
 date: 2023-01-15T23:30:48Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Solid surf North Shore with ideal light wind conditions were on tap this morning offering..."
 draft: false
 video_id: "cyigPhPu4_s"
 thumbnail: "https://i.ytimg.com/vi/cyigPhPu4_s/maxresdefault.jpg"

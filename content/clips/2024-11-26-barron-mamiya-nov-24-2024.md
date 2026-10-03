@@ -1,6 +1,7 @@
 ---
 title: "Barron Mamiya - Nov 24, 2024"
 date: 2024-11-26T03:57:44Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!..."
 draft: false
 video_id: "1ldX1R9o9Xo"
 thumbnail: "https://i.ytimg.com/vi/1ldX1R9o9Xo/maxresdefault.jpg"

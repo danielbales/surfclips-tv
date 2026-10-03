@@ -1,6 +1,7 @@
 ---
 title: "Shane Styles destroys lip"
 date: 2024-09-26T21:21:15Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ Thank you for supporting Surf Cam Rewind so we can continue to provide you with free..."
 draft: false
 video_id: "Pu-ke15KovU"
 thumbnail: "https://i.ytimg.com/vi/Pu-ke15KovU/maxresdefault.jpg"

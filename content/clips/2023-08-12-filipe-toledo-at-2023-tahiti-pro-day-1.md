@@ -1,6 +1,7 @@
 ---
 title: "Filipe Toledo at 2023 Tahiti Pro (Day 1)"
 date: 2023-08-12T22:32:28Z
+description: "On Day 1 of the 2023 Tahiti Pro, Filipe Toledo stuck this 6.5 in the opening round agains Liam O'Brien and Tahitian Matahi Drollet. Support the channel..."
 draft: false
 video_id: "D0pvTt21Xkk"
 thumbnail: "https://i.ytimg.com/vi/D0pvTt21Xkk/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "TOP 10 from August 17, 2026 – Surf Clips TV"
 date: 2026-08-17T17:01:55Z
+description: "Surfing from Indonesia, Hawaii, Fiji & more."
 draft: false
 video_id: "VB0LSy3xwjc"
 thumbnail: "https://i.ytimg.com/vi/VB0LSy3xwjc/sddefault.jpg"

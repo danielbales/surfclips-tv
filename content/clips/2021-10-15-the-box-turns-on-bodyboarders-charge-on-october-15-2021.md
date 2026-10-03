@@ -1,6 +1,7 @@
 ---
 title: "THE BOX TURNS ON!! & bodyboarders CHARGE on October 15, 2021"
 date: 2021-10-15T18:45:03Z
+description: "Support the channel by subscribing! Offshore winds and solid swell at Main Beach Margaret River meant heavy slab surf for the local bodyboard..."
 draft: false
 video_id: "VbCcnoGHdCA"
 thumbnail: "https://i.ytimg.com/vi/VbCcnoGHdCA/maxresdefault.jpg"

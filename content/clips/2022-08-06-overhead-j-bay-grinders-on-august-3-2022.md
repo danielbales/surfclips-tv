@@ -1,6 +1,7 @@
 ---
 title: "Overhead J-Bay grinders on August 3, 2022"
 date: 2022-08-06T00:57:19Z
+description: "Long period waves from the SW (226º) wrapped into Jeffrey's Bay's Supertubes, while light, clean winds groomed faces and offered dreamy rides for local..."
 draft: false
 video_id: "JMaeRTeJR9A"
 thumbnail: "https://i.ytimg.com/vi/JMaeRTeJR9A/maxresdefault.jpg"

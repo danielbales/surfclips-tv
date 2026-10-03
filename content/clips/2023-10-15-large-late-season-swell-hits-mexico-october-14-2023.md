@@ -1,6 +1,7 @@
 ---
 title: "Large, late-season swell hits Mexico – October 14, 2023"
 date: 2023-10-15T18:00:11Z
+description: "A large, long period swell hit this big wave surf spot and offered occasional 3x overhead waves with offshore winds. Support the channel by..."
 draft: false
 video_id: "VBoBjuUmQoI"
 thumbnail: "https://i.ytimg.com/vi/VBoBjuUmQoI/maxresdefault.jpg"

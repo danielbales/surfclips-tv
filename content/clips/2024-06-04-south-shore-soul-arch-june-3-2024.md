@@ -1,6 +1,7 @@
 ---
 title: "South Shore Soul Arch - June 3, 2024"
 date: 2024-06-04T18:55:05Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "8ZJyk3AmDo4"
 thumbnail: "https://i.ytimg.com/vi/8ZJyk3AmDo4/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Puerto Escondido AM session on June 25, 2022"
 date: 2022-06-26T15:58:13Z
+description: "SW swell (220º) and a Westerly tropical swell (254º) made their way into Playa Zicatela, offering overhead sets, while morning offshore winds groomed..."
 draft: false
 video_id: "RKXNwaYiTZk"
 thumbnail: "https://i.ytimg.com/vi/RKXNwaYiTZk/maxresdefault.jpg"

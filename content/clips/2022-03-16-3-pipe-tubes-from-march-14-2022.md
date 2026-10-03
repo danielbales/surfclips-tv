@@ -1,6 +1,7 @@
 ---
 title: "3 PIPE TUBES from March 14. 2022"
 date: 2022-03-16T17:42:41Z
+description: "There weren't too many completed tube rides this day! Building WNW swell and offshore winds meant an occasional great Pipe wave for lucky North Shore..."
 draft: false
 video_id: "BAIirt6ii90"
 thumbnail: "https://i.ytimg.com/vi/BAIirt6ii90/maxresdefault.jpg"

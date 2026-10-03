@@ -1,6 +1,7 @@
 ---
 title: "Unknown surfer gets 2x coverup - January, 2026"
 date: 2026-01-18T16:29:58Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "if23X9KbS8o"
 thumbnail: "https://i.ytimg.com/vi/if23X9KbS8o/maxresdefault.jpg"

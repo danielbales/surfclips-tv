@@ -1,6 +1,7 @@
 ---
 title: "Italo Ferreira at 2024 Pipe Pro – Day 2"
 date: 2024-02-06T21:25:24Z
+description: "Italo Ferreira stuns the 2024 Pipe Pro crowd on day 2 by emerging from this backdoor pit and scoring an 8.8. Support the channel by subscribing! Thank..."
 draft: false
 video_id: "d_Hr8bGV300"
 thumbnail: "https://i.ytimg.com/vi/d_Hr8bGV300/maxresdefault.jpg"

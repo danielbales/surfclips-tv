@@ -1,6 +1,7 @@
 ---
 title: "Boosting at Lowers, October 13, 2024"
 date: 2024-10-14T04:01:08Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!..."
 draft: false
 video_id: "M2K84Aoc6Oo"
 thumbnail: "https://i.ytimg.com/vi/M2K84Aoc6Oo/maxresdefault.jpg"

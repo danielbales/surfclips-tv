@@ -1,6 +1,7 @@
 ---
 title: "Jamie O'Brien burned by Makai McNamara - Feb 2025"
 date: 2025-02-12T22:40:14Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "PBZZGYLZz4Q"
 thumbnail: "https://i.ytimg.com/vi/PBZZGYLZz4Q/maxresdefault.jpg"

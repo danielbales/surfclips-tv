@@ -1,6 +1,7 @@
 ---
 title: "Zeke Lau's LAYBACK TAILSLIDE at 2023 Sunset Beach Pro (Day 2)"
 date: 2023-02-16T03:49:53Z
+description: "In his elimination round, Ezekiel Lau destroys this unsuspecting lip during his heat at 2023 Sunset Beach Pro. Support the channel by subscribing!..."
 draft: false
 video_id: "90LBIP954wY"
 thumbnail: "https://i.ytimg.com/vi/90LBIP954wY/maxresdefault.jpg"

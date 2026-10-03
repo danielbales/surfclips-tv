@@ -1,6 +1,7 @@
 ---
 title: "Backside blast at Lower Trestles"
 date: 2022-09-04T00:36:07Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "AnKvXF5qxn4"
 thumbnail: "https://i.ytimg.com/vi/AnKvXF5qxn4/maxresdefault.jpg"

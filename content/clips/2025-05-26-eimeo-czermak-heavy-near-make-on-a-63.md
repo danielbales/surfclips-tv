@@ -1,6 +1,7 @@
 ---
 title: "Eimeo Czermak HEAVY near-make on a 6'3"
 date: 2025-05-26T22:31:37Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Eimeo Czermak"
 draft: false
 video_id: "vJDgj0m6LhU"
 thumbnail: "https://i.ytimg.com/vi/vJDgj0m6LhU/maxresdefault.jpg"

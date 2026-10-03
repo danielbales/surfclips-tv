@@ -1,6 +1,7 @@
 ---
 title: "Malibu CHAOS on Memorial Day 2023"
 date: 2023-05-30T18:41:44Z
+description: "Thick crowds decended on Malibu on Memorial Day 2023."
 draft: false
 video_id: "zUcpZYgRW38"
 thumbnail: "https://i.ytimg.com/vi/zUcpZYgRW38/maxresdefault.jpg"

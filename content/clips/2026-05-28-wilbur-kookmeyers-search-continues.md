@@ -1,6 +1,7 @@
 ---
 title: "Wilbur Kookmeyer's Search Continues"
 date: 2026-05-28T19:57:50Z
+description: "Watch Wilbur Kookmeyer's Search Continues on Surf Clips TV."
 draft: false
 video_id: "5N9S_az0XgE"
 thumbnail: "https://i.ytimg.com/vi/5N9S_az0XgE/maxresdefault.jpg"

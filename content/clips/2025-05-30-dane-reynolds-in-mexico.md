@@ -1,6 +1,7 @@
 ---
 title: "Dane Reynolds in Mexico"
 date: 2025-05-30T17:06:45Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Chapter 11"
 draft: false
 video_id: "a9Uv08MVVu8"
 thumbnail: "https://i.ytimg.com/vi/a9Uv08MVVu8/maxresdefault.jpg"

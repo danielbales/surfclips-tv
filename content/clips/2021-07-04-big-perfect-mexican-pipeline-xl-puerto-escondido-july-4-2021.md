@@ -1,6 +1,7 @@
 ---
 title: "BIG, PERFECT MEXICAN PIPELINE!!! XL Puerto Escondido, July 4, 2021"
 date: 2021-07-04T22:23:26Z
+description: "Support the channel by subscribing! Puerto GOES OFF on the Fourth of July, 2021. Surfline claimed 15-18 foot. Thank you for supporting Daily Surf Clips..."
 draft: false
 video_id: "hucM6EkMk1s"
 thumbnail: "https://i.ytimg.com/vi/hucM6EkMk1s/maxresdefault.jpg"

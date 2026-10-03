@@ -1,6 +1,7 @@
 ---
 title: "⚡️ Wave of the Winter: Kainehe Hunt – December 6, 2023 ⚡️"
 date: 2023-12-08T23:14:26Z
+description: "Spanning across 2 cameras, Kauai's Kainehe Hunt lucked into what many are saying the best wave ever ridden at Backdoor. Support the channel by..."
 draft: false
 video_id: "W31ceozg7co"
 thumbnail: "https://i.ytimg.com/vi/W31ceozg7co/maxresdefault.jpg"

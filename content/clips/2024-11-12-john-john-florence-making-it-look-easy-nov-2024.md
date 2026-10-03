@@ -1,6 +1,7 @@
 ---
 title: "John John Florence making it look easy – Nov 2024"
 date: 2024-11-12T21:51:51Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!..."
 draft: false
 video_id: "6krZC8Qml5A"
 thumbnail: "https://i.ytimg.com/vi/6krZC8Qml5A/maxresdefault.jpg"

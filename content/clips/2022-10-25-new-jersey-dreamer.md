@@ -1,6 +1,7 @@
 ---
 title: "New Jersey dreamer 🤙"
 date: 2022-10-25T21:16:39Z
+description: "Watch New Jersey dreamer 🤙 on Surf Clips TV."
 draft: false
 video_id: "WeR9MzpLTs0"
 thumbnail: "https://i.ytimg.com/vi/WeR9MzpLTs0/maxresdefault.jpg"

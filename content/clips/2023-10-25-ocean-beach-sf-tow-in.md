@@ -1,6 +1,7 @@
 ---
 title: "Ocean Beach, SF TOW IN"
 date: 2023-10-25T02:50:19Z
+description: "Watch Ocean Beach, SF TOW IN on Surf Clips TV."
 draft: false
 video_id: "HdyQfQ36rh4"
 thumbnail: "https://i.ytimg.com/vi/HdyQfQ36rh4/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Ivan Florence at Pipe on Monday, January 10, 2022"
 date: 2022-01-10T20:12:37Z
+description: "As 2022 Da Hui Backdoor Shootout organizers decided whether to run day 3 of the event or not Ivan Florence wasted no time bagging this Pipe gem...."
 draft: false
 video_id: "vMbfn90Q9Yc"
 thumbnail: "https://i.ytimg.com/vi/vMbfn90Q9Yc/maxresdefault.jpg"

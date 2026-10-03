@@ -1,6 +1,7 @@
 ---
 title: "Stylemaster Mason Ho 😎"
 date: 2025-05-09T17:00:39Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Mason Ho"
 draft: false
 video_id: "k8gPFvR-6vU"
 thumbnail: "https://i.ytimg.com/vi/k8gPFvR-6vU/maxresdefault.jpg"

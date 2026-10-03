@@ -1,6 +1,7 @@
 ---
 title: "Life Reflection"
 date: 2026-04-05T04:51:55Z
+description: "Watch Life Reflection on Surf Clips TV."
 draft: false
 video_id: "EQxavibpG4o"
 thumbnail: "https://i.ytimg.com/vi/EQxavibpG4o/maxresdefault.jpg"

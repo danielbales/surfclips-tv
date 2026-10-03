@@ -1,6 +1,7 @@
 ---
 title: "COLOSSAL SWELL — lights up TEAHUPO'O, Tahiti - August 7, 2021"
 date: 2021-08-08T17:45:21Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Support the channel by subscribing! Occasional 15ft sets (5m) hit the reef at Teahupo'o,..."
 draft: false
 video_id: "BbvHydAitAI"
 thumbnail: "https://i.ytimg.com/vi/BbvHydAitAI/maxresdefault.jpg"

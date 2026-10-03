@@ -1,6 +1,7 @@
 ---
 title: "Find me on YouTube v2"
 date: 2026-01-26T20:02:02Z
+description: "Watch Find me on YouTube v2 on Surf Clips TV."
 draft: false
 video_id: "jpGfuE6vBng"
 thumbnail: "https://i.ytimg.com/vi/jpGfuE6vBng/maxresdefault.jpg"

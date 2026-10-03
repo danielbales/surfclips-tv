@@ -1,6 +1,7 @@
 ---
 title: "LOFTY frontside air at Steamer Lane"
 date: 2022-11-15T03:51:23Z
+description: "Watch LOFTY frontside air at Steamer Lane on Surf Clips TV."
 draft: false
 video_id: "Pg8dxjRnFwM"
 thumbnail: "https://i.ytimg.com/vi/Pg8dxjRnFwM/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Jamie O'Brien's winter morning routine"
 date: 2025-10-24T04:59:32Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "cji2z9vgYMU"
 thumbnail: "https://i9.ytimg.com/vi/cji2z9vgYMU/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLDI6N4IqZM--vKy8Pfp_C8aANMziw"

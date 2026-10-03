@@ -1,6 +1,7 @@
 ---
 title: "Glassy point break surf at Anchor Point, Morocco on December 31, 2021"
 date: 2022-01-01T15:01:26Z
+description: "Overhead, mid-period surf and light ESE winds meant fun rides at Anchor Point, Morocco on the last day of 2021. Support the channel by subscribing!..."
 draft: false
 video_id: "0J_sEnhircA"
 thumbnail: "https://i.ytimg.com/vi/0J_sEnhircA/maxresdefault.jpg"

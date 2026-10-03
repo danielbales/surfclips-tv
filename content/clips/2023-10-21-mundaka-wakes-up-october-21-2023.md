@@ -1,6 +1,7 @@
 ---
 title: "MUNDAKA WAKES UP – October 21, 2023"
 date: 2023-10-21T22:44:32Z
+description: "Basque surfers crowded Mundaka's infamous left point as a small afternoon window offered thick, hollow, and makeable barrels. Support the channel by..."
 draft: false
 video_id: "uDUOjzpDwKU"
 thumbnail: "https://i.ytimg.com/vi/uDUOjzpDwKU/maxresdefault.jpg"

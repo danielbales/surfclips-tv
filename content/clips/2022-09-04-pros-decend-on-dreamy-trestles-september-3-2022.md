@@ -1,6 +1,7 @@
 ---
 title: "Pros decend on DREAMY Trestles – September 3, 2022"
 date: 2022-09-04T01:41:14Z
+description: "Beautiful morning with clean conditions as a fun S swell (189º) rolls through the Lower Trestles line up, 4 days before the Lowers Pro. Support the..."
 draft: false
 video_id: "Gy-SHys6PYs"
 thumbnail: "https://i.ytimg.com/vi/Gy-SHys6PYs/maxresdefault.jpg"

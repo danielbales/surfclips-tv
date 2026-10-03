@@ -1,6 +1,7 @@
 ---
 title: "Wish your day started like this?"
 date: 2025-02-28T19:46:43Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Surfer sends it from deep and gets exploded out of an incredible Pipeline wave. Credit: Surfline"
 draft: false
 video_id: "yLHV6Ku2xoc"
 thumbnail: "https://i.ytimg.com/vi/yLHV6Ku2xoc/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "South Africa FIRES – April, 2024"
 date: 2024-04-14T23:05:46Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ Solid, 2x overhead swell produced long, rippable and occasionally hollow waves at..."
 draft: false
 video_id: "9NgxWxhx_M8"
 thumbnail: "https://i.ytimg.com/vi/9NgxWxhx_M8/maxresdefault.jpg"

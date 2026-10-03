@@ -1,6 +1,7 @@
 ---
 title: "I try not to rip"
 date: 2026-01-31T04:46:46Z
+description: "Watch I try not to rip on Surf Clips TV."
 draft: false
 video_id: "BsJ7e7OJqYg"
 thumbnail: "https://i.ytimg.com/vi/BsJ7e7OJqYg/maxresdefault.jpg"

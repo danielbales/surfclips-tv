@@ -1,6 +1,7 @@
 ---
 title: "🇲🇽 Combo swell hits STEAMER LANE on Cinco de Mayo 2023"
 date: 2023-05-05T23:09:46Z
+description: "Fun, overhead and rippable waves hit Steamer Lane on Cinco de Mayo '23! Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so..."
 draft: false
 video_id: "zrQvs6plrrE"
 thumbnail: "https://i.ytimg.com/vi/zrQvs6plrrE/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Is this a wave? Somewhere in Oz"
 date: 2024-07-17T07:00:18Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "HxUtOfMsUUA"
 thumbnail: "https://i.ytimg.com/vi/HxUtOfMsUUA/maxresdefault.jpg"

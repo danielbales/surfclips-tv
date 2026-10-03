@@ -1,6 +1,7 @@
 ---
 title: "CAVERN of the Day - The Wedge - May 17, 2023"
 date: 2023-05-21T00:05:04Z
+description: "As the swell of the year hit The Wedge, plenty of Orange County surfers tried their luck at SoCal's most infamous novelty wave. Support the channel by..."
 draft: false
 video_id: "zrwxlxeYQxM"
 thumbnail: "https://i.ytimg.com/vi/zrwxlxeYQxM/maxresdefault.jpg"

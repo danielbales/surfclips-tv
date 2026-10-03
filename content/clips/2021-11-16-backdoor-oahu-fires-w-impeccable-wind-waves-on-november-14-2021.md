@@ -1,6 +1,7 @@
 ---
 title: "Backdoor, Oahu FIRES w/ IMPECCABLE wind + WAVES on November 14, 2021"
 date: 2021-11-16T03:45:44Z
+description: "Jon Jon Florence, Jamie O'Brien and a ton more North Shore locals charged ESE wind + overhead perfection on November 14, 2021. Support the channel by..."
 draft: false
 video_id: "jmm1Mn6xiVY"
 thumbnail: "https://i.ytimg.com/vi/jmm1Mn6xiVY/maxresdefault.jpg"

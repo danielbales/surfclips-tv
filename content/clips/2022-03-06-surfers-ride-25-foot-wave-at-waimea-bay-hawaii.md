@@ -1,6 +1,7 @@
 ---
 title: "Surfers ride 25 foot wave at Waimea Bay, Hawaii"
 date: 2022-03-06T03:30:03Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "DTs-2oj0u8M"
 thumbnail: "https://i.ytimg.com/vi/DTs-2oj0u8M/maxresdefault.jpg"

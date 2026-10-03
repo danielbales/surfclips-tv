@@ -1,6 +1,7 @@
 ---
 title: "Pipe specialists put on a CLINIC in crowded, 8-12 foot surf"
 date: 2022-12-04T21:34:47Z
+description: "December 2022 kicked off with a solid 2x OH Pipe swell, and the crowd, including Jamie O'Brien, John John Florence, Mason Ho and others were on it...."
 draft: false
 video_id: "sBNj6zg6N2c"
 thumbnail: "https://i.ytimg.com/vi/sBNj6zg6N2c/maxresdefault.jpg"

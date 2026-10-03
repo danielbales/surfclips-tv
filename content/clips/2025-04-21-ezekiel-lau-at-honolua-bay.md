@@ -1,6 +1,7 @@
 ---
 title: "Ezekiel Lau at Honolua Bay"
 date: 2025-04-21T07:00:29Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "emWAF_KAJlk"
 thumbnail: "https://i.ytimg.com/vi/emWAF_KAJlk/maxresdefault.jpg"

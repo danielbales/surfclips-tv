@@ -1,6 +1,7 @@
 ---
 title: "Exploded in Ireland - Hurricane Erin"
 date: 2025-09-02T16:15:08Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "r-VTNCEh2go"
 thumbnail: "https://i9.ytimg.com/vi/r-VTNCEh2go/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLAXEMkYOwxv3RECxCE_t0tHJCR6HA"

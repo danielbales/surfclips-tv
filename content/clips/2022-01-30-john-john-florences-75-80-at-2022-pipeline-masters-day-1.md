@@ -1,6 +1,7 @@
 ---
 title: "John John Florence's 7.5 & 8.0 at 2022 Pipeline Masters (Day 1)"
 date: 2022-01-30T20:02:56Z
+description: "JJF finds two incredible Pipe tubes in heat 9 of the opening round. Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we..."
 draft: false
 video_id: "mPdrpKYtewY"
 thumbnail: "https://i.ytimg.com/vi/mPdrpKYtewY/maxresdefault.jpg"

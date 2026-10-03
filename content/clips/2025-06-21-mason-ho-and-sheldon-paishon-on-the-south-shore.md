@@ -1,6 +1,7 @@
 ---
 title: "Mason Ho and Sheldon Paishon on the South Shore"
 date: 2025-06-21T00:09:07Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Ho & Pringle Productions"
 draft: false
 video_id: "OY_F6aaolOY"
 thumbnail: "https://i.ytimg.com/vi/OY_F6aaolOY/maxresdefault.jpg"

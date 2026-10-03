@@ -1,6 +1,7 @@
 ---
 title: "Benji Brand gets BLOWN OUT of a Pipe barrel during the 2022 Da Hui Backdoor Shootout (Round 3)"
 date: 2022-01-12T19:40:03Z
+description: "During the 2022 Da Hui Backdoor Shootout (Round 3), Benji Brand gets this Pipeline gem during Snapt 4's heat. Support the channel by subscribing! Thank..."
 draft: false
 video_id: "uqN--zZOJRU"
 thumbnail: "https://i.ytimg.com/vi/uqN--zZOJRU/maxresdefault.jpg"

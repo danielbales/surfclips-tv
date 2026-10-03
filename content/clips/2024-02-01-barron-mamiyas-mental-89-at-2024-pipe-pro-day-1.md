@@ -1,6 +1,7 @@
 ---
 title: "Barron Mamiya's MENTAL 8.9 at 2024 Pipe Pro (Day 1)"
 date: 2024-02-01T17:25:35Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "hdjl_mQq5lk"
 thumbnail: "https://i.ytimg.com/vi/hdjl_mQq5lk/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Mason Ho 1st WALLRIDE on a surfboard EVER"
 date: 2025-07-12T21:13:49Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "CXpan4FFwDw"
 thumbnail: "https://i9.ytimg.com/vi/CXpan4FFwDw/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLDh-x5VyEN9EJYAa4_ixqbUGgWzhQ"

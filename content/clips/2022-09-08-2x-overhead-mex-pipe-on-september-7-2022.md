@@ -1,6 +1,7 @@
 ---
 title: "2x overhead Mex Pipe on September 7, 2022"
 date: 2022-09-08T00:33:05Z
+description: "Punchy SSW swell (209º) with an additional smaller tropical swell (258º), along with nice clean offshore AM winds offered some great opportunities for..."
 draft: false
 video_id: "4oBSV6bS39M"
 thumbnail: "https://i.ytimg.com/vi/4oBSV6bS39M/maxresdefault.jpg"

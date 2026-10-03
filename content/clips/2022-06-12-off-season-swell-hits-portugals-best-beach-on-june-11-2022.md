@@ -1,6 +1,7 @@
 ---
 title: "Off season swell hits Portugal's best beach on June 11, 2022"
 date: 2022-06-12T12:57:25Z
+description: "Short period 5-7 foot waves from the North (346º) offered occasional overhead sets, while N winds groomed faces. Support the channel by subscribing!..."
 draft: false
 video_id: "7SrdjccRZKo"
 thumbnail: "https://i.ytimg.com/vi/7SrdjccRZKo/maxresdefault.jpg"

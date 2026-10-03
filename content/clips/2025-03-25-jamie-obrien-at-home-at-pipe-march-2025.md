@@ -1,6 +1,7 @@
 ---
 title: "Jamie O'Brien at home at Pipe - March 2025"
 date: 2025-03-25T23:11:53Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "wyEDAfXeyD4"
 thumbnail: "https://i.ytimg.com/vi/wyEDAfXeyD4/maxresdefault.jpg"

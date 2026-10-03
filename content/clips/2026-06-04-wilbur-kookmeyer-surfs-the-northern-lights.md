@@ -1,6 +1,7 @@
 ---
 title: "Wilbur Kookmeyer surfs the Northern Lights"
 date: 2026-06-04T17:58:54Z
+description: "Watch Wilbur Kookmeyer surfs the Northern Lights on Surf Clips TV."
 draft: false
 video_id: "2PDbOK--5iw"
 thumbnail: "https://i.ytimg.com/vi/2PDbOK--5iw/maxresdefault.jpg"

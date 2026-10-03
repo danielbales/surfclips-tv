@@ -1,6 +1,7 @@
 ---
 title: "Bodyboarder SNAKES surfer during SUPERSESSION - Jan 29, 2025"
 date: 2025-01-29T14:42:37Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ On the day of the year this surfer gets snaked at this Moroccan pointbreak Credit: Surfline"
 draft: false
 video_id: "UO6lPKMLjjU"
 thumbnail: "https://i.ytimg.com/vi/UO6lPKMLjjU/maxresdefault.jpg"

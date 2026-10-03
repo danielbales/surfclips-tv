@@ -1,6 +1,7 @@
 ---
 title: "John John Florence's 8.5 (barrel-to-air combo) on Day 3 of the 2022 Pipeline Pro"
 date: 2022-02-01T22:47:00Z
+description: "https://surf-clips-tv.myspreadshop.com/ Up against Jackson Baker, JJF puts on a clinic and grabs this 8.5 early on in his day 3 heat. Support the..."
 draft: false
 video_id: "1INgAm4G5CU"
 thumbnail: "https://i.ytimg.com/vi/1INgAm4G5CU/maxresdefault.jpg"

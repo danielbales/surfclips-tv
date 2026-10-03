@@ -1,6 +1,7 @@
 ---
 title: "SLAB surf near SYDNEY, Australia on August 27, 2021"
 date: 2021-08-27T17:54:50Z
+description: "https://surf-clips-tv.myspreadshop.com/ Support the channel by subscribing! A south-east swell wrapped into New South Wales, Australia on August 27,..."
 draft: false
 video_id: "OVfxM01VWso"
 thumbnail: "https://i.ytimg.com/vi/OVfxM01VWso/maxresdefault.jpg"

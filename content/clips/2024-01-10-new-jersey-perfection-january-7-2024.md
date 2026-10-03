@@ -1,6 +1,7 @@
 ---
 title: "New Jersey perfection - January 7, 2024"
 date: 2024-01-10T05:11:06Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "_3WXeTxk3jk"
 thumbnail: "https://i.ytimg.com/vi/_3WXeTxk3jk/maxresdefault.jpg"

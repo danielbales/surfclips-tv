@@ -1,6 +1,7 @@
 ---
 title: "HURRICANE HENRI lands in NEW YORK!!! on August 22, 2021"
 date: 2021-08-23T17:09:51Z
+description: "Support the channel by subscribing! Surfable windows were short, but there were some moments of windswell bliss for those who made it to Lido Beach,..."
 draft: false
 video_id: "qSMA3UiqlvI"
 thumbnail: "https://i.ytimg.com/vi/qSMA3UiqlvI/maxresdefault.jpg"

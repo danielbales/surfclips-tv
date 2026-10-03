@@ -1,6 +1,7 @@
 ---
 title: "Hurricane LARRY DELIVERS!!! surf to NEW YORK on September 11, 2021"
 date: 2021-09-11T19:18:04Z
+description: "Support the channel by subscribing! The day after the Hurricane Larry swell peaked, Lido Beach New York turned on in the morning. By 12 pm the wind had..."
 draft: false
 video_id: "VUKeQ0BI2vk"
 thumbnail: "https://i.ytimg.com/vi/VUKeQ0BI2vk/maxresdefault.jpg"

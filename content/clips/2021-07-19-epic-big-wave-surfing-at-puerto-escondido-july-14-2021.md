@@ -1,6 +1,7 @@
 ---
 title: "EPIC BIG WAVE SURFING!!! at PUERTO ESCONDIDO, July 14, 2021"
 date: 2021-07-19T05:44:49Z
+description: "Support the channel by subscribing! Massive long-period swell lights up the Mexican Pipeline on July 14, 2021. Enjoy Puerto Escondido, Mexico at its..."
 draft: false
 video_id: "VFjf4DgqN8s"
 thumbnail: "https://i.ytimg.com/vi/VFjf4DgqN8s/maxresdefault.jpg"

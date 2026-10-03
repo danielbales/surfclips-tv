@@ -1,6 +1,7 @@
 ---
 title: "NOW OPEN! Wilbur Kookmeyer's Ding Repair"
 date: 2026-05-06T21:24:29Z
+description: "Watch NOW OPEN! Wilbur Kookmeyer's Ding Repair on Surf Clips TV."
 draft: false
 video_id: "sENRJfb8TWM"
 thumbnail: "https://i.ytimg.com/vi/sENRJfb8TWM/maxresdefault.jpg"

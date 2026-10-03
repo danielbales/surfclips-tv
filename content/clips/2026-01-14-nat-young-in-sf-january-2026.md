@@ -1,6 +1,7 @@
 ---
 title: "Nat Young in SF, January 2026"
 date: 2026-01-14T01:07:23Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "_cojB_EHf3s"
 thumbnail: "https://i.ytimg.com/vi/_cojB_EHf3s/maxresdefault.jpg"

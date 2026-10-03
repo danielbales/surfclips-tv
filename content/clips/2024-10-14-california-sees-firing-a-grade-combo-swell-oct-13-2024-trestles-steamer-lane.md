@@ -1,6 +1,7 @@
 ---
 title: "California sees FIRING A-grade COMBO swell – Oct 13, 2024 (Trestles & Steamer Lane)"
 date: 2024-10-14T03:42:17Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!..."
 draft: false
 video_id: "bA8D-e-6Ub0"
 thumbnail: "https://i.ytimg.com/vi/bA8D-e-6Ub0/maxresdefault.jpg"

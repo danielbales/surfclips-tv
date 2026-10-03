@@ -1,6 +1,7 @@
 ---
 title: "Nathan Florence on a Backdoor BOMB – March 2025"
 date: 2025-03-18T07:00:20Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ During a dream run of North Shore winter surf, Nate finds this gem during his morning session."
 draft: false
 video_id: "TkZT7M0x7ME"
 thumbnail: "https://i.ytimg.com/vi/TkZT7M0x7ME/maxresdefault.jpg"

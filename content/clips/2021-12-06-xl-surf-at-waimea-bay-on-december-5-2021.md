@@ -1,6 +1,7 @@
 ---
 title: "XL surf at WAIMEA BAY!! on December 5, 2021"
 date: 2021-12-06T16:05:50Z
+description: "10-20 knot SW winds + 3x overhead NNW swell offered large & dangerous surf at The Bay on December 5, 2021. Support the channel by subscribing! Thank..."
 draft: false
 video_id: "PfU91DOc2x4"
 thumbnail: "https://i.ytimg.com/vi/PfU91DOc2x4/maxresdefault.jpg"

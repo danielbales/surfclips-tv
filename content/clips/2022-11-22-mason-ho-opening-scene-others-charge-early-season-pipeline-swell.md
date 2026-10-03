@@ -1,6 +1,7 @@
 ---
 title: "Mason Ho (opening scene) & others charge early season Pipeline swell"
 date: 2022-11-22T01:25:02Z
+description: "WNW-NW swell (300-325°) peaked on the North Shore while strong winds provided challenging conditions on this early season morning. Wave heights were..."
 draft: false
 video_id: "ssE14KkA61o"
 thumbnail: "https://i.ytimg.com/vi/ssE14KkA61o/maxresdefault.jpg"

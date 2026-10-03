@@ -1,6 +1,7 @@
 ---
 title: "Harry Bryant Backdoor tube at 2022 Pipeline Masters"
 date: 2022-12-18T02:00:12Z
+description: "Harry Byrant lucked into this hefty Backdoor barrel during the 2022 Pipeline Masters on day 2 during the morning. Support the channel by subscribing!..."
 draft: false
 video_id: "yTVaBqmPOgE"
 thumbnail: "https://i.ytimg.com/vi/yTVaBqmPOgE/maxresdefault.jpg"

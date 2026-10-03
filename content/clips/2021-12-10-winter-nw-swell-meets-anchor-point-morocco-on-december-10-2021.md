@@ -1,6 +1,7 @@
 ---
 title: "Winter NW swell meets Anchor Point, Morocco on December 10, 2021"
 date: 2021-12-10T21:01:06Z
+description: "Clean conditions and overhead NW swell made for a great day of surf at Anchor Point, Morocco on December 10, 2021. Long rides and occasional barrels..."
 draft: false
 video_id: "uaeUAvlGC04"
 thumbnail: "https://i.ytimg.com/vi/uaeUAvlGC04/maxresdefault.jpg"

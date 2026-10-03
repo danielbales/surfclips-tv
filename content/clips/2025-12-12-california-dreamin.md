@@ -1,6 +1,7 @@
 ---
 title: "California Dreamin'"
 date: 2025-12-12T21:51:57Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "LtUnos16yZo"
 thumbnail: "https://i.ytimg.com/vi/LtUnos16yZo/maxresdefault.jpg"

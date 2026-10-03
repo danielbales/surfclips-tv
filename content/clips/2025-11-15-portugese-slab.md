@@ -1,6 +1,7 @@
 ---
 title: "Portugese slab"
 date: 2025-11-15T01:42:26Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "F8-3hXf9NvQ"
 thumbnail: "https://i.ytimg.com/vi/F8-3hXf9NvQ/maxresdefault.jpg"

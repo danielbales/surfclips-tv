@@ -1,6 +1,7 @@
 ---
 title: "Caught on Camera – Top 5 Waves of 2022"
 date: 2022-12-24T05:01:41Z
+description: "Kelly Slater, John Florence, JOB & Mike Ho stuck our favorite waves of 2022. Support the channel by subscribing! Thank you for supporting Surf Cam..."
 draft: false
 video_id: "ZrNzRG-5o-I"
 thumbnail: "https://i.ytimg.com/vi/ZrNzRG-5o-I/maxresdefault.jpg"

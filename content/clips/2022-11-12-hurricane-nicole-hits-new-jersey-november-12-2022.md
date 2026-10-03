@@ -1,6 +1,7 @@
 ---
 title: "Hurricane Nicole hits New Jersey – November 12, 2022"
 date: 2022-11-12T22:27:41Z
+description: "Remnants of Hurricane Nicole rolled through, bringing with it a strong S swell (156º and 142º) mix, with great offshore W/WSW winds. High quality surf..."
 draft: false
 video_id: "ZgfYuDJxdec"
 thumbnail: "https://i.ytimg.com/vi/ZgfYuDJxdec/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "2023 COLD WATER CLASSIC pre-comp highlights – November 15, 2023"
 date: 2023-11-16T03:58:08Z
+description: "Locals and international rippers decended on high tide Steamer Lane before day 1 of the 2023 Cold Water Classic and found ramps and rippable sections..."
 draft: false
 video_id: "7gKnz4IFEfc"
 thumbnail: "https://i.ytimg.com/vi/7gKnz4IFEfc/maxresdefault.jpg"

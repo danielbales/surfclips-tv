@@ -1,6 +1,7 @@
 ---
 title: "August '23 at Puerto starts off clean & fun"
 date: 2023-08-02T05:21:47Z
+description: "SSW swell with light early winds turned on Playa Zicatela on August 1, 2023. Support the channel by subscribing! Thank you for supporting Surf Cam..."
 draft: false
 video_id: "-0Tcq9fX89k"
 thumbnail: "https://i.ytimg.com/vi/-0Tcq9fX89k/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Heaving, hollow Puerto pits from July 14, 2022"
 date: 2022-07-16T16:58:36Z
+description: "Combo SW (217º) and S swell (161º) filled in and was greeted by favorable winds in the early AM offering some hollow pits before more cross-onshore..."
 draft: false
 video_id: "TpGlT4xw_mw"
 thumbnail: "https://i.ytimg.com/vi/TpGlT4xw_mw/maxresdefault.jpg"

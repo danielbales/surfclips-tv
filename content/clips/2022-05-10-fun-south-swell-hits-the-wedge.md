@@ -1,6 +1,7 @@
 ---
 title: "Fun South swell hits The Wedge"
 date: 2022-05-10T18:33:36Z
+description: "Early birds charge the Wedge during peaking south swell. Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can..."
 draft: false
 video_id: "HXOzauVSm8w"
 thumbnail: "https://i.ytimg.com/vi/HXOzauVSm8w/maxresdefault.jpg"

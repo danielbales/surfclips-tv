@@ -1,6 +1,7 @@
 ---
 title: "GREAT surf at PUERTO ESCONDIDO!!! on August 28, 2021"
 date: 2021-08-29T14:43:52Z
+description: "https://surf-clips-tv.myspreadshop.com/ Support the channel by subscribing! Occasional 12ft (4m) waves landed on the shores of Playa Zicatela (the..."
 draft: false
 video_id: "z30oX7rd078"
 thumbnail: "https://i.ytimg.com/vi/z30oX7rd078/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Punching through an Outer Banks pit #surfing #surf #surfer"
 date: 2023-10-29T07:00:19Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "gjODbZPuiLU"
 thumbnail: "https://i.ytimg.com/vi/gjODbZPuiLU/maxresdefault.jpg"

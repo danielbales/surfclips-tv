@@ -1,6 +1,7 @@
 ---
 title: "New Jersey fires on April Fool's Day 2022"
 date: 2022-04-01T18:16:30Z
+description: "Good sized S/SE swell and moderate W (offshore) wind made conditions fun and clean. Occasional chest to shoulder+ high range rights roping down the..."
 draft: false
 video_id: "EdD-S-zbBXI"
 thumbnail: "https://i.ytimg.com/vi/EdD-S-zbBXI/maxresdefault.jpg"

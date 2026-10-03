@@ -1,6 +1,7 @@
 ---
 title: "JOHN JOHN FLORENCE'S TITLE WINNING WAVE – September 6, 2024"
 date: 2024-09-06T22:03:35Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com Up against Italo Ferreira, John John Florence destroys this Lowers wave with one massive turn,..."
 draft: false
 video_id: "44nKYbAUdWg"
 thumbnail: "https://i.ytimg.com/vi/44nKYbAUdWg/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "SNAPPER Rocks' best afternoon of the year"
 date: 2022-05-02T20:37:37Z
+description: "May Day delivered stunning surf to Australia's most-famous pointbreak on May 1, 2022. Currents were strong but good winds and solid swell turned this..."
 draft: false
 video_id: "NE3imNiIols"
 thumbnail: "https://i.ytimg.com/vi/NE3imNiIols/maxresdefault.jpg"

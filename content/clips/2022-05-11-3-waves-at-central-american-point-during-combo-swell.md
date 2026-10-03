@@ -1,6 +1,7 @@
 ---
 title: "3 waves at Central American point during combo swell"
 date: 2022-05-11T18:31:26Z
+description: "Overhead SSW + WNW swell filled into this Central American pointbreak and offered long rides and occasional tubes. Support the channel by subscribing!..."
 draft: false
 video_id: "zdpanFPNpu8"
 thumbnail: "https://i.ytimg.com/vi/zdpanFPNpu8/maxresdefault.jpg"

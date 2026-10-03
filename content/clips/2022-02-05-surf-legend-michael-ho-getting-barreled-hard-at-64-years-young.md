@@ -1,6 +1,7 @@
 ---
 title: "Surf Legend (Michael Ho) getting barreled hard at 64 years young"
 date: 2022-02-05T05:07:22Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "VehpoDC5d-g"
 thumbnail: "https://i.ytimg.com/vi/VehpoDC5d-g/maxresdefault.jpg"

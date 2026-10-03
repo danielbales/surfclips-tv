@@ -1,6 +1,7 @@
 ---
 title: "Heaven + Hell"
 date: 2025-04-07T17:47:14Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Surfline"
 draft: false
 video_id: "HXAFpt3-zqw"
 thumbnail: "https://i.ytimg.com/vi/HXAFpt3-zqw/maxresdefault.jpg"

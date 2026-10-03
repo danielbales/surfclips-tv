@@ -1,6 +1,7 @@
 ---
 title: "Keala Kennelly huge airdrop at 2023 Eddie Aikau Invitational"
 date: 2023-01-23T03:51:04Z
+description: "Watch Keala Kennelly huge airdrop at 2023 Eddie Aikau Invitational on Surf Clips TV."
 draft: false
 video_id: "dhpW7NUzd7A"
 thumbnail: "https://i.ytimg.com/vi/dhpW7NUzd7A/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Snapper Rocks, Australia – March 11, 2024"
 date: 2024-03-11T04:00:40Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ Large mid period E swell provides solid x2 overhead sets and sweeping currents for Gold..."
 draft: false
 video_id: "pzRsSM8yNyc"
 thumbnail: "https://i.ytimg.com/vi/pzRsSM8yNyc/maxresdefault.jpg"

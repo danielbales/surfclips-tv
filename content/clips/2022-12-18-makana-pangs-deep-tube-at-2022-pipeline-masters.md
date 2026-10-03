@@ -1,6 +1,7 @@
 ---
 title: "Makana Pang's DEEP tube at 2022 Pipeline Masters"
 date: 2022-12-18T03:36:57Z
+description: "In the 2nd to last heat of day 2 of the 2022 Pipeline Masters, Makana Pang found this gem of a Pipe wave in the final moments of his heat. Support the..."
 draft: false
 video_id: "tBZtP2mxNTs"
 thumbnail: "https://i.ytimg.com/vi/tBZtP2mxNTs/maxresdefault.jpg"

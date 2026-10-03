@@ -1,6 +1,7 @@
 ---
 title: "[slo-mo perfection] Supertubos left – February 2022"
 date: 2022-02-22T20:12:40Z
+description: "6-10 foot faces and offshore winds meant dawnpatrollers scored pristine, firing Supertubos this morning. Support the channel by subscribing! Thank you..."
 draft: false
 video_id: "iAyObwDf_ws"
 thumbnail: "https://i.ytimg.com/vi/iAyObwDf_ws/maxresdefault.jpg"

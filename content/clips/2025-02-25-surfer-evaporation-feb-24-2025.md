@@ -1,6 +1,7 @@
 ---
 title: "Surfer evaporation – Feb 24, 2025"
 date: 2025-02-25T18:19:07Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Surfline"
 draft: false
 video_id: "Ob8WG4-Pcnw"
 thumbnail: "https://i.ytimg.com/vi/Ob8WG4-Pcnw/maxresdefault.jpg"

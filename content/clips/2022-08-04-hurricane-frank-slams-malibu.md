@@ -1,6 +1,7 @@
 ---
 title: "Hurricane Frank slams Malibu"
 date: 2022-08-04T07:00:14Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "oL7FNhMDgEs"
 thumbnail: "https://i.ytimg.com/vi/oL7FNhMDgEs/maxresdefault.jpg"

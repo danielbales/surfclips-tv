@@ -1,6 +1,7 @@
 ---
 title: "TOP 10 from November 19, 2024 – Surf Clips TV"
 date: 2024-11-19T21:36:30Z
+description: "Watch TOP 10 from November 19, 2024 – Surf Clips TV on Surf Clips TV."
 draft: false
 video_id: "aEoqJUyzu3w"
 thumbnail: "https://i.ytimg.com/vi/aEoqJUyzu3w/maxresdefault.jpg"

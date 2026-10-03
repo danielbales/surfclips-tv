@@ -1,6 +1,7 @@
 ---
 title: "Carson Carr tail WOFT"
 date: 2025-06-25T23:42:54Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Carr Brothers"
 draft: false
 video_id: "7oTPXDL0dvQ"
 thumbnail: "https://i.ytimg.com/vi/7oTPXDL0dvQ/maxresdefault.jpg"

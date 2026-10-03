@@ -1,6 +1,7 @@
 ---
 title: "Big swell LIGHTS UP MUNDAKA, Spain on November 18, 2021"
 date: 2021-11-21T20:44:20Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ While big wave spots like Nazare offered 25 foot (8 meter) faces, other more fickle spots..."
 draft: false
 video_id: "wOV2OzG9IO4"
 thumbnail: "https://i.ytimg.com/vi/wOV2OzG9IO4/maxresdefault.jpg"

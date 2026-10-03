@@ -1,6 +1,7 @@
 ---
 title: "US Open of Surfing - Day 2 (Shion Crawford, Nolan Rapoza, and others)"
 date: 2023-08-01T00:27:51Z
+description: "On day 2 of the US Open of Surf at Huntington Beach, there was still some decent size as a mix of SSW swells keep waist-chest high waves in the water...."
 draft: false
 video_id: "fFQ4F5RnsfI"
 thumbnail: "https://i.ytimg.com/vi/fFQ4F5RnsfI/sddefault.jpg"

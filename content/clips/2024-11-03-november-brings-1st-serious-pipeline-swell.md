@@ -1,6 +1,7 @@
 ---
 title: "November brings 1st SERIOUS Pipeline swell"
 date: 2024-11-03T21:09:58Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Mid-range NW swell (310º-330º) peaked for some SOLID surf to the North Shore first week of..."
 draft: false
 video_id: "k72fu-5viyc"
 thumbnail: "https://i.ytimg.com/vi/k72fu-5viyc/maxresdefault.jpg"

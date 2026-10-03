@@ -1,6 +1,7 @@
 ---
 title: "Nate Florence deep in the South Pacific"
 date: 2025-09-14T20:16:07Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "SKONZOLTgwM"
 thumbnail: "https://i9.ytimg.com/vi/SKONZOLTgwM/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLCm4DIFTFbJYQWeFbOthw67M3ckBw"

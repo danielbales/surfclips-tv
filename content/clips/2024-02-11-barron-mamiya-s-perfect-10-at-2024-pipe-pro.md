@@ -1,6 +1,7 @@
 ---
 title: "Barron Mamiya 's PERFECT 10 at 2024 Pipe Pro"
 date: 2024-02-11T01:57:43Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "WXxcmXOaXVM"
 thumbnail: "https://i.ytimg.com/vi/WXxcmXOaXVM/maxresdefault.jpg"

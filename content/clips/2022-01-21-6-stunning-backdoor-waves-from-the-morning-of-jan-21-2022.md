@@ -1,6 +1,7 @@
 ---
 title: "6 stunning Backdoor waves from the morning of Jan 21, 2022"
 date: 2022-01-21T22:15:01Z
+description: "8-10 foot perfection was on tap for yet another day of near-flawless conditions. Heavy hitters were scoring insane drainers! Support the channel by..."
 draft: false
 video_id: "a4dCE2cLhwc"
 thumbnail: "https://i.ytimg.com/vi/a4dCE2cLhwc/maxresdefault.jpg"

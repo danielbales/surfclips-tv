@@ -1,6 +1,7 @@
 ---
 title: "Sharks don't seem scary"
 date: 2026-02-09T04:46:24Z
+description: "Watch Sharks don't seem scary on Surf Clips TV."
 draft: false
 video_id: "rD7zAAbjuFo"
 thumbnail: "https://i.ytimg.com/vi/rD7zAAbjuFo/maxresdefault.jpg"

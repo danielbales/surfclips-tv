@@ -1,6 +1,7 @@
 ---
 title: "An easier way to paddle out"
 date: 2026-01-24T15:22:04Z
+description: "Watch An easier way to paddle out on Surf Clips TV."
 draft: false
 video_id: "KRwrxJvdIHI"
 thumbnail: "https://i.ytimg.com/vi/KRwrxJvdIHI/maxresdefault.jpg"

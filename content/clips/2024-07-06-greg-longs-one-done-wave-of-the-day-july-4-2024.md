@@ -1,6 +1,7 @@
 ---
 title: "Greg Long's \"One & Done\" – Wave of the Day, July 4, 2024"
 date: 2024-07-06T21:24:34Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ Overview angle of South West swell slamming Mexico's heaviest beachbreak, providing Greg..."
 draft: false
 video_id: "v6UXbN8rhxQ"
 thumbnail: "https://i.ytimg.com/vi/v6UXbN8rhxQ/maxresdefault.jpg"

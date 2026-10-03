@@ -1,6 +1,7 @@
 ---
 title: "8 foot & CLEAN Teahupo'o on April 14, 2022"
 date: 2022-04-16T05:50:30Z
+description: "A beautiful morning with no wind and well overhead perfection at Teahupo'o. Support the channel by subscribing! Thank you for supporting Surf Cam..."
 draft: false
 video_id: "POTZYN9uUMI"
 thumbnail: "https://i.ytimg.com/vi/POTZYN9uUMI/maxresdefault.jpg"

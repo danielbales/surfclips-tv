@@ -1,6 +1,7 @@
 ---
 title: "Watch the full session ☝️"
 date: 2024-05-16T00:16:08Z
+description: "Watch Watch the full session ☝️ on Surf Clips TV."
 draft: false
 video_id: "SNQMKl68ufw"
 thumbnail: "https://i.ytimg.com/vi/SNQMKl68ufw/maxresdefault.jpg"

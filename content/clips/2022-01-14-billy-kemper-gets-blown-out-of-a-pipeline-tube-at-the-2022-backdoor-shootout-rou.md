@@ -1,6 +1,7 @@
 ---
 title: "Billy Kemper gets BLOWN OUT of a Pipeline tube at the 2022 Backdoor Shootout (Round 4)"
 date: 2022-01-14T04:45:44Z
+description: "During team Da Hui Wax's round 4 heat Billy Kemper manhandles this Pipe wave and enjoys the view. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "nhw4brx79qQ"
 thumbnail: "https://i.ytimg.com/vi/nhw4brx79qQ/maxresdefault.jpg"

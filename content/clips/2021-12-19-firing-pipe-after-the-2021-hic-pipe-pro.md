@@ -1,6 +1,7 @@
 ---
 title: "FIRING PIPE after the 2021 HIC Pipe Pro!!"
 date: 2021-12-19T19:40:08Z
+description: "Plenty of 2x overhead swell hit Bonzai Pipeline after the HIC Pipe Pro contest on December 17, 2021. Made for quite an evening session! Support the..."
 draft: false
 video_id: "WGTvZzY_cUg"
 thumbnail: "https://i.ytimg.com/vi/WGTvZzY_cUg/maxresdefault.jpg"

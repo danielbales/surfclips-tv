@@ -1,6 +1,7 @@
 ---
 title: "MASON HO, Wave of the Day – Bowls, July 15, 2024"
 date: 2024-07-16T16:42:12Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ On day 2 of the South swell of the season (so far), Hawaiian Legend Mason Ho finds this..."
 draft: false
 video_id: "3haJ3tLQo4s"
 thumbnail: "https://i.ytimg.com/vi/3haJ3tLQo4s/maxresdefault.jpg"

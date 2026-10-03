@@ -1,6 +1,7 @@
 ---
 title: "John Florence blown out of an INCREDIBLE Backdoor pit"
 date: 2025-11-04T04:06:25Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "5FKy308GJ4g"
 thumbnail: "https://i.ytimg.com/vi/5FKy308GJ4g/maxresdefault.jpg"

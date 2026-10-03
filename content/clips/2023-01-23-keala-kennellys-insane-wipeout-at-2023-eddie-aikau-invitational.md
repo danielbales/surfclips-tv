@@ -1,6 +1,7 @@
 ---
 title: "Keala Kennelly's insane wipeout at 2023 Eddie Aikau Invitational"
 date: 2023-01-23T01:05:28Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Keala Kennedy's disastrous wipeout during the 2023 Eddie Aikau Invitational was a scary one..."
 draft: false
 video_id: "iDTvA5mK43A"
 thumbnail: "https://i.ytimg.com/vi/iDTvA5mK43A/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Pros charging The Box during the 2022 Margaret River Pro (Finals Day)"
 date: 2022-05-04T14:06:50Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Double overhead plus thanks to a deepwater swell and clean winds lit up The Box during the..."
 draft: false
 video_id: "VuzQgF85Skw"
 thumbnail: "https://i.ytimg.com/vi/VuzQgF85Skw/maxresdefault.jpg"

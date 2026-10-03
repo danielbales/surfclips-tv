@@ -1,6 +1,7 @@
 ---
 title: "Snapper Rocks surfer gets vaporized  #surfing #surf #surfer"
 date: 2023-11-01T07:00:33Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "sS8C5CG-kk0"
 thumbnail: "https://i.ytimg.com/vi/sS8C5CG-kk0/maxresdefault.jpg"

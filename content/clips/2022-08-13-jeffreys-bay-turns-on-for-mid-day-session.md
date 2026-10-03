@@ -1,6 +1,7 @@
 ---
 title: "Jeffrey's Bay turns on for mid-day session"
 date: 2022-08-13T00:35:15Z
+description: "Solid long period waves from the SW, with offshore provided clean, rippable conditions for Zaffa surfers on August 12, 2022. Support the channel by..."
 draft: false
 video_id: "LbIiA1OJ-OU"
 thumbnail: "https://i.ytimg.com/vi/LbIiA1OJ-OU/maxresdefault.jpg"

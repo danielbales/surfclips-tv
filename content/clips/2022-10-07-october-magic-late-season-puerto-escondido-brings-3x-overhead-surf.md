@@ -1,6 +1,7 @@
 ---
 title: "October magic: Late season Puerto Escondido brings 3x overhead surf"
 date: 2022-10-07T15:00:08Z
+description: "Solid SSW swell peaks (206º) with favorable AM winds bringing easily 2x overhead, occasional 3x overhead bombs to Mexico's heaviest beach. Support the..."
 draft: false
 video_id: "bp-ArHsTav4"
 thumbnail: "https://i.ytimg.com/vi/bp-ArHsTav4/maxresdefault.jpg"

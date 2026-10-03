@@ -1,6 +1,7 @@
 ---
 title: "8 waves from IMMACULATE Backdoor (Jan 20, 2022)"
 date: 2022-01-21T16:56:36Z
+description: "Featuring the Florence Brothers and other expert North Shore surfers. Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so..."
 draft: false
 video_id: "-4de3LI2f0E"
 thumbnail: "https://i.ytimg.com/vi/-4de3LI2f0E/maxresdefault.jpg"

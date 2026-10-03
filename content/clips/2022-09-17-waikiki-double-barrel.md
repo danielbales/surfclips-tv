@@ -1,6 +1,7 @@
 ---
 title: "Waikiki (double?) barrel"
 date: 2022-09-17T19:23:19Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "zc7DW99_Hsg"
 thumbnail: "https://i.ytimg.com/vi/zc7DW99_Hsg/maxresdefault.jpg"

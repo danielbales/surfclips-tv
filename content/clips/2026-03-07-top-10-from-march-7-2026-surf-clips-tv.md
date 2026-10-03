@@ -1,6 +1,7 @@
 ---
 title: "TOP 10 from March 7, 2026 – Surf Clips TV"
 date: 2026-03-07T23:16:33Z
+description: "Surfing from South America, Hawaii, Europe & more."
 draft: false
 video_id: "rpSg3RPWdIE"
 thumbnail: "https://i.ytimg.com/vi/rpSg3RPWdIE/sddefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "PERFECT MUNDAKA tubes! on December 6, 2021"
 date: 2021-12-08T05:57:15Z
+description: "6-10 foot (2-3 meter) swell met the Mundaka sandbar and offered multiple section tube rides during a brief low tide window on December 6, 2021. Support..."
 draft: false
 video_id: "k3_3cTcUf2c"
 thumbnail: "https://i.ytimg.com/vi/k3_3cTcUf2c/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "The Wedge in April 2025"
 date: 2025-04-30T16:26:56Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: B. Jacobson"
 draft: false
 video_id: "USRuq1jPXsQ"
 thumbnail: "https://i.ytimg.com/vi/USRuq1jPXsQ/maxresdefault.jpg"

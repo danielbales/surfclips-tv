@@ -1,6 +1,7 @@
 ---
 title: "Barron Mamiya's 2024 Pipe Pro Quarterfinals pits"
 date: 2024-02-10T19:20:56Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ WNW-NW swell provided SOLID surf to the North Shore with ideal light ESE winds on tap..."
 draft: false
 video_id: "0M5bVjWD8X8"
 thumbnail: "https://i.ytimg.com/vi/0M5bVjWD8X8/maxresdefault.jpg"

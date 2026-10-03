@@ -1,6 +1,7 @@
 ---
 title: "Wave of the Day: Jamie O’Brien + Mike Stewart, 2nd reef Pipeline"
 date: 2024-11-30T21:58:41Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Perhaps the best party wave ever, Pipe Master Jamie O'Brien and GOAT Mike Stewart connected..."
 draft: false
 video_id: "CaDhH9P7lHU"
 thumbnail: "https://i.ytimg.com/vi/CaDhH9P7lHU/maxresdefault.jpg"

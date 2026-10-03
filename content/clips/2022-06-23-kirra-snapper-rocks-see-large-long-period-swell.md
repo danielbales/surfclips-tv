@@ -1,6 +1,7 @@
 ---
 title: "Kirra, Snapper Rocks see large, long period swell"
 date: 2022-06-23T18:09:27Z
+description: "Solid early morning lines from a 15s ESE swell (108º) with light S breezes groomed faces and while quality seemed a bit difficult to find, there were..."
 draft: false
 video_id: "JhXn7FxY3nw"
 thumbnail: "https://i.ytimg.com/vi/JhXn7FxY3nw/maxresdefault.jpg"

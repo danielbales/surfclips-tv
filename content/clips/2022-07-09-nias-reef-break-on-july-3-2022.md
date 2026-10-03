@@ -1,6 +1,7 @@
 ---
 title: "Nias reef break on July 3, 2022"
 date: 2022-07-09T15:55:54Z
+description: "Long period waves from the SW (216º) continued to roll into Lagundri Bay, accompanied by light NW winds offering hollow and rippable waves. Support the..."
 draft: false
 video_id: "j3cW3LrYwdk"
 thumbnail: "https://i.ytimg.com/vi/j3cW3LrYwdk/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "John Mel in Mexico"
 date: 2025-09-13T21:09:18Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "R6XGjDXAvOY"
 thumbnail: "https://i9.ytimg.com/vi/R6XGjDXAvOY/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLCywEWsFPd2M6jeL3RRsPOdS483Ig"

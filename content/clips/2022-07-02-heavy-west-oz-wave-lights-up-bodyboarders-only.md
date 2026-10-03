@@ -1,6 +1,7 @@
 ---
 title: "Heavy West Oz wave lights up (bodyboarders only)"
 date: 2022-07-02T04:16:43Z
+description: "Beautiful ENE winds with WSW swell (246º) is a few feet over head and looking pretty heavy. No surfers out, just bodyboarders gave it a go. Support the..."
 draft: false
 video_id: "lpNoagMcJsk"
 thumbnail: "https://i.ytimg.com/vi/lpNoagMcJsk/maxresdefault.jpg"

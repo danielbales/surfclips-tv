@@ -1,6 +1,7 @@
 ---
 title: "SoCal WAVE DROUGHT ENDS – Trestles, October 9, 2024"
 date: 2024-10-09T19:04:03Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Fresh SW swell boosted size while surface conditions were clean courtesy of light/variable..."
 draft: false
 video_id: "1ZLn83VUejg"
 thumbnail: "https://i.ytimg.com/vi/1ZLn83VUejg/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "BIGGEST Pipe swell of the year (so far) – November 30, 2024"
 date: 2024-12-01T21:15:25Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Shot of longer period energy from the NW (300-330°) created amazing conditions and large..."
 draft: false
 video_id: "oVI-hHbaWas"
 thumbnail: "https://i.ytimg.com/vi/oVI-hHbaWas/maxresdefault.jpg"

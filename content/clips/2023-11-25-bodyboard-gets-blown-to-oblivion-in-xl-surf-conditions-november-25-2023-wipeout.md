@@ -1,6 +1,7 @@
 ---
 title: "#Bodyboard gets blown to oblivion in XL #surf conditions - November 25, 2023 #wipeout #pipeline"
 date: 2023-11-25T21:44:02Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "OMq3mvIEu90"
 thumbnail: "https://i.ytimg.com/vi/OMq3mvIEu90/maxresdefault.jpg"

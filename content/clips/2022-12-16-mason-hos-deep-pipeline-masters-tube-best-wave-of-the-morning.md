@@ -1,6 +1,7 @@
 ---
 title: "Mason Ho's DEEP Pipeline Masters tube (Best wave of the morning)"
 date: 2022-12-16T23:12:49Z
+description: "Tube magician and Hawaiian legend Mason Ho found this jewel during his heat 3 performance. No one thought he's make this one, and judges rewarded him..."
 draft: false
 video_id: "WYbVfRFKDh8"
 thumbnail: "https://i.ytimg.com/vi/WYbVfRFKDh8/maxresdefault.jpg"

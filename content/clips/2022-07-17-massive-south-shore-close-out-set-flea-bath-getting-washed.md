@@ -1,6 +1,7 @@
 ---
 title: "MASSIVE South Shore close out set (flea bath getting washed!)"
 date: 2022-07-17T03:48:22Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "oll6KVCfq3Y"
 thumbnail: "https://i.ytimg.com/vi/oll6KVCfq3Y/maxresdefault.jpg"

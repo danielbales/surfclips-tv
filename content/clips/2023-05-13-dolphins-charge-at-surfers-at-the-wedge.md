@@ -1,6 +1,7 @@
 ---
 title: "DOLPHINS CHARGE AT SURFERS at THE WEDGE"
 date: 2023-05-13T03:59:28Z
+description: "These ultimate locals catch the wave of the day at Southern California's most famous novelty wave: The Wedge. Support the channel by subscribing! Thank..."
 draft: false
 video_id: "aHvmUPa6G98"
 thumbnail: "https://i.ytimg.com/vi/aHvmUPa6G98/maxresdefault.jpg"

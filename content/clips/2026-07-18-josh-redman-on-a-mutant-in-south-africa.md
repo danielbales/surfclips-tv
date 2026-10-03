@@ -1,6 +1,7 @@
 ---
 title: "Josh Redman on a Mutant in South Africa"
 date: 2026-07-18T23:58:57Z
+description: "Josh Redman on a beast!"
 draft: false
 video_id: "bstDTaxu92o"
 thumbnail: "https://i.ytimg.com/vi/bstDTaxu92o/maxresdefault.jpg"

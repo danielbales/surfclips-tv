@@ -1,6 +1,7 @@
 ---
 title: "TEAHUPO'O SWELL arrives at TRESTLES on August 19, 2021"
 date: 2021-08-22T19:46:42Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Support the channel by subscribing! Rippable rights and long lefts were on tap when the..."
 draft: false
 video_id: "2eO7THmy9M4"
 thumbnail: "https://i.ytimg.com/vi/2eO7THmy9M4/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "XL Puerto perfection, August 27, 2022"
 date: 2022-08-28T19:30:04Z
+description: "Occ. 18 foot faces from a declining swell, and stiff offshore winds came together to provide Playa Zicatela surfers with great opportunities. Another..."
 draft: false
 video_id: "xjOdiEbGoWU"
 thumbnail: "https://i.ytimg.com/vi/xjOdiEbGoWU/maxresdefault.jpg"

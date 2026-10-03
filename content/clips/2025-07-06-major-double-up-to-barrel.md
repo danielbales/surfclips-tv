@@ -1,6 +1,7 @@
 ---
 title: "Major double up to barrel"
 date: 2025-07-06T18:43:02Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "RmZMCPtVJAI"
 thumbnail: "https://i.ytimg.com/vi/RmZMCPtVJAI/maxresdefault.jpg"

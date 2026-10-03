@@ -1,6 +1,7 @@
 ---
 title: "Teahupo'o PERFECTION – July 6, 2023"
 date: 2023-07-07T04:56:44Z
+description: "Mid-period SW swell (225º) provided sets in the zone of 2-3' overhead to double overhead all day -- strongest overall this morning with occasional..."
 draft: false
 video_id: "FkHLFf4LUVY"
 thumbnail: "https://i.ytimg.com/vi/FkHLFf4LUVY/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Kool Kind Surf"
 date: 2026-02-18T05:50:13Z
+description: "Watch Kool Kind Surf on Surf Clips TV."
 draft: false
 video_id: "ShX1HM0Y-9M"
 thumbnail: "https://i.ytimg.com/vi/ShX1HM0Y-9M/maxresdefault.jpg"

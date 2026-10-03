@@ -1,6 +1,7 @@
 ---
 title: "Slabby West Oz beach turns on June 28, 2022"
 date: 2022-06-28T03:18:10Z
+description: "Rising mid-period WSW swell (228º) mix rises and lights up hollow, wedgy Western Australian beach break. Support the channel by subscribing! Thank you..."
 draft: false
 video_id: "SlT-pLwi7Fw"
 thumbnail: "https://i.ytimg.com/vi/SlT-pLwi7Fw/maxresdefault.jpg"

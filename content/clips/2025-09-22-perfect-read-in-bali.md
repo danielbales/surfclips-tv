@@ -1,6 +1,7 @@
 ---
 title: "Perfect read in Bali"
 date: 2025-09-22T02:57:15Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "XFn4SgtE3B0"
 thumbnail: "https://i9.ytimg.com/vi/XFn4SgtE3B0/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLAnz_1Sv-vdop_Iuoi_PCdiZg95NQ"

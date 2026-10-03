@@ -1,6 +1,7 @@
 ---
 title: "Honolua Bay gem w/Ian Gentil"
 date: 2025-01-08T04:46:58Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "pzn4QDhgZ_A"
 thumbnail: "https://i.ytimg.com/vi/pzn4QDhgZ_A/maxresdefault.jpg"

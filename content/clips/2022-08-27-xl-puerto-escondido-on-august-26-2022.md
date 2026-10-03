@@ -1,6 +1,7 @@
 ---
 title: "XL Puerto Escondido on August 26, 2022"
 date: 2022-08-27T01:05:47Z
+description: "Occ. 20ft SSW swell (204º) filled in topped out, while AM winds mainly stayed offshore, then rose in the early afternoon messing conditions up a bit...."
 draft: false
 video_id: "5bGFB2soBas"
 thumbnail: "https://i.ytimg.com/vi/5bGFB2soBas/maxresdefault.jpg"

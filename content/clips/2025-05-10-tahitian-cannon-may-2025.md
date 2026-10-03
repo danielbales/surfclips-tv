@@ -1,6 +1,7 @@
 ---
 title: "Tahitian CANNON – May, 2025"
 date: 2025-05-10T16:12:32Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Manea Fabisch"
 draft: false
 video_id: "riGf5hZpFj0"
 thumbnail: "https://i.ytimg.com/vi/riGf5hZpFj0/maxresdefault.jpg"

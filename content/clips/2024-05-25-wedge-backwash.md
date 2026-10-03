@@ -1,6 +1,7 @@
 ---
 title: "WEDGE backwash"
 date: 2024-05-25T04:22:27Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "mPAAsk8CIxo"
 thumbnail: "https://i.ytimg.com/vi/mPAAsk8CIxo/maxresdefault.jpg"

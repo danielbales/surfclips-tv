@@ -1,6 +1,7 @@
 ---
 title: "Billy Kemper's horrendous wipeout at 2023 Eddie Aikau Invitational"
 date: 2023-01-24T00:41:19Z
+description: "Somehow returning to competition after numerous wipeouts, Billy Kemper takes a heavy wipeout during the 2023 Eddie Aikau Invitational. Support the..."
 draft: false
 video_id: "XwzyryAcjSQ"
 thumbnail: "https://i.ytimg.com/vi/XwzyryAcjSQ/maxresdefault.jpg"

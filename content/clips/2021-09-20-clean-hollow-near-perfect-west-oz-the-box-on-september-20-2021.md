@@ -1,6 +1,7 @@
 ---
 title: "Clean, hollow & near-PERFECT WEST OZ (THE BOX) on September 20, 2021"
 date: 2021-09-20T22:46:11Z
+description: "Support the channel by subscribing! While main beach offered 6-8 ft surf, over at the box occasional head high jewels rolled in and detonated on the..."
 draft: false
 video_id: "s7SCIWS5zjY"
 thumbnail: "https://i.ytimg.com/vi/s7SCIWS5zjY/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "@nicvonrupp1671 on an IRISH BEAST"
 date: 2025-05-07T20:56:13Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Nic Von Rupp"
 draft: false
 video_id: "LDTbQFzQwTk"
 thumbnail: "https://i.ytimg.com/vi/LDTbQFzQwTk/maxresdefault.jpg"

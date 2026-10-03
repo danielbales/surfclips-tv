@@ -1,6 +1,7 @@
 ---
 title: "NOA DEANE'S 2X BARREL at 2024 Backdoor Shootout (Day 2)"
 date: 2024-01-06T03:24:50Z
+description: "Noa Deane has been putting on a clinic on how to surf Backdoor during the 2024 Backdoor Shootout, as demonstrated here making it look like a..."
 draft: false
 video_id: "nfemkczL4oI"
 thumbnail: "https://i.ytimg.com/vi/nfemkczL4oI/maxresdefault.jpg"

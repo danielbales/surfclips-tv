@@ -1,6 +1,7 @@
 ---
 title: "Wilbur Kookmeyer reacts to a $1,000,000 \"Masterpiece\" 🎨🏄‍♂️"
 date: 2026-07-16T19:59:43Z
+description: "Have you ever looked at high-end fine art and thought, \"A kindergartener could draw that?\" Wilbur Kookmeyer hits a high-society gallery opening to..."
 draft: false
 video_id: "T2xWCk0BNfk"
 thumbnail: "https://i.ytimg.com/vi/T2xWCk0BNfk/maxresdefault.jpg"

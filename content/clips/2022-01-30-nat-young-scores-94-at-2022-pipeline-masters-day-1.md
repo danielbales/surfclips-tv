@@ -1,6 +1,7 @@
 ---
 title: "Nat Young scores 9.4 at 2022 Pipeline Masters (Day 1)"
 date: 2022-01-30T00:18:52Z
+description: "In his 1st heat back on tour, Santa Cruz's Nat Young found this Pipeline barrel on Day 1 of the 2022 Pipeline Masters. Support the channel by..."
 draft: false
 video_id: "qxIiauaYwjM"
 thumbnail: "https://i.ytimg.com/vi/qxIiauaYwjM/maxresdefault.jpg"

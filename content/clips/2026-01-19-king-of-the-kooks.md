@@ -1,6 +1,7 @@
 ---
 title: "King of the Kooks!"
 date: 2026-01-19T05:45:49Z
+description: "Watch King of the Kooks! on Surf Clips TV."
 draft: false
 video_id: "wTOv5q8rB8Q"
 thumbnail: "https://i.ytimg.com/vi/wTOv5q8rB8Q/maxresdefault.jpg"

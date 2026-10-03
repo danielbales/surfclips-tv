@@ -1,6 +1,7 @@
 ---
 title: "FRIDAY THE 13TH SWELL hits MALIBU!!! on August 19, 2021"
 date: 2021-08-20T23:03:49Z
+description: "Support the channel by subscribing! As expected, uber-thick crowds were out at 1st point Malibu when the massive Friday the 13th swell (Teahupo'o)..."
 draft: false
 video_id: "ElAZ21Nb9do"
 thumbnail: "https://i.ytimg.com/vi/ElAZ21Nb9do/maxresdefault.jpg"

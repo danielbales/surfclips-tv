@@ -1,6 +1,7 @@
 ---
 title: "DANGEROUS BACKWASH at Mexican pointbreak – September 13, 2023"
 date: 2023-09-13T17:06:25Z
+description: "While a large XL swell hit nearby beachies, this pointbreak saw some tricky but very entertaining backwash waves . Support the channel by subscribing!..."
 draft: false
 video_id: "uG8aMhhQkxE"
 thumbnail: "https://i.ytimg.com/vi/uG8aMhhQkxE/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "FIRING Puerto Escondido surf! 2-mins from July 25, 2021"
 date: 2021-07-26T23:05:44Z
+description: "Support the channel by subscribing! Lucas “Chumbo” Chianca, Coco Nogales and other big wave tube masters were out charging Puerto Escondido, Oaxaca..."
 draft: false
 video_id: "dZeZ69tUYBo"
 thumbnail: "https://i.ytimg.com/vi/dZeZ69tUYBo/maxresdefault.jpg"

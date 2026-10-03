@@ -1,6 +1,7 @@
 ---
 title: "KELLY SLATER at 2024 Margaret River Pro (Day 2)"
 date: 2024-04-15T01:01:23Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ In his Day 2 heat at the 2024 Margaret River Pro, Kelly Slater find this right and..."
 draft: false
 video_id: "oLaxdnU0rzo"
 thumbnail: "https://i.ytimg.com/vi/oLaxdnU0rzo/maxresdefault.jpg"

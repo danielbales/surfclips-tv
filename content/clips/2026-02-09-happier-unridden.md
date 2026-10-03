@@ -1,6 +1,7 @@
 ---
 title: "Happier unridden"
 date: 2026-02-09T04:52:00Z
+description: "Watch Happier unridden on Surf Clips TV."
 draft: false
 video_id: "DBfUw_bgMxQ"
 thumbnail: "https://i.ytimg.com/vi/DBfUw_bgMxQ/maxresdefault.jpg"

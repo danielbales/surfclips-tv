@@ -1,6 +1,7 @@
 ---
 title: "John John Florence's tailslide-to-air reverse combo at 2023 El Salvador Pro (opening day)"
 date: 2023-06-10T18:27:05Z
+description: "Scoring a 6.5 for this wave, John John Florence showed off his quick feet on this Punta Roca wave at the 2023 El Salvador Pro Support the channel by..."
 draft: false
 video_id: "lm_ZNLTiq08"
 thumbnail: "https://i.ytimg.com/vi/lm_ZNLTiq08/maxresdefault.jpg"

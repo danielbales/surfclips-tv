@@ -1,6 +1,7 @@
 ---
 title: "Dreamscape Aztec Temple"
 date: 2026-05-10T03:22:20Z
+description: "Watch Dreamscape Aztec Temple on Surf Clips TV."
 draft: false
 video_id: "uQ-CXmMVGYQ"
 thumbnail: "https://i.ytimg.com/vi/uQ-CXmMVGYQ/maxresdefault.jpg"

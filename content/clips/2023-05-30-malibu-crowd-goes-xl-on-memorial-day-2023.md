@@ -1,6 +1,7 @@
 ---
 title: "Malibu (crowd) goes XL on Memorial Day 2023"
 date: 2023-05-30T13:41:23Z
+description: "XL crowds showed up to Malibu on Memorial Day 2023, leaving basic surf etiquette at home. Support the channel by subscribing! Thank you for supporting..."
 draft: false
 video_id: "Ta1xdkACeDk"
 thumbnail: "https://i.ytimg.com/vi/Ta1xdkACeDk/maxresdefault.jpg"

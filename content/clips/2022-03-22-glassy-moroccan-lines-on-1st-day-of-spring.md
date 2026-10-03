@@ -1,6 +1,7 @@
 ---
 title: "Glassy Moroccan lines on 1st day of Spring"
 date: 2022-03-22T21:00:14Z
+description: "Clean overhead swell wrapped into the point breaks of Morocco on March 20, 2022. Support the channel by subscribing! Thank you for supporting Surf Cam..."
 draft: false
 video_id: "5lyHm31JyTA"
 thumbnail: "https://i.ytimg.com/vi/5lyHm31JyTA/maxresdefault.jpg"

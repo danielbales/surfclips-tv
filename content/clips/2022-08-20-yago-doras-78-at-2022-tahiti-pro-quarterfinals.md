@@ -1,6 +1,7 @@
 ---
 title: "Yago Dora's 7.8 at 2022 Tahiti Pro Quarterfinals"
 date: 2022-08-20T07:00:08Z
+description: "Despite going down to Kelly Slater at the 2022 Tahiti Pro, Yago Dora found this gem during his Quarterfinal heat. Support the channel by subscribing!..."
 draft: false
 video_id: "MnWFWugVpcI"
 thumbnail: "https://i.ytimg.com/vi/MnWFWugVpcI/sddefault.jpg"

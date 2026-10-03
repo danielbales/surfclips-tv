@@ -1,6 +1,7 @@
 ---
 title: "Albee Layer on one of the best Peahi rides ever!!"
 date: 2025-12-06T08:00:23Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "NAxPVLsj3jY"
 thumbnail: "https://i.ytimg.com/vi/NAxPVLsj3jY/maxresdefault.jpg"

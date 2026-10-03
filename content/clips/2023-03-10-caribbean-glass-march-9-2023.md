@@ -1,6 +1,7 @@
 ---
 title: "Caribbean GLASS - March 9, 2023"
 date: 2023-03-10T17:00:00Z
+description: "This infamous reef saw rare glassy conditions during the early morning window. Support the channel by subscribing! Thank you for supporting Surf Cam..."
 draft: false
 video_id: "aFYsXlZKXjs"
 thumbnail: "https://i.ytimg.com/vi/aFYsXlZKXjs/maxresdefault.jpg"

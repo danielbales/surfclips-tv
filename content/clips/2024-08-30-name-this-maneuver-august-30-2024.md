@@ -1,6 +1,7 @@
 ---
 title: "Name this maneuver - August 30, 2024"
 date: 2024-08-30T17:11:24Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "FFMLflTX-w8"
 thumbnail: "https://i.ytimg.com/vi/FFMLflTX-w8/maxresdefault.jpg"

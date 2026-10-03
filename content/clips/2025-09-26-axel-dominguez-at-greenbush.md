@@ -1,6 +1,7 @@
 ---
 title: "Axel Dominguez at Greenbush"
 date: 2025-09-26T05:28:14Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "jWYOIQHCYIg"
 thumbnail: "https://i9.ytimg.com/vi/jWYOIQHCYIg/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLAUmD7MFFT1wrdno5lMr9ticLOjgA"

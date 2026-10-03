@@ -1,6 +1,7 @@
 ---
 title: "Jack Robinson's cruisy 9.1 at 2022 Sunset Beach Pro (Round of 32)"
 date: 2022-02-17T02:44:38Z
+description: "Jack Robinson puts on a clinic in rail surfing in solid Sunset Beach during the 2022 Sunset Beach Pro. Support the channel by subscribing! Thank you..."
 draft: false
 video_id: "rUt4T3id5pw"
 thumbnail: "https://i.ytimg.com/vi/rUt4T3id5pw/maxresdefault.jpg"

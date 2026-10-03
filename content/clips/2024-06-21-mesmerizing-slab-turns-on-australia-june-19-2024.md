@@ -1,6 +1,7 @@
 ---
 title: "MESMERIZING SLAB TURNS ON - Australia, June 19, 2024"
 date: 2024-06-21T16:13:27Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ This infamous slab lit up for Australian surfers mid-June, providing a dazzling display..."
 draft: false
 video_id: "WUfwMdoeR28"
 thumbnail: "https://i.ytimg.com/vi/WUfwMdoeR28/maxresdefault.jpg"

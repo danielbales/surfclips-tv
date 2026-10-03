@@ -1,6 +1,7 @@
 ---
 title: "XL Sandspit backwash"
 date: 2023-12-30T23:34:16Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "haDhjpSy9Xg"
 thumbnail: "https://i.ytimg.com/vi/haDhjpSy9Xg/maxresdefault.jpg"

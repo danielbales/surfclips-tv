@@ -1,6 +1,7 @@
 ---
 title: "Jacob Wilcox at 2024 Pipe Pro – Day 2"
 date: 2024-02-06T22:31:37Z
+description: "Aussie Jacob Wilcox finds stalls hard in this Backdoor pit during his day 2 heat of the 2024 Pipe Pro. Support the channel by subscribing! Thank you..."
 draft: false
 video_id: "IPl4b6Ah-X8"
 thumbnail: "https://i.ytimg.com/vi/IPl4b6Ah-X8/maxresdefault.jpg"

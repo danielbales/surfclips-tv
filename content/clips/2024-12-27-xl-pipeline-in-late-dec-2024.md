@@ -1,6 +1,7 @@
 ---
 title: "XL Pipeline in late-Dec 2024"
 date: 2024-12-27T23:45:05Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ XL Pipeline conditions! #shorts Credit: Surfline"
 draft: false
 video_id: "xWdy48d3pzQ"
 thumbnail: "https://i.ytimg.com/vi/xWdy48d3pzQ/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Longboarding Waikiki 🔥"
 date: 2022-07-18T03:21:14Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "fWrIFz4tmBI"
 thumbnail: "https://i.ytimg.com/vi/fWrIFz4tmBI/maxresdefault.jpg"

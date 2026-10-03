@@ -1,6 +1,7 @@
 ---
 title: "Early morning STEAMER LANE TUBE - May, 2024"
 date: 2024-05-15T04:58:10Z
+description: "Watch Early morning STEAMER LANE TUBE - May, 2024 on Surf Clips TV."
 draft: false
 video_id: "xSAqh7yWJ1U"
 thumbnail: "https://i.ytimg.com/vi/xSAqh7yWJ1U/maxresdefault.jpg"

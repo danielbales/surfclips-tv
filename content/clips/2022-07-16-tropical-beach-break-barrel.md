@@ -1,6 +1,7 @@
 ---
 title: "Tropical beach break barrel"
 date: 2022-07-16T07:00:22Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "Y9Jr6Mz6ZqM"
 thumbnail: "https://i.ytimg.com/vi/Y9Jr6Mz6ZqM/maxresdefault.jpg"

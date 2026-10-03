@@ -1,6 +1,7 @@
 ---
 title: "Fijian paradise 🏝️ with Koa Smith - March 2025"
 date: 2025-03-26T04:32:57Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "GxdLLBLzzDU"
 thumbnail: "https://i.ytimg.com/vi/GxdLLBLzzDU/maxresdefault.jpg"

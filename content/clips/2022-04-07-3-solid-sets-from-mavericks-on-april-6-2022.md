@@ -1,6 +1,7 @@
 ---
 title: "3 solid sets from Mavericks on April 6, 2022"
 date: 2022-04-07T16:00:32Z
+description: "10-15ft (2-3x overhead) wave faces hit Maverick's during an early April morning. Support the channel by subscribing! Thank you for supporting Surf Cam..."
 draft: false
 video_id: "l76qebjlFFg"
 thumbnail: "https://i.ytimg.com/vi/l76qebjlFFg/maxresdefault.jpg"

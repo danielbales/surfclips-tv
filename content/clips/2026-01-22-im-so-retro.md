@@ -1,6 +1,7 @@
 ---
 title: "I'm so retro"
 date: 2026-01-22T04:39:28Z
+description: "Watch I'm so retro on Surf Clips TV."
 draft: false
 video_id: "pJ6ARuShMt0"
 thumbnail: "https://i.ytimg.com/vi/pJ6ARuShMt0/maxresdefault.jpg"

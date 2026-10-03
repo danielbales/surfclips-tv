@@ -1,6 +1,7 @@
 ---
 title: "Maddix Alotis on an Indo dream"
 date: 2025-06-05T17:19:48Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Maddix Alotis"
 draft: false
 video_id: "n0wzJC0Rc4M"
 thumbnail: "https://i.ytimg.com/vi/n0wzJC0Rc4M/maxresdefault.jpg"

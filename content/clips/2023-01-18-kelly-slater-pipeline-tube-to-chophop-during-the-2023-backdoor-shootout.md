@@ -1,6 +1,7 @@
 ---
 title: "Kelly Slater pipeline tube to chophop during the 2023 backdoor shootout"
 date: 2023-01-18T05:32:39Z
+description: "Watch Kelly Slater pipeline tube to chophop during the 2023 backdoor shootout on Surf Clips TV."
 draft: false
 video_id: "Jh549MHeMmk"
 thumbnail: "https://i.ytimg.com/vi/Jh549MHeMmk/maxresdefault.jpg"

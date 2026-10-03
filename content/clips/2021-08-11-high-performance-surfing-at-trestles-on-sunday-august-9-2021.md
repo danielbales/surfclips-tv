@@ -1,6 +1,7 @@
 ---
 title: "HIGH PERFORMANCE surfing at TRESTLES on Sunday, August 9, 2021"
 date: 2021-08-11T03:01:36Z
+description: "Support the channel by subscribing! Solid South swell filled in on Sunday, August 9, 2021 for local San Clemente surfers like Chris Ward, Pat..."
 draft: false
 video_id: "9ohGZcuKXkw"
 thumbnail: "https://i.ytimg.com/vi/9ohGZcuKXkw/maxresdefault.jpg"

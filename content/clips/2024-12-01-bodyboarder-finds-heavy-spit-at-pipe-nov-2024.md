@@ -1,6 +1,7 @@
 ---
 title: "Bodyboarder finds HEAVY SPIT at Pipe - Nov 2024"
 date: 2024-12-01T04:06:56Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Surfline"
 draft: false
 video_id: "cS3HdVdVrPA"
 thumbnail: "https://i.ytimg.com/vi/cS3HdVdVrPA/maxresdefault.jpg"

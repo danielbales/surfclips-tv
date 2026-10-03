@@ -1,6 +1,7 @@
 ---
 title: "4X OVERHEAD & OFFSHORE OCEAN BEACH SAN FRANCISCO! Heavy & Raw Footage"
 date: 2025-03-11T04:32:37Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Surfing at Ocean Beach, San Francisco on a 4x overhead day!! According to Surfline, this day..."
 draft: false
 video_id: "y1PqU4YEK4A"
 thumbnail: "https://i.ytimg.com/vi/y1PqU4YEK4A/maxresdefault.jpg"

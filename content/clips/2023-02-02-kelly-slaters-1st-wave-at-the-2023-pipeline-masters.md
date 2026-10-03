@@ -1,6 +1,7 @@
 ---
 title: "Kelly Slater's 1st wave at the 2023 Pipeline Masters"
 date: 2023-02-02T02:26:24Z
+description: "Watch Kelly Slater's 1st wave at the 2023 Pipeline Masters on Surf Clips TV."
 draft: false
 video_id: "CDta_VNY0H4"
 thumbnail: "https://i.ytimg.com/vi/CDta_VNY0H4/maxresdefault.jpg"

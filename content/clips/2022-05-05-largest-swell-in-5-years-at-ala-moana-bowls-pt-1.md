@@ -1,6 +1,7 @@
 ---
 title: "Largest swell in 5 years at Ala Moana Bowls (pt. 1)"
 date: 2022-05-05T16:33:21Z
+description: "Long period SSW swells (200-185°, 16-18+ seconds) filled in and provided double overhead faces with ENE trade winds. Support the channel by..."
 draft: false
 video_id: "Uo-nbtHXI2Q"
 thumbnail: "https://i.ytimg.com/vi/Uo-nbtHXI2Q/maxresdefault.jpg"

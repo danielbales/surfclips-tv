@@ -1,6 +1,7 @@
 ---
 title: "Combo swell (NW + SW) hits Newport Beach, California on October 27, 2021"
 date: 2021-10-28T18:00:00Z
+description: "Support the channel by subscribing! Great NW swell and a fun south swell in October lit up most of California, including 56th street Newport Beach...."
 draft: false
 video_id: "0IXlc6-abzI"
 thumbnail: "https://i.ytimg.com/vi/0IXlc6-abzI/maxresdefault.jpg"

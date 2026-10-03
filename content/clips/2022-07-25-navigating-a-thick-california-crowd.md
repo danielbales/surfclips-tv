@@ -1,6 +1,7 @@
 ---
 title: "Navigating a THICK California crowd"
 date: 2022-07-25T02:14:40Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Barroom Ballet -..."
 draft: false
 video_id: "RE9kD0Tj280"
 thumbnail: "https://i.ytimg.com/vi/RE9kD0Tj280/maxresdefault.jpg"

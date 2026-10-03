@@ -1,6 +1,7 @@
 ---
 title: "Wedge Spit"
 date: 2024-05-25T16:58:02Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "jz091bS704U"
 thumbnail: "https://i.ytimg.com/vi/jz091bS704U/maxresdefault.jpg"

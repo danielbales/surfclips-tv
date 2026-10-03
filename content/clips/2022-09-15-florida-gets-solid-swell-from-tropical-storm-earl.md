@@ -1,6 +1,7 @@
 ---
 title: "Florida gets solid swell from Tropical Storm Earl"
 date: 2022-09-15T15:00:07Z
+description: "Long period swell from post tropical swell Earl filled in (54º) and offered great waves for New Smyrna Beach surfers. Morning winds were light and the..."
 draft: false
 video_id: "ACg6LrmnmfI"
 thumbnail: "https://i.ytimg.com/vi/ACg6LrmnmfI/maxresdefault.jpg"

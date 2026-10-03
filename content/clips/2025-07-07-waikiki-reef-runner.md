@@ -1,6 +1,7 @@
 ---
 title: "Waikiki reef runner"
 date: 2025-07-07T22:42:51Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "0dyaYTQCXW0"
 thumbnail: "https://i.ytimg.com/vi/0dyaYTQCXW0/maxresdefault.jpg"

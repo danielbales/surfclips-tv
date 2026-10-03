@@ -1,6 +1,7 @@
 ---
 title: "Off the Wall turns on during 2nd half of NW swell"
 date: 2021-11-07T20:00:09Z
+description: "Support the channel by subscribing! November 4, the day after Waimea Bay and other north shore spots went near-XL surf, Off the Wall came alive and..."
 draft: false
 video_id: "uWTz2yEE81o"
 thumbnail: "https://i.ytimg.com/vi/uWTz2yEE81o/maxresdefault.jpg"

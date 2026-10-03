@@ -1,6 +1,7 @@
 ---
 title: "WK Wave Measurement"
 date: 2026-04-30T04:18:46Z
+description: "The alternative surfboard market has officially peaked. We've got yoga mats, compost, and dairy products hitting the lineup... meanwhile, Wilbur's just..."
 draft: false
 video_id: "esO3k0fl-YE"
 thumbnail: "https://i.ytimg.com/vi/esO3k0fl-YE/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Sept Sessions at Teahupo'o – September 28-30, 2024"
 date: 2024-09-30T21:46:21Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ Perhaps the last long-period South swell with good conditions at the End of the Road,..."
 draft: false
 video_id: "SdCSTJL8ZX8"
 thumbnail: "https://i.ytimg.com/vi/SdCSTJL8ZX8/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Good-Epic - TROPICAL STORM SLAMS CALIFORNIA – August 9, 2024"
 date: 2024-08-10T03:19:47Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Good size SSE tropical swell provided solid overhead waves for select SSE magnets, like this..."
 draft: false
 video_id: "5p_oRBVoqUA"
 thumbnail: "https://i.ytimg.com/vi/5p_oRBVoqUA/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "PAYING THE PRICE for taking the 1st wave of SOLID PUERTO set"
 date: 2023-06-07T16:57:05Z
+description: "This Puerto Escondido surfer didn't find the barrel on this set wave, but he did put on a display of what to do when you find yourself in this..."
 draft: false
 video_id: "nDyv034R7ys"
 thumbnail: "https://i.ytimg.com/vi/nDyv034R7ys/maxresdefault.jpg"

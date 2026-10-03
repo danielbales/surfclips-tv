@@ -1,6 +1,7 @@
 ---
 title: "KELLY SLATER tubed at 2024 Tahiti Pro (Quarterfinals)"
 date: 2024-05-31T00:53:55Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "7BmpsGgyqVA"
 thumbnail: "https://i.ytimg.com/vi/7BmpsGgyqVA/maxresdefault.jpg"

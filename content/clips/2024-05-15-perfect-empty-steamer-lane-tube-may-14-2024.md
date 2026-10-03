@@ -1,6 +1,7 @@
 ---
 title: "Perfect, empty, STEAMER LANE TUBE – May 14, 2024"
 date: 2024-05-15T05:03:59Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ Early morning Spring session produced occasional glimpses into what The Lane may have..."
 draft: false
 video_id: "HfhDw0-l7Ng"
 thumbnail: "https://i.ytimg.com/vi/HfhDw0-l7Ng/maxresdefault.jpg"

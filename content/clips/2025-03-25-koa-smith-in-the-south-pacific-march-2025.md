@@ -1,6 +1,7 @@
 ---
 title: "Koa Smith in the South Pacific - March 2025"
 date: 2025-03-25T23:14:34Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "cXt4SSID8eQ"
 thumbnail: "https://i.ytimg.com/vi/cXt4SSID8eQ/maxresdefault.jpg"

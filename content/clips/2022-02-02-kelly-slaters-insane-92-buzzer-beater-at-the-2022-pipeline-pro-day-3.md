@@ -1,6 +1,7 @@
 ---
 title: "Kelly Slater's INSANE 9.2 BUZZER BEATER at the 2022 Pipeline Pro (Day 3)"
 date: 2022-02-02T00:38:03Z
+description: "The GOAT pulls another rabbit out of a hat by securing this 9.23 in the final moments of his heat against Barron Mamiya and just a couple of weeks shy..."
 draft: false
 video_id: "Mz5oMLEkYNk"
 thumbnail: "https://i.ytimg.com/vi/Mz5oMLEkYNk/maxresdefault.jpg"

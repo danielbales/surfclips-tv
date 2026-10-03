@@ -1,6 +1,7 @@
 ---
 title: "Cosmic Poetry"
 date: 2026-04-24T13:43:16Z
+description: "Watch Cosmic Poetry on Surf Clips TV."
 draft: false
 video_id: "UmZ0OVu_stI"
 thumbnail: "https://i.ytimg.com/vi/UmZ0OVu_stI/maxresdefault.jpg"

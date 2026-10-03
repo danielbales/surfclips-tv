@@ -1,6 +1,7 @@
 ---
 title: "@KellySlater at Kirra on the @firewiresurfboards Spaceship"
 date: 2025-10-09T22:22:51Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "5rpIUSSPjlg"
 thumbnail: "https://i9.ytimg.com/vi/5rpIUSSPjlg/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLAxLs85m0pBnkzk-pS3cM0f4wExkw"

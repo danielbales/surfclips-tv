@@ -1,6 +1,7 @@
 ---
 title: "WHAT A 9.3 LOOKS LIKE AT THE 2024 PIPE PRO"
 date: 2024-02-07T21:19:32Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "80MGK2-Hawc"
 thumbnail: "https://i.ytimg.com/vi/80MGK2-Hawc/maxresdefault.jpg"

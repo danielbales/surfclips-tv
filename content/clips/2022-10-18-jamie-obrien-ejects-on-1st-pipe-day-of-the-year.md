@@ -1,6 +1,7 @@
 ---
 title: "Jamie O'Brien ejects on 1st Pipe day of the year!"
 date: 2022-10-18T02:37:04Z
+description: "Great size NW-NNW swell (333º) topped out early, while E trades in the PM groomed faces for the Jamie O'Brien show. Support the channel by subscribing!..."
 draft: false
 video_id: "xcr6mX6Q-sQ"
 thumbnail: "https://i.ytimg.com/vi/xcr6mX6Q-sQ/maxresdefault.jpg"

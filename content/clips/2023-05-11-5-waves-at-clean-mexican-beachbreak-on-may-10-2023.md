@@ -1,6 +1,7 @@
 ---
 title: "5 waves at CLEAN Mexican beachbreak on May 10, 2023"
 date: 2023-05-11T04:05:06Z
+description: "Building swell (207º) offered some great waves for lucky Mexican surfers. Support the channel by subscribing! Thank you for supporting Surf Cam Rewind..."
 draft: false
 video_id: "by-SRa6PgsE"
 thumbnail: "https://i.ytimg.com/vi/by-SRa6PgsE/maxresdefault.jpg"

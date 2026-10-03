@@ -1,6 +1,7 @@
 ---
 title: "Backdoor perfection - January 22, 2024"
 date: 2024-01-22T23:55:01Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "2JDz_U6G0Fs"
 thumbnail: "https://i.ytimg.com/vi/2JDz_U6G0Fs/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Caribbean slab turns on"
 date: 2024-11-02T22:12:04Z
+description: "Watch Caribbean slab turns on on Surf Clips TV."
 draft: false
 video_id: "WD_wwU5eEY4"
 thumbnail: "https://i.ytimg.com/vi/WD_wwU5eEY4/maxresdefault.jpg"

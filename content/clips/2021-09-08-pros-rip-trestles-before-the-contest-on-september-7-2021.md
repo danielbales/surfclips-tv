@@ -1,6 +1,7 @@
 ---
 title: "PROS RIP TRESTLES!!! before the contest on September 7, 2021"
 date: 2021-09-08T22:00:31Z
+description: "Support the channel by subscribing! 6 - 8 foot (2 - 3 meter) sets and light winds made for great, rippable surf conditions on September 7, 2021. The..."
 draft: false
 video_id: "c0CNGRVGknc"
 thumbnail: "https://i.ytimg.com/vi/c0CNGRVGknc/maxresdefault.jpg"

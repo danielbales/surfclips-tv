@@ -1,6 +1,7 @@
 ---
 title: "John John Florence's jaw dropping Backdoor tube at 2023 Pipeline Masters"
 date: 2023-02-08T03:20:19Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "6Iz6p57GDkQ"
 thumbnail: "https://i.ytimg.com/vi/6Iz6p57GDkQ/maxresdefault.jpg"

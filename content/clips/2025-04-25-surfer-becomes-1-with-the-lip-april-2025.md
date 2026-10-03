@@ -1,6 +1,7 @@
 ---
 title: "Surfer becomes 1 with the lip - April 2025"
 date: 2025-04-25T19:59:02Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "d1ht6IqVcI4"
 thumbnail: "https://i.ytimg.com/vi/d1ht6IqVcI4/maxresdefault.jpg"

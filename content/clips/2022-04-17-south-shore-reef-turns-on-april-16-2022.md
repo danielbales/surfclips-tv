@@ -1,6 +1,7 @@
 ---
 title: "South Shore reef turns on April 16, 2022"
 date: 2022-04-17T18:18:27Z
+description: "Inconsistent but solid south swell and light trade winds hit Oahu, lighting up this reefbreak during an early morning session. Support the channel by..."
 draft: false
 video_id: "Yhhx9RmySn0"
 thumbnail: "https://i.ytimg.com/vi/Yhhx9RmySn0/maxresdefault.jpg"

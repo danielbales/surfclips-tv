@@ -1,6 +1,7 @@
 ---
 title: "Man vs wall of water"
 date: 2025-05-22T07:00:12Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Absolutely Flawless"
 draft: false
 video_id: "EYrLbtdyjtU"
 thumbnail: "https://i.ytimg.com/vi/EYrLbtdyjtU/maxresdefault.jpg"

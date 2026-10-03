@@ -1,6 +1,7 @@
 ---
 title: "Dangerously shallow Waikiki reef"
 date: 2022-07-30T15:29:00Z
+description: "With a super-shallow inside reef section, rippable conditions at this Waikiki reef still offered fun left-hand rides for South Shore surfers on July..."
 draft: false
 video_id: "WT6oShqvcwQ"
 thumbnail: "https://i.ytimg.com/vi/WT6oShqvcwQ/maxresdefault.jpg"

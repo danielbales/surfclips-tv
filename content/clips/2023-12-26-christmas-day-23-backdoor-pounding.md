@@ -1,6 +1,7 @@
 ---
 title: "Christmas Day '23 Backdoor Pounding"
 date: 2023-12-26T18:27:34Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "g0OG1a6sgT8"
 thumbnail: "https://i.ytimg.com/vi/g0OG1a6sgT8/maxresdefault.jpg"

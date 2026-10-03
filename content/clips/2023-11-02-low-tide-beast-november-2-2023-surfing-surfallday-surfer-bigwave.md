@@ -1,6 +1,7 @@
 ---
 title: "Low tide BEAST 👹 - November 2, 2023 #surfing #surfallday #surfer #bigwave"
 date: 2023-11-02T22:50:22Z
+description: "35-40ft #Nazare! Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "Ex98D07ZY2s"
 thumbnail: "https://i.ytimg.com/vi/Ex98D07ZY2s/maxresdefault.jpg"

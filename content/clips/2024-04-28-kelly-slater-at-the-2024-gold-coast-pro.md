@@ -1,6 +1,7 @@
 ---
 title: "KELLY SLATER at the 2024 Gold Coast Pro"
 date: 2024-04-28T05:47:43Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ Kelly Slater's highest scoring wave of his heat (6.17) at the Gold Coast Pro was a long..."
 draft: false
 video_id: "gDxpb0tAJqA"
 thumbnail: "https://i.ytimg.com/vi/gDxpb0tAJqA/maxresdefault.jpg"

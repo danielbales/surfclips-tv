@@ -1,6 +1,7 @@
 ---
 title: "Thanksgiving weekend surf at ROCKY POINT, Oahu on November 27, 2021"
 date: 2021-11-30T06:03:14Z
+description: "Jon Jon Florence & crew shred early afternoon Rocky Point, Oahu on November 27, 2021. Support the channel by subscribing! Thank you for supporting Surf..."
 draft: false
 video_id: "Y9qQOWTcmok"
 thumbnail: "https://i.ytimg.com/vi/Y9qQOWTcmok/maxresdefault.jpg"

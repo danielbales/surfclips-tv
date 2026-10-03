@@ -1,6 +1,7 @@
 ---
 title: "Koa Rothman eaten alive"
 date: 2025-05-30T05:29:57Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: This is Livin"
 draft: false
 video_id: "isf43bgqxAY"
 thumbnail: "https://i.ytimg.com/vi/isf43bgqxAY/maxresdefault.jpg"

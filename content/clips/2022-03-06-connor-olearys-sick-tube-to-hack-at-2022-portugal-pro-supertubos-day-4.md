@@ -1,6 +1,7 @@
 ---
 title: "Connor O'Leary's SICK tube-to-hack at 2022 Portugal Pro Supertubos (Day 4)"
 date: 2022-03-06T18:16:15Z
+description: "Connor scores a dream left (and a 7.33) by getting spit out and laying down a hack despite losing the heat to Jordy Smith. Support the channel by..."
 draft: false
 video_id: "g8Yi280mhIY"
 thumbnail: "https://i.ytimg.com/vi/g8Yi280mhIY/maxresdefault.jpg"

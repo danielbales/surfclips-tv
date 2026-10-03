@@ -1,6 +1,7 @@
 ---
 title: "Early bird gets spat on by a heaving barrel"
 date: 2022-10-05T00:59:02Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "rV1sqqPhG9w"
 thumbnail: "https://i.ytimg.com/vi/rV1sqqPhG9w/maxresdefault.jpg"

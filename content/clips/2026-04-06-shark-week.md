@@ -1,6 +1,7 @@
 ---
 title: "Shark Week"
 date: 2026-04-06T04:20:21Z
+description: "Watch Shark Week on Surf Clips TV."
 draft: false
 video_id: "-8yA0263Plk"
 thumbnail: "https://i.ytimg.com/vi/-8yA0263Plk/maxresdefault.jpg"

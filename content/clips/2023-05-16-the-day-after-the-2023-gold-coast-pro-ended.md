@@ -1,6 +1,7 @@
 ---
 title: "The DAY AFTER the 2023 Gold Coast Pro ended"
 date: 2023-05-16T02:05:28Z
+description: "Snapper fired all day after the WSL left town. Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to..."
 draft: false
 video_id: "d3o-WHmKlyo"
 thumbnail: "https://i.ytimg.com/vi/d3o-WHmKlyo/maxresdefault.jpg"

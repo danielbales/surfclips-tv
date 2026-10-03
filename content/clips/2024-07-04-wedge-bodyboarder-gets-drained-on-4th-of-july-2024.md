@@ -1,6 +1,7 @@
 ---
 title: "Wedge bodyboarder gets drained on 4th of July 2024"
 date: 2024-07-04T20:50:25Z
+description: "Long period South swell provided big Wedge waves on 4th of July, 2024. Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so..."
 draft: false
 video_id: "TOdO7i9k8V4"
 thumbnail: "https://i.ytimg.com/vi/TOdO7i9k8V4/maxresdefault.jpg"

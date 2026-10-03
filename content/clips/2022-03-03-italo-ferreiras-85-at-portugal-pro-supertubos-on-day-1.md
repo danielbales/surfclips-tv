@@ -1,6 +1,7 @@
 ---
 title: "Italo Ferreira's 8.5 at Portugal Pro Supertubos on Day 1"
 date: 2022-03-03T20:29:58Z
+description: "In the final heat of day 1 of competition at the Portugal Pro at Supertubos Italo Ferreira shows the world that he hasn't lost a step since his last..."
 draft: false
 video_id: "w3CH_SIslic"
 thumbnail: "https://i.ytimg.com/vi/w3CH_SIslic/maxresdefault.jpg"

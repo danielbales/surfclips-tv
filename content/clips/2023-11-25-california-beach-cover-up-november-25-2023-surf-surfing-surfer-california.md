@@ -1,6 +1,7 @@
 ---
 title: "California beach cover up - November 25, 2023  #surf #surfing #surfer #california"
 date: 2023-11-25T18:28:38Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "aaF3P7B4Ih8"
 thumbnail: "https://i.ytimg.com/vi/aaF3P7B4Ih8/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Perfect speed control at BACKDOOR"
 date: 2023-12-02T18:03:13Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "4Qj40bP07g4"
 thumbnail: "https://i.ytimg.com/vi/4Qj40bP07g4/maxresdefault.jpg"

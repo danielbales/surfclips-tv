@@ -1,6 +1,7 @@
 ---
 title: "Back in the Day"
 date: 2026-04-06T00:02:24Z
+description: "Watch Back in the Day on Surf Clips TV."
 draft: false
 video_id: "AHoEufUYAys"
 thumbnail: "https://i.ytimg.com/vi/AHoEufUYAys/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "@sheldonsimkus at Dbah"
 date: 2025-04-21T22:50:28Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "Y-ZYN6MHdmk"
 thumbnail: "https://i.ytimg.com/vi/Y-ZYN6MHdmk/maxresdefault.jpg"

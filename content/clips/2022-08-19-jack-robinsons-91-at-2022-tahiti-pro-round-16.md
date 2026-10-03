@@ -1,6 +1,7 @@
 ---
 title: "Jack Robinson's 9.1 at 2022 Tahiti Pro (Round 16)"
 date: 2022-08-19T02:29:36Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "V1CV6CaQTLg"
 thumbnail: "https://i.ytimg.com/vi/V1CV6CaQTLg/maxresdefault.jpg"

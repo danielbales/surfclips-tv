@@ -1,6 +1,7 @@
 ---
 title: "Connor Coffin, Hawaii - March 2025"
 date: 2025-03-31T20:09:59Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "JeAKBddhXJI"
 thumbnail: "https://i.ytimg.com/vi/JeAKBddhXJI/maxresdefault.jpg"

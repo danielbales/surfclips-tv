@@ -1,6 +1,7 @@
 ---
 title: "Bodyboarder BLOWN OUT of Puerto pit – Sept 26, 2024"
 date: 2024-09-26T17:04:51Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ Thank you for supporting Surf Cam Rewind so we can continue to provide you with free..."
 draft: false
 video_id: "4HFhZXTI0NU"
 thumbnail: "https://i.ytimg.com/vi/4HFhZXTI0NU/maxresdefault.jpg"

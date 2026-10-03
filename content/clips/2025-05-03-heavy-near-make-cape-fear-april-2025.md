@@ -1,6 +1,7 @@
 ---
 title: "HEAVY near-make – Cape Fear, April 2025"
 date: 2025-05-03T12:45:06Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "vPPRPjYKVi8"
 thumbnail: "https://i.ytimg.com/vi/vPPRPjYKVi8/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Barron Mamiya's PERFECT 10 at 2025 Pipeline Pro"
 date: 2025-02-08T04:02:10Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ In his superheat with John Florence, Barron caught this perfect 10 and secured his position..."
 draft: false
 video_id: "2PFiWRzvzDo"
 thumbnail: "https://i.ytimg.com/vi/2PFiWRzvzDo/maxresdefault.jpg"

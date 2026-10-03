@@ -1,6 +1,7 @@
 ---
 title: "Teahupo'o grinder"
 date: 2024-09-29T20:10:16Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ Thank you for supporting Surf Cam Rewind so we can continue to provide you with free..."
 draft: false
 video_id: "F1-zYowrEZ0"
 thumbnail: "https://i.ytimg.com/vi/F1-zYowrEZ0/maxresdefault.jpg"

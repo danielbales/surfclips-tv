@@ -1,6 +1,7 @@
 ---
 title: "Slater, JJF, Godfrey & others score FIRING Backdoor on January 27, 2022"
 date: 2022-01-28T02:45:44Z
+description: "Kelly Slater, John John Florence, Lucas Godfrey & surfers take advantage of firing Backdoor surf on January 27, 2022. Support the channel by..."
 draft: false
 video_id: "eJzKS_BH4xw"
 thumbnail: "https://i.ytimg.com/vi/eJzKS_BH4xw/maxresdefault.jpg"

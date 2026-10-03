@@ -1,6 +1,7 @@
 ---
 title: "Italo Ferreira defies logic at the 2023 Sunset Beach Pro"
 date: 2023-02-18T18:46:02Z
+description: "Italo Ferreira late-drops and falls from the sky and into a quick head dip during the 2023 Sunset Beach Pro Support the channel by subscribing! Thank..."
 draft: false
 video_id: "FRl9Ba3Jv-I"
 thumbnail: "https://i.ytimg.com/vi/FRl9Ba3Jv-I/maxresdefault.jpg"

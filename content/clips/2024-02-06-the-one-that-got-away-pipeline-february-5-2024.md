@@ -1,6 +1,7 @@
 ---
 title: "The one that got away - Pipeline, February 5, 2024"
 date: 2024-02-06T04:12:24Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "tI8ANZmbGyA"
 thumbnail: "https://i.ytimg.com/vi/tI8ANZmbGyA/maxresdefault.jpg"

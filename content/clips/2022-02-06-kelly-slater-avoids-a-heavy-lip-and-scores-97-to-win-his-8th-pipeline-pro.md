@@ -1,6 +1,7 @@
 ---
 title: "Kelly Slater avoids a heavy lip and scores 9.7 (to win his 8th Pipeline Pro!)"
 date: 2022-02-06T03:46:23Z
+description: "One week before his 50th birthday! Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with..."
 draft: false
 video_id: "QaQhZv2OPxU"
 thumbnail: "https://i.ytimg.com/vi/QaQhZv2OPxU/hqdefault.jpg"

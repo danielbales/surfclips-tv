@@ -1,6 +1,7 @@
 ---
 title: "SOLID swell hits Ala Moana Bowls – late August swell"
 date: 2022-08-23T02:52:54Z
+description: "SSW-S swell (200º) provided easily overhead surf to the South Shore of Oahu. Although it was a tad inconsistent on the bigger sets, Northeast winds..."
 draft: false
 video_id: "oxNTn0nOedA"
 thumbnail: "https://i.ytimg.com/vi/oxNTn0nOedA/maxresdefault.jpg"

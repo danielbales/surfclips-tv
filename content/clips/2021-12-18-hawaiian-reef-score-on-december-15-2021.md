@@ -1,6 +1,7 @@
 ---
 title: "Hawaiian reef SCORE on December 15, 2021"
 date: 2021-12-18T03:57:31Z
+description: "Solid overhead WNW swell lit up this north shore reef and offered heavy, rippable faces with occasional barrels. Support the channel by subscribing!..."
 draft: false
 video_id: "p6RWBbgBr-0"
 thumbnail: "https://i.ytimg.com/vi/p6RWBbgBr-0/maxresdefault.jpg"

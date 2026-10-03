@@ -1,6 +1,7 @@
 ---
 title: "Stylish Pipeline pit w/ Clay Marzo"
 date: 2025-03-12T02:38:47Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "xBlr276wyKU"
 thumbnail: "https://i.ytimg.com/vi/xBlr276wyKU/maxresdefault.jpg"

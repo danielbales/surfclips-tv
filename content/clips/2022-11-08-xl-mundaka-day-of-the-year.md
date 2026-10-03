@@ -1,6 +1,7 @@
 ---
 title: "XL Mundaka - Day of the Year!"
 date: 2022-11-08T17:19:53Z
+description: "While Nazaré went XL with 25 foot+ (15m), Europe's best pointbreak turned on with 2x, occasional 3x faces and groomed offshore faces. Surfers were..."
 draft: false
 video_id: "I6QJdyexTwU"
 thumbnail: "https://i.ytimg.com/vi/I6QJdyexTwU/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Strong Southern swell hits Hawaii (biggest swell of the season so far)"
 date: 2022-04-26T13:45:29Z
+description: "SW-SSW swell sets hit head high to near overhead high, with East winds 10 to 20 mph. lots of nooks and crannies turned on, like this! Support the..."
 draft: false
 video_id: "TrFil0x3mj0"
 thumbnail: "https://i.ytimg.com/vi/TrFil0x3mj0/maxresdefault.jpg"

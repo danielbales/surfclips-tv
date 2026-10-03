@@ -1,6 +1,7 @@
 ---
 title: "Surfer gets DOUBLE BARREL somewhere in INDO - May 2024"
 date: 2024-05-07T00:56:26Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "vZ_0A1MQi14"
 thumbnail: "https://i.ytimg.com/vi/vZ_0A1MQi14/maxresdefault.jpg"

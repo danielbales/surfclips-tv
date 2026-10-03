@@ -1,6 +1,7 @@
 ---
 title: "Dylan Graves in Japan 🇯🇵"
 date: 2025-04-20T01:22:38Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "7ROcE6Zx85c"
 thumbnail: "https://i.ytimg.com/vi/7ROcE6Zx85c/maxresdefault.jpg"

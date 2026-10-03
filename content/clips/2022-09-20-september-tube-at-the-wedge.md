@@ -1,6 +1,7 @@
 ---
 title: "September tube at The Wedge"
 date: 2022-09-20T03:22:28Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "Z36S9ntWpVE"
 thumbnail: "https://i.ytimg.com/vi/Z36S9ntWpVE/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "HUNTINGTON BEACH!! pier TUBES on September 14, 2021"
 date: 2021-09-17T17:29:05Z
+description: "Support the channel by subscribing! Peaking south swell made for some dreamy, right barrels on September 14, 2021 at the northside of the Huntington..."
 draft: false
 video_id: "Zf5sql0rS4I"
 thumbnail: "https://i.ytimg.com/vi/Zf5sql0rS4I/maxresdefault.jpg"

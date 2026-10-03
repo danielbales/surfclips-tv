@@ -1,6 +1,7 @@
 ---
 title: "Time lapse of Pacific Palisades fire"
 date: 2025-01-12T00:06:29Z
+description: "Shot from Sunset Beach Point before the cameras went down. Praying for all victims 🙏 Credit: Surfline"
 draft: false
 video_id: "vfkp8yzT3ys"
 thumbnail: "https://i.ytimg.com/vi/vfkp8yzT3ys/maxresdefault.jpg"

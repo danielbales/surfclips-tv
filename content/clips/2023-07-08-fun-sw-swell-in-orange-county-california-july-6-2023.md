@@ -1,6 +1,7 @@
 ---
 title: "Fun SW SWELL in Orange County, California – July 6, 2023"
 date: 2023-07-08T15:32:43Z
+description: "South swell mixed in with NW windswell, offering some fun peaks in Orange County, California. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "WLLy832ex_8"
 thumbnail: "https://i.ytimg.com/vi/WLLy832ex_8/maxresdefault.jpg"

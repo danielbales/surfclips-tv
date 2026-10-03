@@ -1,6 +1,7 @@
 ---
 title: "Dreamscape Coliseum"
 date: 2026-05-08T04:24:30Z
+description: "Watch Dreamscape Coliseum on Surf Clips TV."
 draft: false
 video_id: "iMtJrJL3djA"
 thumbnail: "https://i.ytimg.com/vi/iMtJrJL3djA/maxresdefault.jpg"

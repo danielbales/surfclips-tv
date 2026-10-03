@@ -1,6 +1,7 @@
 ---
 title: "Nathan Florence, South America - March 2025"
 date: 2025-04-01T22:21:04Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "MKcNzV_MTvY"
 thumbnail: "https://i.ytimg.com/vi/MKcNzV_MTvY/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Balaram in Jersey (Hurricane Erin)"
 date: 2025-09-22T02:57:07Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "jK_r_9b_Uow"
 thumbnail: "https://i9.ytimg.com/vi/jK_r_9b_Uow/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLBSe7VF370vjz08R7GOHbEOazxqDA"

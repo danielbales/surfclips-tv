@@ -1,6 +1,7 @@
 ---
 title: "Solid, large, powerful East swell hits Burleigh Heads, Australia"
 date: 2022-10-25T03:15:37Z
+description: "Powerful East swell (80º) with the lower tide packed some punch with lines of double overhead surf and even larger sets, across the Burleigh Heads...."
 draft: false
 video_id: "oOaSIWlWIkU"
 thumbnail: "https://i.ytimg.com/vi/oOaSIWlWIkU/maxresdefault.jpg"

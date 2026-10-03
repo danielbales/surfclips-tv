@@ -1,6 +1,7 @@
 ---
 title: "ALA MOANA BOWLS slammed with SOUTH SWELL - June 2024"
 date: 2024-06-13T16:07:20Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ Overlapping South swells continued delivering solid waves to Hawaii's South Shore,..."
 draft: false
 video_id: "GODLP-OFKBk"
 thumbnail: "https://i.ytimg.com/vi/GODLP-OFKBk/maxresdefault.jpg"

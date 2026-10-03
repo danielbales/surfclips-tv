@@ -1,6 +1,7 @@
 ---
 title: "2025 WOTW WINNER – Eala Stewart, Jan 2025"
 date: 2025-02-07T18:40:46Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Late January 2025 provided North Shore local Eala Stewart with an incredible Pipeline barrel."
 draft: false
 video_id: "gUJUTtgHdfs"
 thumbnail: "https://i.ytimg.com/vi/gUJUTtgHdfs/maxresdefault.jpg"

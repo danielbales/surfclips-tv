@@ -1,6 +1,7 @@
 ---
 title: "XL-sized PIPELINE FIRES – October 18, 2023"
 date: 2023-10-19T04:15:30Z
+description: "During a short window of midday surf, wave heights hovering in the 18-20 foot face range, with even larger sets, hit the Oahu's Pipeline. Support the..."
 draft: false
 video_id: "uPKZyuPj3Sc"
 thumbnail: "https://i.ytimg.com/vi/uPKZyuPj3Sc/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "KELLY SLATER at 2024 Pipe Pro - Day 1 (7.14)"
 date: 2024-01-31T19:50:37Z
+description: "In Kelly Slater's day 1 heat against Jack Robinson and Rio Waida, Kelly found this backdoor barrel to help him solidify a 2nd place finish in his heat...."
 draft: false
 video_id: "ukhWtJoefKA"
 thumbnail: "https://i.ytimg.com/vi/ukhWtJoefKA/maxresdefault.jpg"

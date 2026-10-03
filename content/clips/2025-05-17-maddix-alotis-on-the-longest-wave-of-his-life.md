@@ -1,6 +1,7 @@
 ---
 title: "Maddix Alotis on the longest wave of his life"
 date: 2025-05-17T18:06:26Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Maddix Alotis"
 draft: false
 video_id: "nd7cDUi0gcA"
 thumbnail: "https://i.ytimg.com/vi/nd7cDUi0gcA/maxresdefault.jpg"

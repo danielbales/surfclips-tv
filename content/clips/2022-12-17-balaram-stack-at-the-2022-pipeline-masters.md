@@ -1,6 +1,7 @@
 ---
 title: "Balaram Stack at the 2022 Pipeline Masters"
 date: 2022-12-17T01:49:30Z
+description: "New York's Balaram Stack comes to the Pipeline Masters on fire, snagging this wave of the heat on his trusty quad. Support the channel by subscribing!..."
 draft: false
 video_id: "zzD2F-9zQkE"
 thumbnail: "https://i.ytimg.com/vi/zzD2F-9zQkE/maxresdefault.jpg"

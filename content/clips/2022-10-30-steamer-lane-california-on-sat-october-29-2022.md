@@ -1,6 +1,7 @@
 ---
 title: "Steamer Lane, California on Sat, October 29, 2022"
 date: 2022-10-30T22:31:03Z
+description: "Secondary SW swell mixed in underneath a decent-sized NW swell, while clean conditions and (unfortunate tidal levels) created fun conditions. Support..."
 draft: false
 video_id: "cmFQIRIaGhY"
 thumbnail: "https://i.ytimg.com/vi/cmFQIRIaGhY/maxresdefault.jpg"

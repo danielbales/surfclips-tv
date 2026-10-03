@@ -1,6 +1,7 @@
 ---
 title: "Griffin Colapinto blasts club sandwich at 2023 El Salvador Pro"
 date: 2023-06-13T17:45:06Z
+description: "Griffin Colapinto showed off his high performance surfing skills on day 1 of the 2023 El Salvador Pro. Support the channel by subscribing! Thank you..."
 draft: false
 video_id: "KdnZrI-rW_o"
 thumbnail: "https://i.ytimg.com/vi/KdnZrI-rW_o/sddefault.jpg"

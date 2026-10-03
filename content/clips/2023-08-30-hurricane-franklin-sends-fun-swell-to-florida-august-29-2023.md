@@ -1,6 +1,7 @@
 ---
 title: "Hurricane Franklin sends fun swell to Florida – August 29, 2023"
 date: 2023-08-30T12:39:26Z
+description: "Hurricane Franklin, which made landfall in Bermuda as a Category 3 hurricane on August 28, 2023, sent a swell of waves to the Florida coast on August..."
 draft: false
 video_id: "0MIiXWN5gKE"
 thumbnail: "https://i.ytimg.com/vi/0MIiXWN5gKE/maxresdefault.jpg"

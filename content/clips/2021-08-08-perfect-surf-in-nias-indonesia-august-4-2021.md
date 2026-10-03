@@ -1,6 +1,7 @@
 ---
 title: "PERFECT SURF in Nias, Indonesia!! August 4, 2021"
 date: 2021-08-08T00:15:53Z
+description: "Support the channel by subscribing! Offshore winds and occasional bombs came through the lineup for the local contingent. They were ripping! Thank you..."
 draft: false
 video_id: "2R0PfApZveE"
 thumbnail: "https://i.ytimg.com/vi/2R0PfApZveE/maxresdefault.jpg"

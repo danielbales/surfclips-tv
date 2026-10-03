@@ -1,6 +1,7 @@
 ---
 title: "SURFING BIG WAVES AT Puerto Escondido - Raw & FIRING!!! - June 30, 2021"
 date: 2021-07-04T01:37:56Z
+description: "June 30, 2021 served up huge, perfect waves for surfing at the \"Mexican Pipeline\", Playa Zicatela, Puerto Escondido, Oaxaca Mexico!! Surfers were..."
 draft: false
 video_id: "Cw8c5Auesds"
 thumbnail: "https://i.ytimg.com/vi/Cw8c5Auesds/maxresdefault.jpg"

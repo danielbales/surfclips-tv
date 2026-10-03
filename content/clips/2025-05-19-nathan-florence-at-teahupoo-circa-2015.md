@@ -1,6 +1,7 @@
 ---
 title: "Nathan Florence at Teahupo'o circa 2015"
 date: 2025-05-19T01:47:33Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Tim Bonython"
 draft: false
 video_id: "IrrqJQuhF20"
 thumbnail: "https://i.ytimg.com/vi/IrrqJQuhF20/maxresdefault.jpg"

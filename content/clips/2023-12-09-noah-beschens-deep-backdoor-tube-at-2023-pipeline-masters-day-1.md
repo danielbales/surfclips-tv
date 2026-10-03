@@ -1,6 +1,7 @@
 ---
 title: "Noah Beschen's DEEP Backdoor tube at 2023 Pipeline Masters (Day 1)"
 date: 2023-12-09T21:52:25Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "xfB80iaqUnE"
 thumbnail: "https://i.ytimg.com/vi/xfB80iaqUnE/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Large / XL SWELL at PIPELINE! on November 3, 2021"
 date: 2021-11-04T04:55:48Z
+description: "https://surf-clips-tv.myspreadshop.com/ Support the channel by subscribing! 2nd reefers and 15-20 foot faces (8-10 foot Hawaiian) kicked off opening..."
 draft: false
 video_id: "zoV4-T0LOPg"
 thumbnail: "https://i.ytimg.com/vi/zoV4-T0LOPg/maxresdefault.jpg"

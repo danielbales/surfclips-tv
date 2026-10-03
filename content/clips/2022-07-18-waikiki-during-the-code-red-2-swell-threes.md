@@ -1,6 +1,7 @@
 ---
 title: "Waikiki during the Code Red 2 swell (Three's)"
 date: 2022-07-18T03:23:10Z
+description: "Large and dangerous SSW swell (183º) continues to pound this South Shore right as the Code Red 2 swell from Tahiti peaked and provided fun waves for..."
 draft: false
 video_id: "u3WIA_DeAoM"
 thumbnail: "https://i.ytimg.com/vi/u3WIA_DeAoM/maxresdefault.jpg"

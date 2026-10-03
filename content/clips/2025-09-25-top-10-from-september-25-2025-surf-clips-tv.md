@@ -1,6 +1,7 @@
 ---
 title: "TOP 10 from September 25, 2025 – Surf Clips TV"
 date: 2025-09-25T13:30:14Z
+description: "Watch TOP 10 from September 25, 2025 – Surf Clips TV on Surf Clips TV."
 draft: false
 video_id: "BzNcopvZNIM"
 thumbnail: "https://i.ytimg.com/vi/BzNcopvZNIM/sddefault.jpg"

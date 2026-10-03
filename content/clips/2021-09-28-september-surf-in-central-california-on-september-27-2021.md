@@ -1,6 +1,7 @@
 ---
 title: "September SURF in CENTRAL CALIFORNIA on September 27, 2021"
 date: 2021-09-28T02:26:47Z
+description: "Support the channel by subscribing! Fun, rippable surf hits Central California on September 27, 2021. High high northwest in addition to a solid south..."
 draft: false
 video_id: "n_jE3yaPuNE"
 thumbnail: "https://i.ytimg.com/vi/n_jE3yaPuNE/maxresdefault.jpg"

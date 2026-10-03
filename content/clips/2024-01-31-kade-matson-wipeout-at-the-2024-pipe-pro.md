@@ -1,6 +1,7 @@
 ---
 title: "Kade Matson wipeout at the 2024 Pipe Pro"
 date: 2024-01-31T23:05:11Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "etRwOMnYHCA"
 thumbnail: "https://i.ytimg.com/vi/etRwOMnYHCA/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "1st sizable North Shore swell hits Oahu on September 18, 2022"
 date: 2022-09-18T21:23:59Z
+description: "Northerly angled swell (3º) filled in and peaked across the North Shore, hitting overhead sets, while Oahu hasn't seen this much size in some time so..."
 draft: false
 video_id: "IBbNFpG6hVU"
 thumbnail: "https://i.ytimg.com/vi/IBbNFpG6hVU/maxresdefault.jpg"

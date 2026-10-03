@@ -1,6 +1,7 @@
 ---
 title: "@JamieOBrienJOB snakes surfer at Pipe - Dec 2024"
 date: 2024-12-10T21:24:40Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "hjve3DVrD_M"
 thumbnail: "https://i.ytimg.com/vi/hjve3DVrD_M/maxresdefault.jpg"

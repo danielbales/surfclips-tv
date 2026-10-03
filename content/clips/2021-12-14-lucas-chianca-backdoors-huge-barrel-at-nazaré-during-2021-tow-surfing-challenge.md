@@ -1,6 +1,7 @@
 ---
 title: "Lucas Chianca backdoors HUGE BARREL at NAZARÉ during 2021 Tow Surfing Challenge"
 date: 2021-12-14T04:49:02Z
+description: "Kai Lenny tows Lucas Chianca into an absolutely perfect barreling left at Nazaré during the 2021 Tow Surf Challenge. Support the channel by..."
 draft: false
 video_id: "XVZehHoQm3Q"
 thumbnail: "https://i.ytimg.com/vi/XVZehHoQm3Q/maxresdefault.jpg"

@@ -3,24 +3,31 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ if not .IsHome }}{{ .Title }} - {{ end }}{{ .Site.Title }}</title>
+  <title>{{ if .IsHome }}Surf Clips TV | Best Surf Videos, Weekly Top 10s &amp; Shorts{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
   <link rel="canonical" href="{{ .Permalink }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href="{{ "feed.xml" | absURL }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href="{{ "index.xml" | absURL }}">
 
   {{/* OG / Social sharing */}}
   <meta property="og:title" content="{{ if not .IsHome }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}">
   <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
   <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
   <meta property="og:url" content="{{ .Permalink }}">
-  {{ with .Params.thumbnail }}<meta property="og:image" content="{{ . }}">{{ end }}
+  <meta property="og:image" content="{{ with .Params.thumbnail }}{{ . }}{{ else }}{{ "images/sctv-logo.jpg" | absURL }}{{ end }}">
+  <meta property="og:site_name" content="{{ .Site.Title }}">
+  {{ if .IsPage }}<meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ end }}
   <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ if not .IsHome }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}">
+  <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <meta name="twitter:image" content="{{ with .Params.thumbnail }}{{ . }}{{ else }}{{ "images/sctv-logo.jpg" | absURL }}{{ end }}">
 
   <!-- Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-R0DG8XXPZ5"></script>
   <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-R0DG8XXPZ5');</script>
 
-  <link rel="stylesheet" href="{{ "css/style.css" | absURL }}?v=6">
+  <link rel="icon" type="image/jpeg" href="{{ "images/sctv-logo.jpg" | absURL }}">
+  <link rel="apple-touch-icon" href="{{ "images/sctv-logo.jpg" | absURL }}">
+  <link rel="stylesheet" href="{{ "css/style.css" | absURL }}?v=7">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lite-youtube-embed@0.3.4/src/lite-yt-embed.css">
   <script src="https://cdn.jsdelivr.net/npm/lite-youtube-embed@0.3.4/src/lite-yt-embed.js" defer></script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -58,7 +65,7 @@
       <div class="footer-links">
         <a href="{{ .Site.Params.youtube_channel }}" target="_blank" rel="noopener">YouTube</a>
         <a href="{{ "shop/" | absURL }}">Merch</a>
-        <a href="{{ "feed.xml" | absURL }}">RSS</a>
+        <a href="{{ "index.xml" | absURL }}">RSS</a>
       </div>
       <p class="footer-copy">&copy; {{ now.Year }} Surf Clips TV</p>
     </div>

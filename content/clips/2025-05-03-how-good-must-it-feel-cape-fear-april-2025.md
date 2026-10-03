@@ -1,6 +1,7 @@
 ---
 title: "How GOOD must it feel – Cape Fear, April 2025"
 date: 2025-05-03T16:15:03Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "eObV6VHey5M"
 thumbnail: "https://i.ytimg.com/vi/eObV6VHey5M/maxresdefault.jpg"

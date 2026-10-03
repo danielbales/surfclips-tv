@@ -1,6 +1,7 @@
 ---
 title: "TOP 10 from July 25, 2026 – Surf Clips TV"
 date: 2026-07-25T17:00:48Z
+description: "Surfing from Indonesia, Mexico, South Africa & more."
 draft: false
 video_id: "dwLXt7uXBYk"
 thumbnail: "https://i.ytimg.com/vi/dwLXt7uXBYk/sddefault.jpg"

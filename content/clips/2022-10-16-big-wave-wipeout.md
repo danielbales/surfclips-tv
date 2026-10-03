@@ -1,6 +1,7 @@
 ---
 title: "Big wave wipeout"
 date: 2022-10-16T07:00:13Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "kDL-6SGcqBI"
 thumbnail: "https://i.ytimg.com/vi/kDL-6SGcqBI/maxresdefault.jpg"

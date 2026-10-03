@@ -1,6 +1,7 @@
 ---
 title: "Trestles combo swell on April 26, 2022"
 date: 2022-04-27T13:35:18Z
+description: "Slow rising, long-period SSW + shorter-period NW swell with light SSW winds produced clean conditions at Trestles for a pretty packed lineup. Support..."
 draft: false
 video_id: "mEkTwnsLq8A"
 thumbnail: "https://i.ytimg.com/vi/mEkTwnsLq8A/maxresdefault.jpg"

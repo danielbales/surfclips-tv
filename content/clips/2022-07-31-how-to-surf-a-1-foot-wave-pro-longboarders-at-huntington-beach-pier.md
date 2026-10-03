@@ -1,6 +1,7 @@
 ---
 title: "How to surf a 1-foot wave – Pro longboarders at Huntington Beach pier"
 date: 2022-07-31T21:33:00Z
+description: "The iconic Huntington Beach Pier hosted the world’s best longboarders like Honolua Blomfield, Harrison Roach, Joel Tudor and more. Here was their..."
 draft: false
 video_id: "zGzfuL5lfyA"
 thumbnail: "https://i.ytimg.com/vi/zGzfuL5lfyA/maxresdefault.jpg"

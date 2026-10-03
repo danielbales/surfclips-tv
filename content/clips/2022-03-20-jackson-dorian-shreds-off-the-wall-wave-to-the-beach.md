@@ -1,6 +1,7 @@
 ---
 title: "JACKSON DORIAN shreds OFF THE WALL wave to the beach"
 date: 2022-03-20T19:28:04Z
+description: "On the very last day of Winter 2022, Shane Dorian's son Jackson Dorian shows how to put a surfboard on rail (numerous times) during an Off The Wall..."
 draft: false
 video_id: "gUUxUHmhR-Y"
 thumbnail: "https://i.ytimg.com/vi/gUUxUHmhR-Y/maxresdefault.jpg"

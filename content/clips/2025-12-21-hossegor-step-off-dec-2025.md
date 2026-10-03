@@ -1,6 +1,7 @@
 ---
 title: "Hossegor step off - Dec 2025"
 date: 2025-12-21T20:19:59Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "igaezvXTRm8"
 thumbnail: "https://i.ytimg.com/vi/igaezvXTRm8/maxresdefault.jpg"

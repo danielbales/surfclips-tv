@@ -1,6 +1,7 @@
 ---
 title: "Powerful SWELL SLAMS NORTH SHORE!! on September 24, 2021"
 date: 2021-09-25T06:10:05Z
+description: "Support the channel by subscribing! First Fall swell hits the north shore of Oahu, Hawaii on September 24, 2021. 15 foot (5 meter) faces gave North..."
 draft: false
 video_id: "ulOTpB5u6Pg"
 thumbnail: "https://i.ytimg.com/vi/ulOTpB5u6Pg/maxresdefault.jpg"

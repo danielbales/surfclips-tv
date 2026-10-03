@@ -1,6 +1,7 @@
 ---
 title: "XL Waimea Bay UNLOADING - November 24, 2023  #bigwave #surfing #surfer"
 date: 2023-11-25T04:50:38Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "DE3aSAfpeYk"
 thumbnail: "https://i.ytimg.com/vi/DE3aSAfpeYk/maxresdefault.jpg"

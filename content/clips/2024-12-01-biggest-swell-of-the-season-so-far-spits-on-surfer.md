@@ -1,6 +1,7 @@
 ---
 title: "Biggest swell of the season (so far) spits on surfer"
 date: 2024-12-01T22:11:32Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Surfline"
 draft: false
 video_id: "sCRvxcVJtok"
 thumbnail: "https://i.ytimg.com/vi/sCRvxcVJtok/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "10 BACKDOOR BARRELS from the 2021 HIC PIPE PRO that will leave you frothing"
 date: 2021-12-20T22:45:35Z
+description: "The day of the event showed some solid double-overhead and clean barrels at Backdoor, Oahu on December 17, 2021. Support the channel by subscribing!..."
 draft: false
 video_id: "n0CnJLo2rvs"
 thumbnail: "https://i.ytimg.com/vi/n0CnJLo2rvs/maxresdefault.jpg"

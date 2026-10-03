@@ -1,6 +1,7 @@
 ---
 title: "Michael February - Africa 2026"
 date: 2026-01-10T22:29:42Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "0uu9FLERMeg"
 thumbnail: "https://i.ytimg.com/vi/0uu9FLERMeg/maxresdefault.jpg"

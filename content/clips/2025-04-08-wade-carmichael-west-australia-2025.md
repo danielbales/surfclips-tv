@@ -1,6 +1,7 @@
 ---
 title: "Wade Carmichael – West Australia, 2025"
 date: 2025-04-08T01:44:37Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "af9xFPV8vNI"
 thumbnail: "https://i.ytimg.com/vi/af9xFPV8vNI/maxresdefault.jpg"

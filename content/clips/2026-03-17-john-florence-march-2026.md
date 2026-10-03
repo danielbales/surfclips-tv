@@ -1,6 +1,7 @@
 ---
 title: "John Florence - March 2026"
 date: 2026-03-17T13:53:10Z
+description: "Surf Store Merch: Credit: John Florence"
 draft: false
 video_id: "7gKprnGqdlY"
 thumbnail: "https://i.ytimg.com/vi/7gKprnGqdlY/maxresdefault.jpg"

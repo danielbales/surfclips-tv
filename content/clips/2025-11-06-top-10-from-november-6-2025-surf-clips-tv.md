@@ -1,6 +1,7 @@
 ---
 title: "TOP 10 from November 6, 2025 – Surf Clips TV"
 date: 2025-11-06T18:32:48Z
+description: "Watch TOP 10 from November 6, 2025 – Surf Clips TV on Surf Clips TV."
 draft: false
 video_id: "ZTAXldTKLwQ"
 thumbnail: "https://i.ytimg.com/vi/ZTAXldTKLwQ/sddefault.jpg"

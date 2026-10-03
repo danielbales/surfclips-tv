@@ -1,6 +1,7 @@
 ---
 title: "Ala Moana Bowls, Oahu on June 28, 2022"
 date: 2022-06-30T19:50:54Z
+description: "Declining Tahiti swell offered slightly overhead waves, and while barrels were few and far between, there were still a few for morning surfers. Support..."
 draft: false
 video_id: "W197mvlojzY"
 thumbnail: "https://i.ytimg.com/vi/W197mvlojzY/maxresdefault.jpg"

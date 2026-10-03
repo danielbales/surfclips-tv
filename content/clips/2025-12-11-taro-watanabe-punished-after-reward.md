@@ -1,6 +1,7 @@
 ---
 title: "Taro Watanabe punished after reward"
 date: 2025-12-11T22:58:56Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "hzeSmoSt99o"
 thumbnail: "https://i.ytimg.com/vi/hzeSmoSt99o/maxresdefault.jpg"

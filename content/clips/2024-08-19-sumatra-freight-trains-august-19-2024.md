@@ -1,6 +1,7 @@
 ---
 title: "SUMATRA FREIGHT TRAINS – August 19, 2024"
 date: 2024-08-19T20:16:54Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ A solid, SSW swell (210º) lit up Sumatra's most famous reef break, sending local surfers..."
 draft: false
 video_id: "eVrmVm3LirY"
 thumbnail: "https://i.ytimg.com/vi/eVrmVm3LirY/maxresdefault.jpg"

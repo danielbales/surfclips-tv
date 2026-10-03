@@ -1,6 +1,7 @@
 ---
 title: "Teahupo'o, Tahiti on September 29, 2022"
 date: 2022-10-08T19:45:16Z
+description: "Good size SSW swell (198º) rolled in as winds were moderate offshore NNE. End result was well-groomed faces on consistent overhead surf. Support the..."
 draft: false
 video_id: "LXpRodmjv6A"
 thumbnail: "https://i.ytimg.com/vi/LXpRodmjv6A/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Pulling into a nugget (Hurricane Lee swell)"
 date: 2023-09-21T15:31:09Z
+description: "Watch Pulling into a nugget (Hurricane Lee swell) on Surf Clips TV."
 draft: false
 video_id: "c-eZAAl9qWc"
 thumbnail: "https://i.ytimg.com/vi/c-eZAAl9qWc/maxresdefault.jpg"

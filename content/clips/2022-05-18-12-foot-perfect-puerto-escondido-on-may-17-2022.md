@@ -1,6 +1,7 @@
 ---
 title: "12 foot & PERFECT Puerto Escondido on May 17, 2022"
 date: 2022-05-18T17:38:29Z
+description: "Fresh SSW (208º) swell filled in, while favorable winds groomed early AM wave faces at Playa Zicatela. Greg Long, Jojo Roper, Ramos Jafet, Duran Barr..."
 draft: false
 video_id: "RuIj2gYqj4w"
 thumbnail: "https://i.ytimg.com/vi/RuIj2gYqj4w/maxresdefault.jpg"

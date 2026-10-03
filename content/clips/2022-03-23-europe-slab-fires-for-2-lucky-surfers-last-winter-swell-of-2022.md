@@ -1,6 +1,7 @@
 ---
 title: "Europe SLAB FIRES for 2 lucky surfers (last Winter swell of 2022)"
 date: 2022-03-23T19:39:56Z
+description: "2x overhead WNW swell lights up this shallow water reef on March 23, 2022. Winds were light offshore and two lucky surfers Support the channel by..."
 draft: false
 video_id: "xCYEbmGaOiE"
 thumbnail: "https://i.ytimg.com/vi/xCYEbmGaOiE/maxresdefault.jpg"

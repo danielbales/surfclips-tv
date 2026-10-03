@@ -1,6 +1,7 @@
 ---
 title: "Celebrating the North Shore's 1st winter swell of 2022"
 date: 2022-09-18T21:02:21Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "SV8uDVwgT98"
 thumbnail: "https://i.ytimg.com/vi/SV8uDVwgT98/maxresdefault.jpg"

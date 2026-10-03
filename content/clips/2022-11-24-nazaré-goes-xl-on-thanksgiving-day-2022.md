@@ -1,6 +1,7 @@
 ---
 title: "Nazaré goes XL on Thanksgiving Day 2022"
 date: 2022-11-24T18:41:46Z
+description: "Turkey day in Portugal meant feasting on some very large long period waves from the WNW, with strong SW winds with semi clean to clean conditions...."
 draft: false
 video_id: "utEhr0HuRVQ"
 thumbnail: "https://i.ytimg.com/vi/utEhr0HuRVQ/maxresdefault.jpg"

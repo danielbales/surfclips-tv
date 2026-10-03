@@ -1,6 +1,7 @@
 ---
 title: "Blown out of Teahupo'o pit - August 24, 2024"
 date: 2024-08-24T20:52:14Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "4JETjP3lb84"
 thumbnail: "https://i.ytimg.com/vi/4JETjP3lb84/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Greg Long's 2022 Puerto pit"
 date: 2022-07-10T13:30:11Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "p-h1SaLiCSE"
 thumbnail: "https://i.ytimg.com/vi/p-h1SaLiCSE/maxresdefault.jpg"

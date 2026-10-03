@@ -1,6 +1,7 @@
 ---
 title: "Eli Hanneman scores a deep Pipe barrel on January 13, 2022"
 date: 2022-01-14T04:13:50Z
+description: "After Round 4 of the Backdoor Shootout, Eli Hanneman found this deep Pipeline tube during the freesurf. Support the channel by subscribing! Thank you..."
 draft: false
 video_id: "Q-C-83DorN0"
 thumbnail: "https://i.ytimg.com/vi/Q-C-83DorN0/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Chargers take on MASSIVE TEAHUPO'O, Tahiti surf on August 6 2021"
 date: 2021-08-07T07:02:22Z
+description: "Support the channel by subscribing! Occasional 12 foot swells lit up the reef at Teahupo'o Tahiti on August 6, 2021. Thank you for supporting Surf Cam..."
 draft: false
 video_id: "fWaUpwvsSGs"
 thumbnail: "https://i.ytimg.com/vi/fWaUpwvsSGs/maxresdefault.jpg"

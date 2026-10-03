@@ -1,6 +1,7 @@
 ---
 title: "7 great Pipe waves on January 23, 2022 (morning after XL swell)"
 date: 2022-01-24T22:06:05Z
+description: "While Pipeline still was 2nd-reefing (occasionally), a ton of great waves hit 1st reef and these surfers found themselves in the right time at the..."
 draft: false
 video_id: "YkTBBnE12WE"
 thumbnail: "https://i.ytimg.com/vi/YkTBBnE12WE/maxresdefault.jpg"

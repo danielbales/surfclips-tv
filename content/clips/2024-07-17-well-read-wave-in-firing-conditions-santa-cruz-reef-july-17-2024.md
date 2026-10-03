@@ -1,6 +1,7 @@
 ---
 title: "Well read wave in FIRING conditions, Santa Cruz reef - July 17, 2024"
 date: 2024-07-17T16:46:27Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "hJKyueLrjbk"
 thumbnail: "https://i.ytimg.com/vi/hJKyueLrjbk/maxresdefault.jpg"

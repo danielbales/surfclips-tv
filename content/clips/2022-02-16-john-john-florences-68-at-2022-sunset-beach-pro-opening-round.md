@@ -1,6 +1,7 @@
 ---
 title: "John John Florence's 6.8 at 2022 Sunset Beach Pro (Opening Round)"
 date: 2022-02-16T04:02:29Z
+description: "John John Florence takes down Ethan Ewing and Owen Wright with help from this ride in big, messy Sunset Beach. Support the channel by subscribing!..."
 draft: false
 video_id: "wKPJGGXuloM"
 thumbnail: "https://i.ytimg.com/vi/wKPJGGXuloM/maxresdefault.jpg"

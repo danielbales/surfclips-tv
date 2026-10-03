@@ -1,6 +1,7 @@
 ---
 title: "CARIBBEAN SLAB FIRES – September 20, 2024"
 date: 2024-09-20T13:33:52Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ [enter description here] Thank you for supporting Surf Cam Rewind so we can continue to..."
 draft: false
 video_id: "HQtO95qDrdc"
 thumbnail: "https://i.ytimg.com/vi/HQtO95qDrdc/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Hurricane Frank DELIVERS early morning drainer"
 date: 2022-08-01T20:55:28Z
+description: "Very low morning tide (0.2' @ 6:20am) with clean surface conditions along with combo South swells (SW swell + building SSE tropical swell from Tropical..."
 draft: false
 video_id: "qLrMwN7SygM"
 thumbnail: "https://i.ytimg.com/vi/qLrMwN7SygM/maxresdefault.jpg"

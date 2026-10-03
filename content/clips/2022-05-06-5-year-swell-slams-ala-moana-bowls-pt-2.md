@@ -1,6 +1,7 @@
 ---
 title: "5-year swell slams Ala Moana Bowls pt. 2"
 date: 2022-05-06T19:15:00Z
+description: "Overlapping, long period SSW-S swells (200-180°, 16-18+ seconds) provided 8-12 foot and hollow faces, groomed by trade winds. Support the channel by..."
 draft: false
 video_id: "cvr4m4bEyEE"
 thumbnail: "https://i.ytimg.com/vi/cvr4m4bEyEE/maxresdefault.jpg"

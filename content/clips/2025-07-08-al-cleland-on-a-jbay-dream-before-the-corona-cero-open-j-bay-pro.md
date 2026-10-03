@@ -1,6 +1,7 @@
 ---
 title: "Al Cleland on a JBay DREAM before the Corona Cero Open J-Bay Pro"
 date: 2025-07-08T22:36:11Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "xiBr5orylRk"
 thumbnail: "https://i.ytimg.com/vi/xiBr5orylRk/maxresdefault.jpg"

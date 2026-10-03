@@ -1,6 +1,7 @@
 ---
 title: "5 INCREDIBLE waves from Barbados' SWELL OF THE YEAR"
 date: 2022-12-11T14:38:01Z
+description: "An experts-only day with (22º) swell peaking provided very solid surf, while trade winds adding a little texture to the surf, but still overall..."
 draft: false
 video_id: "f0FKGXMu8xY"
 thumbnail: "https://i.ytimg.com/vi/f0FKGXMu8xY/maxresdefault.jpg"

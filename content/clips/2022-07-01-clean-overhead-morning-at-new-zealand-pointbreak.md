@@ -1,6 +1,7 @@
 ---
 title: "Clean, overhead morning at New Zealand pointbreak"
 date: 2022-07-01T03:13:30Z
+description: "Overhead WSW swell (237º) with light winds wrapped into New Zealand's most famous point. Local surfers tore into faces on what was a great day of surf...."
 draft: false
 video_id: "_m3pIh6gcaE"
 thumbnail: "https://i.ytimg.com/vi/_m3pIh6gcaE/maxresdefault.jpg"

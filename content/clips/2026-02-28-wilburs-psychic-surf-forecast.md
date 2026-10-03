@@ -1,6 +1,7 @@
 ---
 title: "Wilbur's Psychic Surf Forecast"
 date: 2026-02-28T15:30:53Z
+description: "Watch Wilbur's Psychic Surf Forecast on Surf Clips TV."
 draft: false
 video_id: "XYxLSCuheDM"
 thumbnail: "https://i.ytimg.com/vi/XYxLSCuheDM/maxresdefault.jpg"

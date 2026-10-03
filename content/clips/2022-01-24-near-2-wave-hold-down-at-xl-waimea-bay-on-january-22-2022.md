@@ -1,6 +1,7 @@
 ---
 title: "Near 2-wave hold down at XL Waimea Bay on January 22, 2022"
 date: 2022-01-24T17:47:22Z
+description: "This unlucky surfer pops up just in time to catch a breath (and ungodly sight!) before getting mowed-down in XL Waimea Bay surf on January 22, 2022...."
 draft: false
 video_id: "v9G20u4kr-w"
 thumbnail: "https://i.ytimg.com/vi/v9G20u4kr-w/maxresdefault.jpg"

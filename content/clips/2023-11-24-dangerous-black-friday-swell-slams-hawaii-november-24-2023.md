@@ -1,6 +1,7 @@
 ---
 title: "DANGEROUS BLACK FRIDAY SWELL SLAMS HAWAII – November 24, 2023"
 date: 2023-11-24T22:08:26Z
+description: "Life-threatening XXL NW swell provided MASSIVE surf to the North Shore with favorable light wind conditions on tap for this morning session. Wave..."
 draft: false
 video_id: "O1DKtUMWWec"
 thumbnail: "https://i.ytimg.com/vi/O1DKtUMWWec/maxresdefault.jpg"

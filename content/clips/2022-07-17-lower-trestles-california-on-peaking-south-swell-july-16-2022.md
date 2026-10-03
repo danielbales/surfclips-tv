@@ -1,6 +1,7 @@
 ---
 title: "Lower Trestles, California on peaking South swell (July 16, 2022)"
 date: 2022-07-17T00:47:52Z
+description: "Long period SW-SSW swell (206º) with light onshore SW-WSW wind created rippable rights at San Clemente's most famous cobblestone reef break. Support..."
 draft: false
 video_id: "02vseA9ULyI"
 thumbnail: "https://i.ytimg.com/vi/02vseA9ULyI/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Dreamy South Shore pit - June 15, 2024"
 date: 2024-06-15T22:37:33Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "r5maiWQAZbc"
 thumbnail: "https://i.ytimg.com/vi/r5maiWQAZbc/maxresdefault.jpg"

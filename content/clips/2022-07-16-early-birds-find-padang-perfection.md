@@ -1,6 +1,7 @@
 ---
 title: "Early birds find Padang perfection"
 date: 2022-07-16T01:16:06Z
+description: "Well overhead for other SW swell (215º) with a light N/ENE wind created lightly textured conditions, but surf down along the Bukit saw moments of..."
 draft: false
 video_id: "h1PAOdN04Ms"
 thumbnail: "https://i.ytimg.com/vi/h1PAOdN04Ms/maxresdefault.jpg"

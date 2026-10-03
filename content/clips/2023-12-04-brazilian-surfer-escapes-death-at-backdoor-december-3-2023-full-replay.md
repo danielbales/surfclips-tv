@@ -1,6 +1,7 @@
 ---
 title: "Brazilian surfer escapes death at Backdoor – December 3, 2023 [Full Replay]"
 date: 2023-12-04T04:19:34Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Brazilian phenom Joao Chianca hospitalized (he's ok) after a 2-wave hold down during a heavy..."
 draft: false
 video_id: "PxCQSY5UCOk"
 thumbnail: "https://i.ytimg.com/vi/PxCQSY5UCOk/maxresdefault.jpg"

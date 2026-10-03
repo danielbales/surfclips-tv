@@ -1,6 +1,7 @@
 ---
 title: "Greg Long, Wave of the Day \"One and Done\" – Mexico, July 4, 2024 (alt. angle)"
 date: 2024-07-04T21:37:38Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ South West swell slams Mexico's heaviest beachbreak and this lucky surfer finds a gem...."
 draft: false
 video_id: "KNsRoyn0faU"
 thumbnail: "https://i.ytimg.com/vi/KNsRoyn0faU/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Ala Moana season opener - 4 sets from March 24, 2022"
 date: 2022-03-26T00:09:42Z
+description: "Spring kicked off right on schedule as a decent swell made it's way to the South Shore. Support the channel by subscribing! Thank you for supporting..."
 draft: false
 video_id: "RQVXHycx8xA"
 thumbnail: "https://i.ytimg.com/vi/RQVXHycx8xA/maxresdefault.jpg"

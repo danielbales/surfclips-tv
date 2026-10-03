@@ -1,6 +1,7 @@
 ---
 title: "Jackson Bunch 3-piece combo"
 date: 2025-06-05T18:31:21Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Jackson Bunch"
 draft: false
 video_id: "EWI-BEOk4wI"
 thumbnail: "https://i.ytimg.com/vi/EWI-BEOk4wI/maxresdefault.jpg"

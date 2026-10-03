@@ -1,6 +1,7 @@
 ---
 title: "Empty Indonesia perfection"
 date: 2025-10-26T23:03:11Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "RWUsGpzwYCo"
 thumbnail: "https://i9.ytimg.com/vi/RWUsGpzwYCo/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLCczKNHvDFH6B8XYty-ZUUtVa-3OQ"

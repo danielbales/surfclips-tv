@@ -1,6 +1,7 @@
 ---
 title: "John John Florence's SICK double barrel"
 date: 2022-02-04T06:59:36Z
+description: "Date: 1/2/22 Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "wka4MbQFZG8"
 thumbnail: "https://i.ytimg.com/vi/wka4MbQFZG8/maxresdefault.jpg"

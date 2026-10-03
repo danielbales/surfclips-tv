@@ -1,6 +1,7 @@
 ---
 title: "MASON HO's late-Feb Pipeline BOMB"
 date: 2025-02-26T22:32:11Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ During another SOLID day of surf for north shore surfers, Mason Ho sends it from deep and..."
 draft: false
 video_id: "jpSF8gLSBVQ"
 thumbnail: "https://i.ytimg.com/vi/jpSF8gLSBVQ/maxresdefault.jpg"

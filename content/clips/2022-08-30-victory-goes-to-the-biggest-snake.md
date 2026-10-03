@@ -1,6 +1,7 @@
 ---
 title: "Victory goes to the biggest snake"
 date: 2022-08-30T16:57:56Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "rAgxgF3xi30"
 thumbnail: "https://i.ytimg.com/vi/rAgxgF3xi30/maxresdefault.jpg"

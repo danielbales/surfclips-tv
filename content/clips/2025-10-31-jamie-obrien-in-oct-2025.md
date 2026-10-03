@@ -1,6 +1,7 @@
 ---
 title: "Jamie O'Brien in Oct 2025"
 date: 2025-10-31T02:27:41Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "dx-X1ftA-Qk"
 thumbnail: "https://i.ytimg.com/vi/dx-X1ftA-Qk/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Surfer BLASTED out of a Pipeline tube"
 date: 2022-12-06T03:01:45Z
+description: "Watch Surfer BLASTED out of a Pipeline tube on Surf Clips TV."
 draft: false
 video_id: "8vXCfD35UqM"
 thumbnail: "https://i.ytimg.com/vi/8vXCfD35UqM/maxresdefault.jpg"

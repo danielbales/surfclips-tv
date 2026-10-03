@@ -1,6 +1,7 @@
 ---
 title: "Combo swell hits Santa Cruz points on April 26, 2022"
 date: 2022-04-27T01:28:54Z
+description: "Glassy morning conditions with a mix of NW swell and rising, longer-period SSW swell rolled in and provided Santa Cruz surfers with long rights and an..."
 draft: false
 video_id: "NLuP0O_yIGI"
 thumbnail: "https://i.ytimg.com/vi/NLuP0O_yIGI/maxresdefault.jpg"

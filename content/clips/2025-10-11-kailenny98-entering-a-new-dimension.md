@@ -1,6 +1,7 @@
 ---
 title: "🪐 @KaiLenny98 entering a new dimension"
 date: 2025-10-11T22:54:50Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "zG4FwYlWsn0"
 thumbnail: "https://i9.ytimg.com/vi/zG4FwYlWsn0/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLCC-6Z-_cWE3NudPd34dqQPS5P7Vw"

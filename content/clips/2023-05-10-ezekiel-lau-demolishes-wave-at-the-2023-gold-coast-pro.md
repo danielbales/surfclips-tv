@@ -1,6 +1,7 @@
 ---
 title: "Ezekiel Lau DEMOLISHES WAVE at the 2023 Gold Coast Pro"
 date: 2023-05-10T04:16:31Z
+description: "During his against Dylan Moffat and Shion Crawford, Zeke Lau find this wave (6.0) and obliterates it, sending him into the next round. Support the..."
 draft: false
 video_id: "Tn3tAYJ701o"
 thumbnail: "https://i.ytimg.com/vi/Tn3tAYJ701o/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Surfing Pipeline backwash out to sea"
 date: 2022-12-05T19:22:45Z
+description: "On an 8-12 foot Pipe day, this surfer pulled into a pretty solid PIpe wave, didn't make it, then on his paddle back out caught a backwash wave to help..."
 draft: false
 video_id: "FXR1xYbT34g"
 thumbnail: "https://i.ytimg.com/vi/FXR1xYbT34g/maxresdefault.jpg"

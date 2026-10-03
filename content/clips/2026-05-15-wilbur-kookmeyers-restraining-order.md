@@ -1,6 +1,7 @@
 ---
 title: "Wilbur Kookmeyer's Restraining Order"
 date: 2026-05-15T15:26:57Z
+description: "Wilbur Kookmeyer has done a lot of questionable things in pursuit of surf greatness. This might be the most legally complicated. After a series of..."
 draft: false
 video_id: "KfDv9Eef-ik"
 thumbnail: "https://i.ytimg.com/vi/KfDv9Eef-ik/maxresdefault.jpg"

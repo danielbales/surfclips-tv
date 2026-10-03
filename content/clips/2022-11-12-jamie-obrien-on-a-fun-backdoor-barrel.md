@@ -1,6 +1,7 @@
 ---
 title: "Jamie O'Brien on a fun Backdoor barrel"
 date: 2022-11-12T02:05:02Z
+description: "Watch Jamie O'Brien on a fun Backdoor barrel on Surf Clips TV."
 draft: false
 video_id: "yTxdUJs1Hdc"
 thumbnail: "https://i.ytimg.com/vi/yTxdUJs1Hdc/maxresdefault.jpg"

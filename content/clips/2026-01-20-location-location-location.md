@@ -1,6 +1,7 @@
 ---
 title: "Location, location, location!"
 date: 2026-01-20T01:05:23Z
+description: "Watch Location, location, location! on Surf Clips TV."
 draft: false
 video_id: "nRwMMB0dmiI"
 thumbnail: "https://i.ytimg.com/vi/nRwMMB0dmiI/maxresdefault.jpg"

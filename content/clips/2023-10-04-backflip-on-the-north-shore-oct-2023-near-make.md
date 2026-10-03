@@ -1,6 +1,7 @@
 ---
 title: "Backflip on the North Shore - Oct 2023 (near-make)"
 date: 2023-10-04T12:38:55Z
+description: "Watch Backflip on the North Shore - Oct 2023 (near-make) on Surf Clips TV."
 draft: false
 video_id: "tm3deId6mrM"
 thumbnail: "https://i.ytimg.com/vi/tm3deId6mrM/maxresdefault.jpg"

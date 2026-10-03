@@ -1,6 +1,7 @@
 ---
 title: "Glassy, fun conditions in Southern California"
 date: 2022-07-27T18:44:17Z
+description: "Fun SSW swell (202º) topped out, providing head-high faces while surface conditions were semi-clean from a light WSW wind. Support the channel by..."
 draft: false
 video_id: "QufRQwVLl8c"
 thumbnail: "https://i.ytimg.com/vi/QufRQwVLl8c/maxresdefault.jpg"

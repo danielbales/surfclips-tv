@@ -1,6 +1,7 @@
 ---
 title: "Pre-Comp pit - 2024 Portugal Pro"
 date: 2024-03-06T23:50:48Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "bmpKOZxPHSI"
 thumbnail: "https://i.ytimg.com/vi/bmpKOZxPHSI/maxresdefault.jpg"

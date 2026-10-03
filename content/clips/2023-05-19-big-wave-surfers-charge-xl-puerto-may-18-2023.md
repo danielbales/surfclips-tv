@@ -1,6 +1,7 @@
 ---
 title: "Big wave surfers CHARGE XL PUERTO - May 18, 2023"
 date: 2023-05-19T15:23:21Z
+description: "Peaking SW swell provided near-XL surf (20 foot/ ) to the Mexican Pipeline on May 18, 2023. Waves were much more approachable compared to other recent..."
 draft: false
 video_id: "fsRVJngX7EU"
 thumbnail: "https://i.ytimg.com/vi/fsRVJngX7EU/maxresdefault.jpg"

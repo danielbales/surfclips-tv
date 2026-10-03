@@ -1,6 +1,7 @@
 ---
 title: "Indo's LARGEST swell of year – 9+ minutes of highlights"
 date: 2022-07-03T18:46:59Z
+description: "Massive, long-period SW swell (230º) topped out at 9’ at 18-19 seconds and was paired by classic ESE trade winds, offering those lucky enough to be in..."
 draft: false
 video_id: "uivZ32c_66Q"
 thumbnail: "https://i.ytimg.com/vi/uivZ32c_66Q/maxresdefault.jpg"

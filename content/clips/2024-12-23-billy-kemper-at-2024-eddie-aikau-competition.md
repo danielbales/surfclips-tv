@@ -1,6 +1,7 @@
 ---
 title: "Billy Kemper at 2024 Eddie Aikau competition"
 date: 2024-12-23T17:25:35Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Billy Kemper snags a BOMB during the 2024 Eddie Aikau big wave invitational. Credit: Surfline"
 draft: false
 video_id: "DVlcb5OXlug"
 thumbnail: "https://i.ytimg.com/vi/DVlcb5OXlug/maxresdefault.jpg"

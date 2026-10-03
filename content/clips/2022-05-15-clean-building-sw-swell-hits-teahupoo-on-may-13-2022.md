@@ -1,6 +1,7 @@
 ---
 title: "Clean, building SW swell hits Teahupo'o on May 13, 2022"
 date: 2022-05-15T16:30:06Z
+description: "Overhead SSW swell fill in while calm, clean conditions groomed faces at The End of the Road. Sets were slow but when they came in waves were..."
 draft: false
 video_id: "k3XkGcGn8vM"
 thumbnail: "https://i.ytimg.com/vi/k3XkGcGn8vM/maxresdefault.jpg"

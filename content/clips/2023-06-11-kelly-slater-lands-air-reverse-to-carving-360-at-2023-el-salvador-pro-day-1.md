@@ -1,6 +1,7 @@
 ---
 title: "Kelly Slater lands air reverse-to-carving 360 at 2023 El Salvador Pro (day 1)"
 date: 2023-06-11T12:53:32Z
+description: "Kelly Slater took on Gabriel Medina at the 2023 El Salvador Pro, where he scored a 5.4 for this perfectly executed air reverse to carving 360 combo...."
 draft: false
 video_id: "HmJK8mOtUI4"
 thumbnail: "https://i.ytimg.com/vi/HmJK8mOtUI4/maxresdefault.jpg"

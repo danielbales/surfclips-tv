@@ -1,6 +1,7 @@
 ---
 title: "10 BARRELS 1 WAVE – Ian Crane, Africa"
 date: 2025-04-07T15:18:39Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Ian Crane burns his legs on 1 wave that offers him 10 (at least?) tube rides. Credit: Surfline"
 draft: false
 video_id: "1-0CLDAUPEg"
 thumbnail: "https://i.ytimg.com/vi/1-0CLDAUPEg/maxresdefault.jpg"

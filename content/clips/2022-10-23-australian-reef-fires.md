@@ -1,6 +1,7 @@
 ---
 title: "Australian reef fires"
 date: 2022-10-23T13:23:43Z
+description: "Watch Australian reef fires on Surf Clips TV."
 draft: false
 video_id: "k7kLCXapBu4"
 thumbnail: "https://i.ytimg.com/vi/k7kLCXapBu4/maxresdefault.jpg"

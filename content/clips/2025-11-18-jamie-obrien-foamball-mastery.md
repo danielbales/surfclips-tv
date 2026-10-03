@@ -1,6 +1,7 @@
 ---
 title: "Jamie O'Brien Foamball Mastery"
 date: 2025-11-18T05:09:55Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "VfVl6Q88SOY"
 thumbnail: "https://i.ytimg.com/vi/VfVl6Q88SOY/maxresdefault.jpg"

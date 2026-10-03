@@ -1,6 +1,7 @@
 ---
 title: "Pipeline Perfection  #surf #surfing #surfer"
 date: 2023-12-04T08:00:25Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "kvDf__3uoOo"
 thumbnail: "https://i.ytimg.com/vi/kvDf__3uoOo/maxresdefault.jpg"

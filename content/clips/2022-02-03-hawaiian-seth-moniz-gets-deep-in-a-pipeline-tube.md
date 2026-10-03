@@ -1,6 +1,7 @@
 ---
 title: "Hawaiian Seth Moniz gets deep in a Pipeline tube"
 date: 2022-02-03T21:33:24Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "QjkPhQt7Z6k"
 thumbnail: "https://i.ytimg.com/vi/QjkPhQt7Z6k/hqdefault.jpg"

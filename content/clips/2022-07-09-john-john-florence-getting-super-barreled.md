@@ -1,6 +1,7 @@
 ---
 title: "John John Florence getting super barreled"
 date: 2022-07-09T03:04:43Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "mfzwR0P7VWs"
 thumbnail: "https://i.ytimg.com/vi/mfzwR0P7VWs/maxresdefault.jpg"

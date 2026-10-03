@@ -1,6 +1,7 @@
 ---
 title: "Blacks beach winter tuberide"
 date: 2022-12-28T20:37:54Z
+description: "Watch Blacks beach winter tuberide on Surf Clips TV."
 draft: false
 video_id: "gWaUbDU5ldQ"
 thumbnail: "https://i.ytimg.com/vi/gWaUbDU5ldQ/maxresdefault.jpg"

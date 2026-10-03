@@ -1,6 +1,7 @@
 ---
 title: "PERFECT Puerto Escondido, Mexico, July 15, 2021"
 date: 2021-07-21T02:34:34Z
+description: "Support the channel by subscribing! Even though the swell was dropping, some epic rides went down at the Mexican Pipeline on July 15, 2021. Enjoy!..."
 draft: false
 video_id: "Lzo72gKfPPA"
 thumbnail: "https://i.ytimg.com/vi/Lzo72gKfPPA/maxresdefault.jpg"

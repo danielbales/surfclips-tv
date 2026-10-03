@@ -1,6 +1,7 @@
 ---
 title: "South Swell hits Ala Moana Bowls on May 27, 2022"
 date: 2022-05-30T19:30:01Z
+description: "Long period SSW swell (200-190°) offered occasional head high waves to a thick crowd at Ala Moana Bowls. Support the channel by subscribing! Thank you..."
 draft: false
 video_id: "-C9GzmTFo4E"
 thumbnail: "https://i.ytimg.com/vi/-C9GzmTFo4E/maxresdefault.jpg"

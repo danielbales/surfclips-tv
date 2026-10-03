@@ -12,8 +12,8 @@
 {
   "@context": "https://schema.org",
   "@type": "VideoObject",
-  "name": {{ .Title }},
-  "description": {{ $schemaDesc }},
+  "name": {{ .Title | jsonify | safeJS }},
+  "description": {{ $schemaDesc | jsonify | safeJS }},
   "thumbnailUrl": ["{{ .Params.thumbnail }}"],
   "uploadDate": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
   "duration": "{{ $isoDuration }}",
@@ -73,8 +73,8 @@
   <div class="clips-grid">
     {{ range . }}
     <a href="{{ .Permalink }}" class="clip-card">
-      {{ with .Params.thumbnail }}
-      <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+      {{ if .Params.thumbnail }}
+      <img src="{{ .Params.thumbnail }}" alt="{{ .Title }}" loading="lazy">
       {{ end }}
       <div class="clip-card-body">
         <h3>{{ .Title }}</h3>

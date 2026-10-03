@@ -1,6 +1,7 @@
 ---
 title: "Ala Moana BOWLS FIRES – DAY OF DAYS!!! on October 9, 2021"
 date: 2021-10-10T18:49:02Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Support the channel by subscribing! Highly anticipated south swell that brought 20 foot faces..."
 draft: false
 video_id: "HZg7AaeF5B0"
 thumbnail: "https://i.ytimg.com/vi/HZg7AaeF5B0/maxresdefault.jpg"

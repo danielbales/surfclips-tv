@@ -1,6 +1,7 @@
 ---
 title: "BEST PIPELINE OF THE SEASON – January 23, 2024"
 date: 2024-01-24T03:56:32Z
+description: "A thick Pipe crowd descended on the worlds most dangerous reef, thanks to a solid surf with ideal southerly wind conditions. Support the channel by..."
 draft: false
 video_id: "C1QwbOx0jI8"
 thumbnail: "https://i.ytimg.com/vi/C1QwbOx0jI8/maxresdefault.jpg"

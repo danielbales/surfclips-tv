@@ -1,6 +1,7 @@
 ---
 title: "ROCKIES during the 2023 PIPELINE MASTERS – December 10, 2023"
 date: 2023-12-12T04:32:37Z
+description: "While surfers groveled for occasional 2-3 foot Pipeline and Backdoor waves, Rocky Point lit up offering hollow, fast and rippable faces. Support the..."
 draft: false
 video_id: "aK3emQzbSGA"
 thumbnail: "https://i.ytimg.com/vi/aK3emQzbSGA/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Surfer gets DOUBLE BARREL somwehere in INDO – May 6, 2024"
 date: 2024-05-07T00:53:01Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ At this famed reefbreak a solid 2x overhead swell produced near-epic conditions,..."
 draft: false
 video_id: "BEkrVs7ANAQ"
 thumbnail: "https://i.ytimg.com/vi/BEkrVs7ANAQ/maxresdefault.jpg"

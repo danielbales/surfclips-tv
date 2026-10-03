@@ -1,6 +1,7 @@
 ---
 title: "Driving DEEP in a Backdoor pit - January 20, 2024"
 date: 2024-01-21T05:16:25Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "6U4oFfpA97M"
 thumbnail: "https://i.ytimg.com/vi/6U4oFfpA97M/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Jack Robinson's 8-second Backdoor pit (near-make)"
 date: 2022-10-26T20:32:27Z
+description: "Watch Jack Robinson's 8-second Backdoor pit (near-make) on Surf Clips TV."
 draft: false
 video_id: "zcdLxxI3BEE"
 thumbnail: "https://i.ytimg.com/vi/zcdLxxI3BEE/maxresdefault.jpg"

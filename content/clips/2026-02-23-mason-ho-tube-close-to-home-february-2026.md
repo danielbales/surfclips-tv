@@ -1,6 +1,7 @@
 ---
 title: "Mason Ho tube close to home - February 2026"
 date: 2026-02-23T08:00:40Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "_6zR-JWXNDo"
 thumbnail: "https://i.ytimg.com/vi/_6zR-JWXNDo/maxresdefault.jpg"

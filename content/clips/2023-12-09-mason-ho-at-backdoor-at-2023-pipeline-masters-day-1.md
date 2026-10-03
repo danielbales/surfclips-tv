@@ -1,6 +1,7 @@
 ---
 title: "MASON HO at Backdoor at 2023 Pipeline Masters (Day 1)"
 date: 2023-12-09T22:38:20Z
+description: "In his heat against Noah Beschen and Michael Feb, Mason finds this Backdoor runner at the 2023 Pipeline Masters. Support the channel by subscribing!..."
 draft: false
 video_id: "TB-WCtEimPg"
 thumbnail: "https://i.ytimg.com/vi/TB-WCtEimPg/maxresdefault.jpg"

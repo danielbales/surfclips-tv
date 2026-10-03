@@ -1,6 +1,7 @@
 ---
 title: "Ethan Ewing's 8.6 at 2022 Sunset Beach Pro (Round of 32)"
 date: 2022-02-19T03:02:12Z
+description: "Smooth, powerful style as demonstrated here earns Ethan a great score in large, occasional triple overhead Sunset Beach. Support the channel by..."
 draft: false
 video_id: "eqmOivpBkyM"
 thumbnail: "https://i.ytimg.com/vi/eqmOivpBkyM/maxresdefault.jpg"

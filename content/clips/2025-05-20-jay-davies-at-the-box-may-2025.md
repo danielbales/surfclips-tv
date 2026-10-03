@@ -1,6 +1,7 @@
 ---
 title: "Jay Davies at The Box, May 2025"
 date: 2025-05-20T22:27:40Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Brody Mulik"
 draft: false
 video_id: "uvux5BuRiWI"
 thumbnail: "https://i.ytimg.com/vi/uvux5BuRiWI/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Hawaiian surfer rides DREAMY wave (Barron Mamiya at 2024 Pipe Pro on Finals Day)"
 date: 2024-02-11T19:50:20Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ One EPIC wave from Barron Mamiya's dream run on Finals day of the 2024 Pipe Pro. Support..."
 draft: false
 video_id: "KXaHMxdj3xs"
 thumbnail: "https://i.ytimg.com/vi/KXaHMxdj3xs/maxresdefault.jpg"

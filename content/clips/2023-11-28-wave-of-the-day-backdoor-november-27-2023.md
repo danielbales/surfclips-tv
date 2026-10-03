@@ -1,6 +1,7 @@
 ---
 title: "Wave of the day – Backdoor, November 27, 2023"
 date: 2023-11-28T16:23:34Z
+description: "On the backside of the XL Black Friday November 2023 swell, this lucky surfer found a gem and surfed it as good as anyone. Support the channel by..."
 draft: false
 video_id: "KKkB79Ug_Bs"
 thumbnail: "https://i.ytimg.com/vi/KKkB79Ug_Bs/maxresdefault.jpg"

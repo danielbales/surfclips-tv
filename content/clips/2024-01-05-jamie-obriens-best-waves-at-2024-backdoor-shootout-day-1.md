@@ -1,6 +1,7 @@
 ---
 title: "JAMIE O'BRIEN'S BEST WAVES at 2024 Backdoor Shootout (Day 1)"
 date: 2024-01-05T00:35:46Z
+description: "3 waves from Pipeline Master Jamie O'Brien on Day 1 of the 2024 Backdoor Shootout. Support the channel by subscribing! Thank you for supporting Surf..."
 draft: false
 video_id: "VgbggPj9RDE"
 thumbnail: "https://i.ytimg.com/vi/VgbggPj9RDE/maxresdefault.jpg"

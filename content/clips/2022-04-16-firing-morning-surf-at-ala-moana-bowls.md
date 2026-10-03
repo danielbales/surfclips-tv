@@ -1,6 +1,7 @@
 ---
 title: "Firing morning surf at Ala Moana Bowls"
 date: 2022-04-16T19:36:41Z
+description: "Solid SSW swell and light ENE trade wind provided some nice surf to Oahu's South Shore. Support the channel by subscribing! Thank you for supporting..."
 draft: false
 video_id: "4bQj7UKj7DI"
 thumbnail: "https://i.ytimg.com/vi/4bQj7UKj7DI/maxresdefault.jpg"

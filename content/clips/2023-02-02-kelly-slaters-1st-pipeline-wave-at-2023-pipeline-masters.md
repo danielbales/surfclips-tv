@@ -1,6 +1,7 @@
 ---
 title: "Kelly Slater's 1st Pipeline wave at 2023 Pipeline Masters"
 date: 2023-02-02T02:39:18Z
+description: "Kelly Slater gets his feet in his wax on the 1st day of competition at the 2023 Pipeline Masters. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "RiYfCel710U"
 thumbnail: "https://i.ytimg.com/vi/RiYfCel710U/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Jetski STEPOFFS at SNAPPER ROCKS (Tropical Cyclone Seth swell) on January 2, 2022"
 date: 2022-01-02T19:00:44Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ 8-12 foot (3-4 meter) swell offered jetski surf teams opportunity to get into heavy Snapper..."
 draft: false
 video_id: "atPmCcPSMms"
 thumbnail: "https://i.ytimg.com/vi/atPmCcPSMms/maxresdefault.jpg"

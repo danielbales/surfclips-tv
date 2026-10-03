@@ -1,6 +1,7 @@
 ---
 title: "Kelly Slater's waves at the 2023 El Salvador Pro"
 date: 2023-06-16T16:15:00Z
+description: "Kelly Slater surfs against Brazilian Gabriel Medina in his elimination round heat and surfed well but still not enough to beat Gabby. Support the..."
 draft: false
 video_id: "7mzLpdAf_DA"
 thumbnail: "https://i.ytimg.com/vi/7mzLpdAf_DA/maxresdefault.jpg"

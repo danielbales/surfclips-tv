@@ -1,6 +1,7 @@
 ---
 title: "Slab Tour Spoils - Chile, 2025"
 date: 2025-04-09T07:00:40Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "nFwY9P5Zpdc"
 thumbnail: "https://i.ytimg.com/vi/nFwY9P5Zpdc/maxresdefault.jpg"

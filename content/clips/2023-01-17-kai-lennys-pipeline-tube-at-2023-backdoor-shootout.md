@@ -1,6 +1,7 @@
 ---
 title: "Kai Lenny's Pipeline tube at 2023 Backdoor Shootout"
 date: 2023-01-17T22:15:00Z
+description: "In his heat with Kelly Slater, Kai Lenny finds this deep Pipeline barrel on Day 2 of the 2023 Backdoor Shootout. Support the channel by subscribing!..."
 draft: false
 video_id: "-6epV38JjHE"
 thumbnail: "https://i.ytimg.com/vi/-6epV38JjHE/maxresdefault.jpg"

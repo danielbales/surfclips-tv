@@ -1,6 +1,7 @@
 ---
 title: "Trestles air - July 18, 2024"
 date: 2024-07-18T16:20:46Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "oi39iXFRC7M"
 thumbnail: "https://i.ytimg.com/vi/oi39iXFRC7M/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Michael Dunphy finding shade in the Caribbean"
 date: 2025-07-15T05:17:44Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "afDxIn7Fj9w"
 thumbnail: "https://i9.ytimg.com/vi/afDxIn7Fj9w/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLBzsP3BqKan7-gUC1u_5VftFHz8EA"

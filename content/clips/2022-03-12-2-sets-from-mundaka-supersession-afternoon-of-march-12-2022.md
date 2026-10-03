@@ -1,6 +1,7 @@
 ---
 title: "2 sets from MUNDAKA SUPERSESSION - afternoon of March 12, 2022"
 date: 2022-03-12T17:39:02Z
+description: "Despite a semi-high tide, 8-12 foot (3-4 meter) wave faces and SSE winds lit Mundaka up and Basque surfers took advantage. Support the channel by..."
 draft: false
 video_id: "SeCCI8UFjzo"
 thumbnail: "https://i.ytimg.com/vi/SeCCI8UFjzo/maxresdefault.jpg"

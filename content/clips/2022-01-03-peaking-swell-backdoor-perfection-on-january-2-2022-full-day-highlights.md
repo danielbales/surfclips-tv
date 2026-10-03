@@ -1,6 +1,7 @@
 ---
 title: "Peaking swell + Backdoor perfection on January 2, 2022 (Full day highlights)"
 date: 2022-01-03T19:27:37Z
+description: "Overhead to occasional double overhead swell hit the 7-mile miracle on January 2, 2022. Water was brown but conditions were nearly flawless. Support..."
 draft: false
 video_id: "KjumVZDyJ5E"
 thumbnail: "https://i.ytimg.com/vi/KjumVZDyJ5E/maxresdefault.jpg"

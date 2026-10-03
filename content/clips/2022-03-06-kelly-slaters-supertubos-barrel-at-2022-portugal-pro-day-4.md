@@ -1,6 +1,7 @@
 ---
 title: "Kelly Slater's Supertubos barrel at 2022 Portugal Pro (Day 4)"
 date: 2022-03-06T19:06:35Z
+description: "Surfing's GOAT aka Kelly Slater earned a 6.73 for his efforts on this wave in his midday heat against Griffin Colapinto. Support the channel by..."
 draft: false
 video_id: "ivAxFAmB1z4"
 thumbnail: "https://i.ytimg.com/vi/ivAxFAmB1z4/maxresdefault.jpg"

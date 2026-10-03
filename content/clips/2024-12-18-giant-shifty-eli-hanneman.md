@@ -1,6 +1,7 @@
 ---
 title: "Giant shifty - Eli Hanneman"
 date: 2024-12-18T16:10:31Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "2hy6f53hHKY"
 thumbnail: "https://i.ytimg.com/vi/2hy6f53hHKY/maxresdefault.jpg"

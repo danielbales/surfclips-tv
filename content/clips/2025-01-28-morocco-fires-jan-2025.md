@@ -1,6 +1,7 @@
 ---
 title: "Morocco FIRES - Jan 2025"
 date: 2025-01-28T18:16:21Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Surfline"
 draft: false
 video_id: "85fZkPSp8s8"
 thumbnail: "https://i.ytimg.com/vi/85fZkPSp8s8/maxresdefault.jpg"

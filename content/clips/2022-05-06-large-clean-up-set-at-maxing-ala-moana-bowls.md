@@ -1,6 +1,7 @@
 ---
 title: "LARGE clean up set at maxing Ala Moana Bowls"
 date: 2022-05-06T03:55:44Z
+description: "A massive set during one of the largest swells in 5 years at Ala Moana Bowls. Support the channel by subscribing! Thank you for supporting Surf Cam..."
 draft: false
 video_id: "c9OIJkrbUNU"
 thumbnail: "https://i.ytimg.com/vi/c9OIJkrbUNU/maxresdefault.jpg"

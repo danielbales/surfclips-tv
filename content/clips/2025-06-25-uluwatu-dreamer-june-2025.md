@@ -1,6 +1,7 @@
 ---
 title: "Uluwatu dreamer - June 2025"
 date: 2025-06-25T23:37:48Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Surf Raw Files"
 draft: false
 video_id: "299EmYuqt_A"
 thumbnail: "https://i.ytimg.com/vi/299EmYuqt_A/maxresdefault.jpg"

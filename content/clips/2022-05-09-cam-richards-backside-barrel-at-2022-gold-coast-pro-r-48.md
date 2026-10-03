@@ -1,6 +1,7 @@
 ---
 title: "Cam Richards backside barrel at 2022 Gold Coast Pro (R 48)"
 date: 2022-05-09T04:37:58Z
+description: "Cam Richards takes down Kelly Slater in the final moments of this heat and earning him a 8.3. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "bw5jk_S7Z9Y"
 thumbnail: "https://i.ytimg.com/vi/bw5jk_S7Z9Y/maxresdefault.jpg"

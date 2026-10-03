@@ -1,6 +1,7 @@
 ---
 title: "Surfer gets BARFED out of a tube 🤮"
 date: 2022-02-21T00:07:36Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "a1GjgzxSK4k"
 thumbnail: "https://i.ytimg.com/vi/a1GjgzxSK4k/maxresdefault.jpg"

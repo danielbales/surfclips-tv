@@ -1,6 +1,7 @@
 ---
 title: "Black's Beach TOW IN with @OTCZeke"
 date: 2025-01-20T04:01:39Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "8Qph0FYRAgc"
 thumbnail: "https://i.ytimg.com/vi/8Qph0FYRAgc/maxresdefault.jpg"

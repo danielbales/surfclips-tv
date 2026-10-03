@@ -1,6 +1,7 @@
 ---
 title: "Mid-September swell hits Teahupo'o"
 date: 2022-09-19T23:11:29Z
+description: "New/solid SW-SSW swell (206º) built in, providing overhead to occasional well overhead sets at the End of the Road. Clean conditions were on tap thanks..."
 draft: false
 video_id: "ur-_qmVgzU8"
 thumbnail: "https://i.ytimg.com/vi/ur-_qmVgzU8/maxresdefault.jpg"

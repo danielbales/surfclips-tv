@@ -1,6 +1,7 @@
 ---
 title: "CLEAN + HOLLOW!!! PADANG PADANG surf on August 24, 2021"
 date: 2021-08-25T18:09:10Z
+description: "Support the channel by subscribing! Window for surfing was extremely limited (this was the ONLY real set of the day basically) but when they came in..."
 draft: false
 video_id: "xF86iBK2I1c"
 thumbnail: "https://i.ytimg.com/vi/xF86iBK2I1c/maxresdefault.jpg"

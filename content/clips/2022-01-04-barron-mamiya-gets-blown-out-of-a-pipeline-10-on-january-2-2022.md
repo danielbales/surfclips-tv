@@ -1,6 +1,7 @@
 ---
 title: "Barron Mamiya gets blown out of a Pipeline 10 on January 2, 2022"
 date: 2022-01-04T19:15:22Z
+description: "During January 2nd's brown water day, North Shore phenom Barron Mamiya gets blown out after the spit of a Pipe set wave. Support the channel by..."
 draft: false
 video_id: "oxsESkYA7Pw"
 thumbnail: "https://i.ytimg.com/vi/oxsESkYA7Pw/maxresdefault.jpg"

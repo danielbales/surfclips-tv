@@ -1,6 +1,7 @@
 ---
 title: "EUROPEAN SUPERSESSION – October 20, 2024"
 date: 2024-10-20T20:10:29Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ After a long slumber, this European point wakes up to give local surfers a taste of what's..."
 draft: false
 video_id: "5hO0HcgLIJE"
 thumbnail: "https://i.ytimg.com/vi/5hO0HcgLIJE/maxresdefault.jpg"

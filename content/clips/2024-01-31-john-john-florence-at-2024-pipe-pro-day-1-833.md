@@ -1,6 +1,7 @@
 ---
 title: "JOHN JOHN FLORENCE at 2024 Pipe Pro – Day 1 (8.33)"
 date: 2024-01-31T22:42:13Z
+description: "In John John Florence's day 1 heat against Jake Marshall and Caio Ibelli, this 8.3 came through solidifying his win. Support the channel by..."
 draft: false
 video_id: "9lFTQHxM6D4"
 thumbnail: "https://i.ytimg.com/vi/9lFTQHxM6D4/maxresdefault.jpg"

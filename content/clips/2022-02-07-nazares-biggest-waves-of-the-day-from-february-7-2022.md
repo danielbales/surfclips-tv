@@ -1,6 +1,7 @@
 ---
 title: "Nazare's biggest waves of the day from February 7, 2022"
 date: 2022-02-07T16:52:31Z
+description: "15-20 foot faces and offshore afternoon winds provided near-xl surf to tow-in teams on February 7, 2022. Support the channel by subscribing! Thank you..."
 draft: false
 video_id: "yimSL6VlwFo"
 thumbnail: "https://i.ytimg.com/vi/yimSL6VlwFo/maxresdefault.jpg"

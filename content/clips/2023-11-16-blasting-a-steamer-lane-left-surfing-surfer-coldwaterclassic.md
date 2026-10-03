@@ -1,6 +1,7 @@
 ---
 title: "Blasting a Steamer Lane LEFT #surfing #surfer #coldwaterclassic"
 date: 2023-11-16T04:10:04Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "DctfY7tWoxM"
 thumbnail: "https://i.ytimg.com/vi/DctfY7tWoxM/maxresdefault.jpg"

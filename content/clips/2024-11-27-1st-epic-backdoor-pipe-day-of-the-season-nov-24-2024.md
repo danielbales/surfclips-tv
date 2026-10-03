@@ -1,6 +1,7 @@
 ---
 title: "1st EPIC BACKDOOR / PIPE day of the season – Nov 24, 2024"
 date: 2024-11-27T04:50:26Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Mason Ho, Benji Brand, JOB & more were out of the first firing day of the season. Swell was..."
 draft: false
 video_id: "0X7fbbaNB5A"
 thumbnail: "https://i.ytimg.com/vi/0X7fbbaNB5A/maxresdefault.jpg"

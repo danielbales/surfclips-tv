@@ -1,6 +1,7 @@
 ---
 title: "Tropical Cyclone Alfred LIGHTS UP KIRRA – Mar 4, 2025"
 date: 2025-03-04T05:19:49Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Solid E swell pushes thanks to Tropical Cyclone Alfred offshore winds. Kirra was in the 2x..."
 draft: false
 video_id: "hAt2pI_ym6U"
 thumbnail: "https://i.ytimg.com/vi/hAt2pI_ym6U/maxresdefault.jpg"

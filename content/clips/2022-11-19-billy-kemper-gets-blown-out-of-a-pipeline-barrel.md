@@ -1,6 +1,7 @@
 ---
 title: "Billy Kemper gets blown out of a Pipeline barrel"
 date: 2022-11-19T13:43:17Z
+description: "Watch Billy Kemper gets blown out of a Pipeline barrel on Surf Clips TV."
 draft: false
 video_id: "xt3JbPWTsq4"
 thumbnail: "https://i.ytimg.com/vi/xt3JbPWTsq4/maxresdefault.jpg"

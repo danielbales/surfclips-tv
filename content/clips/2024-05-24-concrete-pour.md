@@ -1,6 +1,7 @@
 ---
 title: "Concrete Pour"
 date: 2024-05-24T02:41:22Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ [enter description here] Support the channel by subscribing! Thank you for supporting..."
 draft: false
 video_id: "-q3eSn5vfR0"
 thumbnail: "https://i9.ytimg.com/vi/-q3eSn5vfR0/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLC6Bko7x1lqxCrPs8jObcNafetQzw"

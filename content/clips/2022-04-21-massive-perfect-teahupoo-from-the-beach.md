@@ -1,6 +1,7 @@
 ---
 title: "Massive, perfect Teahupo'o from the beach 🏝"
 date: 2022-04-21T01:00:09Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "W36D99RKV_A"
 thumbnail: "https://i.ytimg.com/vi/W36D99RKV_A/maxresdefault.jpg"

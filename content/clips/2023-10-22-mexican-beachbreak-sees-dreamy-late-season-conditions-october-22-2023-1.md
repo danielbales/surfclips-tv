@@ -1,6 +1,7 @@
 ---
 title: "Mexican beachbreak sees dreamy late-season conditions – October 22, 2023 1"
 date: 2023-10-22T21:53:48Z
+description: "Fun waves continue off slow easing SW swell, holding mix of smaller swell. Watching the tropics. Morning winds looking most favorable. Support the..."
 draft: false
 video_id: "iVW0F7wdoNI"
 thumbnail: "https://i.ytimg.com/vi/iVW0F7wdoNI/maxresdefault.jpg"

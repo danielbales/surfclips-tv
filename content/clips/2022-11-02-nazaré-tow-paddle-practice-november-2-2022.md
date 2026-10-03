@@ -1,6 +1,7 @@
 ---
 title: "Nazaré tow (& paddle) practice – November 2, 2022"
 date: 2022-11-02T17:04:19Z
+description: "Solid mid-period waves from the NW (314º) with light NE winds provided a great opportunity for big wave surfers to get their feet back in the wax..."
 draft: false
 video_id: "MG2PKyyaoxk"
 thumbnail: "https://i.ytimg.com/vi/MG2PKyyaoxk/maxresdefault.jpg"

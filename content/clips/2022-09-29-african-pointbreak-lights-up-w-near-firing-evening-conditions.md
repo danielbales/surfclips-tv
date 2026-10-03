@@ -1,6 +1,7 @@
 ---
 title: "African pointbreak lights up w/ near-firing evening conditions"
 date: 2022-09-29T18:15:01Z
+description: "Solid short period waves from the ENE (77º) with light WSW winds groomed South Africa's most famous point break, creating dreamy, rippable and..."
 draft: false
 video_id: "1w14VrvT24I"
 thumbnail: "https://i.ytimg.com/vi/1w14VrvT24I/maxresdefault.jpg"

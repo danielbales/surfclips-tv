@@ -1,6 +1,7 @@
 ---
 title: "The BIGGEST & BEST waves of the 2021 Nazaré Tow Surf Challenge"
 date: 2021-12-17T18:10:48Z
+description: "A winter XL swell gave tow in surfers 30-40 foot (10-12 meter) wave faces during the WSL's 2021 Nazaré Tow Surf Challenge Support the channel by..."
 draft: false
 video_id: "sXPGTJnE6rY"
 thumbnail: "https://i.ytimg.com/vi/sXPGTJnE6rY/maxresdefault.jpg"

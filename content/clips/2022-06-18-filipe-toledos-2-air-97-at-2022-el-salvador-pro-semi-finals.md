@@ -1,6 +1,7 @@
 ---
 title: "Filipe Toledo's 2 air 9.7 at 2022 El Salvador Pro (Semi Finals)"
 date: 2022-06-18T05:00:03Z
+description: "Blasting 2 airs on the same Punta Roca wave, Filipe Toledo thanks the crowd and found himself in the Finals of the 2022 El Salvador Pro. Support the..."
 draft: false
 video_id: "40DLG6iIbhw"
 thumbnail: "https://i.ytimg.com/vi/40DLG6iIbhw/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Kelly Slater on a heavy Caribbean drainer !!"
 date: 2022-12-11T14:45:15Z
+description: "Watch Kelly Slater on a heavy Caribbean drainer !! on Surf Clips TV."
 draft: false
 video_id: "rQQIHtwVajM"
 thumbnail: "https://i.ytimg.com/vi/rQQIHtwVajM/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Wave of the Day – Puerto Escondido, August 14, 2022"
 date: 2022-08-14T16:09:21Z
+description: "Declining swell in the still overhead range meant \"playful\" Playa Zicatela pits, and this lucky surfer found himself in just the right spot. Support..."
 draft: false
 video_id: "-lm8fe8yWvg"
 thumbnail: "https://i.ytimg.com/vi/-lm8fe8yWvg/maxresdefault.jpg"

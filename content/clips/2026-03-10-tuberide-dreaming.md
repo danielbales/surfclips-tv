@@ -1,6 +1,7 @@
 ---
 title: "Tuberide Dreaming"
 date: 2026-03-10T01:05:18Z
+description: "Watch Tuberide Dreaming on Surf Clips TV."
 draft: false
 video_id: "VWZhXK19LLU"
 thumbnail: "https://i.ytimg.com/vi/VWZhXK19LLU/maxresdefault.jpg"

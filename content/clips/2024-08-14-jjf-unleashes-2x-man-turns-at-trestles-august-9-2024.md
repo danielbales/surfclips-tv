@@ -1,6 +1,7 @@
 ---
 title: "JJF unleashes 2x MAN TURNS at TRESTLES - August 9, 2024"
 date: 2024-08-14T02:32:12Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "1kPVIc_CWpI"
 thumbnail: "https://i.ytimg.com/vi/1kPVIc_CWpI/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Surfer pays the price on shallow reef (wait for it)"
 date: 2022-03-24T13:09:10Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "uKl7nsnVpow"
 thumbnail: "https://i.ytimg.com/vi/uKl7nsnVpow/maxresdefault.jpg"

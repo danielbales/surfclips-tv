@@ -1,6 +1,7 @@
 ---
 title: "Koa Rothman's PERFECT 12 at 2025 Backdoor Shootout (Day 4)"
 date: 2025-01-15T17:34:48Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Koa Rothman caught this SOLID Pipeline pit on day 4 of the 2025 Backdoor Shootout, helping..."
 draft: false
 video_id: "BHrBkxOfLjk"
 thumbnail: "https://i.ytimg.com/vi/BHrBkxOfLjk/maxresdefault.jpg"

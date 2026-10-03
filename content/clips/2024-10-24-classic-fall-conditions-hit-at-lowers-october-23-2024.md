@@ -1,6 +1,7 @@
 ---
 title: "Classic Fall Conditions hit at Lowers – October 23, 2024"
 date: 2024-10-24T04:38:03Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ SSW swell and small NW windswell were on tap this afternoon, providing head high-overhead..."
 draft: false
 video_id: "MYgmgbBIaiY"
 thumbnail: "https://i.ytimg.com/vi/MYgmgbBIaiY/maxresdefault.jpg"

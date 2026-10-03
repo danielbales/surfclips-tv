@@ -1,6 +1,7 @@
 ---
 title: "BACKDOOR wakes up! 1st coverup of the 2022 season"
 date: 2022-10-09T21:04:50Z
+description: "NNW-N swell picks up with overhead surf, providing just enough energy to offer a fun coverup for this North Shore funboarder. Hopefully this is the..."
 draft: false
 video_id: "ZfZs8Nk7saU"
 thumbnail: "https://i.ytimg.com/vi/ZfZs8Nk7saU/maxresdefault.jpg"

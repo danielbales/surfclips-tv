@@ -1,6 +1,7 @@
 ---
 title: "Padang Padang, Bali on July 4, 2022"
 date: 2022-07-08T15:10:20Z
+description: "Solid yet declining SW (228) swell in the 17 second period range showed strong lines, while 7kt E winds groomed faces and offered hollow, dreamy faces..."
 draft: false
 video_id: "L10zZ2J1Oq8"
 thumbnail: "https://i.ytimg.com/vi/L10zZ2J1Oq8/maxresdefault.jpg"

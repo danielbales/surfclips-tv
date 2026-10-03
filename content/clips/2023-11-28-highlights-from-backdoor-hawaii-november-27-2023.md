@@ -1,6 +1,7 @@
 ---
 title: "Highlights from Backdoor, Hawaii – November 27, 2023"
 date: 2023-11-28T23:30:01Z
+description: "Fun, clean 6-8 foot faces hit Backdoor after the XL Black Friday swell died down. Crowd was relatively light and there were some great hollow slabs...."
 draft: false
 video_id: "3mAkWwQ2EAQ"
 thumbnail: "https://i.ytimg.com/vi/3mAkWwQ2EAQ/maxresdefault.jpg"

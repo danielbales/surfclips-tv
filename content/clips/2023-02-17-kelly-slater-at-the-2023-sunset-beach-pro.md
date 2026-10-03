@@ -1,6 +1,7 @@
 ---
 title: "Kelly Slater at the 2023 Sunset Beach Pro"
 date: 2023-02-17T04:13:21Z
+description: "In fun Sunset Beach surf, GOAT Kelly Slater fell into a number of pits like this one during his morning heat. Support the channel by subscribing! Thank..."
 draft: false
 video_id: "Akhmah5bhn8"
 thumbnail: "https://i.ytimg.com/vi/Akhmah5bhn8/maxresdefault.jpg"

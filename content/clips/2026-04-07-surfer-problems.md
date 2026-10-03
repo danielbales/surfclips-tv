@@ -1,6 +1,7 @@
 ---
 title: "Surfer Problems"
 date: 2026-04-07T03:47:37Z
+description: "Watch Surfer Problems on Surf Clips TV."
 draft: false
 video_id: "YA4iaEBgKKw"
 thumbnail: "https://i.ytimg.com/vi/YA4iaEBgKKw/maxresdefault.jpg"

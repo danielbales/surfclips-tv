@@ -1,6 +1,7 @@
 ---
 title: "ENDLESS GRINDER - Morocco supersession 2024"
 date: 2024-02-29T00:23:23Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "WU5F--0AafI"
 thumbnail: "https://i.ytimg.com/vi/WU5F--0AafI/maxresdefault.jpg"

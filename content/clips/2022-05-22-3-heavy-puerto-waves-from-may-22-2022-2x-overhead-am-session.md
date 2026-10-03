@@ -1,6 +1,7 @@
 ---
 title: "3 heavy Puerto waves from May 22, 2022 (2x overhead am session)"
 date: 2022-05-22T18:26:40Z
+description: "Blend of SSW/S swells with light morning wind made for great conditions, however sets looked shifty, hard to track down, and rip currents appeared to..."
 draft: false
 video_id: "gAATdJ2AcdY"
 thumbnail: "https://i.ytimg.com/vi/gAATdJ2AcdY/maxresdefault.jpg"

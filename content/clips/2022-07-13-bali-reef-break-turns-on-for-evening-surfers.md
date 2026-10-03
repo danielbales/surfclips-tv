@@ -1,6 +1,7 @@
 ---
 title: "Bali reef break turns on for evening surfers"
 date: 2022-07-13T23:52:25Z
+description: "SSW (208º) swell with light winds from the E/ESE range make some fun waves for Bali rippers on July 13, 2022. Support the channel by subscribing! Thank..."
 draft: false
 video_id: "iDxP6w3ULWs"
 thumbnail: "https://i.ytimg.com/vi/iDxP6w3ULWs/maxresdefault.jpg"

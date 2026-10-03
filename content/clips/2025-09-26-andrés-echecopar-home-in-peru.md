@@ -1,6 +1,7 @@
 ---
 title: "Andrés Echecopar home in Peru"
 date: 2025-09-26T15:05:29Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "1Jptb6i4uks"
 thumbnail: "https://i9.ytimg.com/vi/1Jptb6i4uks/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLDA38UlHQTsq87EH31ClGZ9jT68Hg"

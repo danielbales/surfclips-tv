@@ -1,6 +1,7 @@
 ---
 title: "Large & clean Puerto Escondido on August 16, 2022"
 date: 2022-08-18T18:45:01Z
+description: "Combo of two SSW swells (203º & 189º) kept the surf size up with occasional 2x overhead wave faces, while offshore winds in the AM kept things more..."
 draft: false
 video_id: "h969qutlTcM"
 thumbnail: "https://i.ytimg.com/vi/h969qutlTcM/sddefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Ala Moana Bowls, Oahu - May 28, 2022"
 date: 2022-05-29T17:26:22Z
+description: "Long period SSW swell (200-190°) peaked on a mostly overcast day with East winds 10 to 15 mph. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "0RvWLtdircw"
 thumbnail: "https://i.ytimg.com/vi/0RvWLtdircw/maxresdefault.jpg"

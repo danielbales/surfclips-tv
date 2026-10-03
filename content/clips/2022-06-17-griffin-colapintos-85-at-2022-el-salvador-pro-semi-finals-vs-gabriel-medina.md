@@ -1,6 +1,7 @@
 ---
 title: "Griffin Colapinto's 8.5 at 2022 El Salvador Pro (Semi Finals vs Gabriel Medina)"
 date: 2022-06-17T17:30:08Z
+description: "On Finals day at the 2022 El Salvador Pro, Griffin Colapinto finds this wave to help him get past Gabriel Medina an into the Finals. Support the..."
 draft: false
 video_id: "zQhC7yDmtwg"
 thumbnail: "https://i.ytimg.com/vi/zQhC7yDmtwg/maxresdefault.jpg"

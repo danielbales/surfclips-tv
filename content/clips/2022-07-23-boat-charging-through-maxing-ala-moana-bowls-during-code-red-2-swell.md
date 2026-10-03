@@ -1,6 +1,7 @@
 ---
 title: "Boat charging through maxing Ala Moana Bowls during Code Red 2 swell"
 date: 2022-07-23T00:01:40Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "YIZjpSopiVI"
 thumbnail: "https://i.ytimg.com/vi/YIZjpSopiVI/maxresdefault.jpg"

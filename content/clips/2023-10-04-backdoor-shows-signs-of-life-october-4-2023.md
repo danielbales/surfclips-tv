@@ -1,6 +1,7 @@
 ---
 title: "BACKDOOR shows SIGNS OF LIFE - October 4, 2023"
 date: 2023-10-04T22:40:31Z
+description: "Fresh WNW-NW swell (305-315°) lit up the North Shore while ideal ENE wind conditions groomed faces this morning. Waves were inconsistent but SOLID when..."
 draft: false
 video_id: "7MEWlOT1pyo"
 thumbnail: "https://i.ytimg.com/vi/7MEWlOT1pyo/maxresdefault.jpg"

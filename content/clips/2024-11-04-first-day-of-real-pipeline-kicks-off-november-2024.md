@@ -1,6 +1,7 @@
 ---
 title: "First day of REAL Pipeline kicks off November 2024"
 date: 2024-11-04T08:00:24Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!..."
 draft: false
 video_id: "IxQcaep7PY4"
 thumbnail: "https://i.ytimg.com/vi/IxQcaep7PY4/maxresdefault.jpg"

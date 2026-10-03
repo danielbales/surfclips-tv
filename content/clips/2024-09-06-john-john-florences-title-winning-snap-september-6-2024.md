@@ -1,6 +1,7 @@
 ---
 title: "JOHN JOHN FLORENCE'S title-winning snap - September 6, 2024"
 date: 2024-09-06T22:10:07Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ Up against Italo Ferreira, John John Florence destroys this Lowers wave with one massive..."
 draft: false
 video_id: "NftsBzxA3Xg"
 thumbnail: "https://i.ytimg.com/vi/NftsBzxA3Xg/maxresdefault.jpg"

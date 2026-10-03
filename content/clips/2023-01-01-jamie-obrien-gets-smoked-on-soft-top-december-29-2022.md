@@ -1,6 +1,7 @@
 ---
 title: "Jamie O'Brien gets smoked on soft top – December 29, 2022"
 date: 2023-01-01T23:03:23Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ On a 8-10 foot day, Jamie O'Brien glides into this Backdoor pit on his soft-top longboard and..."
 draft: false
 video_id: "3HhmkD8JyVQ"
 thumbnail: "https://i.ytimg.com/vi/3HhmkD8JyVQ/maxresdefault.jpg"

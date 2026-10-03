@@ -1,6 +1,7 @@
 ---
 title: "High-perfomance Waikiki longboarding"
 date: 2022-09-18T07:00:05Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "IWVPYTrPCfk"
 thumbnail: "https://i.ytimg.com/vi/IWVPYTrPCfk/maxresdefault.jpg"

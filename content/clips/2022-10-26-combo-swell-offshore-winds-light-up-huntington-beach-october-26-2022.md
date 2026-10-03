@@ -1,6 +1,7 @@
 ---
 title: "Combo swell + offshore winds light up Huntington Beach - October 26, 2022"
 date: 2022-10-26T23:52:27Z
+description: "Widespread offshore flow and sunny skies created a classic fall morning for the Southern California coast! Support the channel by subscribing! Thank..."
 draft: false
 video_id: "5L1ua8364gM"
 thumbnail: "https://i.ytimg.com/vi/5L1ua8364gM/maxresdefault.jpg"

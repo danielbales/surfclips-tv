@@ -1,6 +1,7 @@
 ---
 title: "Sending it at the WEDGE"
 date: 2024-05-25T17:24:56Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "sHQYh0hnpeM"
 thumbnail: "https://i.ytimg.com/vi/sHQYh0hnpeM/maxresdefault.jpg"

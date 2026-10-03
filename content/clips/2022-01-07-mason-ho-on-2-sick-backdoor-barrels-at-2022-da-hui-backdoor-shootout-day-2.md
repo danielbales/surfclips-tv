@@ -1,6 +1,7 @@
 ---
 title: "Mason Ho on 2 SICK Backdoor barrels at 2022 Da Hui Backdoor Shootout (Day 2)"
 date: 2022-01-07T19:19:46Z
+description: "Mason Ho shares his Praying Mantis style on Day 2 of the 2022 Da Hui Backdoor Shootout, January 7, 2022. Support the channel by subscribing! Thank you..."
 draft: false
 video_id: "I2Ijh36PQCM"
 thumbnail: "https://i.ytimg.com/vi/I2Ijh36PQCM/maxresdefault.jpg"

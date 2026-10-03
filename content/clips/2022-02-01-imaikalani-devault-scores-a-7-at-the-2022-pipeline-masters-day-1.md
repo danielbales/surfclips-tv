@@ -1,6 +1,7 @@
 ---
 title: "Imaikalani DeVault scores a 7 at the 2022 Pipeline Masters (Day 1)"
 date: 2022-02-01T04:30:15Z
+description: "Young Hawaiian phenom Imaikalani DeVault slams on the brakes to find his way into a nice Pipeline cavern on opening day Support the channel by..."
 draft: false
 video_id: "VNOZTVlEiMQ"
 thumbnail: "https://i.ytimg.com/vi/VNOZTVlEiMQ/maxresdefault.jpg"

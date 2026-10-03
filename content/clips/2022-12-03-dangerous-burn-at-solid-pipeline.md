@@ -1,6 +1,7 @@
 ---
 title: "DANGEROUS burn at solid Pipeline"
 date: 2022-12-03T21:30:23Z
+description: "On a solid 8-12 Pipe day, two surfers found themselves in a dangerous situation that luckily resulted in nothing more than one broken leash and surely..."
 draft: false
 video_id: "F6xeqHx2Plc"
 thumbnail: "https://i.ytimg.com/vi/F6xeqHx2Plc/maxresdefault.jpg"

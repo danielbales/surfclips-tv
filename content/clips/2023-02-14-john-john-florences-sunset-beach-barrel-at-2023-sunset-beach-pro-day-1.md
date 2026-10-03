@@ -1,6 +1,7 @@
 ---
 title: "John John Florence's Sunset Beach barrel at 2023 Sunset Beach Pro (Day 1)"
 date: 2023-02-14T02:43:10Z
+description: "John John lit up Sunset Beach on day 1 with a tube ride only JJF could make. Support the channel by subscribing! Thank you for supporting Surf Cam..."
 draft: false
 video_id: "DkoL-8djGwA"
 thumbnail: "https://i.ytimg.com/vi/DkoL-8djGwA/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Incredible 2x barrel during Ciaran swell – November 5, 2023"
 date: 2023-11-05T23:52:55Z
+description: "While Nazare saw blown out 40 foot seas, other more protected areas saw moments of brilliance, and this lucky Basque surfer got on of the rides of the..."
 draft: false
 video_id: "dijlFtYA66Y"
 thumbnail: "https://i.ytimg.com/vi/dijlFtYA66Y/maxresdefault.jpg"

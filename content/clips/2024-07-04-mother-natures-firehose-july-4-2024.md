@@ -1,6 +1,7 @@
 ---
 title: "Mother Nature's firehose - July 4, 2024"
 date: 2024-07-04T21:19:46Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "a5CHBCMr7Qg"
 thumbnail: "https://i.ytimg.com/vi/a5CHBCMr7Qg/maxresdefault.jpg"

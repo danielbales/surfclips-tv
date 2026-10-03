@@ -1,6 +1,7 @@
 ---
 title: "Highlights: Backdoor, Hawaii – January 26, 2024"
 date: 2024-01-26T23:31:31Z
+description: "Reinforcing WNW-NW swell provided yet again solid surf to the North Shore with favorable light southerly winds conditions on tap this morning. Support..."
 draft: false
 video_id: "30ndZeIGCRA"
 thumbnail: "https://i.ytimg.com/vi/30ndZeIGCRA/maxresdefault.jpg"

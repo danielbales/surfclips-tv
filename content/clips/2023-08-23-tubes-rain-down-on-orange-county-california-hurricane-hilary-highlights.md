@@ -1,6 +1,7 @@
 ---
 title: "TUBES RAIN DOWN on Orange County, California (Hurricane Hilary highlights)"
 date: 2023-08-23T17:42:35Z
+description: "Orange County saw some incredible moments of surf on August 20, 2023. A few lucky surfers found themselves at the right place at the right time!..."
 draft: false
 video_id: "WdVdqBdGa6w"
 thumbnail: "https://i.ytimg.com/vi/WdVdqBdGa6w/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "*NEW CAM* G Land, Indonesia – August 19, 2024 highlights"
 date: 2024-08-19T23:21:04Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ All new G-Land camera showing off midday 2x overhead swell wrapping into Grajagan,..."
 draft: false
 video_id: "w1U8o85ae2I"
 thumbnail: "https://i.ytimg.com/vi/w1U8o85ae2I/maxresdefault.jpg"

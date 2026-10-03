@@ -1,6 +1,7 @@
 ---
 title: "Mundaka cleans up & gets rippable on February 28, 2022"
 date: 2022-02-28T19:47:23Z
+description: "After the much-anticpated XXXL European swell, things finally get fun for local Basque surfers. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "i1zKVs1aRK4"
 thumbnail: "https://i.ytimg.com/vi/i1zKVs1aRK4/maxresdefault.jpg"

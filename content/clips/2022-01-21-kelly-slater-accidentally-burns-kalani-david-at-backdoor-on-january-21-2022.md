@@ -1,6 +1,7 @@
 ---
 title: "Kelly Slater accidentally burns Kalani David at Backdoor on January 21, 2022"
 date: 2022-01-21T20:45:33Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ With Backdoor on absolute fire the morning of January 21, 2022, Kelly Slater nabs this wave..."
 draft: false
 video_id: "w9Fnyp_ILCo"
 thumbnail: "https://i.ytimg.com/vi/w9Fnyp_ILCo/maxresdefault.jpg"

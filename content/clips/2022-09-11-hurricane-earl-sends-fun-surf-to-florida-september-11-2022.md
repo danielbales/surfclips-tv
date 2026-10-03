@@ -1,6 +1,7 @@
 ---
 title: "Hurricane Earl sends fun surf to Florida – September 11, 2022"
 date: 2022-09-11T17:46:23Z
+description: "Consistent, clean surf from Hurricane Earl and Hurricane Danielle provided mid-period NE/ENE swell (62º) mix to Florida surfers. Support the channel by..."
 draft: false
 video_id: "1T3mqiPfcgM"
 thumbnail: "https://i.ytimg.com/vi/1T3mqiPfcgM/maxresdefault.jpg"

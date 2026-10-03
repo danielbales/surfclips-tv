@@ -1,6 +1,7 @@
 ---
 title: "Fast-forward — Tropical Cyclone Seth, Australia – January 2022"
 date: 2022-01-05T21:55:01Z
+description: "Australian pointbreaks came to life one afternoon during Tropical Cyclone Seth, 2022. Support the channel by subscribing! Thank you for supporting Surf..."
 draft: false
 video_id: "A_k8ygb0Ob0"
 thumbnail: "https://i.ytimg.com/vi/A_k8ygb0Ob0/maxresdefault.jpg"

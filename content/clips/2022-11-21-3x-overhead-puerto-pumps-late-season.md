@@ -1,6 +1,7 @@
 ---
 title: "3X OVERHEAD Puerto pumps late season"
 date: 2022-11-21T18:18:56Z
+description: "Late season Zicatela lured tow-in surf teams out into the lineup thanks to a healthy SSW swell, while offshore winds groomed faces. There was some..."
 draft: false
 video_id: "yS2QCvbjNfA"
 thumbnail: "https://i.ytimg.com/vi/yS2QCvbjNfA/maxresdefault.jpg"

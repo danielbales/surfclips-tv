@@ -1,6 +1,7 @@
 ---
 title: "Kauli Vaast's DEEP 8.8 at 2022 Tahiti Pro (Semifinals vs Kelly Slater)"
 date: 2022-08-21T03:35:00Z
+description: "His best wave of the heat against the GOAT Kelly Slater, Tahitian Kauli Vaast found this deep pit during his semi-final, leaving the Kelly and the..."
 draft: false
 video_id: "Vkvf95fNJKs"
 thumbnail: "https://i.ytimg.com/vi/Vkvf95fNJKs/maxresdefault.jpg"

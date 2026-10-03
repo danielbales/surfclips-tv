@@ -1,6 +1,7 @@
 ---
 title: "Early season Pipeline afternoon - November 21, 2022"
 date: 2022-11-24T00:43:27Z
+description: "WNW-NW swell (300-325°) peaked on the North Shore, while strong winds provided gusty conditions on this early season afternoon. Wave heights were..."
 draft: false
 video_id: "mDq0mDEVKrs"
 thumbnail: "https://i.ytimg.com/vi/mDq0mDEVKrs/maxresdefault.jpg"

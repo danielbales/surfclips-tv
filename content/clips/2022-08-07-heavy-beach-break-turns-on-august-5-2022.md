@@ -1,6 +1,7 @@
 ---
 title: "Heavy beach break turns on August 5, 2022"
 date: 2022-08-07T23:08:50Z
+description: "SSW/S swell (202º) with offshore AM winds lit up the Mexican Pipeline on August 5, 2022. Winds switched pretty early but there were some dawn patrol..."
 draft: false
 video_id: "1V6PO-oIlhs"
 thumbnail: "https://i.ytimg.com/vi/1V6PO-oIlhs/maxresdefault.jpg"

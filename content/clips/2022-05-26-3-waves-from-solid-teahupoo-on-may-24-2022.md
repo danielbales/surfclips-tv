@@ -1,6 +1,7 @@
 ---
 title: "3 waves from solid Teahupo'o on May 24, 2022"
 date: 2022-05-26T19:09:18Z
+description: "Massive long period swell met The End of the Road with occasional 20 foot waves. Shown here are the smaller sets that were visible. Support the channel..."
 draft: false
 video_id: "QaHG11QrtQo"
 thumbnail: "https://i.ytimg.com/vi/QaHG11QrtQo/maxresdefault.jpg"

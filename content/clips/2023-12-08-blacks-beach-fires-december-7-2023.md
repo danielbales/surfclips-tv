@@ -1,6 +1,7 @@
 ---
 title: "BLACKS BEACH FIRES – December 7, 2023"
 date: 2023-12-08T14:15:00Z
+description: "Well overhead to occasionally double overhead surf rolled into the Blacks Beach's canyon, offering a thick crowd some occasional perfect tubes. Support..."
 draft: false
 video_id: "4Gnr-zt6FBM"
 thumbnail: "https://i.ytimg.com/vi/4Gnr-zt6FBM/maxresdefault.jpg"

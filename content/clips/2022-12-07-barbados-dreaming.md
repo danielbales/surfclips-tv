@@ -1,6 +1,7 @@
 ---
 title: "Barbados Dreaming"
 date: 2022-12-07T18:13:17Z
+description: "Watch Barbados Dreaming on Surf Clips TV."
 draft: false
 video_id: "qvdICqx4iY8"
 thumbnail: "https://i.ytimg.com/vi/qvdICqx4iY8/maxresdefault.jpg"

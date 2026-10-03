@@ -1,6 +1,7 @@
 ---
 title: "Warm-water pointbreak comes alive with early Spring swell"
 date: 2022-04-05T15:05:44Z
+description: "Head-high to occasional overhead SW sets with light winds hit this cobblestone pointbreak on April 2, 2022. Support the channel by subscribing! Thank..."
 draft: false
 video_id: "zCh6QKheI1c"
 thumbnail: "https://i.ytimg.com/vi/zCh6QKheI1c/maxresdefault.jpg"

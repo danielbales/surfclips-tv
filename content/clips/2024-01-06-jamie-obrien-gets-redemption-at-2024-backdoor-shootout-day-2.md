@@ -1,6 +1,7 @@
 ---
 title: "Jamie O'Brien gets redemption at 2024 Backdoor Shootout (Day 2)"
 date: 2024-01-06T16:00:22Z
+description: "In his final heat on Day 2 of the 2024 Jamie O'Brien finds this PIpeline gem and executes flawlessly. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "gCcmiviWnrc"
 thumbnail: "https://i.ytimg.com/vi/gCcmiviWnrc/maxresdefault.jpg"

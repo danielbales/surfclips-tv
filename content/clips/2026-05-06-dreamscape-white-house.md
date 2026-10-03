@@ -1,6 +1,7 @@
 ---
 title: "Dreamscape White House"
 date: 2026-05-06T23:20:28Z
+description: "Watch Dreamscape White House on Surf Clips TV."
 draft: false
 video_id: "bIcb26PmqAQ"
 thumbnail: "https://i.ytimg.com/vi/bIcb26PmqAQ/maxresdefault.jpg"

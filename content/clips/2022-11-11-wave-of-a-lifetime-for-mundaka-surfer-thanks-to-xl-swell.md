@@ -1,6 +1,7 @@
 ---
 title: "Wave of a LIFETIME for Mundaka surfer thanks to XL swell"
 date: 2022-11-11T15:09:22Z
+description: "While Nazaré was doing its XL-thing on November 7, 2022, this Basque surfer opted instead for Mundaka, and was handsomely rewarded with an absolutely..."
 draft: false
 video_id: "kFAf_74UpWk"
 thumbnail: "https://i.ytimg.com/vi/kFAf_74UpWk/maxresdefault.jpg"

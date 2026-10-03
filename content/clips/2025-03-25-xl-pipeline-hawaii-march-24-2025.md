@@ -1,6 +1,7 @@
 ---
 title: "XL Pipeline, Hawaii – March 24, 2025"
 date: 2025-03-25T04:21:48Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Many spots were maxed out with surf in the 3x+ overhead range (15-20' faces), up to 4x+..."
 draft: false
 video_id: "4c7h7rhOnIw"
 thumbnail: "https://i.ytimg.com/vi/4c7h7rhOnIw/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Rookie move at Pipeline (3 waves to the head + broken leash)"
 date: 2022-11-30T23:19:31Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ During a gorgeous morning of building Pipe swell, this unlucky surfer got caught in the lip..."
 draft: false
 video_id: "0wUPCfZ7ubU"
 thumbnail: "https://i.ytimg.com/vi/0wUPCfZ7ubU/maxresdefault.jpg"

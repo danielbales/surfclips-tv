@@ -1,6 +1,7 @@
 ---
 title: "JOHN JOHN FLORENCE & crew surf IMPECCABLE BACKDOOR - January 19 2024"
 date: 2024-01-20T05:37:28Z
+description: "WNW swell provided some good sized surf with impeccable SSE wind conditions on tap across the North Shore this morning. Support the channel by..."
 draft: false
 video_id: "Dcj4t1HzklI"
 thumbnail: "https://i.ytimg.com/vi/Dcj4t1HzklI/maxresdefault.jpg"

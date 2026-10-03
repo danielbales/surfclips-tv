@@ -1,6 +1,7 @@
 ---
 title: "Nature's wave pool turns on"
 date: 2022-08-16T01:24:15Z
+description: "Peaking SW swell (220º) provided well overhead set waves while light offshore winds created the dreamiest of conditions - even if crowds were thick...."
 draft: false
 video_id: "I5rFyYZlfZ0"
 thumbnail: "https://i.ytimg.com/vi/I5rFyYZlfZ0/maxresdefault.jpg"

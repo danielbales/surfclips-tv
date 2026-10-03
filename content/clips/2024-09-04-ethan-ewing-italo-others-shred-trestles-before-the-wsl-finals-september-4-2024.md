@@ -1,6 +1,7 @@
 ---
 title: "ETHAN EWING, ITALO, & others shred TRESTLES before the WSL FINALS – September 4, 2024"
 date: 2024-09-04T19:13:35Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ JJF, Italo, and other 2024 world champion contenders took advantage of clean conditions..."
 draft: false
 video_id: "qx-L0DBGBxA"
 thumbnail: "https://i.ytimg.com/vi/qx-L0DBGBxA/maxresdefault.jpg"

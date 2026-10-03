@@ -1,6 +1,7 @@
 ---
 title: "TOP 10 from December 5, 2025 – Surf Clips TV"
 date: 2025-12-05T21:03:40Z
+description: "Surfing from Hawaii, California, Africa & more."
 draft: false
 video_id: "ZW9lzB1N4dM"
 thumbnail: "https://i.ytimg.com/vi/ZW9lzB1N4dM/sddefault.jpg"

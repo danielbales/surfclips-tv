@@ -1,6 +1,7 @@
 ---
 title: "Wave of the Day: Puerto Escondido on August 24, 2022"
 date: 2022-08-24T21:42:17Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "gj6thGLB6Uk"
 thumbnail: "https://i.ytimg.com/vi/gj6thGLB6Uk/maxresdefault.jpg"

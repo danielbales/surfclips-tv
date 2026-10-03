@@ -1,6 +1,7 @@
 ---
 title: "Bodyboarder Aerial – Ours, April 2025"
 date: 2025-05-01T16:59:19Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "sExI5JrYp70"
 thumbnail: "https://i.ytimg.com/vi/sExI5JrYp70/maxresdefault.jpg"

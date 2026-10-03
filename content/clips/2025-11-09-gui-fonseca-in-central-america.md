@@ -1,6 +1,7 @@
 ---
 title: "Gui Fonseca in Central America"
 date: 2025-11-09T03:46:41Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "_KbNlxPpk4g"
 thumbnail: "https://i.ytimg.com/vi/_KbNlxPpk4g/maxresdefault.jpg"

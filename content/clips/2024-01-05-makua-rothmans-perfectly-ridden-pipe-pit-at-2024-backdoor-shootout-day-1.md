@@ -1,6 +1,7 @@
 ---
 title: "Makua Rothman's perfectly ridden Pipe pit at 2024 Backdoor Shootout - Day 1"
 date: 2024-01-05T18:35:13Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "Vn04lmfFgdA"
 thumbnail: "https://i.ytimg.com/vi/Vn04lmfFgdA/maxresdefault.jpg"

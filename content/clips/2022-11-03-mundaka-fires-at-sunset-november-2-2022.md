@@ -1,6 +1,7 @@
 ---
 title: "Mundaka fires at sunset — November 2, 2022"
 date: 2022-11-03T08:37:16Z
+description: "Solid mid-period waves from the WNW (299º) and moderate S winds with clean conditions lit up Europe's best point break. Support the channel by..."
 draft: false
 video_id: "itktbbNQmgY"
 thumbnail: "https://i.ytimg.com/vi/itktbbNQmgY/maxresdefault.jpg"

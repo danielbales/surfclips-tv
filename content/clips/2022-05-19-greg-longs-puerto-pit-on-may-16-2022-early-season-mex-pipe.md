@@ -1,6 +1,7 @@
 ---
 title: "Greg Long's Puerto pit on May 16, 2022 (early season Mex Pipe)"
 date: 2022-05-19T14:00:00Z
+description: "Early season Mex Pipe delivered this gem to Puerto Escondido stalwart Greg Long. Support the channel by subscribing! Thank you for supporting Surf Cam..."
 draft: false
 video_id: "uNaIXHpT5pU"
 thumbnail: "https://i.ytimg.com/vi/uNaIXHpT5pU/maxresdefault.jpg"

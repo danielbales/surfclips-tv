@@ -1,6 +1,7 @@
 ---
 title: "Whispering Palms"
 date: 2026-04-01T03:31:34Z
+description: "Watch Whispering Palms on Surf Clips TV."
 draft: false
 video_id: "FuQ8nKphYqU"
 thumbnail: "https://i.ytimg.com/vi/FuQ8nKphYqU/maxresdefault.jpg"

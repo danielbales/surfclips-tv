@@ -1,6 +1,7 @@
 ---
 title: "Hollow & dreamy Mexican beach on August 14  2022"
 date: 2022-08-15T18:30:17Z
+description: "Old SSW swell (211º) faded during the morning of August 12, 2022, however that just made the surf more manageable and local surfers took full..."
 draft: false
 video_id: "LrPPDqCR8qQ"
 thumbnail: "https://i.ytimg.com/vi/LrPPDqCR8qQ/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Somewhere in New Zealand fires – October 16, 2022"
 date: 2022-10-16T00:58:17Z
+description: "Mid period ENE swell (73º) saw a strong pulse of surf at this rivermouth pointbreak, while light SW winds in the morning were offshore, providing good..."
 draft: false
 video_id: "QiKjk3b368E"
 thumbnail: "https://i.ytimg.com/vi/QiKjk3b368E/maxresdefault.jpg"

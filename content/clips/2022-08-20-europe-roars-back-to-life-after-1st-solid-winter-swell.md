@@ -1,6 +1,7 @@
 ---
 title: "Europe roars back to life after 1st SOLID Winter swell"
 date: 2022-08-20T18:49:46Z
+description: "Solid long period waves from the NW (318º) accompanied by light offshore AM winds groomed Europe's most famous point break on the first Winter swell of..."
 draft: false
 video_id: "HTSpy8SU0M0"
 thumbnail: "https://i.ytimg.com/vi/HTSpy8SU0M0/maxresdefault.jpg"

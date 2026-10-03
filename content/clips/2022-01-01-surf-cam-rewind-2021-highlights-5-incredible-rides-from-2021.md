@@ -1,6 +1,7 @@
 ---
 title: "Surf Cam Rewind 2021 Highlights – 5 INCREDIBLE rides from 2021"
 date: 2022-01-01T20:06:54Z
+description: "Full session highlights: Newport Beach: https://youtu.be/ThhRcX6yJW0 Ala Moana: https://youtu.be/gYEQF0joLik Backdoor: https://youtu.be/jmm1Mn6xiVY..."
 draft: false
 video_id: "b5PwrzBN3F8"
 thumbnail: "https://i.ytimg.com/vi/b5PwrzBN3F8/maxresdefault.jpg"

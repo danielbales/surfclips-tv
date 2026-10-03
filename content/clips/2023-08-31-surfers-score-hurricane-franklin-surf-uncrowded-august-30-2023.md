@@ -1,6 +1,7 @@
 ---
 title: "Surfers score Hurricane Franklin surf uncrowded – August 30, 2023"
 date: 2023-08-31T16:00:00Z
+description: "As Hurricane Idalia begin to cross Florida, this beach saw offshore winds and head high surf. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "QuAT0-xJUc8"
 thumbnail: "https://i.ytimg.com/vi/QuAT0-xJUc8/maxresdefault.jpg"

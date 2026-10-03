@@ -1,6 +1,7 @@
 ---
 title: "Orange County sees Code Red 2 swell unload on beachies"
 date: 2022-07-23T15:28:33Z
+description: "The large, long-period South Swell (202º) that lit up Tahiti and Hawaii made its way to Orange County on July 18, 2022, providing hazy yet occasionally..."
 draft: false
 video_id: "5Ow4R9BIyWw"
 thumbnail: "https://i.ytimg.com/vi/5Ow4R9BIyWw/maxresdefault.jpg"

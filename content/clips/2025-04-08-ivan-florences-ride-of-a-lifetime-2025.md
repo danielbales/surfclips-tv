@@ -1,6 +1,7 @@
 ---
 title: "Ivan Florence's ride of a lifetime, 2025"
 date: 2025-04-08T14:59:59Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Nathan Florence / Zoard"
 draft: false
 video_id: "Q9FO9vjG40c"
 thumbnail: "https://i.ytimg.com/vi/Q9FO9vjG40c/maxresdefault.jpg"

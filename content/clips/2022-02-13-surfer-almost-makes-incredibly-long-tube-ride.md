@@ -1,6 +1,7 @@
 ---
 title: "Surfer *almost* makes incredibly long tube ride"
 date: 2022-02-13T16:33:52Z
+description: "Surfer: Jack Robinson Date: 12/27/21 Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you..."
 draft: false
 video_id: "EeixSy-D48I"
 thumbnail: "https://i.ytimg.com/vi/EeixSy-D48I/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Local rips Box during 2025 Margaret River Pro"
 date: 2025-05-17T17:28:32Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Surf Circus"
 draft: false
 video_id: "eAl4W7hudhg"
 thumbnail: "https://i.ytimg.com/vi/eAl4W7hudhg/maxresdefault.jpg"

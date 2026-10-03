@@ -1,6 +1,7 @@
 ---
 title: "Ocean Beach, San Francisco DEEP near-make"
 date: 2025-02-17T21:58:29Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Surfing at Ocean Beach, San Francisco on a 4x overhead day!! According to Surfline, this day..."
 draft: false
 video_id: "0WSsAbMy-tQ"
 thumbnail: "https://i.ytimg.com/vi/0WSsAbMy-tQ/maxresdefault.jpg"

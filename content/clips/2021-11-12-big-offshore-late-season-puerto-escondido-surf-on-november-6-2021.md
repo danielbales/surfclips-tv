@@ -1,6 +1,7 @@
 ---
 title: "Big, offshore & LATE SEASON PUERTO! Escondido surf on November 6, 2021"
 date: 2021-11-12T00:24:50Z
+description: "Support the channel by subscribing! Firing surf hit Playa Zicatela, Mexico on November 6, 2021. Faces were 10-15 foot (3-4 meter) and the winds were..."
 draft: false
 video_id: "-HNcQLJdFss"
 thumbnail: "https://i.ytimg.com/vi/-HNcQLJdFss/maxresdefault.jpg"

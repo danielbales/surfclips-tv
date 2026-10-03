@@ -1,6 +1,7 @@
 ---
 title: "Jeffrey's Bay, South Africa on May 27, 2022"
 date: 2022-05-28T19:45:00Z
+description: "SSW swell (201º) with clean conditions provided long, high-line rides throughout the morning of May 27, 2022. Support the channel by subscribing! Thank..."
 draft: false
 video_id: "AIBMhVJixww"
 thumbnail: "https://i.ytimg.com/vi/AIBMhVJixww/maxresdefault.jpg"

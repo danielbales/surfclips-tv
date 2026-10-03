@@ -1,6 +1,7 @@
 ---
 title: "Wave of the Day – Pipeline, December 31, 2023"
 date: 2023-12-31T22:24:36Z
+description: "Fresh NW swell energy provided some large to near XL surf to the North Shore on this chilly final day of 2023. This lucky surfer ended his year on a..."
 draft: false
 video_id: "n9l0Fv9mheU"
 thumbnail: "https://i.ytimg.com/vi/n9l0Fv9mheU/maxresdefault.jpg"

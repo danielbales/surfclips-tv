@@ -1,6 +1,7 @@
 ---
 title: "Kelly Slater tube-to-chophop at 2023 Backdoor Shootout"
 date: 2023-01-18T00:18:54Z
+description: "Kelly Slater shows off his Pipe Master status by getting a quick blast out of a Pipe tube, then attempts a chop-hop on the inside. The guy makes it..."
 draft: false
 video_id: "nRawIPH0lig"
 thumbnail: "https://i.ytimg.com/vi/nRawIPH0lig/maxresdefault.jpg"

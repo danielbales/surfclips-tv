@@ -1,6 +1,7 @@
 ---
 title: "Nathan Hedge's 8.8 at 2022 Tahiti Pro (Quarterfinals)"
 date: 2022-08-20T02:53:04Z
+description: "In sync with Teahupo'o, Hedgy gets blown out of this dreamy pit during his Quarterfinal heat agains Caio Ibelli. Support the channel by subscribing!..."
 draft: false
 video_id: "bDCPj5jpTM8"
 thumbnail: "https://i.ytimg.com/vi/bDCPj5jpTM8/maxresdefault.jpg"

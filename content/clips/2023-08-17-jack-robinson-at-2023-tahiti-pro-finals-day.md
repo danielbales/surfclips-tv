@@ -1,6 +1,7 @@
 ---
 title: "Jack Robinson at 2023 Tahiti Pro (Finals Day)"
 date: 2023-08-17T21:47:54Z
+description: "On Finals day of the 2023 Tahiti Pro, Jack Robinson put on a barrel riding clinic at the End of the Road. Support the channel by subscribing! Thank you..."
 draft: false
 video_id: "hwBZk-Wegds"
 thumbnail: "https://i.ytimg.com/vi/hwBZk-Wegds/maxresdefault.jpg"

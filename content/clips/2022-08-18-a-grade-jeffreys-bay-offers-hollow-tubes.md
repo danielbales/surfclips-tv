@@ -1,6 +1,7 @@
 ---
 title: "A-grade Jeffrey's Bay offers hollow tubes"
 date: 2022-08-18T05:00:15Z
+description: "Brisk offshore winds with occasional rain squalls and pumping overhead swell (228º) was the right combo to offer fun, hollow J-Bay faces on August 13,..."
 draft: false
 video_id: "x4xeQi7LkVs"
 thumbnail: "https://i.ytimg.com/vi/x4xeQi7LkVs/maxresdefault.jpg"

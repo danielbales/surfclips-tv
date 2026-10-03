@@ -1,6 +1,7 @@
 ---
 title: "Huntington Beach snake 🐍"
 date: 2022-10-27T03:12:14Z
+description: "Watch Huntington Beach snake 🐍 on Surf Clips TV."
 draft: false
 video_id: "Nh4P8_kU78U"
 thumbnail: "https://i.ytimg.com/vi/Nh4P8_kU78U/maxresdefault.jpg"

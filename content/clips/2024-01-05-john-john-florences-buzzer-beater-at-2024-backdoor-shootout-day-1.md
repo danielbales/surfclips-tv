@@ -1,6 +1,7 @@
 ---
 title: "John John Florence's buzzer beater at 2024 Backdoor Shootout (Day 1)"
 date: 2024-01-05T08:00:34Z
+description: "In the final minutes of his Day 1 heat with brothers Nate Florence and Ivan Florence, John John Florence shows off his smooth backside tuberiding..."
 draft: false
 video_id: "s2uBI8JLdqA"
 thumbnail: "https://i.ytimg.com/vi/s2uBI8JLdqA/maxresdefault.jpg"

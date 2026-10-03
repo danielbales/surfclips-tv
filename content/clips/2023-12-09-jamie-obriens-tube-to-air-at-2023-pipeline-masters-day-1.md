@@ -1,6 +1,7 @@
 ---
 title: "Jamie O'Brien's tube to air at 2023 Pipeline Masters (Day 1)"
 date: 2023-12-09T21:20:17Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "7oIj2awX9Iw"
 thumbnail: "https://i.ytimg.com/vi/7oIj2awX9Iw/maxresdefault.jpg"

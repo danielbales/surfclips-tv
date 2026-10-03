@@ -1,6 +1,7 @@
 ---
 title: "JAMIE O'BRIEN TAKES A BEATING at 2024 Backdoor Shootout (Day 2)"
 date: 2024-01-05T22:10:34Z
+description: "JOB mistimes and goes over the falls during his second heat during the 2024 Backdoor Shootout. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "WAnNj8MCf2A"
 thumbnail: "https://i.ytimg.com/vi/WAnNj8MCf2A/maxresdefault.jpg"

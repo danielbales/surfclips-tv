@@ -1,6 +1,7 @@
 ---
 title: "3 tubes from clean Mundaka on October 11, 2022"
 date: 2022-10-11T17:07:58Z
+description: "Midday low tide stood up wave faces as Europe's most famous point break, providing some hollow but challenging rides for Spanish surfers. Support the..."
 draft: false
 video_id: "TfGioeJkAB8"
 thumbnail: "https://i.ytimg.com/vi/TfGioeJkAB8/maxresdefault.jpg"

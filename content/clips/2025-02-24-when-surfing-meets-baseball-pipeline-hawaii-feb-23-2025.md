@@ -1,6 +1,7 @@
 ---
 title: "When surfing meets baseball – Pipeline, Hawaii – Feb 23, 2025"
 date: 2025-02-24T00:47:50Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ This Pipeline surfer exits the tube breakdancing. Credit: Surfline"
 draft: false
 video_id: "FctdMq3Xfoc"
 thumbnail: "https://i.ytimg.com/vi/FctdMq3Xfoc/maxresdefault.jpg"

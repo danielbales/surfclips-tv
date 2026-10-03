@@ -1,6 +1,7 @@
 ---
 title: "Mason Ho, Backdoor – January 10, 2023"
 date: 2023-01-11T06:17:21Z
+description: "[enter description here] Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "5OK4074ypHU"
 thumbnail: "https://i.ytimg.com/vi/5OK4074ypHU/maxresdefault.jpg"

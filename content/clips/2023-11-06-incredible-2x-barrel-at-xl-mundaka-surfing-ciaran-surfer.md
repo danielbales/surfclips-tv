@@ -1,6 +1,7 @@
 ---
 title: "Incredible 2x barrel at XL Mundaka  #surfing #ciaran #surfer"
 date: 2023-11-06T00:41:48Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "pvd6ohfimW8"
 thumbnail: "https://i.ytimg.com/vi/pvd6ohfimW8/maxresdefault.jpg"

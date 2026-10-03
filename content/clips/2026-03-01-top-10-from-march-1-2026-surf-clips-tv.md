@@ -1,6 +1,7 @@
 ---
 title: "TOP 10 from March 1, 2026 – Surf Clips TV"
 date: 2026-03-01T15:36:33Z
+description: "Surfing from Hawaii, Indonesia, Europe & more."
 draft: false
 video_id: "M6zAOm_98-Q"
 thumbnail: "https://i.ytimg.com/vi/M6zAOm_98-Q/sddefault.jpg"

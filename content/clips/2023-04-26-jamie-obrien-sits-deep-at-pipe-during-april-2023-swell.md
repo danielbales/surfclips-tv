@@ -1,6 +1,7 @@
 ---
 title: "Jamie O'Brien sits DEEP AT PIPE during April 2023 swell"
 date: 2023-04-26T00:11:07Z
+description: "Jamie O'Brien find this Pipe barrel while sitting waaaaaay up the reef and deeper than everyone. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "AJCznfWXXkU"
 thumbnail: "https://i.ytimg.com/vi/AJCznfWXXkU/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Pro surfer dismantling a Lower Trestles wall"
 date: 2022-09-07T18:55:03Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "5EM6obbeUtE"
 thumbnail: "https://i.ytimg.com/vi/5EM6obbeUtE/maxresdefault.jpg"

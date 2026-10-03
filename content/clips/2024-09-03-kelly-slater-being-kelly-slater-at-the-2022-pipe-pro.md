@@ -1,6 +1,7 @@
 ---
 title: "Kelly Slater being Kelly Slater at the 2022 Pipe pro"
 date: 2024-09-03T04:06:07Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/"
 draft: false
 video_id: "eIHJjgjiBAs"
 thumbnail: "https://i.ytimg.com/vi/eIHJjgjiBAs/maxresdefault.jpg"

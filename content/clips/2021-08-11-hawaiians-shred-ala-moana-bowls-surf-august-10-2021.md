@@ -1,6 +1,7 @@
 ---
 title: "Hawaiians SHRED ALA MOANA BOWLS surf, August 10, 2021"
 date: 2021-08-11T23:20:06Z
+description: "Support the channel by subscribing! 4-5 foot, long period south swell makes its way onto the Hawaii's South Shore. Afternoon trades groomed the faces..."
 draft: false
 video_id: "-ZrvhAiVSAc"
 thumbnail: "https://i.ytimg.com/vi/-ZrvhAiVSAc/maxresdefault.jpg"

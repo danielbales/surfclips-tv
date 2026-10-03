@@ -1,6 +1,7 @@
 ---
 title: "KELLY SLATER'S FAVORITE reefbreak LIGHTS UP – Nov 2, 2024"
 date: 2024-11-02T21:25:13Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ NNE swell produced overhead surf, while winds were light ESE/SE, which meant good waves at..."
 draft: false
 video_id: "dxKv7fvh8OQ"
 thumbnail: "https://i.ytimg.com/vi/dxKv7fvh8OQ/maxresdefault.jpg"

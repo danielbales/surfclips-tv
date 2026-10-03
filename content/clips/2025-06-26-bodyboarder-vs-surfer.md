@@ -1,6 +1,7 @@
 ---
 title: "Bodyboarder vs surfer"
 date: 2025-06-26T17:25:14Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Billabong"
 draft: false
 video_id: "1VLYJZcksBw"
 thumbnail: "https://i.ytimg.com/vi/1VLYJZcksBw/maxresdefault.jpg"

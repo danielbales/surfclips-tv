@@ -1,6 +1,7 @@
 ---
 title: "'23 CODE RED swell hits ALA MOANA BOWLS"
 date: 2023-05-07T01:37:11Z
+description: "The swell that sent big wave surfers heading to Tahiti made its way to Hawaii's south shore. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "W-_h-jJvu58"
 thumbnail: "https://i.ytimg.com/vi/W-_h-jJvu58/maxresdefault.jpg"

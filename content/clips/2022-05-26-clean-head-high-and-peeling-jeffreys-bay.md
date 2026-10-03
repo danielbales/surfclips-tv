@@ -1,6 +1,7 @@
 ---
 title: "Clean, head-high and peeling Jeffrey's Bay"
 date: 2022-05-26T19:17:14Z
+description: "Mid period waves from the SW (224º) with light W winds and clean produced beautifully groomed wave faces during the afternoon of May 24, 2022. Support..."
 draft: false
 video_id: "ExvzQxBdPfs"
 thumbnail: "https://i.ytimg.com/vi/ExvzQxBdPfs/maxresdefault.jpg"

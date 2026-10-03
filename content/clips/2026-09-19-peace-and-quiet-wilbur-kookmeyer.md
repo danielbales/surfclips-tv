@@ -1,6 +1,7 @@
 ---
 title: "Peace and quiet – Wilbur Kookmeyer"
 date: 2026-09-19T04:22:52Z
+description: "Watch Peace and quiet – Wilbur Kookmeyer on Surf Clips TV."
 draft: false
 video_id: "NzbaNfxppXE"
 thumbnail: "https://i.ytimg.com/vi/NzbaNfxppXE/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Tube hounds score dangerous reef on December 29, 2022"
 date: 2022-12-29T18:02:49Z
+description: "A solid WNW swell (307º) moved and peaked in the late evening at this notoriously dangerous and high-performance North Shore reef, offering locals like..."
 draft: false
 video_id: "mI5YFA_Vl_w"
 thumbnail: "https://i.ytimg.com/vi/mI5YFA_Vl_w/maxresdefault.jpg"

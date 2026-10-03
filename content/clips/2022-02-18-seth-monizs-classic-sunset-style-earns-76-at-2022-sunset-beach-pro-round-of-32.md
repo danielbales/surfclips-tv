@@ -1,6 +1,7 @@
 ---
 title: "Seth Moniz's classic Sunset Style earns 7.6 at 2022 Sunset Beach Pro (Round of 32)"
 date: 2022-02-18T00:57:08Z
+description: "Seth taps into his dad's playbook and unleashes powerful, smooth surfing in large Sunset Beach surf. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "aI3BgjirfM4"
 thumbnail: "https://i.ytimg.com/vi/aI3BgjirfM4/maxresdefault.jpg"

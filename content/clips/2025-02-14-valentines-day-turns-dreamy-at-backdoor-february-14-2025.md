@@ -1,6 +1,7 @@
 ---
 title: "Valentine's Day turns DREAMY at Backdoor – February 14, 2025"
 date: 2025-02-14T21:57:50Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ \"Mid-sized\" surf hits the North Shore and surfers capitalize on yet another day of near-epic..."
 draft: false
 video_id: "wCwZah_vKB0"
 thumbnail: "https://i.ytimg.com/vi/wCwZah_vKB0/maxresdefault.jpg"

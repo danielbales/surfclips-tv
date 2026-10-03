@@ -1,6 +1,7 @@
 ---
 title: "XL Pipeline, Hawaii – December 26, 2024"
 date: 2024-12-27T18:17:58Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Swell bender continues with XL Pipeline conditions, with specialists like Balaram Stack,..."
 draft: false
 video_id: "C7oKsj-AfNM"
 thumbnail: "https://i.ytimg.com/vi/C7oKsj-AfNM/maxresdefault.jpg"

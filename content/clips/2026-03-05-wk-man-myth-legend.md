@@ -1,6 +1,7 @@
 ---
 title: "WK Man Myth Legend"
 date: 2026-03-05T04:50:32Z
+description: "Watch WK Man Myth Legend on Surf Clips TV."
 draft: false
 video_id: "ps-JbtnmYnY"
 thumbnail: "https://i.ytimg.com/vi/ps-JbtnmYnY/maxresdefault.jpg"

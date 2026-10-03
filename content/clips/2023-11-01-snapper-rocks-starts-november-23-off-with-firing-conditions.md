@@ -1,6 +1,7 @@
 ---
 title: "Snapper Rocks starts November '23 off with FIRING conditions"
 date: 2023-11-01T04:31:31Z
+description: "Snapper Rocks sees offshore winds and occassional overhead pits on the first day of November 2023. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "kdPIeRfaL5g"
 thumbnail: "https://i.ytimg.com/vi/kdPIeRfaL5g/maxresdefault.jpg"

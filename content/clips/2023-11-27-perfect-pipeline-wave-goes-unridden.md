@@ -1,6 +1,7 @@
 ---
 title: "Perfect Pipeline wave goes unridden"
 date: 2023-11-27T01:19:17Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "MnqxHaUKE2E"
 thumbnail: "https://i.ytimg.com/vi/MnqxHaUKE2E/maxresdefault.jpg"

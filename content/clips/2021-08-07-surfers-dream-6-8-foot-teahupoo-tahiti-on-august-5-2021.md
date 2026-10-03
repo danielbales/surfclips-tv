@@ -1,6 +1,7 @@
 ---
 title: "Surfer's DREAM (6 - 8 foot) Teahupo'o, Tahiti on August 5, 2021"
 date: 2021-08-07T18:38:33Z
+description: "Support the channel by subscribing! Overhead glass provided the Teahupo'o local crew with Tahitian perfection on August 5, 2021. Thank you for..."
 draft: false
 video_id: "XtPHnz0D-BQ"
 thumbnail: "https://i.ytimg.com/vi/XtPHnz0D-BQ/maxresdefault.jpg"

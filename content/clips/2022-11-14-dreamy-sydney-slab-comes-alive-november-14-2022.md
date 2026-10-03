@@ -1,6 +1,7 @@
 ---
 title: "Dreamy Sydney slab comes alive – November 14, 2022"
 date: 2022-11-14T16:22:34Z
+description: "NE/E swell (50º) offered some clean, hollow waves for these Sydney surfers. There were many washthroughs, but still some gems! Support the channel by..."
 draft: false
 video_id: "cNayI1EB7ng"
 thumbnail: "https://i.ytimg.com/vi/cNayI1EB7ng/maxresdefault.jpg"

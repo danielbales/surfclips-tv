@@ -1,6 +1,7 @@
 ---
 title: "High-performance longboarding at Waikiki"
 date: 2022-09-18T14:51:54Z
+description: "A late season September swell at Waikiki turned on this nook, offering fun, long, rippable rights for South Shore longboarders during this afternoon..."
 draft: false
 video_id: "xn44ezGuuhg"
 thumbnail: "https://i.ytimg.com/vi/xn44ezGuuhg/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Late-October ripping Ala Moana Bowls - October 29, 2022"
 date: 2022-10-31T21:02:28Z
+description: "Late October SSW swell provided some fun sized surf to the South Shore, with wave heights are hovering in the chest high range with some inconsistent..."
 draft: false
 video_id: "CfQUdDgtTGU"
 thumbnail: "https://i.ytimg.com/vi/CfQUdDgtTGU/maxresdefault.jpg"

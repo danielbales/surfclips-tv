@@ -1,6 +1,7 @@
 ---
 title: "XL Nazaré, Portugal – November 10, 2023"
 date: 2023-11-10T16:00:08Z
+description: "20-25ft faces hit Nazaré, while (finally) cleaner conditions groomed faces during this low tide morning session. Support the channel by subscribing!..."
 draft: false
 video_id: "9-eAlTGelZ4"
 thumbnail: "https://i.ytimg.com/vi/9-eAlTGelZ4/maxresdefault.jpg"

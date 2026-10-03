@@ -1,6 +1,7 @@
 ---
 title: "XL Nazaré – 4 MASSIVE sets from the morning of November 7, 2022"
 date: 2022-11-07T15:56:07Z
+description: "1st XL swell of the year for Europe, thanks to a very large long period waves from the NW (311º) with light winds producing clean conditions. Here are..."
 draft: false
 video_id: "bxPBGQrUpUo"
 thumbnail: "https://i.ytimg.com/vi/bxPBGQrUpUo/maxresdefault.jpg"

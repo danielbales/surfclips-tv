@@ -1,6 +1,7 @@
 ---
 title: "Backdoor FIRES - November 24, 2024"
 date: 2024-11-24T23:50:28Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!..."
 draft: false
 video_id: "R54u6_hAUPA"
 thumbnail: "https://i.ytimg.com/vi/R54u6_hAUPA/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "SSW peaks at The Wedge, California on May 26, 2022"
 date: 2022-05-26T22:52:03Z
+description: "Fresh SSW swell has moved in offering overhead waves at The Wedge. Sets were lully and surfers had a TOUGH time successfully riding waves, which isn't..."
 draft: false
 video_id: "dcRlUo-1_Og"
 thumbnail: "https://i.ytimg.com/vi/dcRlUo-1_Og/maxresdefault.jpg"

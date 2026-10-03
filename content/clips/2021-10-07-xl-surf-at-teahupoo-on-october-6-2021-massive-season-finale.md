@@ -1,6 +1,7 @@
 ---
 title: "XL surf at Teahupo’o!! on October 6, 2021 (MASSIVE SEASON FINALE!!!)"
 date: 2021-10-07T01:39:40Z
+description: "Support the channel by subscribing! 10 - 15 foot, occasional 20 foot waves (6 - 7 meter) slammed into the reef at Teahupo'o, Tahiti on October 6, 2021...."
 draft: false
 video_id: "RzCq387FbFE"
 thumbnail: "https://i.ytimg.com/vi/RzCq387FbFE/maxresdefault.jpg"

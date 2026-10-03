@@ -1,6 +1,7 @@
 ---
 title: "Surfer gets detonated during firing outer Banks session"
 date: 2023-10-07T22:01:35Z
+description: "Watch Surfer gets detonated during firing outer Banks session on Surf Clips TV."
 draft: false
 video_id: "edELUD-pHzk"
 thumbnail: "https://i.ytimg.com/vi/edELUD-pHzk/maxresdefault.jpg"

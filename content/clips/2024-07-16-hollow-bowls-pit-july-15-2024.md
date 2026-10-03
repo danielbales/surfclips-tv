@@ -1,6 +1,7 @@
 ---
 title: "Hollow BOWLS pit - July 15, 2024"
 date: 2024-07-16T16:34:20Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "Wxy_hC72OHU"
 thumbnail: "https://i.ytimg.com/vi/Wxy_hC72OHU/maxresdefault.jpg"

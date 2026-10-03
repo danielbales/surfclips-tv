@@ -1,6 +1,7 @@
 ---
 title: "Swell of the year (evening session) New York – September 14, 2023"
 date: 2023-09-15T16:56:02Z
+description: "Afternoon and evening footage from the Day of the year with NNW winds and groomed conditions, while a longer period SSE/SE swell from Hurricane Lee..."
 draft: false
 video_id: "-1te4sk5yzA"
 thumbnail: "https://i.ytimg.com/vi/-1te4sk5yzA/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "TROPICAL STORM HITS TRESTLES - August 9, 2024"
 date: 2024-08-14T02:50:00Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ The same swell that lit up Newport Beach sent solid, rippable waves to the usual thick..."
 draft: false
 video_id: "B9tUQbcZaVA"
 thumbnail: "https://i.ytimg.com/vi/B9tUQbcZaVA/maxresdefault.jpg"

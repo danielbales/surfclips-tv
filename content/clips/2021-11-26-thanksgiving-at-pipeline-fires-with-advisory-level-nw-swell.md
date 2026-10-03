@@ -1,6 +1,7 @@
 ---
 title: "Thanksgiving at Pipeline FIRES with advisory-level NW swell"
 date: 2021-11-26T07:22:55Z
+description: "8-12 foot (3-4 meter) waves slammed the reef at Pipeline, Oahu during a building NW swell on Thanksgiving Day, 2021. Support the channel by..."
 draft: false
 video_id: "86AvoGZZ7rk"
 thumbnail: "https://i.ytimg.com/vi/86AvoGZZ7rk/maxresdefault.jpg"

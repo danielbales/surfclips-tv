@@ -1,6 +1,7 @@
 ---
 title: "Offshore pointbreak lines on April 9, 2022"
 date: 2022-04-10T15:05:41Z
+description: "5-6 foot S-SSW swell mix and brisk, early morning offshore wind groomed waves on this classic Spring day. Support the channel by subscribing! Thank you..."
 draft: false
 video_id: "nnBxp6nLv6w"
 thumbnail: "https://i.ytimg.com/vi/nnBxp6nLv6w/maxresdefault.jpg"

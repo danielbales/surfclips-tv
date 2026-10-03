@@ -1,6 +1,7 @@
 ---
 title: "@NathanFlorence at Backdoor on December 6, 2022 #shorts"
 date: 2022-12-08T00:12:16Z
+description: "Watch @NathanFlorence at Backdoor on December 6, 2022 #shorts on Surf Clips TV."
 draft: false
 video_id: "gYWymIVL3TY"
 thumbnail: "https://i.ytimg.com/vi/gYWymIVL3TY/maxresdefault.jpg"

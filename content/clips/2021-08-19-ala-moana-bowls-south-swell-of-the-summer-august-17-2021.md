@@ -1,6 +1,7 @@
 ---
 title: "Ala Moana Bowls — South Swell of the Summer - August 17, 2021"
 date: 2021-08-19T16:37:51Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Macking south swell hits the south shore of Hawaii on August 17, 2021. There was a solid..."
 draft: false
 video_id: "gYEQF0joLik"
 thumbnail: "https://i.ytimg.com/vi/gYEQF0joLik/maxresdefault.jpg"

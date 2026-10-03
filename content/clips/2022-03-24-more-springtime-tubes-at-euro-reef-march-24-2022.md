@@ -1,6 +1,7 @@
 ---
 title: "More Springtime tubes at Euro reef – March 24, 2022"
 date: 2022-03-24T20:49:28Z
+description: "This shallow reef saw a declining WNW swell with occasional rain squall during this early Spring session. Support the channel by subscribing! Thank you..."
 draft: false
 video_id: "Ng5VyTet0T8"
 thumbnail: "https://i.ytimg.com/vi/Ng5VyTet0T8/maxresdefault.jpg"

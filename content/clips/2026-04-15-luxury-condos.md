@@ -1,6 +1,7 @@
 ---
 title: "Luxury Condos"
 date: 2026-04-15T03:41:57Z
+description: "Watch Luxury Condos on Surf Clips TV."
 draft: false
 video_id: "HSPdC99Cduc"
 thumbnail: "https://i.ytimg.com/vi/HSPdC99Cduc/maxresdefault.jpg"

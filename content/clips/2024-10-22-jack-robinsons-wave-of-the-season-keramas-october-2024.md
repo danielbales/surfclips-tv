@@ -1,6 +1,7 @@
 ---
 title: "Jack Robinson's Wave of the Season – Keramas, October 2024"
 date: 2024-10-22T17:22:52Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ \"Keramas doing its best Backdoor impression!\" – Jack Robinson Thank you for supporting Surf..."
 draft: false
 video_id: "3nUOWlUHCJs"
 thumbnail: "https://i.ytimg.com/vi/3nUOWlUHCJs/maxresdefault.jpg"

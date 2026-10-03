@@ -1,6 +1,7 @@
 ---
 title: "Australia's Sheldon Simkus on an Indonesian dream"
 date: 2025-06-17T05:27:44Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Sheldon Simkus"
 draft: false
 video_id: "JyqdRfzEPTk"
 thumbnail: "https://i.ytimg.com/vi/JyqdRfzEPTk/maxresdefault.jpg"

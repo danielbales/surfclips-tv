@@ -1,6 +1,7 @@
 ---
 title: "Quick tuck under the hood - June 2, 2024"
 date: 2024-06-03T22:23:31Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "kcGZj0RW2g4"
 thumbnail: "https://i.ytimg.com/vi/kcGZj0RW2g4/maxresdefault.jpg"

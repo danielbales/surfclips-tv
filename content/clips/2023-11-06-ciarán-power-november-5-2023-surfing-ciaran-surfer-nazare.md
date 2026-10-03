@@ -1,6 +1,7 @@
 ---
 title: "⚡️ Ciarán POWER ⚡️ November 5, 2023 #surfing #ciaran #surfer #nazare"
 date: 2023-11-06T17:02:48Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "BRbLAyLUoig"
 thumbnail: "https://i.ytimg.com/vi/BRbLAyLUoig/maxresdefault.jpg"

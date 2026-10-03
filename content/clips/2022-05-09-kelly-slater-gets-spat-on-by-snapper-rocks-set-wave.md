@@ -1,6 +1,7 @@
 ---
 title: "Kelly Slater gets spat on by Snapper Rocks set wave"
 date: 2022-05-09T14:56:29Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "1Xyn9GkXTCQ"
 thumbnail: "https://i.ytimg.com/vi/1Xyn9GkXTCQ/maxresdefault.jpg"

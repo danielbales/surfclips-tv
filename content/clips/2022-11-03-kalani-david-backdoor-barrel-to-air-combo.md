@@ -1,6 +1,7 @@
 ---
 title: "Kalani David Backdoor barrel to air combo"
 date: 2022-11-03T02:18:48Z
+description: "Watch Kalani David Backdoor barrel to air combo on Surf Clips TV."
 draft: false
 video_id: "zXlLwU2GS8M"
 thumbnail: "https://i.ytimg.com/vi/zXlLwU2GS8M/maxresdefault.jpg"

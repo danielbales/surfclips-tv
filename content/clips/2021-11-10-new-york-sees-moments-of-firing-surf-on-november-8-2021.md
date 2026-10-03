@@ -1,6 +1,7 @@
 ---
 title: "New York sees moments of FIRING SURF on November 8, 2021"
 date: 2021-11-10T00:57:05Z
+description: "3-5 foot peaks hit Nassau County's Lido Beach, offering occasional tubes, and rippable faces on November 8, 2021. Support the channel by subscribing!..."
 draft: false
 video_id: "LoFH4JAXuuI"
 thumbnail: "https://i.ytimg.com/vi/LoFH4JAXuuI/maxresdefault.jpg"

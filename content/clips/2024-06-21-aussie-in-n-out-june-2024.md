@@ -1,6 +1,7 @@
 ---
 title: "Aussie in-n-out - June 2024"
 date: 2024-06-21T15:22:02Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "bp4Pwg-I-R8"
 thumbnail: "https://i.ytimg.com/vi/bp4Pwg-I-R8/maxresdefault.jpg"

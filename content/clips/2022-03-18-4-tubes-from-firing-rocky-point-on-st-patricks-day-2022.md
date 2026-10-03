@@ -1,6 +1,7 @@
 ---
 title: "4 tubes from firing Rocky Point on St Patrick's Day 2022"
 date: 2022-03-18T03:15:18Z
+description: "5-8 foot faces with East winds were on tap during Saint Patrick's day 2022. Support the channel by subscribing! Thank you for supporting Surf Cam..."
 draft: false
 video_id: "abo3YoCrItw"
 thumbnail: "https://i.ytimg.com/vi/abo3YoCrItw/maxresdefault.jpg"

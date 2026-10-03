@@ -1,6 +1,7 @@
 ---
 title: "Clay Marzo vision"
 date: 2025-04-20T03:37:48Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "dF6jyl6jDEw"
 thumbnail: "https://i.ytimg.com/vi/dF6jyl6jDEw/maxresdefault.jpg"

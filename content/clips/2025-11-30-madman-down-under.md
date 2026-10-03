@@ -1,6 +1,7 @@
 ---
 title: "Madman down under! 🇦🇺"
 date: 2025-11-30T21:47:44Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "dZG9MJ-Lrko"
 thumbnail: "https://i.ytimg.com/vi/dZG9MJ-Lrko/maxresdefault.jpg"

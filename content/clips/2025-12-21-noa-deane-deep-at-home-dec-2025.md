@@ -1,6 +1,7 @@
 ---
 title: "Noa Deane deep at home - Dec 2025"
 date: 2025-12-21T04:26:40Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "KW_FPcsPjSg"
 thumbnail: "https://i.ytimg.com/vi/KW_FPcsPjSg/maxresdefault.jpg"

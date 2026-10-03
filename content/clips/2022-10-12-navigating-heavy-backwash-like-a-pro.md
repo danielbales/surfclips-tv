@@ -1,6 +1,7 @@
 ---
 title: "Navigating heavy backwash like a pro"
 date: 2022-10-12T05:23:06Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "8oIhYmX05wU"
 thumbnail: "https://i.ytimg.com/vi/8oIhYmX05wU/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Vaporized surfer - Australia, April 2025"
 date: 2025-04-27T00:11:31Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "g1DB0zGo6SE"
 thumbnail: "https://i.ytimg.com/vi/g1DB0zGo6SE/maxresdefault.jpg"

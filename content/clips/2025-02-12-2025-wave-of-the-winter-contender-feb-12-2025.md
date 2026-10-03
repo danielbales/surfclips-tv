@@ -1,6 +1,7 @@
 ---
 title: "2025 Wave of the Winter contender - Feb 12, 2025"
 date: 2025-02-12T23:21:43Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "qZ-KqdU6-Xw"
 thumbnail: "https://i.ytimg.com/vi/qZ-KqdU6-Xw/maxresdefault.jpg"

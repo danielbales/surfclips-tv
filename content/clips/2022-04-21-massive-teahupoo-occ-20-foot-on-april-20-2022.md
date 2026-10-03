@@ -1,6 +1,7 @@
 ---
 title: "Massive Teahupo'o (occ 20+ foot) on April 20, 2022"
 date: 2022-04-21T13:41:35Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Large SSW swell the Chopes reef offering 12-18 feet, occasional 20' faces. Winds came up in..."
 draft: false
 video_id: "2QZdRFmPU_U"
 thumbnail: "https://i.ytimg.com/vi/2QZdRFmPU_U/maxresdefault.jpg"

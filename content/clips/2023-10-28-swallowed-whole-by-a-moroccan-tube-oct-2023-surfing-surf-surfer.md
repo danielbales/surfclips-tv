@@ -1,6 +1,7 @@
 ---
 title: "Swallowed whole by a Moroccan tube - Oct 2023 #surfing #surf #surfer"
 date: 2023-10-28T20:31:05Z
+description: "This Moroccan point lit up during the first XL swell of the season. Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we..."
 draft: false
 video_id: "aqbNJ38EtMg"
 thumbnail: "https://i.ytimg.com/vi/aqbNJ38EtMg/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "6 Pipeline waves from the morning of January 10, 2022"
 date: 2022-01-11T01:27:56Z
+description: "10-15 foot (3-4 meter) wave faces hit Pipeline as a XL swell dies. These Pipe surfers knew exactly where to be. Support the channel by subscribing!..."
 draft: false
 video_id: "k1LvgtmunC4"
 thumbnail: "https://i.ytimg.com/vi/k1LvgtmunC4/maxresdefault.jpg"

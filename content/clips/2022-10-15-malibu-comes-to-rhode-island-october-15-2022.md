@@ -1,6 +1,7 @@
 ---
 title: "Malibu comes to Rhode Island – October 15, 2022"
 date: 2022-10-15T23:53:35Z
+description: "Solid SSE + ESE swell offered plenty of rideable, fun surf, while winds from the SSW kept faces pretty fun. Beautiful fall weather! Support the channel..."
 draft: false
 video_id: "mv1T1BY04ck"
 thumbnail: "https://i.ytimg.com/vi/mv1T1BY04ck/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Tube to eject at The Wedge (code red 2 swell)"
 date: 2022-07-21T07:00:15Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "xG1gt3YvzzA"
 thumbnail: "https://i.ytimg.com/vi/xG1gt3YvzzA/maxresdefault.jpg"

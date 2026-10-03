@@ -1,6 +1,7 @@
 ---
 title: "Ripping Ala Moana Bowls on Easter Sunday 2022"
 date: 2022-04-18T17:09:08Z
+description: "Head-high swell and light trade winds provided some fun, occasionially hollow waves at Ala Moana Bowls on Easter Sunday Support the channel by..."
 draft: false
 video_id: "vOzW5-mLW-c"
 thumbnail: "https://i.ytimg.com/vi/vOzW5-mLW-c/maxresdefault.jpg"

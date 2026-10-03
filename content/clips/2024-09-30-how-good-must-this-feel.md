@@ -1,6 +1,7 @@
 ---
 title: "How GOOD must this feel?"
 date: 2024-09-30T21:00:16Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ Thank you for supporting Surf Cam Rewind so we can continue to provide you with free..."
 draft: false
 video_id: "RbjBb0X66ag"
 thumbnail: "https://i.ytimg.com/vi/RbjBb0X66ag/maxresdefault.jpg"

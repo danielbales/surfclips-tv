@@ -1,6 +1,7 @@
 ---
 title: "TUBEFEST at the Caribbean’s BEST REEF on November 27, 2021"
 date: 2021-11-29T04:41:41Z
+description: "A Fun-sized NNE swell offered 5-7 foot (2-3 meter) waves, while light winds made them rippable and hollow. Support the channel by subscribing! Thank..."
 draft: false
 video_id: "OHfSnpUli-M"
 thumbnail: "https://i.ytimg.com/vi/OHfSnpUli-M/maxresdefault.jpg"

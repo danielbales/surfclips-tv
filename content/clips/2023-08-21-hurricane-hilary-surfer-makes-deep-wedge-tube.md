@@ -1,6 +1,7 @@
 ---
 title: "Hurricane HILARY surfer makes DEEP WEDGE TUBE"
 date: 2023-08-21T16:49:26Z
+description: "Durinfg the early morning of Aufgust 20, 2023, this Wedge surfer snagged this deep pit and showed us all how it's done. Support the channel by..."
 draft: false
 video_id: "25qOO69oVP0"
 thumbnail: "https://i.ytimg.com/vi/25qOO69oVP0/sddefault.jpg"

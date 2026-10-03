@@ -1,6 +1,7 @@
 ---
 title: "South Shore surf on April 18, 2022"
 date: 2022-04-22T06:45:00Z
+description: "SSW swell with sunny and breezy 20 to 25 mph Northeast winds groomed faces and offered some fun surf on the South Shore. Support the channel by..."
 draft: false
 video_id: "dmXZ61NdxNE"
 thumbnail: "https://i9.ytimg.com/vi/dmXZ61NdxNE/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLDJpfmqK851JdsYrasuvzTsyZxQEQ"

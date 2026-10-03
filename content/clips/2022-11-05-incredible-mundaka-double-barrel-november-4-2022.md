@@ -1,6 +1,7 @@
 ---
 title: "Incredible Mundaka double-barrel – November 4, 2022"
 date: 2022-11-05T15:14:40Z
+description: "Pristine conditions gave this lucky Basque surfer an opportunity for a great double barrel, while a light crowd watched on. Support the channel by..."
 draft: false
 video_id: "WE6QObn92TA"
 thumbnail: "https://i.ytimg.com/vi/WE6QObn92TA/maxresdefault.jpg"

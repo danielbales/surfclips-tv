@@ -1,6 +1,7 @@
 ---
 title: "Mason Ho at the 2022 Padang Pro, doing what Mason does best"
 date: 2022-08-04T03:11:45Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "AnaJanryFlY"
 thumbnail: "https://i.ytimg.com/vi/AnaJanryFlY/maxresdefault.jpg"

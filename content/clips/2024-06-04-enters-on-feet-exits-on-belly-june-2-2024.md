@@ -1,6 +1,7 @@
 ---
 title: "Enters on feet, exits on belly - June 2, 2024"
 date: 2024-06-04T04:58:20Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "1Hq9xj9GJeI"
 thumbnail: "https://i.ytimg.com/vi/1Hq9xj9GJeI/maxresdefault.jpg"

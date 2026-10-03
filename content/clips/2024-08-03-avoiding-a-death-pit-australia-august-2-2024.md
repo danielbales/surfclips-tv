@@ -1,6 +1,7 @@
 ---
 title: "Avoiding a death pit - Australia, August 2, 2024"
 date: 2024-08-03T02:45:58Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "iJHp99zCtzM"
 thumbnail: "https://i.ytimg.com/vi/iJHp99zCtzM/maxresdefault.jpg"

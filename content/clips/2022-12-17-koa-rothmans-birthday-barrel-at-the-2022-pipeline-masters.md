@@ -1,6 +1,7 @@
 ---
 title: "Koa Rothman's BIRTHDAY BARREL at the 2022 Pipeline Masters"
 date: 2022-12-17T01:48:32Z
+description: "Not much better way to celebrate a 29th birthday than getting blown out of a Pipe barrel, especially during the 2022 Pipeline Masters. Happy birthday..."
 draft: false
 video_id: "5CO9zfDAFHg"
 thumbnail: "https://i.ytimg.com/vi/5CO9zfDAFHg/sddefault.jpg"

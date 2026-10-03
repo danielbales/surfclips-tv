@@ -1,6 +1,7 @@
 ---
 title: "Big boards at big Sunset Beach on March 14, 2022"
 date: 2022-03-15T04:12:49Z
+description: "NW swell with ideal ENE wind provided Sunset Beach surfers with some larger waves nearing the 15 foot range. Support the channel by subscribing! Thank..."
 draft: false
 video_id: "WEZ6kN_qLnc"
 thumbnail: "https://i.ytimg.com/vi/WEZ6kN_qLnc/maxresdefault.jpg"

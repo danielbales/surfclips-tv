@@ -1,6 +1,7 @@
 ---
 title: "Ocean Beach San Francisco pocket ride"
 date: 2025-02-18T08:00:50Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "xQZ87jd9KzE"
 thumbnail: "https://i.ytimg.com/vi/xQZ87jd9KzE/maxresdefault.jpg"

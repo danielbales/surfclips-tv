@@ -1,6 +1,7 @@
 ---
 title: "Sneaking a DEEP one under a thick Backdoor crowd – December 28, 2022"
 date: 2023-01-30T20:15:01Z
+description: "On a mortals day at Backdoor Pipeline, this unknown surfer sneaks one off the pack and makes good use of it. Well-earned! Support the channel by..."
 draft: false
 video_id: "ntMRfmn8vrM"
 thumbnail: "https://i.ytimg.com/vi/ntMRfmn8vrM/maxresdefault.jpg"

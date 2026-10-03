@@ -1,6 +1,7 @@
 ---
 title: "Southern California pointbreak: Biggest swell in DECADES"
 date: 2023-01-17T01:13:17Z
+description: "The infamous Cyclone Bomb swell that lit up the Golden State offered a few lucky surfers some big, long rights. Support the channel by subscribing!..."
 draft: false
 video_id: "RJNr2ZdZo2U"
 thumbnail: "https://i.ytimg.com/vi/RJNr2ZdZo2U/maxresdefault.jpg"

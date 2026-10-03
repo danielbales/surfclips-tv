@@ -1,6 +1,7 @@
 ---
 title: "Surfer gets insanely barreled"
 date: 2022-02-04T04:22:38Z
+description: "Surfer: Lucas Godfrey Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "HXmkTBLyJKU"
 thumbnail: "https://i.ytimg.com/vi/HXmkTBLyJKU/hqdefault.jpg"

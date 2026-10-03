@@ -1,6 +1,7 @@
 ---
 title: "TOP 10 from December 11, 2025 – Surf Clips TV"
 date: 2025-12-11T22:44:26Z
+description: "Surfing from Indonesia, Hawaii, South America & more."
 draft: false
 video_id: "ekO9Yx4YB3A"
 thumbnail: "https://i.ytimg.com/vi/ekO9Yx4YB3A/sddefault.jpg"

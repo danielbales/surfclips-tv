@@ -1,6 +1,7 @@
 ---
 title: "Wilbur's Surf School"
 date: 2026-01-24T21:53:54Z
+description: "Watch Wilbur's Surf School on Surf Clips TV."
 draft: false
 video_id: "pZW1NupA4Gs"
 thumbnail: "https://i.ytimg.com/vi/pZW1NupA4Gs/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Surfer getting DEEP at Pipe – Feb 24, 2025"
 date: 2025-02-25T18:07:33Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Surfline"
 draft: false
 video_id: "DBimn5b3ewM"
 thumbnail: "https://i.ytimg.com/vi/DBimn5b3ewM/maxresdefault.jpg"

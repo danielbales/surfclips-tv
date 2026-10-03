@@ -1,6 +1,7 @@
 ---
 title: "Wilbur Kookmeyer's \"Hoot-in-a-Can\""
 date: 2026-06-15T00:44:27Z
+description: "https://surf-clips-tv-shop.fourthwall.com/. Ever bought something online to make yourself look cooler, only for it to completely backfire? 📦🤦‍♂️ Meet..."
 draft: false
 video_id: "eS81Q3X5W7A"
 thumbnail: "https://i.ytimg.com/vi/eS81Q3X5W7A/maxresdefault.jpg"

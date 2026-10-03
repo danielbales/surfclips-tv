@@ -1,6 +1,7 @@
 ---
 title: "Gold Coast points fire on April 10, 2022 (Cyclone Fili)"
 date: 2022-04-10T19:40:28Z
+description: "Midday low tide with a mid-period ESE swell meant ledgy, hollow Snapper Rocks. Crowds were THICK but those who lucked into one were stoked. Support the..."
 draft: false
 video_id: "qf2W4bYS75M"
 thumbnail: "https://i.ytimg.com/vi/qf2W4bYS75M/maxresdefault.jpg"

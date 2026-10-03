@@ -1,6 +1,7 @@
 ---
 title: "Sunset Beach pit - Nov 2024"
 date: 2024-11-03T22:40:17Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!..."
 draft: false
 video_id: "YbSlz2RtPeI"
 thumbnail: "https://i.ytimg.com/vi/YbSlz2RtPeI/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Gavin Beschen & crew SHRED 1ST NW SWELL of the season – October 2, 2023"
 date: 2023-10-02T22:53:32Z
+description: "Fresh NW swell (320-350°) filled in and provided some great surf to the North Shore with favorable light ENE wind conditions on tap this morning. John..."
 draft: false
 video_id: "e1HeDy3ksws"
 thumbnail: "https://i.ytimg.com/vi/e1HeDy3ksws/maxresdefault.jpg"

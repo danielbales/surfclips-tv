@@ -1,6 +1,7 @@
 ---
 title: "Empty perfection in the Caribbean (Winter swell from January 17, 2022)"
 date: 2022-01-18T14:14:06Z
+description: "This reef came alive and offered a crowd of none perfect, empty waves the morning of January 17, 2022. Support the channel by subscribing! Thank you..."
 draft: false
 video_id: "Y3uYcQjUB8w"
 thumbnail: "https://i.ytimg.com/vi/Y3uYcQjUB8w/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Ethan Ewing warming up for WSL Finals - September 4, 2024 #surfing"
 date: 2024-09-04T18:49:10Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ Days before the @wsl Finals, Hawaiian golden boy John John Florence shreds this Trestles..."
 draft: false
 video_id: "azjtx7Qhxbs"
 thumbnail: "https://i.ytimg.com/vi/azjtx7Qhxbs/maxresdefault.jpg"

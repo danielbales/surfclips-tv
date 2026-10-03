@@ -1,6 +1,7 @@
 ---
 title: "Nate Florence on a BACKDOOR DRAINER on March 29, 2022"
 date: 2022-03-29T19:47:21Z
+description: "5-8 foot faces hit the North Shore of Hawaii on what could be one the last swells of the 2022 winter season. Nasty Nate wasn't letting this one get by!..."
 draft: false
 video_id: "bY2DB4sBSKw"
 thumbnail: "https://i.ytimg.com/vi/bY2DB4sBSKw/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "2/3X overhead surf hits INDO – August 5, 2023"
 date: 2023-08-05T04:41:24Z
+description: "Solid surf as the peak of a SSW swell (9.8ft @16s) lights up nooks and crannies like this. Winds were clean early and the tide was low. Lot's of water..."
 draft: false
 video_id: "Z1e4L0ddKOU"
 thumbnail: "https://i.ytimg.com/vi/Z1e4L0ddKOU/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Surfer enjoying the *swell of the year* in Indonesia"
 date: 2022-07-03T17:58:34Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "oiiCcywT7ng"
 thumbnail: "https://i.ytimg.com/vi/oiiCcywT7ng/maxresdefault.jpg"

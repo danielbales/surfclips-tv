@@ -1,6 +1,7 @@
 ---
 title: "Clay Marzo giving thanks"
 date: 2025-11-13T03:21:40Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "UVjcOHbwu1U"
 thumbnail: "https://i.ytimg.com/vi/UVjcOHbwu1U/maxresdefault.jpg"

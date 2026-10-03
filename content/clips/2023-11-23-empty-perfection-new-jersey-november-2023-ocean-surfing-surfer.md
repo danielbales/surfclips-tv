@@ -1,6 +1,7 @@
 ---
 title: "Empty perfection - New Jersey, November 2023  #ocean #surfing #surfer"
 date: 2023-11-23T02:16:35Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "FCpiSjHv1ps"
 thumbnail: "https://i.ytimg.com/vi/FCpiSjHv1ps/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "JUST make the drop"
 date: 2025-04-16T07:00:19Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "N1oAsKjtexU"
 thumbnail: "https://i.ytimg.com/vi/N1oAsKjtexU/maxresdefault.jpg"

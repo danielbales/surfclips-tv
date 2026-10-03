@@ -1,6 +1,7 @@
 ---
 title: "NYC Surfer Takes Incredible Wipeout During Hurricane Lee Swell"
 date: 2023-09-15T22:21:25Z
+description: "Then gets back on his board for more! 💪 Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you..."
 draft: false
 video_id: "T5W-TjTnKPg"
 thumbnail: "https://i.ytimg.com/vi/T5W-TjTnKPg/maxresdefault.jpg"

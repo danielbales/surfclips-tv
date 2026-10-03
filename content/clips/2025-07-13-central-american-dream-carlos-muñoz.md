@@ -1,6 +1,7 @@
 ---
 title: "Central American dream – Carlos Muñoz"
 date: 2025-07-13T18:19:33Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "DwBP-qfV3To"
 thumbnail: "https://i9.ytimg.com/vi/DwBP-qfV3To/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLDISLLqA_gMNdntpx6gbFPSYwNhhg"

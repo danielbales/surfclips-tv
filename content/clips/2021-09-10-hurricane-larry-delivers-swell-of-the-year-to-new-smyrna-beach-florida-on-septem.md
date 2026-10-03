@@ -1,6 +1,7 @@
 ---
 title: "Hurricane LARRY DELIVERS!!! Swell of the YEAR to NEW SMYRNA BEACH, Florida on September 10, 2021"
 date: 2021-09-10T22:41:54Z
+description: "https://surf-clips-tv.myspreadshop.com/ Support the channel by subscribing! Locals and pros alike were ripping as Hurricane Larry's energy provided..."
 draft: false
 video_id: "mtylf_Tb1r0"
 thumbnail: "https://i.ytimg.com/vi/mtylf_Tb1r0/maxresdefault.jpg"

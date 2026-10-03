@@ -1,6 +1,7 @@
 ---
 title: "(Beach angle) XL Nazaré on November 7, 2022"
 date: 2022-11-07T21:23:50Z
+description: "Beach angle of the 1st XL swell of the year for Europe, thanks to a very large long period waves from the NW (311º) with light winds producing clean..."
 draft: false
 video_id: "anhtmbCiNYw"
 thumbnail: "https://i.ytimg.com/vi/anhtmbCiNYw/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "The Perfect Wave? Harry Bryant, Pipeline – December 12, 2023"
 date: 2023-12-13T03:07:49Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "YSrs30rYOmo"
 thumbnail: "https://i.ytimg.com/vi/YSrs30rYOmo/maxresdefault.jpg"

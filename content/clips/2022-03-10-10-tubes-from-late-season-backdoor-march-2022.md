@@ -1,6 +1,7 @@
 ---
 title: "10 tubes from late season Backdoor - March 2022"
 date: 2022-03-10T21:04:46Z
+description: "WNW-NW swell provided North Shore surfers with occasional overhead sets on March 6, 2022. Support the channel by subscribing! Thank you for supporting..."
 draft: false
 video_id: "GPLx-THQKCs"
 thumbnail: "https://i.ytimg.com/vi/GPLx-THQKCs/maxresdefault.jpg"

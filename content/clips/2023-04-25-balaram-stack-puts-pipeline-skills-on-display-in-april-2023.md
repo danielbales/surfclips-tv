@@ -1,6 +1,7 @@
 ---
 title: "Balaram Stack puts PIPELINE skills on display in April 2023"
 date: 2023-04-25T17:30:09Z
+description: "On a gorgeous morning on Hawaii's most infamous stretch of beach, New York's Balaram Stack shows off his pipeline skills on this dreamy barrel. Support..."
 draft: false
 video_id: "j-VO_KhnjAM"
 thumbnail: "https://i.ytimg.com/vi/j-VO_KhnjAM/maxresdefault.jpg"

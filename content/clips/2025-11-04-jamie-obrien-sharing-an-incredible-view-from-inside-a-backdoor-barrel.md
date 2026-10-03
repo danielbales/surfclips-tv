@@ -1,6 +1,7 @@
 ---
 title: "Jamie O'Brien sharing an incredible view from inside a Backdoor barrel"
 date: 2025-11-04T04:01:59Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "Jk9pJxXxA00"
 thumbnail: "https://i.ytimg.com/vi/Jk9pJxXxA00/maxresdefault.jpg"

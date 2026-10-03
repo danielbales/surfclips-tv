@@ -1,6 +1,7 @@
 ---
 title: "HEAVY slab session down under on June 11, 2022"
 date: 2022-06-11T16:12:10Z
+description: "Double to triple overhead sets with a long, 15 second period swell and offshore West wind offered clean but nearly maxed out conditions. Support the..."
 draft: false
 video_id: "vT25MkVTAP8"
 thumbnail: "https://i.ytimg.com/vi/vT25MkVTAP8/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "John John Florence at the 2023 Pipeline Masters (Day 1)"
 date: 2023-12-09T22:53:44Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "8L_XWX70JPg"
 thumbnail: "https://i.ytimg.com/vi/8L_XWX70JPg/maxresdefault.jpg"

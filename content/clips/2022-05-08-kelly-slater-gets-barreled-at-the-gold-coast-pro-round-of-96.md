@@ -1,6 +1,7 @@
 ---
 title: "Kelly Slater gets barreled at the Gold Coast Pro (Round of 96)"
 date: 2022-05-08T00:25:30Z
+description: "Kelly Slater patiently waited for this 8.0 ride tube-multi-hack-combo while riding his 8-year old trusty surfboard. Support the channel by subscribing!..."
 draft: false
 video_id: "vkaHsS-HEZE"
 thumbnail: "https://i.ytimg.com/vi/vkaHsS-HEZE/maxresdefault.jpg"

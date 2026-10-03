@@ -1,6 +1,7 @@
 ---
 title: "North Shore sees 1st SWELL OF THE SEASON – October 5, 2023"
 date: 2023-10-07T07:00:24Z
+description: "NW-NNW swell slams the North Shore and provides great surf and ideal light wind conditions. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "xykRuRjGSEI"
 thumbnail: "https://i.ytimg.com/vi/xykRuRjGSEI/maxresdefault.jpg"

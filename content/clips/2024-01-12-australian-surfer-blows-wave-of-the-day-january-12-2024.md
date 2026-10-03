@@ -1,6 +1,7 @@
 ---
 title: "Australian surfer blows wave of the day - January 12, 2024"
 date: 2024-01-12T04:09:25Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "gg1iEEt_7Uw"
 thumbnail: "https://i.ytimg.com/vi/gg1iEEt_7Uw/maxresdefault.jpg"

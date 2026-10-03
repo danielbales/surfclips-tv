@@ -1,6 +1,7 @@
 ---
 title: "Encore summer south swell at Wedge - October 24, 2022"
 date: 2022-10-27T16:53:01Z
+description: "Combo swell plus offshore winds meant fun, Wedge AM session for Orange County surfers. Support the channel by subscribing! Thank you for supporting..."
 draft: false
 video_id: "68xQXJpPZoQ"
 thumbnail: "https://i.ytimg.com/vi/68xQXJpPZoQ/maxresdefault.jpg"

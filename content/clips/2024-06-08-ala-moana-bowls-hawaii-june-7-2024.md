@@ -1,6 +1,7 @@
 ---
 title: "Ala Moana Bowls, Hawaii – June 7, 2024"
 date: 2024-06-08T23:10:05Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ Second solid swell from the South slams Ala Moana Bowls and provides nearly surfed-out..."
 draft: false
 video_id: "PaBtiWDmKQ0"
 thumbnail: "https://i.ytimg.com/vi/PaBtiWDmKQ0/maxresdefault.jpg"

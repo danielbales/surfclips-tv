@@ -1,6 +1,7 @@
 ---
 title: "MASSIVE Waikiki set (Code Red 2 swell)"
 date: 2022-07-26T15:50:53Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "U1wJoi65I4E"
 thumbnail: "https://i.ytimg.com/vi/U1wJoi65I4E/maxresdefault.jpg"

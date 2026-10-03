@@ -1,6 +1,7 @@
 ---
 title: "HEAVING, bending & PERFECT BARRELS at PADANG PADANG!!! Bali surf on August 11, 2021"
 date: 2021-08-13T05:03:15Z
+description: "Support the channel by subscribing! Balinese surfers enjoyed some draining left barrels and some extra magical surf during a short, 2-3 hour window on..."
 draft: false
 video_id: "pW53bv8ZvEM"
 thumbnail: "https://i.ytimg.com/vi/pW53bv8ZvEM/maxresdefault.jpg"

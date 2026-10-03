@@ -1,6 +1,7 @@
 ---
 title: "João Mendonça at shallow Portuguese reef"
 date: 2025-11-11T21:42:31Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "fHzYSajxrKU"
 thumbnail: "https://i.ytimg.com/vi/fHzYSajxrKU/maxresdefault.jpg"

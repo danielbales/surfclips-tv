@@ -1,6 +1,7 @@
 ---
 title: "Teahupo'o perfection on May 29, 2022"
 date: 2022-05-30T13:24:49Z
+description: "Very solid SW swell (207º) put double to triple overhead+ surf in the water, while light offshore ENE winds groomed faces at The End of the Road...."
 draft: false
 video_id: "9BrPRT29d0w"
 thumbnail: "https://i.ytimg.com/vi/9BrPRT29d0w/maxresdefault.jpg"

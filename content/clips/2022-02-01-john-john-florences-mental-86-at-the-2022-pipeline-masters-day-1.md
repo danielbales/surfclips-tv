@@ -1,6 +1,7 @@
 ---
 title: "John John Florence's mental 8.6 at the 2022 Pipeline Masters (Day 1)"
 date: 2022-02-01T01:15:27Z
+description: "No surprise that Pipeline expert John John Florence found himself in this Pipe barrel (with bonus section!) during the 2022 Pipeline Masters. Support..."
 draft: false
 video_id: "-lKDG6mk-1k"
 thumbnail: "https://i.ytimg.com/vi/-lKDG6mk-1k/maxresdefault.jpg"

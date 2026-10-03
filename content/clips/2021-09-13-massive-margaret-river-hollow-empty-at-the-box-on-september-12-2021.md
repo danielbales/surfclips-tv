@@ -1,6 +1,7 @@
 ---
 title: "Massive MARGARET RIVER + Hollow (& empty) at THE BOX on September 12, 2021"
 date: 2021-09-13T17:42:52Z
+description: "Support the channel by subscribing! Huge 15+ foot (5 meter) Main Beach at Margaret River offered surfers a few bombs mostly on lefts, while over at The..."
 draft: false
 video_id: "siQKd4GJHX4"
 thumbnail: "https://i.ytimg.com/vi/siQKd4GJHX4/maxresdefault.jpg"

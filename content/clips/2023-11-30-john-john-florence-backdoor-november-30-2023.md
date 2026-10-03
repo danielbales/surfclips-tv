@@ -1,6 +1,7 @@
 ---
 title: "John John Florence, Backdoor - November 30, 2023"
 date: 2023-11-30T22:43:04Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "7FFQG-mSY54"
 thumbnail: "https://i.ytimg.com/vi/7FFQG-mSY54/maxresdefault.jpg"

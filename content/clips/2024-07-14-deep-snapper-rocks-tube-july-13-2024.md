@@ -1,6 +1,7 @@
 ---
 title: "DEEP Snapper Rocks tube - July 13, 2024"
 date: 2024-07-14T02:17:42Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "dWG8ZSNm4-c"
 thumbnail: "https://i.ytimg.com/vi/dWG8ZSNm4-c/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "HECTIC Shark Island tube - August 3, 2024"
 date: 2024-08-03T02:41:03Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "hI4OEZHqbFY"
 thumbnail: "https://i.ytimg.com/vi/hI4OEZHqbFY/maxresdefault.jpg"

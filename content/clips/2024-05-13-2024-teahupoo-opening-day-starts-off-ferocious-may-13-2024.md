@@ -1,6 +1,7 @@
 ---
 title: "2024 TEAHUPO'O OPENING DAY starts off FEROCIOUS - May 13, 2024"
 date: 2024-05-13T20:19:10Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ Long period new SW swell builds over top of another SW, providing 15 - 18 foot faces to..."
 draft: false
 video_id: "22Ji61Bzvz0"
 thumbnail: "https://i.ytimg.com/vi/22Ji61Bzvz0/maxresdefault.jpg"

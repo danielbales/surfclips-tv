@@ -1,6 +1,7 @@
 ---
 title: "When the wave breaks here, don't be THERE"
 date: 2022-07-03T03:50:09Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "9d7LfKuTL78"
 thumbnail: "https://i.ytimg.com/vi/9d7LfKuTL78/maxresdefault.jpg"

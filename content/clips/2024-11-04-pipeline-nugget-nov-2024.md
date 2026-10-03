@@ -1,6 +1,7 @@
 ---
 title: "Pipeline nugget - Nov 2024"
 date: 2024-11-04T01:26:37Z
+description: "Watch Pipeline nugget - Nov 2024 on Surf Clips TV."
 draft: false
 video_id: "gX_ArynxoeM"
 thumbnail: "https://i.ytimg.com/vi/gX_ArynxoeM/maxresdefault.jpg"

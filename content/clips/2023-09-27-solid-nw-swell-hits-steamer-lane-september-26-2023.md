@@ -1,6 +1,7 @@
 ---
 title: "SOLID NW swell hits Steamer Lane - September 26, 2023"
 date: 2023-09-27T03:43:00Z
+description: "Easily double overhead sets hit Santa Cruz's Steamer Lane during the season's 1st big NW swell. There was some chatter going up the face but still a..."
 draft: false
 video_id: "6ElcOgr1qGg"
 thumbnail: "https://i.ytimg.com/vi/6ElcOgr1qGg/maxresdefault.jpg"

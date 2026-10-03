@@ -1,6 +1,7 @@
 ---
 title: "@JamieOBrienJOB hitting EJECT at PIPE - Oct 2022"
 date: 2023-10-25T22:08:13Z
+description: "Watch @JamieOBrienJOB hitting EJECT at PIPE - Oct 2022 on Surf Clips TV."
 draft: false
 video_id: "ocIqV9RlRYM"
 thumbnail: "https://i.ytimg.com/vi/ocIqV9RlRYM/maxresdefault.jpg"

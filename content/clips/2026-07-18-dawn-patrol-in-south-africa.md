@@ -1,6 +1,7 @@
 ---
 title: "Dawn Patrol in South Africa"
 date: 2026-07-18T23:57:01Z
+description: "Scotty Know Surf on a heater! Just look at those colors"
 draft: false
 video_id: "0oeBzfHjFxk"
 thumbnail: "https://i.ytimg.com/vi/0oeBzfHjFxk/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "OUTER BANKS sees FIRING CONDITIONS yet again – October 28, 2023"
 date: 2023-10-29T02:20:49Z
+description: "Tropical Storm Tammy delivered overhead and occasional perfection to Outer Banks surfers. Support the channel by subscribing! Thank you for supporting..."
 draft: false
 video_id: "iQCw4poLATc"
 thumbnail: "https://i.ytimg.com/vi/iQCw4poLATc/maxresdefault.jpg"

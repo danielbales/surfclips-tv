@@ -1,6 +1,7 @@
 ---
 title: "Hawaiian bodyboarder getting tubed - June 2, 2024"
 date: 2024-06-03T18:17:35Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "V3QnenkZlFA"
 thumbnail: "https://i.ytimg.com/vi/V3QnenkZlFA/maxresdefault.jpg"

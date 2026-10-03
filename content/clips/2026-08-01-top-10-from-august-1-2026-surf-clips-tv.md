@@ -1,6 +1,7 @@
 ---
 title: "TOP 10 from August 1, 2026 – Surf Clips TV"
 date: 2026-08-01T13:26:48Z
+description: "Surfing from Califorina, Australia, Indonesia & more."
 draft: false
 video_id: "fTjv28vx0zM"
 thumbnail: "https://i.ytimg.com/vi/fTjv28vx0zM/sddefault.jpg"

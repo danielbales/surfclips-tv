@@ -1,6 +1,7 @@
 ---
 title: "3-hack combo – Shion Crawford, Hawaii"
 date: 2025-04-08T07:00:14Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "HjUhOYCXkBU"
 thumbnail: "https://i.ytimg.com/vi/HjUhOYCXkBU/maxresdefault.jpg"

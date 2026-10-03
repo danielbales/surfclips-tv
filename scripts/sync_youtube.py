@@ -12,19 +12,18 @@ Usage:
     python3 sync_youtube.py --all     # Sync all uploads (first run)
 """
 
+import html
 import json
 import os
 import re
 import sys
 from datetime import datetime
 from pathlib import Path
-from textwrap import dedent
 
 # --- Config ---
 
 CREDS_DIR = Path.home() / ".google_credentials"
 TOKEN_FILE = CREDS_DIR / "token_WorldwideWaves_yt.json"
-CREDS_FILE = CREDS_DIR / "credentials.json"
 SCOPES = ["https://www.googleapis.com/auth/youtube.readonly"]
 
 CONTENT_DIR = Path(__file__).parent.parent / "content" / "clips"
@@ -252,6 +251,14 @@ def generate_page(video):
     # Clean description
     clean_desc, surfers = clean_description(description, kind)
 
+    # Generate meta description (first ~155 chars of meaningful text)
+    meta_desc = re.sub(r"<[^>]+>", "", clean_desc).strip()
+    meta_desc = re.sub(r"\s+", " ", meta_desc)
+    if not meta_desc:
+        meta_desc = f"Watch {title} on Surf Clips TV."
+    if len(meta_desc) > 155:
+        meta_desc = meta_desc[:152].rsplit(" ", 1)[0] + "..."
+
     # Build front matter + content
     surfer_yaml = ""
     if surfers:
@@ -261,6 +268,7 @@ def generate_page(video):
 title: "{escape_yaml(title)}"
 date: {published}
 draft: false
+description: "{escape_yaml(meta_desc)}"
 video_id: "{video_id}"
 thumbnail: "{thumb_url}"
 tags: {json.dumps(safe_tags)}
@@ -271,7 +279,7 @@ visibility: "{visibility}"
 {surfer_yaml}---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/{video_id}" title="{escape_yaml(title)}" allowfullscreen loading="lazy"></iframe>
+<iframe src="https://www.youtube.com/embed/{video_id}" title="{html.escape(title, quote=True)}" allowfullscreen loading="lazy"></iframe>
 </div>
 {clean_desc}"""
 

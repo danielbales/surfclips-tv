@@ -1,6 +1,7 @@
 ---
 title: "18+ foot Puerto Escondido - May 14, 2023"
 date: 2023-05-14T23:29:53Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Big, XL surf hit the Mexican Pipeline and offered a few dreamy rides to the lucky few who..."
 draft: false
 video_id: "pEe4mzPIUsc"
 thumbnail: "https://i.ytimg.com/vi/pEe4mzPIUsc/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "6 Wedge waves from September 19, 2022"
 date: 2022-09-20T17:56:10Z
+description: "Overlapping SSW swells (189º & 199º) produced sets around head high to slightly overhead at Southern California's most famous novelty surf break...."
 draft: false
 video_id: "IbLjZ2PnuUc"
 thumbnail: "https://i.ytimg.com/vi/IbLjZ2PnuUc/maxresdefault.jpg"

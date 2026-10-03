@@ -1,6 +1,7 @@
 ---
 title: "THICK lip - Teahupo'o, May, 2025"
 date: 2025-05-14T07:00:52Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Manea Fabisch"
 draft: false
 video_id: "oN5Ko8yB_6Y"
 thumbnail: "https://i.ytimg.com/vi/oN5Ko8yB_6Y/maxresdefault.jpg"

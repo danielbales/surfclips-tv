@@ -1,6 +1,7 @@
 ---
 title: "Laying rail into a NorCal set wave - October 2023"
 date: 2023-10-25T00:13:54Z
+description: "Watch Laying rail into a NorCal set wave - October 2023 on Surf Clips TV."
 draft: false
 video_id: "BUk2vxxsLY0"
 thumbnail: "https://i.ytimg.com/vi/BUk2vxxsLY0/maxresdefault.jpg"

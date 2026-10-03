@@ -1,6 +1,7 @@
 ---
 title: "XL swell SLAMS STEAMER LANE – December 29, 2023"
 date: 2023-12-30T00:25:53Z
+description: "The swell that brought 40+ foot waves to Mavericks flooded Santa Cruz and offered a handful surfers a chance to ride XL waves at Steamer Lane. Support..."
 draft: false
 video_id: "1DmUjWzqwGk"
 thumbnail: "https://i.ytimg.com/vi/1DmUjWzqwGk/maxresdefault.jpg"

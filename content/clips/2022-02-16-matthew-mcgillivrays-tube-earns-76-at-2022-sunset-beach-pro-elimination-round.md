@@ -1,6 +1,7 @@
 ---
 title: "Matthew McGillivray's TUBE earns 7.6 at 2022 Sunset Beach Pro (Elimination Round)"
 date: 2022-02-16T03:40:19Z
+description: "Matthew McGillivray finds the only barrel of the day at the 2022 Sunset Beach Pro during a building and nearly maxed-out winter swell. Support the..."
 draft: false
 video_id: "_lKhe_V-2HY"
 thumbnail: "https://i.ytimg.com/vi/_lKhe_V-2HY/maxresdefault.jpg"

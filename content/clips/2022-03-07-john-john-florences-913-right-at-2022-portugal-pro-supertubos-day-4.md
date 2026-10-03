@@ -1,6 +1,7 @@
 ---
 title: "John John Florence's 9.13 right at 2022 Portugal Pro Supertubos (Day 4)"
 date: 2022-03-07T05:06:08Z
+description: "John John's love for Supertubos showed in his heat against fellow American Nat Young. Support the channel by subscribing! Thank you for supporting Surf..."
 draft: false
 video_id: "PsHfOfK-M3Q"
 thumbnail: "https://i.ytimg.com/vi/PsHfOfK-M3Q/maxresdefault.jpg"

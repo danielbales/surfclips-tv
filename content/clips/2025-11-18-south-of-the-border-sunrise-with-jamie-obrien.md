@@ -1,6 +1,7 @@
 ---
 title: "South of the border sunrise with Jamie O'Brien"
 date: 2025-11-18T04:36:48Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "OscbtZMYAbM"
 thumbnail: "https://i.ytimg.com/vi/OscbtZMYAbM/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Noah Beschen deep in Mexico"
 date: 2025-10-10T16:37:15Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "-jSS-d9Kew8"
 thumbnail: "https://i9.ytimg.com/vi/-jSS-d9Kew8/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLACJorKcXzBJzH4sOZSpe2-KQOCZA"

@@ -1,6 +1,7 @@
 ---
 title: "Near-make at BIG Pipeline on February 26, 2022"
 date: 2022-02-27T16:14:33Z
+description: "Surfer nearly makes a great tube in 3x overhead Pipeline. Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can..."
 draft: false
 video_id: "Eal4OJzkk28"
 thumbnail: "https://i.ytimg.com/vi/Eal4OJzkk28/maxresdefault.jpg"

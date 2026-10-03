@@ -1,6 +1,7 @@
 ---
 title: "Easter hop at Steamer Lane - March 31, 2024"
 date: 2024-03-31T16:58:10Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "yNr-o4Id3XI"
 thumbnail: "https://i.ytimg.com/vi/yNr-o4Id3XI/maxresdefault.jpg"

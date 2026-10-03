@@ -1,6 +1,7 @@
 ---
 title: "Going RIGHT at Teahupo'o on July 6, 2023"
 date: 2023-07-07T04:34:02Z
+description: "Surfer rolls the dice at goes against the grain on a right at the end of the road. Support the channel by subscribing! Thank you for supporting Surf..."
 draft: false
 video_id: "oxl-AlsMjuk"
 thumbnail: "https://i.ytimg.com/vi/oxl-AlsMjuk/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Puerto Escondido, Mexico - July 24, 2024"
 date: 2024-07-25T16:03:42Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "_lP9fzlLUXE"
 thumbnail: "https://i.ytimg.com/vi/_lP9fzlLUXE/maxresdefault.jpg"

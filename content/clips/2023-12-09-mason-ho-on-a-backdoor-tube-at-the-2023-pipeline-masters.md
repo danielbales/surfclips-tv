@@ -1,6 +1,7 @@
 ---
 title: "MASON HO on a Backdoor tube at the 2023 Pipeline Masters"
 date: 2023-12-09T21:39:15Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "T1GirAnVOkU"
 thumbnail: "https://i.ytimg.com/vi/T1GirAnVOkU/maxresdefault.jpg"

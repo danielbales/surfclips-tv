@@ -1,6 +1,7 @@
 ---
 title: "Spring swell hits Huntington Beach, California – March 21, 2024"
 date: 2024-03-24T04:19:06Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ Huntington Beach surfers scored a surprise season opener on March 21st. Trading spring..."
 draft: false
 video_id: "wiiNVCDGqw0"
 thumbnail: "https://i.ytimg.com/vi/wiiNVCDGqw0/maxresdefault.jpg"

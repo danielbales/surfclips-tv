@@ -1,6 +1,7 @@
 ---
 title: "SOLID run of South swell HITS HAWAII – May 20, 2024"
 date: 2024-05-21T21:08:11Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ Nice sized surf to the South Shore with favorable ENE trade winds provided dreamy surf to..."
 draft: false
 video_id: "HcDfLKVdKTE"
 thumbnail: "https://i.ytimg.com/vi/HcDfLKVdKTE/maxresdefault.jpg"

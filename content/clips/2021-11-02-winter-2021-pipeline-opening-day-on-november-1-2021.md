@@ -1,6 +1,7 @@
 ---
 title: "Winter 2021 PIPELINE OPENING DAY on November 1, 2021"
 date: 2021-11-02T04:23:35Z
+description: "Support the channel by subscribing! 1st winter swell at Pipe! Faces were 6-10 foot (2-3 meter), and the afternoon turned onshore. The window was short..."
 draft: false
 video_id: "S46EaBP8Rjc"
 thumbnail: "https://i.ytimg.com/vi/S46EaBP8Rjc/maxresdefault.jpg"

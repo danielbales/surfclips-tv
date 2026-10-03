@@ -1,6 +1,7 @@
 ---
 title: "New Jersey's 50 year storm unloading"
 date: 2023-12-22T17:00:57Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "AyzOA9HbqWQ"
 thumbnail: "https://i.ytimg.com/vi/AyzOA9HbqWQ/maxresdefault.jpg"

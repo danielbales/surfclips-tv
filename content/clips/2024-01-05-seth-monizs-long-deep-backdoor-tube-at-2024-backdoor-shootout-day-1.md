@@ -1,6 +1,7 @@
 ---
 title: "Seth Moniz's long, deep Backdoor tube at 2024 Backdoor Shootout (Day 1)"
 date: 2024-01-05T00:37:00Z
+description: "Seth Moniz stuns the crowd with this long Backdoor drainer on day 1 of the Backdoor Shootout. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "DPAjWHPo4Os"
 thumbnail: "https://i.ytimg.com/vi/DPAjWHPo4Os/maxresdefault.jpg"

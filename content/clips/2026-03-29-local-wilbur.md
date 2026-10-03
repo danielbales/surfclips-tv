@@ -1,6 +1,7 @@
 ---
 title: "local Wilbur"
 date: 2026-03-29T16:43:10Z
+description: "Watch local Wilbur on Surf Clips TV."
 draft: false
 video_id: "Ti33MC0wRYs"
 thumbnail: "https://i.ytimg.com/vi/Ti33MC0wRYs/maxresdefault.jpg"

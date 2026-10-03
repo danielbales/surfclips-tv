@@ -1,6 +1,7 @@
 ---
 title: "Dean Vanderwalle in Central America - December 2025"
 date: 2025-12-11T00:26:24Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "GNZP9w1om8E"
 thumbnail: "https://i.ytimg.com/vi/GNZP9w1om8E/maxresdefault.jpg"

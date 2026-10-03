@@ -1,6 +1,7 @@
 ---
 title: "Time to pardeee!"
 date: 2026-05-22T15:36:20Z
+description: "Watch Time to pardeee! on Surf Clips TV."
 draft: false
 video_id: "9DaItBqLxmg"
 thumbnail: "https://i.ytimg.com/vi/9DaItBqLxmg/maxresdefault.jpg"

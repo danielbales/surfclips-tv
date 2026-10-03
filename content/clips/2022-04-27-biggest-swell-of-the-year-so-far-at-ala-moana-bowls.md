@@ -1,6 +1,7 @@
 ---
 title: "Biggest swell of the year so far at Ala Moana Bowls"
 date: 2022-04-27T00:54:03Z
+description: "Large southwest swell coupled with trade winds produced fun, rippable and occasional tubes for South Shore surfers. Support the channel by subscribing!..."
 draft: false
 video_id: "WyjMJfUFUZI"
 thumbnail: "https://i.ytimg.com/vi/WyjMJfUFUZI/maxresdefault.jpg"

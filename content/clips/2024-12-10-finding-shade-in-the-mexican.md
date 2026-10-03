@@ -1,6 +1,7 @@
 ---
 title: "Finding shade ⛱️ in the Mexican ☀️"
 date: 2024-12-10T21:39:20Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "NWbGBuzIwV0"
 thumbnail: "https://i.ytimg.com/vi/NWbGBuzIwV0/maxresdefault.jpg"

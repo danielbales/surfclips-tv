@@ -1,6 +1,7 @@
 ---
 title: "High-performance right lights up on Oahu's South Shore"
 date: 2022-06-28T19:27:30Z
+description: "South swell (187º) with sizable surf and good wind conditions offered ramps to South Shore surfers on June 27, 2022. Support the channel by..."
 draft: false
 video_id: "uayhEhkviZ0"
 thumbnail: "https://i.ytimg.com/vi/uayhEhkviZ0/maxresdefault.jpg"

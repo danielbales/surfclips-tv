@@ -1,6 +1,7 @@
 ---
 title: "3 PERFECT early morning Pipeline barrels from January 20, 2022"
 date: 2022-01-20T20:10:35Z
+description: "Impeccable conditions at Banzai Pipeline along with a WNW-NW swell is providing some amazing surf to the North Shore. These 3 lucky surfers would..."
 draft: false
 video_id: "seJb3Kg4x3Q"
 thumbnail: "https://i.ytimg.com/vi/seJb3Kg4x3Q/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Snapper Rocks set wave - July 13, 2024"
 date: 2024-07-14T02:07:41Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "oCWXlXEccbI"
 thumbnail: "https://i.ytimg.com/vi/oCWXlXEccbI/maxresdefault.jpg"

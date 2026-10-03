@@ -1,6 +1,7 @@
 ---
 title: "Portugese SLAB gets rippable on October 20, 2021"
 date: 2021-10-20T23:12:50Z
+description: "Support the channel by subscribing! A slab in Ericeira, Portugal turns on for a dozen locals, and offered up rippable, fun lefts on October 20, 2021...."
 draft: false
 video_id: "fepeHB3Y41Y"
 thumbnail: "https://i.ytimg.com/vi/fepeHB3Y41Y/maxresdefault.jpg"

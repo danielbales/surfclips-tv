@@ -1,6 +1,7 @@
 ---
 title: "August 2024 starts strong in Oz – 3 waves at SNAPPER"
 date: 2024-08-02T22:28:30Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ Snapper Rocks saw dreamy, hollow, rippable, and of course crowded waves to kick off..."
 draft: false
 video_id: "DVrKxSYP-Ns"
 thumbnail: "https://i.ytimg.com/vi/DVrKxSYP-Ns/maxresdefault.jpg"

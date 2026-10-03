@@ -1,6 +1,7 @@
 ---
 title: "Dreamy conditions hit The Box, Australia"
 date: 2022-07-28T16:15:38Z
+description: "Good conditions as winds blow offshore out of the NE, while consistent straight W swell (228º) are holding well overhead plus at Western Australia's..."
 draft: false
 video_id: "A5trw5qTbQY"
 thumbnail: "https://i.ytimg.com/vi/A5trw5qTbQY/maxresdefault.jpg"

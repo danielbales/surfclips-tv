@@ -1,6 +1,7 @@
 ---
 title: "JOB gets DEEP BARREL at Backdoor on January 2, 2022"
 date: 2022-01-03T03:59:28Z
+description: "https://surf-clips-tv.myspreadshop.com/ Jamie O'Brien gets a perfect barrel then attempts an aerial on a firing day at Backdoor. Support the channel by..."
 draft: false
 video_id: "APYgp_-ACzY"
 thumbnail: "https://i.ytimg.com/vi/APYgp_-ACzY/maxresdefault.jpg"

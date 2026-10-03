@@ -1,6 +1,7 @@
 ---
 title: "Kelly Slater nabs PERFECT Backdoor wave at the 2022 Pipe Pro (Day 1)"
 date: 2022-01-31T15:41:07Z
+description: "Kelly Slater found this rare Backdoor barrel in A+ conditions on on day 1 of the 2022 Pipeline Masters. Scored as an 8. Support the channel by..."
 draft: false
 video_id: "ZFm_wkBFSYc"
 thumbnail: "https://i.ytimg.com/vi/ZFm_wkBFSYc/maxresdefault.jpg"

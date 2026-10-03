@@ -1,6 +1,7 @@
 ---
 title: "Mason Ho being Mason Ho at Pipeline"
 date: 2022-11-24T03:23:54Z
+description: "Watch Mason Ho being Mason Ho at Pipeline on Surf Clips TV."
 draft: false
 video_id: "u8uwx9lcg1o"
 thumbnail: "https://i.ytimg.com/vi/u8uwx9lcg1o/maxresdefault.jpg"

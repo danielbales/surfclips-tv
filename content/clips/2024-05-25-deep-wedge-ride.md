@@ -1,6 +1,7 @@
 ---
 title: "DEEP Wedge ride"
 date: 2024-05-25T16:27:19Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "f2ePox3uGc0"
 thumbnail: "https://i.ytimg.com/vi/f2ePox3uGc0/maxresdefault.jpg"

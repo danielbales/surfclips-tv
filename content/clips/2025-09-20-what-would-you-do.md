@@ -1,6 +1,7 @@
 ---
 title: "What would you do?"
 date: 2025-09-20T07:00:37Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "YnN_Q7cMLqM"
 thumbnail: "https://i9.ytimg.com/vi/YnN_Q7cMLqM/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLCbuwMxKaMpfryDBlXEr_8WOSqdnA"

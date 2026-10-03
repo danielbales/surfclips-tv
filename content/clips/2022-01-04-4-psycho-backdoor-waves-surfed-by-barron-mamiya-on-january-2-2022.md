@@ -1,6 +1,7 @@
 ---
 title: "4 psycho Backdoor waves surfed by BARRON MAMIYA on January 2, 2022"
 date: 2022-01-04T00:19:49Z
+description: "During a solid NW swell, North Shore phenom snagged these 4 Backdoor waves. Support the channel by subscribing! Thank you for supporting Surf Cam..."
 draft: false
 video_id: "TBoDekAoJ-Q"
 thumbnail: "https://i.ytimg.com/vi/TBoDekAoJ-Q/maxresdefault.jpg"

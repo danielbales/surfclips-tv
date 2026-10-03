@@ -1,6 +1,7 @@
 ---
 title: "Sheldon Paishon on a Pipeline NUG - Dec, 2025"
 date: 2025-12-10T18:12:26Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "WtNsRob_l84"
 thumbnail: "https://i.ytimg.com/vi/WtNsRob_l84/maxresdefault.jpg"

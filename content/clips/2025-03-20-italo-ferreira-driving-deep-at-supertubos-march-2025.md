@@ -1,6 +1,7 @@
 ---
 title: "Italo Ferreira driving deep at Supertubos, March 2025"
 date: 2025-03-20T05:45:03Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ During a dream run of Supertubos surf, Italo Ferreira finds this gem during his morning session."
 draft: false
 video_id: "v63lxEOlovY"
 thumbnail: "https://i.ytimg.com/vi/v63lxEOlovY/maxresdefault.jpg"

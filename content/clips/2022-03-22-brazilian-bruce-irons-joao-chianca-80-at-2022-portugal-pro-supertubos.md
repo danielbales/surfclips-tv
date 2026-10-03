@@ -1,6 +1,7 @@
 ---
 title: "\"Brazilian Bruce Irons\" (Joao Chianca) 8.0 at 2022 Portugal Pro Supertubos"
 date: 2022-03-22T14:27:28Z
+description: "Joao gets one of the best waves of day 2 of the Portugal Pro at Supertubos. Support the channel by subscribing! Thank you for supporting Surf Cam..."
 draft: false
 video_id: "NILBVuKclk4"
 thumbnail: "https://i.ytimg.com/vi/NILBVuKclk4/maxresdefault.jpg"

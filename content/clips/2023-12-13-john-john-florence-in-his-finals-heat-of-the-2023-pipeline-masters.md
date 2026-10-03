@@ -1,6 +1,7 @@
 ---
 title: "John John Florence in his Finals heat of the 2023 Pipeline Masters"
 date: 2023-12-13T08:00:19Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "ZPZPc_yJ7wc"
 thumbnail: "https://i.ytimg.com/vi/ZPZPc_yJ7wc/maxresdefault.jpg"

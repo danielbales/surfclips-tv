@@ -1,6 +1,7 @@
 ---
 title: "Monday morning PIPE TUBE on January 10, 2022"
 date: 2022-01-10T19:08:13Z
+description: "As the world wondered whether day 3 of the 2022 Da Hui Backdoor Shootout would run, this lucky surfer found himself getting blasted out of the barrel..."
 draft: false
 video_id: "_0H-0gilIY0"
 thumbnail: "https://i.ytimg.com/vi/_0H-0gilIY0/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "2022 Da Hui Backdoor Shootout Day 1 Highlights"
 date: 2022-01-15T13:35:26Z
+description: "Billy, Mason, John and a ton more rippers enjoying Pipeline with just 3 others out on January 6, 2022. Support the channel by subscribing! Thank you..."
 draft: false
 video_id: "NYquptzntq8"
 thumbnail: "https://i.ytimg.com/vi/NYquptzntq8/maxresdefault.jpg"

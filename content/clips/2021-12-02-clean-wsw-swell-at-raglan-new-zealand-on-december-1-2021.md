@@ -1,6 +1,7 @@
 ---
 title: "Clean, WSW swell at Raglan, New Zealand on December 1, 2021"
 date: 2021-12-02T15:00:07Z
+description: "Short period WSW swell with clean conditions gave local New Zealand surfers with some fun opportunities to put it on rail. Support the channel by..."
 draft: false
 video_id: "AEJnogMijw0"
 thumbnail: "https://i.ytimg.com/vi/AEJnogMijw0/maxresdefault.jpg"

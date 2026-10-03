@@ -1,6 +1,7 @@
 ---
 title: "Unknown on a BACKDOOR DREAM on March 29, 2022"
 date: 2022-03-29T21:06:58Z
+description: "Occasional overhead swell and clean winds provided this lucky surfer with a deep backside Backdoor barrel. Support the channel by subscribing! Thank..."
 draft: false
 video_id: "DLUPeRP6eP8"
 thumbnail: "https://i.ytimg.com/vi/DLUPeRP6eP8/maxresdefault.jpg"

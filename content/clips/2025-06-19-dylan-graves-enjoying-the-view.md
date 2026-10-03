@@ -1,6 +1,7 @@
 ---
 title: "Dylan Graves enjoying the view"
 date: 2025-06-19T21:52:30Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Dylan Graves"
 draft: false
 video_id: "6Tluh0JiZ44"
 thumbnail: "https://i.ytimg.com/vi/6Tluh0JiZ44/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Southern California (Newport Beach) keeps the TUBEFEST going on September 28, 2021"
 date: 2021-09-28T23:17:29Z
+description: "https://surf-clips-tv.myspreadshop.com/ Support the channel by subscribing! 4-5 foot surf (2 meter) continues to give 56th street locals fun barrels to..."
 draft: false
 video_id: "_tfnMJruSsE"
 thumbnail: "https://i.ytimg.com/vi/_tfnMJruSsE/maxresdefault.jpg"

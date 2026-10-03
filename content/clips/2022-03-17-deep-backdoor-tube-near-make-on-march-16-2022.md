@@ -1,6 +1,7 @@
 ---
 title: "DEEP Backdoor tube near-make on March 16, 2022"
 date: 2022-03-17T15:49:30Z
+description: "While most attention was on Rocky Point this day, Backdoor also had some occasional great rides. This surfer nearly made a memorable one (WOTW?) in 5-8..."
 draft: false
 video_id: "p7LSPWzwZGI"
 thumbnail: "https://i.ytimg.com/vi/p7LSPWzwZGI/maxresdefault.jpg"

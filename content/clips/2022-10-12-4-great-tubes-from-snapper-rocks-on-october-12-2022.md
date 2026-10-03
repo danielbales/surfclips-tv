@@ -1,6 +1,7 @@
 ---
 title: "4 GREAT tubes from Snapper Rocks on October 12, 2022"
 date: 2022-10-12T07:00:21Z
+description: "Mid period ESE swell @12s produced overhead to well overhead surf, while gusty SE winds created occasional opportunities for some deep tube rides...."
 draft: false
 video_id: "xpwUQ5AJFOs"
 thumbnail: "https://i.ytimg.com/vi/xpwUQ5AJFOs/maxresdefault.jpg"

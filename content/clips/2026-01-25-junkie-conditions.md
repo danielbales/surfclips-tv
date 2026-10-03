@@ -1,6 +1,7 @@
 ---
 title: "Junkie conditions"
 date: 2026-01-25T22:53:58Z
+description: "Watch Junkie conditions on Surf Clips TV."
 draft: false
 video_id: "wqwI52Up_mY"
 thumbnail: "https://i.ytimg.com/vi/wqwI52Up_mY/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "WK Lance Hanson"
 date: 2026-02-16T22:06:45Z
+description: "Watch WK Lance Hanson on Surf Clips TV."
 draft: false
 video_id: "vYYcjgDgRCU"
 thumbnail: "https://i.ytimg.com/vi/vYYcjgDgRCU/maxresdefault.jpg"

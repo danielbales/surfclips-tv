@@ -1,6 +1,7 @@
 ---
 title: "SOLID overhead surf hits the Caribbean on September 13, 2022"
 date: 2022-09-13T21:07:27Z
+description: "Solid N/NNE swell (20º) showed, providing widespread overhead surf in the water with top spots like this going near 2x overhead. It was pumping!..."
 draft: false
 video_id: "XPGYEksu3mo"
 thumbnail: "https://i.ytimg.com/vi/XPGYEksu3mo/maxresdefault.jpg"

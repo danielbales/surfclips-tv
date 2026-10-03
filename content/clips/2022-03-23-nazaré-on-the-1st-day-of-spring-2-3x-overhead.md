@@ -1,6 +1,7 @@
 ---
 title: "Nazaré on the 1st day of Spring (2-3x overhead)"
 date: 2022-03-23T18:37:09Z
+description: "A massive WNW swell hit Nazaré, Portugal on March 20, 2022. Wave faces were 13-18 foot and a local big wave tow-in surf team took advantage before..."
 draft: false
 video_id: "HgAuBCYKVmQ"
 thumbnail: "https://i.ytimg.com/vi/HgAuBCYKVmQ/maxresdefault.jpg"

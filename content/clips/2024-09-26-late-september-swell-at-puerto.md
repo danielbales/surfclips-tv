@@ -1,6 +1,7 @@
 ---
 title: "Late September swell at Puerto"
 date: 2024-09-26T16:32:44Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ [enter description here] Thank you for supporting Surf Cam Rewind so we can continue to..."
 draft: false
 video_id: "wCyt6BmUh-E"
 thumbnail: "https://i.ytimg.com/vi/wCyt6BmUh-E/maxresdefault.jpg"

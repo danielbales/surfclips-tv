@@ -1,6 +1,7 @@
 ---
 title: "Code Red 2 swell hits Huntington Beach"
 date: 2022-07-21T14:59:58Z
+description: "Pumping SSW swell courtesy of the Code Red 2 swell that lit up Tahiti and Hawaii made landfall in Orange County on July 18, 2022. Currents were fierce..."
 draft: false
 video_id: "ThHQECt2IQA"
 thumbnail: "https://i.ytimg.com/vi/ThHQECt2IQA/maxresdefault.jpg"

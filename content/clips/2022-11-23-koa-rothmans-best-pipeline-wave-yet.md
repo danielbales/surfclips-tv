@@ -1,6 +1,7 @@
 ---
 title: "Koa Rothman's best pipeline wave yet"
 date: 2022-11-23T00:35:33Z
+description: "Self-described as his \"best Pipe waves yet\", North Shore charger Koa Rothman found this gem and got blown out on November 21, 2022."
 draft: false
 video_id: "nM8jQvzuhKQ"
 thumbnail: "https://i.ytimg.com/vi/nM8jQvzuhKQ/maxresdefault.jpg"

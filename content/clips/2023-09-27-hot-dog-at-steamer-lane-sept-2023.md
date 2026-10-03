@@ -1,6 +1,7 @@
 ---
 title: "Hot dog at steamer lane - Sept 2023"
 date: 2023-09-27T03:53:43Z
+description: "Watch Hot dog at steamer lane - Sept 2023 on Surf Clips TV."
 draft: false
 video_id: "ZlWztPCyPdo"
 thumbnail: "https://i.ytimg.com/vi/ZlWztPCyPdo/maxresdefault.jpg"

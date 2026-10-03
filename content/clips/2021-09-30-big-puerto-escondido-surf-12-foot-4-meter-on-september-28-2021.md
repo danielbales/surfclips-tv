@@ -1,6 +1,7 @@
 ---
 title: "Big PUERTO ESCONDIDO surf – 12 foot (4 meter) on September 28, 2021"
 date: 2021-09-30T19:12:37Z
+description: "Support the channel by subscribing! 8-12 foot (3-4 meter) surf hit playa zicatela, Oaxaca on September 28, 2021. Crowd was thick but locals still found..."
 draft: false
 video_id: "-grSmp4JtNg"
 thumbnail: "https://i.ytimg.com/vi/-grSmp4JtNg/maxresdefault.jpg"

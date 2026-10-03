@@ -1,6 +1,7 @@
 ---
 title: "Winter set wave at Steamer Lane - October 2023"
 date: 2023-10-24T02:42:44Z
+description: "Watch Winter set wave at Steamer Lane - October 2023 on Surf Clips TV."
 draft: false
 video_id: "HDubzn4hAxo"
 thumbnail: "https://i.ytimg.com/vi/HDubzn4hAxo/maxresdefault.jpg"

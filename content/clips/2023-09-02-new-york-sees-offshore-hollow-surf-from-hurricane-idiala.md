@@ -1,6 +1,7 @@
 ---
 title: "New York sees offshore & hollow surf from Hurricane Idiala"
 date: 2023-09-02T21:07:19Z
+description: "Offshore winds groomed wave faces before Hurricane Idiala stirred up the Atlantic Ocean. Afternoon low tide made waves stand up and hollow. Support the..."
 draft: false
 video_id: "HdO9QkYlWto"
 thumbnail: "https://i.ytimg.com/vi/HdO9QkYlWto/maxresdefault.jpg"

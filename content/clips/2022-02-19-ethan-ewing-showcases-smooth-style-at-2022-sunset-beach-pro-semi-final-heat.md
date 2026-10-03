@@ -1,6 +1,7 @@
 ---
 title: "ETHAN EWING showcases SMOOTH STYLE at 2022 Sunset Beach Pro (Semi Final heat)"
 date: 2022-02-19T15:54:23Z
+description: "Ethan Ewing caught this Sunset Beach wave in his semi-final heat and earned a 8.0 for the effort. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "rsRDc3n3ZpI"
 thumbnail: "https://i.ytimg.com/vi/rsRDc3n3ZpI/maxresdefault.jpg"

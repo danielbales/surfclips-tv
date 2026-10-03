@@ -1,6 +1,7 @@
 ---
 title: "Natural footers dream"
 date: 2025-06-26T17:49:51Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Billabong"
 draft: false
 video_id: "JgpSBRhvbBs"
 thumbnail: "https://i.ytimg.com/vi/JgpSBRhvbBs/maxresdefault.jpg"

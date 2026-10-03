@@ -1,6 +1,7 @@
 ---
 title: "🎄 Christmas Day 🎄 Backdoor, Hawaii – December 25, 2023"
 date: 2023-12-26T18:35:23Z
+description: "Backdoor, Pipeline saw great conditions with well-overhead waves on Christmas Day 2023. Just another day in Paradise. Support the channel by..."
 draft: false
 video_id: "aYZu_QsXQxY"
 thumbnail: "https://i.ytimg.com/vi/aYZu_QsXQxY/maxresdefault.jpg"

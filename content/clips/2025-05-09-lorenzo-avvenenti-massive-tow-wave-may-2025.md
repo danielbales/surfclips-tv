@@ -1,6 +1,7 @@
 ---
 title: "Lorenzo Avvenenti MASSIVE tow wave - May 2025"
 date: 2025-05-09T22:04:28Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: surfline"
 draft: false
 video_id: "x2G9PUcrbl4"
 thumbnail: "https://i.ytimg.com/vi/x2G9PUcrbl4/maxresdefault.jpg"

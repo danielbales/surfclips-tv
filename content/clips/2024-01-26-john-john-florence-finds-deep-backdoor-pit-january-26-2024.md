@@ -1,6 +1,7 @@
 ---
 title: "John John Florence finds DEEP Backdoor pit - January 26, 2024"
 date: 2024-01-26T23:02:55Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "4jenTWFHEm4"
 thumbnail: "https://i.ytimg.com/vi/4jenTWFHEm4/maxresdefault.jpg"

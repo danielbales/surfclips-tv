@@ -1,6 +1,7 @@
 ---
 title: "Dropping into a Puerto Escondido gem 💎"
 date: 2023-05-23T18:00:14Z
+description: "Watch Dropping into a Puerto Escondido gem 💎 on Surf Clips TV."
 draft: false
 video_id: "svUbh-uAFsw"
 thumbnail: "https://i.ytimg.com/vi/svUbh-uAFsw/maxresdefault.jpg"

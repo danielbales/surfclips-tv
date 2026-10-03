@@ -1,6 +1,7 @@
 ---
 title: "Cam Richards in Indonesia"
 date: 2025-08-13T05:47:31Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "6IVQ4W-BV6g"
 thumbnail: "https://i9.ytimg.com/vi/6IVQ4W-BV6g/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLCsen7ay9Slj0BwqHT-6tnASVRj8g"

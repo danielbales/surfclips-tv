@@ -1,6 +1,7 @@
 ---
 title: "Filipe Toledo's big air at 2022 Portugal Pro Supertubos (Day 4)"
 date: 2022-03-06T23:16:00Z
+description: "Filipe Toledo blasts a 6.7 in his heat against Connor Coffin on the afternoon of day 4 at the Portugal Pro Supertubos. Support the channel by..."
 draft: false
 video_id: "fWYMtSp2QGE"
 thumbnail: "https://i.ytimg.com/vi/fWYMtSp2QGE/maxresdefault.jpg"

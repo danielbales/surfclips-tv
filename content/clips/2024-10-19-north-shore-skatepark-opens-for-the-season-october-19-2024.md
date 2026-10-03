@@ -1,6 +1,7 @@
 ---
 title: "North Shore Skatepark opens for the season – October 19, 2024"
 date: 2024-10-19T20:48:32Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Hollow & rippable waves hit this infamous stretch of sand and reef on the 7 mile miracle,..."
 draft: false
 video_id: "JWpLOdifJ2o"
 thumbnail: "https://i.ytimg.com/vi/JWpLOdifJ2o/maxresdefault.jpg"

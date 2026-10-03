@@ -1,6 +1,7 @@
 ---
 title: "SNAPPER ROCKS STEP OFF - July 31, 2024"
 date: 2024-07-31T21:49:41Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "50PGwWzaJBE"
 thumbnail: "https://i.ytimg.com/vi/50PGwWzaJBE/maxresdefault.jpg"

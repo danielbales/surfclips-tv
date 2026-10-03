@@ -1,6 +1,7 @@
 ---
 title: "Dreams do come true in New Jersey - Oct '23"
 date: 2023-10-08T23:03:34Z
+description: "Watch Dreams do come true in New Jersey - Oct '23 on Surf Clips TV."
 draft: false
 video_id: "ycV_OKae-Zg"
 thumbnail: "https://i.ytimg.com/vi/ycV_OKae-Zg/maxresdefault.jpg"

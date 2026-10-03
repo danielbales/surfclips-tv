@@ -1,6 +1,7 @@
 ---
 title: "Backside barrel ride - March 30, 2024"
 date: 2024-03-31T04:04:21Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "sL-p1wvLoQQ"
 thumbnail: "https://i.ytimg.com/vi/sL-p1wvLoQQ/maxresdefault.jpg"

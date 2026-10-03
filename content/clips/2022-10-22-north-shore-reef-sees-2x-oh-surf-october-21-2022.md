@@ -1,6 +1,7 @@
 ---
 title: "North Shore reef sees 2x OH surf – October 21, 2022"
 date: 2022-10-22T02:38:29Z
+description: "Reinforcing shot of shorter/mid period NNW-N swell with light wind conditions put some wave heights at this North Shore reef in the double overhead..."
 draft: false
 video_id: "lEb2WjAIdZg"
 thumbnail: "https://i.ytimg.com/vi/lEb2WjAIdZg/maxresdefault.jpg"

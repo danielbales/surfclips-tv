@@ -1,6 +1,7 @@
 ---
 title: "8-12 foot Puerto on August 15, 2022"
 date: 2022-08-16T16:36:45Z
+description: "Peaking SSW swell (201º) with great offshore winds groomed faces and offered some Zicatela surfers some massive walls and tubes. Support the channel by..."
 draft: false
 video_id: "8qFe1ugRCYs"
 thumbnail: "https://i.ytimg.com/vi/8qFe1ugRCYs/maxresdefault.jpg"

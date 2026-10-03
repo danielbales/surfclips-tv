@@ -1,6 +1,7 @@
 ---
 title: "Wave of the Day, John John Florence – December 28, 2022"
 date: 2023-01-31T19:45:01Z
+description: "A fresh run of solid WNW swell (307º) moved in this afternoon and peaked in the late evening, offering John John Florence this deep, spitting Backdoor..."
 draft: false
 video_id: "79p7VYeW2M0"
 thumbnail: "https://i9.ytimg.com/vi/79p7VYeW2M0/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLCoKl7tq-pgbOle48T7aW-8e0KSkg"

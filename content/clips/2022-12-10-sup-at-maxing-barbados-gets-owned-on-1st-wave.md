@@ -1,6 +1,7 @@
 ---
 title: "SUP at MAXING Barbados gets OWNED on 1st wave"
 date: 2022-12-10T05:26:05Z
+description: "This poor bloke decided to paddle out on a stand up paddleboard in 10-15 foot maxing Soup Bowl, only to get decimated on his 1st wave, then packs it up..."
 draft: false
 video_id: "VQMvPPE6pYo"
 thumbnail: "https://i.ytimg.com/vi/VQMvPPE6pYo/maxresdefault.jpg"

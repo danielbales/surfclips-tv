@@ -1,6 +1,7 @@
 ---
 title: "Late season Ala Moana Bowls session delivers"
 date: 2022-09-14T02:41:34Z
+description: "SSW swell (199º) provided some nice sized late season surf to the South Shore's Ala Moana Bowls on September 13, 2022. Support the channel by..."
 draft: false
 video_id: "qdv_m-hBpro"
 thumbnail: "https://i.ytimg.com/vi/qdv_m-hBpro/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "The GOAT at 2025 Pipeline Masters (day 1)"
 date: 2025-01-30T21:04:07Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Surfline"
 draft: false
 video_id: "VEmwOWOXY2I"
 thumbnail: "https://i.ytimg.com/vi/VEmwOWOXY2I/maxresdefault.jpg"

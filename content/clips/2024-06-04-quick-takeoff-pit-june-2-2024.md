@@ -1,6 +1,7 @@
 ---
 title: "Quick takeoff pit - June 2, 2024"
 date: 2024-06-04T04:36:30Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "H4V1lPjDC8A"
 thumbnail: "https://i.ytimg.com/vi/H4V1lPjDC8A/maxresdefault.jpg"

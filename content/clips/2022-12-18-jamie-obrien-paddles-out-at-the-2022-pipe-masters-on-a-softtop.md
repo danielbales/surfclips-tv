@@ -1,6 +1,7 @@
 ---
 title: "Jamie O'Brien paddles out at the 2022 PIPE MASTERS on a Softtop"
 date: 2022-12-18T03:35:52Z
+description: "North Shore fixture Jamie O'Brien paddled out at the 2022 Pipeline Masters on a softtop surfboard and found this tube on the afternoon of day 2...."
 draft: false
 video_id: "c8rjgWa8i7w"
 thumbnail: "https://i.ytimg.com/vi/c8rjgWa8i7w/maxresdefault.jpg"

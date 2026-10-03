@@ -1,6 +1,7 @@
 ---
 title: "Surfer gets deep barrel"
 date: 2022-02-11T16:37:25Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "Gx5ZUjESd9A"
 thumbnail: "https://i.ytimg.com/vi/Gx5ZUjESd9A/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Surfer gets EVAPORATED during Outer Banks super session – October 7, 2023"
 date: 2023-10-08T19:27:01Z
+description: "As an ideal ESE swell hit the North Carolina's Outer Banks, this unlucky surfer sent it and paid the price (he was ok). Support the channel by..."
 draft: false
 video_id: "CLXRMrYfcEU"
 thumbnail: "https://i.ytimg.com/vi/CLXRMrYfcEU/maxresdefault.jpg"

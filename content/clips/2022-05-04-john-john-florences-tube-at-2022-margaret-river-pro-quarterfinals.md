@@ -1,6 +1,7 @@
 ---
 title: "John John Florence's tube at 2022 Margaret River Pro (Quarterfinals)"
 date: 2022-05-04T04:08:00Z
+description: "In excellent 10-15 foot Main Beach Margaret River, John John Florence took down Griffin Colapinto with help from this tube to carve combo (scored 8.0)...."
 draft: false
 video_id: "uA3XX_SKXvk"
 thumbnail: "https://i.ytimg.com/vi/uA3XX_SKXvk/maxresdefault.jpg"

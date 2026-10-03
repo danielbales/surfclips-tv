@@ -1,6 +1,7 @@
 ---
 title: "Jamie O'Brien ejects on 1st Pipeline day of the year!"
 date: 2022-10-18T15:31:46Z
+description: "Watch Jamie O'Brien ejects on 1st Pipeline day of the year! on Surf Clips TV."
 draft: false
 video_id: "TimS2B4n5EY"
 thumbnail: "https://i.ytimg.com/vi/TimS2B4n5EY/maxresdefault.jpg"

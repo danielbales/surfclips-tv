@@ -1,6 +1,7 @@
 ---
 title: "Surfer gets evaporated at Shark Island - August 2, 2024"
 date: 2024-08-03T03:24:14Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "Y4i9kC_Difo"
 thumbnail: "https://i.ytimg.com/vi/Y4i9kC_Difo/maxresdefault.jpg"

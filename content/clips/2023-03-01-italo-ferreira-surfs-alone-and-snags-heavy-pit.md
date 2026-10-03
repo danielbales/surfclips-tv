@@ -1,6 +1,7 @@
 ---
 title: "Italo Ferreira surfs alone and snags heavy pit"
 date: 2023-03-01T06:32:28Z
+description: "Watch Italo Ferreira surfs alone and snags heavy pit on Surf Clips TV."
 draft: false
 video_id: "FR3sqj4cPUM"
 thumbnail: "https://i.ytimg.com/vi/FR3sqj4cPUM/maxresdefault.jpg"

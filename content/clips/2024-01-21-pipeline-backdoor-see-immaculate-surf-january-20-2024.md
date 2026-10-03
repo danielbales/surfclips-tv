@@ -1,6 +1,7 @@
 ---
 title: "PIPELINE & BACKDOOR see immaculate surf – January 20, 2024"
 date: 2024-01-21T14:15:00Z
+description: "Fading WNW swell continues to deliver yet another round of impeccable waves with SSE wind grooming conditions during this early morning session...."
 draft: false
 video_id: "IW03VCkExgQ"
 thumbnail: "https://i.ytimg.com/vi/IW03VCkExgQ/maxresdefault.jpg"

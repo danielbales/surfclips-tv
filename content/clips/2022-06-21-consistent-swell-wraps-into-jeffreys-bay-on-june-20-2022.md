@@ -1,6 +1,7 @@
 ---
 title: "Consistent swell wraps into Jeffrey's Bay on June 20, 2022"
 date: 2022-06-21T02:32:42Z
+description: "Mid period WSW swell (250º) with light winds created clean conditions at South Africa's most famous point break on June 20, 2022. Support the channel..."
 draft: false
 video_id: "OOEb_O55cec"
 thumbnail: "https://i.ytimg.com/vi/OOEb_O55cec/maxresdefault.jpg"

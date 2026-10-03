@@ -1,6 +1,7 @@
 ---
 title: "Ocean Beach soul surfer paddles out ALONE IN PERFECT, HUGE SURF!!"
 date: 2025-02-15T06:25:13Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ San Francisco's Ocean Beach may be the world's hardest paddle out. Watch this SAVAGE soul..."
 draft: false
 video_id: "5Xn3Ahn2jHk"
 thumbnail: "https://i.ytimg.com/vi/5Xn3Ahn2jHk/sddefault.jpg"

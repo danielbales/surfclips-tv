@@ -1,6 +1,7 @@
 ---
 title: "Euro beach lights up thanks to large swell – November 2, 2022"
 date: 2022-11-03T20:46:59Z
+description: "Solid, moderate mid-period waves from the WNW (302º) and morning high tide produces hollow, racy tubes at one of Europe's best beaches. Support the..."
 draft: false
 video_id: "IRftgL2KnCM"
 thumbnail: "https://i.ytimg.com/vi/IRftgL2KnCM/maxresdefault.jpg"

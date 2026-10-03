@@ -1,6 +1,7 @@
 ---
 title: "John Florence at home, March 2025"
 date: 2025-03-20T02:58:31Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ During a dream run of North Shore winter surf, John finds this gem during his morning session."
 draft: false
 video_id: "J903K9AVTd4"
 thumbnail: "https://i.ytimg.com/vi/J903K9AVTd4/maxresdefault.jpg"

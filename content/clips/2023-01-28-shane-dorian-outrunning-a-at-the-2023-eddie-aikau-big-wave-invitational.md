@@ -1,6 +1,7 @@
 ---
 title: "Shane Dorian outrunning a 💣 at the 2023 Eddie Aikau Big Wave Invitational"
 date: 2023-01-28T23:36:18Z
+description: "During his heat 1 performance, big wave Legend Shane Dorian grabs this massive 4x OH wave at The Eddie Aikau Invitational. Support the channel by..."
 draft: false
 video_id: "4r1d8-Kd38I"
 thumbnail: "https://i.ytimg.com/vi/4r1d8-Kd38I/maxresdefault.jpg"

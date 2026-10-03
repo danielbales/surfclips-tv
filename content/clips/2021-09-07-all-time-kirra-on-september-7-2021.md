@@ -1,6 +1,7 @@
 ---
 title: "ALL-TIME KIRRA!!! on September 7, 2021"
 date: 2021-09-07T23:53:56Z
+description: "Support the channel by subscribing! Great offshore wind and solid overhead swell flipped the switch at Kirra on September 7, 2021. Surf all around the..."
 draft: false
 video_id: "dfL3ioyN1wI"
 thumbnail: "https://i.ytimg.com/vi/dfL3ioyN1wI/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "El Salvador point break sees moments of brilliance on April 29, 2022"
 date: 2022-04-30T13:20:22Z
+description: "4-6 foot and occasionally hollow point break in El Salvador offered local surfers with clean, long rides on April 29, 2022. Support the channel by..."
 draft: false
 video_id: "qyA1mnOfd5E"
 thumbnail: "https://i.ytimg.com/vi/qyA1mnOfd5E/maxresdefault.jpg"

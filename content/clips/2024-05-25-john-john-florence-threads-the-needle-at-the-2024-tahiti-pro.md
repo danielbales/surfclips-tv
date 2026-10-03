@@ -1,6 +1,7 @@
 ---
 title: "John John Florence Threads the Needle at the 2024 Tahiti Pro"
 date: 2024-05-25T21:55:39Z
+description: "In the first round of event, John John Florence threads the needle in his heat against Yago Dora and Rio Waida. Support the channel by subscribing!..."
 draft: false
 video_id: "5XvW10uI6kQ"
 thumbnail: "https://i.ytimg.com/vi/5XvW10uI6kQ/maxresdefault.jpg"

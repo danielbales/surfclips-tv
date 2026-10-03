@@ -1,6 +1,7 @@
 ---
 title: "TOP 10 from June 14, 2025 – Surf Clips TV"
 date: 2025-06-14T21:55:54Z
+description: "Watch TOP 10 from June 14, 2025 – Surf Clips TV on Surf Clips TV."
 draft: false
 video_id: "2GF5LX4XiY4"
 thumbnail: "https://i.ytimg.com/vi/2GF5LX4XiY4/sddefault.jpg"

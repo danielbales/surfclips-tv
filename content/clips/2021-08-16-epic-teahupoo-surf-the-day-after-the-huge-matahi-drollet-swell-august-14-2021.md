@@ -1,6 +1,7 @@
 ---
 title: "EPIC TEAHUPO'O!!! surf the day AFTER the HUGE (Matahi Drollet) swell, August 14, 2021"
 date: 2021-08-16T02:42:27Z
+description: "Support the channel by subscribing! The day AFTER Matahi Drollet's Teahupo'o BOMB provided huge, double-overhead big waves with tow surfing teams still..."
 draft: false
 video_id: "Bqw4zqsLdRM"
 thumbnail: "https://i.ytimg.com/vi/Bqw4zqsLdRM/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Caribbean continues to hold post-Hurricane Lee - September 22, 2023"
 date: 2023-09-23T03:55:43Z
+description: "N/NE swell mix with E trade winds provide bumpy but plenty rippable surf. Support the channel by subscribing! Thank you for supporting Surf Cam Rewind..."
 draft: false
 video_id: "eH02bm505fk"
 thumbnail: "https://i.ytimg.com/vi/eH02bm505fk/maxresdefault.jpg"

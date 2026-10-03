@@ -1,6 +1,7 @@
 ---
 title: "Wilbur Kookmeyer - Crummy Exercise"
 date: 2026-05-31T05:10:27Z
+description: "Watch Wilbur Kookmeyer - Crummy Exercise on Surf Clips TV."
 draft: false
 video_id: "k0q7-pSuibo"
 thumbnail: "https://i.ytimg.com/vi/k0q7-pSuibo/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Dreamy French tube - March 2026"
 date: 2026-03-14T20:36:36Z
+description: "Surf Store Merch: Credit:"
 draft: false
 video_id: "cJwRDK7AEHY"
 thumbnail: "https://i.ytimg.com/vi/cJwRDK7AEHY/maxresdefault.jpg"

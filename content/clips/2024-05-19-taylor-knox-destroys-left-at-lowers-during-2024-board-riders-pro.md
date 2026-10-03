@@ -1,6 +1,7 @@
 ---
 title: "TAYLOR KNOX destroys left at LOWERS during 2024 Board Riders Pro"
 date: 2024-05-19T21:52:38Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ At the ripe age of 53 San Diego Legend destroys this clean rippable Lowers left during..."
 draft: false
 video_id: "xqzM96R66SE"
 thumbnail: "https://i.ytimg.com/vi/xqzM96R66SE/maxresdefault.jpg"

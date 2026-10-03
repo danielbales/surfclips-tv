@@ -1,6 +1,7 @@
 ---
 title: "NW swell keeps pumping on NORTH SHORE!! on September 25, 2021"
 date: 2021-09-26T20:55:34Z
+description: "Support the channel by subscribing! The day after early season NW swell peaked on Oahu, 5-7 foot (2-3 meter) waves waves were on tap for north shore..."
 draft: false
 video_id: "WuqiUqFT6g8"
 thumbnail: "https://i.ytimg.com/vi/WuqiUqFT6g8/maxresdefault.jpg"

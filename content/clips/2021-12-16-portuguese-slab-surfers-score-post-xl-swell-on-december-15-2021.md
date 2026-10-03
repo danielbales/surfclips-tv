@@ -1,6 +1,7 @@
 ---
 title: "Portuguese SLAB SURFERS SCORE post-XL swell on December 15, 2021"
 date: 2021-12-16T17:16:20Z
+description: "After the XL swell that lit up Nazaré's Tow Surf Challenge, this slab did it's best pipeline impression with just a few surfers out. Support the..."
 draft: false
 video_id: "QIEm4R5jeSM"
 thumbnail: "https://i.ytimg.com/vi/QIEm4R5jeSM/maxresdefault.jpg"

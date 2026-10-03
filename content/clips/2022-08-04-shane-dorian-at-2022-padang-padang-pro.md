@@ -1,6 +1,7 @@
 ---
 title: "Shane Dorian at 2022 Padang Padang Pro"
 date: 2022-08-04T01:22:27Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "KlbbwveEh5M"
 thumbnail: "https://i.ytimg.com/vi/KlbbwveEh5M/maxresdefault.jpg"

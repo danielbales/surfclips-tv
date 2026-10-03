@@ -1,6 +1,7 @@
 ---
 title: "Kelly Slater snaking Kalani David at Backdoor (accidentally per his Instagram apology)"
 date: 2022-07-09T03:50:56Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "g17cCPR_El0"
 thumbnail: "https://i.ytimg.com/vi/g17cCPR_El0/maxresdefault.jpg"

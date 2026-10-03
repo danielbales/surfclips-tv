@@ -1,6 +1,7 @@
 ---
 title: "Ferocious Florida - 8 HEAVY waves from Hurricane Ian (South Beach, Miami)"
 date: 2022-09-30T19:32:07Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ One of the better days in a while thanks to a strong pulse of NNE swell from Hurricane Ian,..."
 draft: false
 video_id: "oZQo3-YgCD4"
 thumbnail: "https://i.ytimg.com/vi/oZQo3-YgCD4/maxresdefault.jpg"

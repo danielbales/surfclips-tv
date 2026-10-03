@@ -1,6 +1,7 @@
 ---
 title: "Eli Olson gets BLASTED by a Pipeline spit at the 2022 Backdoor Shootout (Round 3)"
 date: 2022-01-13T03:39:01Z
+description: "During Round 3 in the Florence Team's heat at the 2022 Backdoor Shootout, Eli Olson stalls himself in front of a Pipeline cannon! Support the channel..."
 draft: false
 video_id: "4woTVGCbnHs"
 thumbnail: "https://i.ytimg.com/vi/4woTVGCbnHs/maxresdefault.jpg"

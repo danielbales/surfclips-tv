@@ -1,6 +1,7 @@
 ---
 title: "Wipeout + snapped leash at firing Morocco point break"
 date: 2021-12-26T19:18:49Z
+description: "An unlucky surfer snaps a leash after falling on a set wave out the back at Anchor Point, Morocco. After a long swim (10 minutes or so) and likely..."
 draft: false
 video_id: "jemzxEuYZSY"
 thumbnail: "https://i.ytimg.com/vi/jemzxEuYZSY/maxresdefault.jpg"

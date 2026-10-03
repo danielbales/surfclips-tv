@@ -1,6 +1,7 @@
 ---
 title: "2022 J Bay Pro sees firing conditions + swell"
 date: 2022-07-15T03:09:09Z
+description: "First two days of the 2022 J-Bay Pro offered big, clean swell (224º) with offshore wind. It was an excellent of surf with pumping waves both days...."
 draft: false
 video_id: "kqgow0-4bEo"
 thumbnail: "https://i.ytimg.com/vi/kqgow0-4bEo/maxresdefault.jpg"

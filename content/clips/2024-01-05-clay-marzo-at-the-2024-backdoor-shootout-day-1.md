@@ -1,6 +1,7 @@
 ---
 title: "Clay Marzo at the 2024 Backdoor Shootout - Day 1"
 date: 2024-01-05T18:23:07Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "A3foToe1t_A"
 thumbnail: "https://i.ytimg.com/vi/A3foToe1t_A/maxresdefault.jpg"

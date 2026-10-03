@@ -1,6 +1,7 @@
 ---
 title: "Griffin Colapinto's THICK tube at the 2022 Pipeline Masters"
 date: 2022-12-17T01:47:11Z
+description: "Griffin Colapinto found one the waves of the morning at the 2022 Pipeline Pro, late-dropping and dragging himself in and out of this hefty Pipe tube...."
 draft: false
 video_id: "Y-I7gzPL1-g"
 thumbnail: "https://i.ytimg.com/vi/Y-I7gzPL1-g/maxresdefault.jpg"

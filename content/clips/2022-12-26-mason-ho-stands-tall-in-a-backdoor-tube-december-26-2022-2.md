@@ -1,6 +1,7 @@
 ---
 title: "Mason Ho STANDS TALL in a Backdoor tube – December 26, 2022 2"
 date: 2022-12-26T19:19:42Z
+description: "Reinforcing WNW-NW swell (316º) continues to provide some good sized surf to the North Shore with much improved wind conditions on tap for this..."
 draft: false
 video_id: "kK-A2kKrf8c"
 thumbnail: "https://i.ytimg.com/vi/kK-A2kKrf8c/maxresdefault.jpg"

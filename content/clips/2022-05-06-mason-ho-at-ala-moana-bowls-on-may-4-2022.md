@@ -1,6 +1,7 @@
 ---
 title: "Mason Ho at Ala Moana Bowls on May 4, 2022"
 date: 2022-05-06T20:32:07Z
+description: "Mason Ho enjoying long period SSW-S swells (16-18+ seconds) on the South Shore of Oahu. Support the channel by subscribing! Thank you for supporting..."
 draft: false
 video_id: "IQ-foFc3fi4"
 thumbnail: "https://i.ytimg.com/vi/IQ-foFc3fi4/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "XL Puerto Perfection - Memorial Day 2023 (May 29, 2023)"
 date: 2023-05-30T18:24:55Z
+description: "XL surf at Puerto Escondido was much more doable for big wave surfers than other recent big swells. Lots more completed tube rides and overall..."
 draft: false
 video_id: "brTH09et-Qc"
 thumbnail: "https://i.ytimg.com/vi/brTH09et-Qc/maxresdefault.jpg"

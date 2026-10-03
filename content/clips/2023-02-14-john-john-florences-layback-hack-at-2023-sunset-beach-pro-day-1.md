@@ -1,6 +1,7 @@
 ---
 title: "John John Florence's layback hack at 2023 Sunset Beach Pro (Day 1)"
 date: 2023-02-14T03:24:36Z
+description: "John John Florence puts his rail on display during his day 1 heat of the 2023 Sunset Beach Pro. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "r9_Q81V1hNc"
 thumbnail: "https://i.ytimg.com/vi/r9_Q81V1hNc/maxresdefault.jpg"

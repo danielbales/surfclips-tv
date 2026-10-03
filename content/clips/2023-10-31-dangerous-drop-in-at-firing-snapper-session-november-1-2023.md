@@ -1,6 +1,7 @@
 ---
 title: "DANGEROUS drop in at FIRING SNAPPER session – November 1, 2023"
 date: 2023-10-31T22:42:50Z
+description: "Pumping waves with very good push and girth ran down the points during this early morning session. Surprisingly it didn't look like any words were..."
 draft: false
 video_id: "B8gRiqGyr8E"
 thumbnail: "https://i.ytimg.com/vi/B8gRiqGyr8E/maxresdefault.jpg"

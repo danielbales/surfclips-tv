@@ -1,6 +1,7 @@
 ---
 title: "What would you call this?"
 date: 2025-12-15T03:30:22Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "VwaBxF3oVOM"
 thumbnail: "https://i.ytimg.com/vi/VwaBxF3oVOM/maxresdefault.jpg"

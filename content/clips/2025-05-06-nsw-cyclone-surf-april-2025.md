@@ -1,6 +1,7 @@
 ---
 title: "NSW Cyclone surf – April 2025"
 date: 2025-05-06T07:00:52Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "uubLM-0-o3A"
 thumbnail: "https://i.ytimg.com/vi/uubLM-0-o3A/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Granny Don't Surf"
 date: 2026-04-14T05:19:32Z
+description: "Watch Granny Don't Surf on Surf Clips TV."
 draft: false
 video_id: "r7RHykoWwsk"
 thumbnail: "https://i.ytimg.com/vi/r7RHykoWwsk/maxresdefault.jpg"

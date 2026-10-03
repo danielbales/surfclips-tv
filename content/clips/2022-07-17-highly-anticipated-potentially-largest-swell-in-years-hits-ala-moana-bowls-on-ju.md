@@ -1,6 +1,7 @@
 ---
 title: "Highly anticipated & potentially largest swell in years hits Ala Moana Bowls on July 16, 2022"
 date: 2022-07-17T05:44:39Z
+description: "Code Red 2 swell (long period S 182º) built in while East offshore winds 15 to 20 mph groomed faces, offering occasional double overhead faces for..."
 draft: false
 video_id: "xYMbV0gqIDA"
 thumbnail: "https://i.ytimg.com/vi/xYMbV0gqIDA/maxresdefault.jpg"

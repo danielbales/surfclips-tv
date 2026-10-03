@@ -1,6 +1,7 @@
 ---
 title: "Dreamy Backdoor barrel – January 10, 2023"
 date: 2023-01-11T02:04:21Z
+description: "North Shore continues to FIRE OFF with a steady mix of NW swell. Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can..."
 draft: false
 video_id: "kTQvWQPhADM"
 thumbnail: "https://i.ytimg.com/vi/kTQvWQPhADM/sddefault.jpg"

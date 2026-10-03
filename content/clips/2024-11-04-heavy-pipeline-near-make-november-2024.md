@@ -1,6 +1,7 @@
 ---
 title: "HEAVY Pipeline near-make - November 2024"
 date: 2024-11-04T16:00:47Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!..."
 draft: false
 video_id: "rAMjHpjvMr4"
 thumbnail: "https://i.ytimg.com/vi/rAMjHpjvMr4/maxresdefault.jpg"

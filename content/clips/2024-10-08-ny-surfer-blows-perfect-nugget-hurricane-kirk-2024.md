@@ -1,6 +1,7 @@
 ---
 title: "NY Surfer blows perfect nugget, Hurricane Kirk 2024"
 date: 2024-10-08T18:27:45Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ Thank you for supporting Surf Cam Rewind so we can continue to provide you with free..."
 draft: false
 video_id: "L_EFqGr86lk"
 thumbnail: "https://i.ytimg.com/vi/L_EFqGr86lk/maxresdefault.jpg"

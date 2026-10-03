@@ -1,6 +1,7 @@
 ---
 title: "Matt Meola's pit at the 2022 Pipeline Masters"
 date: 2022-12-18T02:00:36Z
+description: "Maui aerialist found himself in the 2022 Pipeline Masters and in this dreamy Pipe pit during his afternoon heat of day 2. Support the channel by..."
 draft: false
 video_id: "3ZXwJHSbxaE"
 thumbnail: "https://i.ytimg.com/vi/3ZXwJHSbxaE/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Makua Rothman on a Backdoor Dream during the 2022 Da Hui Backdoor Shootout on Day 2"
 date: 2022-01-07T21:13:05Z
+description: "Makua snags a solid Backdoor wave during team Da Hui's heat at the 2022 Backdoor Shootout. Support the channel by subscribing! Thank you for supporting..."
 draft: false
 video_id: "Rf_wci6k5pw"
 thumbnail: "https://i.ytimg.com/vi/Rf_wci6k5pw/maxresdefault.jpg"

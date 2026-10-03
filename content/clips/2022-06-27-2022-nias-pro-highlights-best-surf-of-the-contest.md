@@ -1,6 +1,7 @@
 ---
 title: "2022 Nias Pro highlights (best surf of the contest)"
 date: 2022-06-27T20:00:22Z
+description: "Pumping, solid SSW with clean conditions delivered near-epic conditions at Nias' Lagundri Bay on June 25, 2022. Support the channel by subscribing!..."
 draft: false
 video_id: "hZS9LMsk0u0"
 thumbnail: "https://i.ytimg.com/vi/hZS9LMsk0u0/maxresdefault.jpg"

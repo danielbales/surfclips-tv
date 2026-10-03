@@ -1,6 +1,7 @@
 ---
 title: "3 incredible sets from XXXL Nazaré on Freakish Friday"
 date: 2022-02-25T14:51:55Z
+description: "Freakish Friday didn't have ideal tides but the morning of February 25, 2022 still served up 30+ foot (10+ meter) faces to the tow-in surf teams at..."
 draft: false
 video_id: "LBDz1GMzw28"
 thumbnail: "https://i.ytimg.com/vi/LBDz1GMzw28/maxresdefault.jpg"

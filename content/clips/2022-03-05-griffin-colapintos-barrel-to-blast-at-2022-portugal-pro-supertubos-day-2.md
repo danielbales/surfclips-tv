@@ -1,6 +1,7 @@
 ---
 title: "Griffin Colapinto's barrel-to-blast at 2022 Portugal Pro Supertubos (Day 2)"
 date: 2022-03-05T20:46:25Z
+description: "Up against fellow Californians Nat Young and Kolohe Andino, Griffin finds a heavy backside tube that offered him a bonus blast before the shorebreak..."
 draft: false
 video_id: "29lZsgNna20"
 thumbnail: "https://i.ytimg.com/vi/29lZsgNna20/maxresdefault.jpg"

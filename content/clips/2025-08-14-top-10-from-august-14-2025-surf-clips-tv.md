@@ -1,6 +1,7 @@
 ---
 title: "TOP 10 from August 14, 2025 – Surf Clips TV"
 date: 2025-08-14T15:33:50Z
+description: "Watch TOP 10 from August 14, 2025 – Surf Clips TV on Surf Clips TV."
 draft: false
 video_id: "BUHGX0bVY7U"
 thumbnail: "https://i.ytimg.com/vi/BUHGX0bVY7U/sddefault.jpg"

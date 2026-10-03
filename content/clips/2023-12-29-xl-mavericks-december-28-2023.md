@@ -1,6 +1,7 @@
 ---
 title: "XL MAVERICKS – December 28, 2023"
 date: 2023-12-29T05:10:20Z
+description: "Tow teams decend on Northern California's most famous big wave reef, while a massive, extra long-period W swell maxed out with light South winds...."
 draft: false
 video_id: "wgrgXp776oU"
 thumbnail: "https://i.ytimg.com/vi/wgrgXp776oU/maxresdefault.jpg"

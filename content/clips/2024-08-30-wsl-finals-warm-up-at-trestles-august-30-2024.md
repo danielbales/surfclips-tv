@@ -1,6 +1,7 @@
 ---
 title: "WSL FINALS Warm-up at Trestles – August 30, 2024"
 date: 2024-08-30T19:01:40Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ A week before the WSL Finals, top pros descend on Trestles, Southern California's most..."
 draft: false
 video_id: "qZR0R70bSMI"
 thumbnail: "https://i.ytimg.com/vi/qZR0R70bSMI/maxresdefault.jpg"

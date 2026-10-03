@@ -1,6 +1,7 @@
 ---
 title: "Kelly Slater barrel attempt at 2023 Pipeline masters"
 date: 2023-02-08T05:08:34Z
+description: "Kelly Slater's barrel attempt at the 2023 Pipeline Masters shows why he's still one of the best surfers in the world. Support the channel by..."
 draft: false
 video_id: "bPUYpwFnKxw"
 thumbnail: "https://i.ytimg.com/vi/bPUYpwFnKxw/maxresdefault.jpg"

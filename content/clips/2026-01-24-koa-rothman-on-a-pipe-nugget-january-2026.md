@@ -1,6 +1,7 @@
 ---
 title: "Koa Rothman on a Pipe nugget - January 2026"
 date: 2026-01-24T08:00:10Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "ARUQfiUh2cg"
 thumbnail: "https://i.ytimg.com/vi/ARUQfiUh2cg/maxresdefault.jpg"

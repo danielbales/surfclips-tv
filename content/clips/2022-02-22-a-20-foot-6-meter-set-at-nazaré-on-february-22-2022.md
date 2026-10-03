@@ -1,6 +1,7 @@
 ---
 title: "A 20 foot (6 meter) set at NAZARÉ on February 22, 2022"
 date: 2022-02-22T19:12:55Z
+description: "Low tide Nazaré offered 15-20 foot faces to local tow-in surf teams during an already great winter season. Support the channel by subscribing! Thank..."
 draft: false
 video_id: "HWuPk1HjfVo"
 thumbnail: "https://i.ytimg.com/vi/HWuPk1HjfVo/maxresdefault.jpg"

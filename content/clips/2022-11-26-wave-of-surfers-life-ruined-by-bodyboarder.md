@@ -1,6 +1,7 @@
 ---
 title: "Wave of surfer's LIFE ruined by bodyboarder"
 date: 2022-11-26T00:27:49Z
+description: "https://surf-clips-tv.myspreadshop.com/ What was this bodyboarder thinking? Support the channel by subscribing! Thank you for supporting Surf Cam..."
 draft: false
 video_id: "f9U5naE2Roo"
 thumbnail: "https://i.ytimg.com/vi/f9U5naE2Roo/maxresdefault.jpg"

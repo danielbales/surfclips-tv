@@ -1,6 +1,7 @@
 ---
 title: "TROPICAL STORM hits TRESTLES - August 9, 2024"
 date: 2024-08-13T03:38:17Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "Xrqs1DFr3Ck"
 thumbnail: "https://i.ytimg.com/vi/Xrqs1DFr3Ck/maxresdefault.jpg"

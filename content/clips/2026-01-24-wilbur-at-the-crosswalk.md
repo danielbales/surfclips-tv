@@ -1,6 +1,7 @@
 ---
 title: "Wilbur at the crosswalk"
 date: 2026-01-24T04:51:44Z
+description: "Watch Wilbur at the crosswalk on Surf Clips TV."
 draft: false
 video_id: "O2s6wYPkB_I"
 thumbnail: "https://i.ytimg.com/vi/O2s6wYPkB_I/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "TOP 10 from January 7, 2024 – Surf Clips TV"
 date: 2025-01-07T19:57:30Z
+description: "Watch TOP 10 from January 7, 2024 – Surf Clips TV on Surf Clips TV."
 draft: false
 video_id: "OeBMHDNAdM4"
 thumbnail: "https://i.ytimg.com/vi/OeBMHDNAdM4/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "NEAR-DECAPITATION - Opening Day WEDGE 2024"
 date: 2024-04-20T19:55:16Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "3sCdnyiV2Ws"
 thumbnail: "https://i.ytimg.com/vi/3sCdnyiV2Ws/maxresdefault.jpg"

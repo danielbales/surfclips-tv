@@ -1,6 +1,7 @@
 ---
 title: "How to backside tuberide with Nathan Florence"
 date: 2024-11-20T22:56:48Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "Hi7r8Z24VdE"
 thumbnail: "https://i.ytimg.com/vi/Hi7r8Z24VdE/maxresdefault.jpg"

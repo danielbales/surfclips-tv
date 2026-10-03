@@ -1,6 +1,7 @@
 ---
 title: "Is this heaven?"
 date: 2025-07-20T07:00:33Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "W06We0XtEb8"
 thumbnail: "https://i9.ytimg.com/vi/W06We0XtEb8/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLAUKr6Pz7dTF-tfqIN4Y6MSad52kQ"

@@ -1,6 +1,7 @@
 ---
 title: "Bryan Perez at home in El Salvador"
 date: 2025-12-11T00:45:27Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "wywRm6zteqI"
 thumbnail: "https://i.ytimg.com/vi/wywRm6zteqI/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Bodyboarder drops in on surfer's wave of a lifetime"
 date: 2023-06-03T22:41:55Z
+description: "In double overhead Puerto Escondido, a surfer finds an incredible tube ride only to have a bodyboarder shoulder hop it. Somehow the surfer made it out..."
 draft: false
 video_id: "HCGsumGKlac"
 thumbnail: "https://i.ytimg.com/vi/HCGsumGKlac/maxresdefault.jpg"

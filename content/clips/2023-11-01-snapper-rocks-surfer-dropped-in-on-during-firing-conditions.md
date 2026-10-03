@@ -1,6 +1,7 @@
 ---
 title: "Snapper Rocks surfer dropped in on during firing conditions"
 date: 2023-11-01T03:39:20Z
+description: "Watch Snapper Rocks surfer dropped in on during firing conditions on Surf Clips TV."
 draft: false
 video_id: "0N1CZdGL76g"
 thumbnail: "https://i.ytimg.com/vi/0N1CZdGL76g/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Wave of the day in Central America"
 date: 2022-05-17T02:08:31Z
+description: "SSW swell peaked with favorable winds and offered perfect gems like this! Support the channel by subscribing! Thank you for supporting Surf Cam Rewind..."
 draft: false
 video_id: "Rzs694Q2uVQ"
 thumbnail: "https://i.ytimg.com/vi/Rzs694Q2uVQ/maxresdefault.jpg"

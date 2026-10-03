@@ -1,6 +1,7 @@
 ---
 title: "Behind the jetty drainer in tropical swell - August 9, 2024"
 date: 2024-08-10T01:07:57Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "7GvuZeVSqxE"
 thumbnail: "https://i.ytimg.com/vi/7GvuZeVSqxE/maxresdefault.jpg"

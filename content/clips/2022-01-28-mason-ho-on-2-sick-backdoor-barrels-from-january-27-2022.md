@@ -1,6 +1,7 @@
 ---
 title: "Mason Ho on 2 SICK Backdoor barrels from January 27, 2022"
 date: 2022-01-28T01:34:24Z
+description: "https://surf-clips-tv.myspreadshop.com/ Mid-period WNW-NW swell (290-320°) and ESE wind offered Mason Ho ideal conditions for him to snag these 2..."
 draft: false
 video_id: "MNjYmhqDLq0"
 thumbnail: "https://i.ytimg.com/vi/MNjYmhqDLq0/maxresdefault.jpg"

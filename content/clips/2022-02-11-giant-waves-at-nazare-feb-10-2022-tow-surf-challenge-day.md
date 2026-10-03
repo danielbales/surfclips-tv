@@ -1,6 +1,7 @@
 ---
 title: "GIANT waves at NAZARÉ (Feb 10, 2022 Tow Surf Challenge day)"
 date: 2022-02-11T02:47:35Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "1dGxHiaTedM"
 thumbnail: "https://i.ytimg.com/vi/1dGxHiaTedM/hqdefault.jpg"

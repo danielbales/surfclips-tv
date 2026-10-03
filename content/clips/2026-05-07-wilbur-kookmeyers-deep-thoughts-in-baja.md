@@ -1,6 +1,7 @@
 ---
 title: "Wilbur Kookmeyer’s Deep Thoughts in Baja"
 date: 2026-05-07T00:48:41Z
+description: "Wilbur finds himself completely alone under the breathtaking, star-filled skies of the Baja California coast. Suspended between eternity and the..."
 draft: false
 video_id: "_4fgttapCM0"
 thumbnail: "https://i.ytimg.com/vi/_4fgttapCM0/maxresdefault.jpg"

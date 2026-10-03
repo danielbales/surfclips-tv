@@ -1,6 +1,7 @@
 ---
 title: "Jack Robinson's 8-second Backdoor barrel (near-make) on December 27, 2021"
 date: 2021-12-28T02:18:09Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Backdoor turned on and offered surfer Jack Robinson a near-Wave of the Winter quality wave on..."
 draft: false
 video_id: "bdl07fwp0Jo"
 thumbnail: "https://i.ytimg.com/vi/bdl07fwp0Jo/maxresdefault.jpg"

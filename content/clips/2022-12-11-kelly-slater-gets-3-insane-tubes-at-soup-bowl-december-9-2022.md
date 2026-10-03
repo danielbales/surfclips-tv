@@ -1,6 +1,7 @@
 ---
 title: "KELLY SLATER gets 3 insane tubes at Soup Bowl - December 9, 2022"
 date: 2022-12-11T21:10:11Z
+description: "https://surf-clips-tv.myspreadshop.com/ Kelly Slater flew into Barbados on a surgical strike mission & put on a clinic. He was taking off deeper than..."
 draft: false
 video_id: "4O7dUtqZoGQ"
 thumbnail: "https://i.ytimg.com/vi/4O7dUtqZoGQ/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Joel Parkinson gets 6-second barrel during jetski session"
 date: 2022-01-02T08:01:06Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Tropical Cyclone Seth delivered huge caverns to Snapper Rocks on January 2, 2021. Surfers..."
 draft: false
 video_id: "jsSJ-EnDBAU"
 thumbnail: "https://i.ytimg.com/vi/jsSJ-EnDBAU/maxresdefault.jpg"

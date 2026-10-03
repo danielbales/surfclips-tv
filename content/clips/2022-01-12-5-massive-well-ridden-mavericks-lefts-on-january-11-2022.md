@@ -1,6 +1,7 @@
 ---
 title: "5 massive (& well-ridden) MAVERICKS LEFTS on January 11, 2022"
 date: 2022-01-12T03:40:04Z
+description: "January 11, 2022 offered great conditions for Northern Californian big wave surfers at Mavericks. 10-15 foot swell and light NE winds made the lefts..."
 draft: false
 video_id: "BDXVmsuASK4"
 thumbnail: "https://i.ytimg.com/vi/BDXVmsuASK4/maxresdefault.jpg"

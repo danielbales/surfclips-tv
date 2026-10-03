@@ -1,6 +1,7 @@
 ---
 title: "Tom Lowe with a gnarly XL wipeout"
 date: 2025-07-04T17:43:21Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "23E46yZHhIo"
 thumbnail: "https://i.ytimg.com/vi/23E46yZHhIo/maxresdefault.jpg"

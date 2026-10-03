@@ -1,6 +1,7 @@
 ---
 title: "Starting out 2025 right in Santa Cruz"
 date: 2025-01-09T18:01:32Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Surfline"
 draft: false
 video_id: "vVSri1XdlJo"
 thumbnail: "https://i.ytimg.com/vi/vVSri1XdlJo/maxresdefault.jpg"

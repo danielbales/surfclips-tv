@@ -1,6 +1,7 @@
 ---
 title: "Nias perfection on July 13, 2022"
 date: 2022-07-13T03:31:34Z
+description: "Nias turned on thanks to a long period SSW swell (195º) and light NNW winds with clean conditions. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "xPFLv7ZsbQM"
 thumbnail: "https://i.ytimg.com/vi/xPFLv7ZsbQM/maxresdefault.jpg"

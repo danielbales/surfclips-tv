@@ -1,6 +1,7 @@
 ---
 title: "HOLLOW morning at PUERTO ESCONDIDO on September 19, 2021"
 date: 2021-09-19T20:44:34Z
+description: "Support the channel by subscribing! 6-10 foot (2-3 meter) south swell funneled into playa zicatela, oaxaca on September 19, 2021. Thank you for..."
 draft: false
 video_id: "bv4T837xLj4"
 thumbnail: "https://i.ytimg.com/vi/bv4T837xLj4/maxresdefault.jpg"

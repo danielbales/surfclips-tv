@@ -1,6 +1,7 @@
 ---
 title: "Packing an Orange County BOMB"
 date: 2022-08-27T23:30:25Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "8bqmyiHAA8g"
 thumbnail: "https://i.ytimg.com/vi/8bqmyiHAA8g/maxresdefault.jpg"

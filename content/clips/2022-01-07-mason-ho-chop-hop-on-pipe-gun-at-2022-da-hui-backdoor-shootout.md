@@ -1,6 +1,7 @@
 ---
 title: "Mason Ho chop hop on Pipe gun at 2022 Da Hui Backdoor Shootout"
 date: 2022-01-07T04:25:36Z
+description: "https://surf-clips-tv.myspreadshop.com/ Firing Pipe surf during the 2022 Backdoor Shootout gave Mason Ho the opportunity to stick this heavy air-drop..."
 draft: false
 video_id: "Qf2lI1eMXas"
 thumbnail: "https://i.ytimg.com/vi/Qf2lI1eMXas/maxresdefault.jpg"

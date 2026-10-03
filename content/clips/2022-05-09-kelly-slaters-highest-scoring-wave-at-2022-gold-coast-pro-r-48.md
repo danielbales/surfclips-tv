@@ -1,6 +1,7 @@
 ---
 title: "Kelly Slater's highest scoring wave at 2022 Gold Coast Pro (R 48)"
 date: 2022-05-09T14:59:23Z
+description: "In his heat against Leonardo Fiorvanti & Cam Richards, the GOAT Kelly Slater snags this multi-hack ride to earn a 7.3. He was unable to progress in the..."
 draft: false
 video_id: "aRf4yohHvOk"
 thumbnail: "https://i.ytimg.com/vi/aRf4yohHvOk/maxresdefault.jpg"

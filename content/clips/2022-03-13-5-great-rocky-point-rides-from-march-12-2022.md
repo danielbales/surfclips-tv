@@ -1,6 +1,7 @@
 ---
 title: "5 great Rocky Point rides from March 12, 2022"
 date: 2022-03-13T15:53:10Z
+description: "5-8 foot faces and offshore winds groomed Rocky Point faces, offering rippable waves with an occasional barrel. Support the channel by subscribing!..."
 draft: false
 video_id: "B5raRQAu4rM"
 thumbnail: "https://i.ytimg.com/vi/B5raRQAu4rM/maxresdefault.jpg"

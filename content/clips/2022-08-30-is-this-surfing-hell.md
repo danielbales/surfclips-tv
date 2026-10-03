@@ -1,6 +1,7 @@
 ---
 title: "Is this surfing hell?"
 date: 2022-08-30T03:07:28Z
+description: "One of Southern California's most crowded and disrespectful surf spots hosted yet another day of surf where typical surf etiquette is forgotten, as..."
 draft: false
 video_id: "yg-mg2mlVfA"
 thumbnail: "https://i.ytimg.com/vi/yg-mg2mlVfA/maxresdefault.jpg"

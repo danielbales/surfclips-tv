@@ -1,6 +1,7 @@
 ---
 title: "California's MOST CROWDED surf spot?"
 date: 2022-07-27T23:33:45Z
+description: "If you think your break is crowded, the infamous Code Red 2 swell that hit California brought out serious crowds, but here at Malibu it was just..."
 draft: false
 video_id: "S17Fua47F-g"
 thumbnail: "https://i.ytimg.com/vi/S17Fua47F-g/maxresdefault.jpg"

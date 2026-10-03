@@ -1,6 +1,7 @@
 ---
 title: "Wave of the Day: Soup Bowl, Barbados – December 5, 2022"
 date: 2022-12-06T06:06:16Z
+description: "An epic day of surf at Barbados' Soup Bowl resulted in this lucky surfer finding a solid tube during his afternoon session. Support the channel by..."
 draft: false
 video_id: "XnLN-i3E9Pw"
 thumbnail: "https://i.ytimg.com/vi/XnLN-i3E9Pw/maxresdefault.jpg"

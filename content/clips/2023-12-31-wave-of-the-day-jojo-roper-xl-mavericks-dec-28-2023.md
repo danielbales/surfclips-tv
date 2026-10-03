@@ -1,6 +1,7 @@
 ---
 title: "Wave Of The Day – Jojo Roper XL Maverick's, Dec 28, 2023"
 date: 2023-12-31T23:38:04Z
+description: "During the XL Mavericks tow-in session the pride of San Diego Jojo Roper found cover and exited this cavern as if he's been doing it since birth...."
 draft: false
 video_id: "o9-0uJPBB2E"
 thumbnail: "https://i.ytimg.com/vi/o9-0uJPBB2E/maxresdefault.jpg"

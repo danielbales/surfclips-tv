@@ -1,6 +1,7 @@
 ---
 title: "South African A-frame"
 date: 2025-10-04T17:14:35Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "E7nWykh4BV4"
 thumbnail: "https://i9.ytimg.com/vi/E7nWykh4BV4/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLCG6ooV4IQYy2Sj51jKInlL3ViiHA"

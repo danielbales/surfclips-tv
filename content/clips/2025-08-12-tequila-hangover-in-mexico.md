@@ -1,6 +1,7 @@
 ---
 title: "Tequila hangover in Mexico"
 date: 2025-08-12T05:21:20Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "WPSAjZS_Wr4"
 thumbnail: "https://i9.ytimg.com/vi/WPSAjZS_Wr4/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLA60WQKKN9-QfvPMr9Ayp473mfWMw"

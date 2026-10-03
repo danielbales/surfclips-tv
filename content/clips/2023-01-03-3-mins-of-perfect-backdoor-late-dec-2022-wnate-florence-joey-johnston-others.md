@@ -1,6 +1,7 @@
 ---
 title: "3 mins of perfect BACKDOOR - Late Dec 2022 w/Nate Florence, Joey Johnston & others"
 date: 2023-01-03T17:58:36Z
+description: "A solid 6-10 foot WNW-NW swell brought out all the North Shore regulars, who promptly put on a demo on how to get tubed at Backdoor. Support the..."
 draft: false
 video_id: "cWVn52eahSU"
 thumbnail: "https://i.ytimg.com/vi/cWVn52eahSU/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "3 Pipe waves – November 30, 2023"
 date: 2023-12-01T15:00:53Z
+description: "Reinforcing NW swell energy provided some nice sized surf with favorable light S-SSE winds conditions on tap this morning for Pipe surfers. Support the..."
 draft: false
 video_id: "pZs6TNfhhZk"
 thumbnail: "https://i.ytimg.com/vi/pZs6TNfhhZk/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Pipeline explosion"
 date: 2025-02-26T04:49:16Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Surfline"
 draft: false
 video_id: "wxjhrO6I_U8"
 thumbnail: "https://i.ytimg.com/vi/wxjhrO6I_U8/maxresdefault.jpg"

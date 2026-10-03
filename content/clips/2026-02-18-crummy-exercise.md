@@ -1,6 +1,7 @@
 ---
 title: "Crummy exercise"
 date: 2026-02-18T04:43:53Z
+description: "Watch Crummy exercise on Surf Clips TV."
 draft: false
 video_id: "LMSbWWEhfaY"
 thumbnail: "https://i.ytimg.com/vi/LMSbWWEhfaY/maxresdefault.jpg"

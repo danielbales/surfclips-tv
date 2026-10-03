@@ -1,6 +1,7 @@
 ---
 title: "Barron Mamiya gets a perfect tube during the 2022 Da Hui Backdoor Shootout (Day 2)"
 date: 2022-01-07T19:43:01Z
+description: "Barron Mamiya gets a nice Pipeline barrel on Day 2 of the 2022 Backdoor Shootout on January 7, 2022. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "zzOF9sJ1fsI"
 thumbnail: "https://i.ytimg.com/vi/zzOF9sJ1fsI/maxresdefault.jpg"

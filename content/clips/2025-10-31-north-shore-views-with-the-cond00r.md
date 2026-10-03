@@ -1,6 +1,7 @@
 ---
 title: "North Shore views with the @ConD00R"
 date: 2025-10-31T02:23:23Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "jqhIi_bdl8g"
 thumbnail: "https://i.ytimg.com/vi/jqhIi_bdl8g/maxresdefault.jpg"

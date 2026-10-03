@@ -1,6 +1,7 @@
 ---
 title: "Legendary name"
 date: 2026-03-21T00:22:28Z
+description: "Watch Legendary name on Surf Clips TV."
 draft: false
 video_id: "VZ1Plj-4VP4"
 thumbnail: "https://i.ytimg.com/vi/VZ1Plj-4VP4/maxresdefault.jpg"

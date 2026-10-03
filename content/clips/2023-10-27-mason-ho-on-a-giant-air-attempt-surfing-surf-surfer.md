@@ -1,6 +1,7 @@
 ---
 title: "MASON HO on a GIANT air attempt!  #surfing #surf #surfer"
 date: 2023-10-27T04:45:59Z
+description: "Music - DJ Williams - Spy vs Spy Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with..."
 draft: false
 video_id: "9GLsPwsv3YU"
 thumbnail: "https://i.ytimg.com/vi/9GLsPwsv3YU/maxresdefault.jpg"

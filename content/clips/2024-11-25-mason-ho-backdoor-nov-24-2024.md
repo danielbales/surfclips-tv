@@ -1,6 +1,7 @@
 ---
 title: "Mason Ho, Backdoor - Nov 24, 2024"
 date: 2024-11-25T02:46:49Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!..."
 draft: false
 video_id: "EqwIIb7OB8U"
 thumbnail: "https://i.ytimg.com/vi/EqwIIb7OB8U/maxresdefault.jpg"

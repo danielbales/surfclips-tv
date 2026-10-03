@@ -1,6 +1,7 @@
 ---
 title: "Stylemaster Clay Marzo at home, Dec 2025 #surf #surfingmagazine #surfer"
 date: 2025-12-30T08:01:18Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "zVBr0Il2LD4"
 thumbnail: "https://i.ytimg.com/vi/zVBr0Il2LD4/maxresdefault.jpg"

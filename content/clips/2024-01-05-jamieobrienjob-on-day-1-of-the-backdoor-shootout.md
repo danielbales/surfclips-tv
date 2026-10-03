@@ -1,6 +1,7 @@
 ---
 title: "@JamieOBrienJOB on day 1 of the Backdoor Shootout"
 date: 2024-01-05T03:31:17Z
+description: "Watch @JamieOBrienJOB on day 1 of the Backdoor Shootout on Surf Clips TV."
 draft: false
 video_id: "EAWKkemEn-g"
 thumbnail: "https://i.ytimg.com/vi/EAWKkemEn-g/maxresdefault.jpg"

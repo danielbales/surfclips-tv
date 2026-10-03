@@ -1,6 +1,7 @@
 ---
 title: "TEAHUPO'O surf gets DREAMY on October 9, 2021"
 date: 2021-10-13T19:15:00Z
+description: "Support the channel by subscribing! On the back side of a massive swell, Teahupo'o served up clean, 8 foot (3 meter) surf at the end of the road in..."
 draft: false
 video_id: "0bdgiqtIVi4"
 thumbnail: "https://i.ytimg.com/vi/0bdgiqtIVi4/maxresdefault.jpg"

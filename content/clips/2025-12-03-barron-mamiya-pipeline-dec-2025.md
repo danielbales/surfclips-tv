@@ -1,6 +1,7 @@
 ---
 title: "Barron Mamiya - Pipeline, Dec 2025"
 date: 2025-12-03T01:00:21Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "cSl_A8G9egM"
 thumbnail: "https://i.ytimg.com/vi/cSl_A8G9egM/maxresdefault.jpg"

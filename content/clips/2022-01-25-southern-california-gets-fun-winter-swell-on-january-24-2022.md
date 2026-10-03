@@ -1,6 +1,7 @@
 ---
 title: "Southern California gets fun winter swell on January 24, 2022"
 date: 2022-01-25T00:52:45Z
+description: "Somewhere in Southern California turns on during a classic winter swell on January 24, 2022. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "SCMMgwGJHXo"
 thumbnail: "https://i.ytimg.com/vi/SCMMgwGJHXo/maxresdefault.jpg"

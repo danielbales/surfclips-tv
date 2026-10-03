@@ -1,6 +1,7 @@
 ---
 title: "Soup Bowl tube - Oct 2025"
 date: 2025-10-13T21:47:00Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "khCoKw-aktA"
 thumbnail: "https://i9.ytimg.com/vi/khCoKw-aktA/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLDr5lp0JiL6b9XNXfm9p-r-CG6xrw"

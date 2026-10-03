@@ -1,6 +1,7 @@
 ---
 title: "California beach break - Oct 2024"
 date: 2024-10-26T23:07:37Z
+description: "https://surf-clips-tv.myspreadshop.com/ Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Beefs TV"
 draft: false
 video_id: "dItyez07Phw"
 thumbnail: "https://i.ytimg.com/vi/dItyez07Phw/maxresdefault.jpg"

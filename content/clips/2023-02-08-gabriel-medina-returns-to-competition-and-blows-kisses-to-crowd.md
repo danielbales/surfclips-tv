@@ -1,6 +1,7 @@
 ---
 title: "Gabriel Medina returns to competition and blows kisses to crowd"
 date: 2023-02-08T08:00:00Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "aRK1iAijinQ"
 thumbnail: "https://i.ytimg.com/vi/aRK1iAijinQ/maxresdefault.jpg"

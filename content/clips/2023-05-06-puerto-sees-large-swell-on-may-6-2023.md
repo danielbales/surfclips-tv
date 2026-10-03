@@ -1,6 +1,7 @@
 ---
 title: "PUERTO sees LARGE swell on May 6, 2023"
 date: 2023-05-06T22:45:30Z
+description: "Healthy combo of primary SW swell and secondary S swell maxes out and produces occasional 15 foot faces, while light winds groomed faces. No takers..."
 draft: false
 video_id: "y261-sICAis"
 thumbnail: "https://i.ytimg.com/vi/y261-sICAis/maxresdefault.jpg"

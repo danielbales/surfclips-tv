@@ -1,6 +1,7 @@
 ---
 title: "Hale'iwa, Hawaii – February 5, 2024"
 date: 2024-02-06T04:43:49Z
+description: "Combination of solid WNW-NW swell along with a steadily fading NNE swell provided some sizable surf to the North Shore's Hale'iwa, while breezy ENE..."
 draft: false
 video_id: "2sGYZJWi-g8"
 thumbnail: "https://i.ytimg.com/vi/2sGYZJWi-g8/maxresdefault.jpg"

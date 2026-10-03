@@ -1,6 +1,7 @@
 ---
 title: "SUPER SESSION: BACKDOOR, Oahu surf on December 27, 2021"
 date: 2021-12-29T00:55:50Z
+description: "8-10 foot (2-4 meter) surf lit up Backdoor Oahu on December 27, 2021. Jamie O'Brien, John John Flornence, Jack Robinson and others put on a clinic...."
 draft: false
 video_id: "qXPNAN55Vqc"
 thumbnail: "https://i.ytimg.com/vi/qXPNAN55Vqc/maxresdefault.jpg"

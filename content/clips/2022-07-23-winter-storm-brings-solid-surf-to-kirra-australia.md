@@ -1,6 +1,7 @@
 ---
 title: "Winter storm brings SOLID surf to Kirra, Australia"
 date: 2022-07-23T22:39:35Z
+description: "An intense low-pressure systems (ECL) produced very solid yet manageable rides up to 3x overhead surf while strong Southerly winds on July 23, 2022...."
 draft: false
 video_id: "cR8dIhYe0tQ"
 thumbnail: "https://i.ytimg.com/vi/cR8dIhYe0tQ/maxresdefault.jpg"

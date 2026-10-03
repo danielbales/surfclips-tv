@@ -1,6 +1,7 @@
 ---
 title: "Orange County surfer sprays 7 with 1 turn"
 date: 2023-09-11T18:27:04Z
+description: "During a macking south swell in Orange County, this surfers' searing spray nailed a number of surfers during another crowded day here. Support the..."
 draft: false
 video_id: "zsJ6opF3XGU"
 thumbnail: "https://i.ytimg.com/vi/zsJ6opF3XGU/maxresdefault.jpg"

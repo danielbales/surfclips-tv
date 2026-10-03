@@ -1,6 +1,7 @@
 ---
 title: "Reef sharks in Teahupo'o lagoon on May 12, 2022"
 date: 2022-05-13T03:24:28Z
+description: "White-tip reef sharks swam around the Teahupo'o lagoon in the afternoon heat. Support the channel by subscribing! Thank you for supporting Surf Cam..."
 draft: false
 video_id: "Lr1Gadf2zBM"
 thumbnail: "https://i.ytimg.com/vi/Lr1Gadf2zBM/maxresdefault.jpg"

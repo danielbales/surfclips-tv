@@ -1,6 +1,7 @@
 ---
 title: "Pipeline OPENING DAY highlights – October 17, 2022"
 date: 2022-10-18T19:15:00Z
+description: "John John Florence, Mason Ho, Jamie O'Brien and more decent on this NW-NNW swell (303º) that provided SOLID surf to the North Shore. Wave heights were..."
 draft: false
 video_id: "FgA3O4VLD68"
 thumbnail: "https://i.ytimg.com/vi/FgA3O4VLD68/maxresdefault.jpg"

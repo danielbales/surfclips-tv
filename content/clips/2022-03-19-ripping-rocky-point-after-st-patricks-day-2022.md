@@ -1,6 +1,7 @@
 ---
 title: "RIPPING ROCKY POINT after St Patrick's Day 2022"
 date: 2022-03-19T01:52:11Z
+description: "What better way to wash off the St Patrick's Day hangover than by pulling in and blasting water out the back? Moments were few and far in between but..."
 draft: false
 video_id: "dpq3Zox1pBI"
 thumbnail: "https://i.ytimg.com/vi/dpq3Zox1pBI/maxresdefault.jpg"

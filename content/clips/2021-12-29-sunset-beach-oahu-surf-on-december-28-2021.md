@@ -1,6 +1,7 @@
 ---
 title: "Sunset Beach, Oahu surf on December 28, 2021"
 date: 2021-12-29T21:37:29Z
+description: "6-8 foot (2-3 meter) NW ground swell meant near-double overhead faces at Sunset Beach, Oahu on December 28, 2021. Support the channel by subscribing!..."
 draft: false
 video_id: "fsW2__PxO5M"
 thumbnail: "https://i.ytimg.com/vi/fsW2__PxO5M/maxresdefault.jpg"

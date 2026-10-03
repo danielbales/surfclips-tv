@@ -1,6 +1,7 @@
 ---
 title: "SUP destroyed in Peru"
 date: 2026-03-08T14:56:29Z
+description: "Surf Store Merch: Credit: Sebastian Gomez Del Castillo"
 draft: false
 video_id: "qoE8MpijES8"
 thumbnail: "https://i.ytimg.com/vi/qoE8MpijES8/maxresdefault.jpg"

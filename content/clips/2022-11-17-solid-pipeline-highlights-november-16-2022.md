@@ -1,6 +1,7 @@
 ---
 title: "Solid Pipeline — highlights, November 16, 2022"
 date: 2022-11-17T04:22:35Z
+description: "NW swell (315-335°) peaked providing double overhead+ surf range to the crown jewel of the North Shore. Crowds were relatively light and good ones were..."
 draft: false
 video_id: "X2-0b1-DuOQ"
 thumbnail: "https://i.ytimg.com/vi/X2-0b1-DuOQ/maxresdefault.jpg"

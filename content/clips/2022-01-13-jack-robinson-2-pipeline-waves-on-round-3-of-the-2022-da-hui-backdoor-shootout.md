@@ -1,6 +1,7 @@
 ---
 title: "Jack Robinson 2 PIPELINE waves on Round 3 of the 2022 Da Hui Backdoor Shootout"
 date: 2022-01-13T03:37:45Z
+description: "During Team Volcom's heat at the 2022 Backdoor Shootout, Jack Robinson surfed these two Pipeline waves. Support the channel by subscribing! Thank you..."
 draft: false
 video_id: "iz5UAcgg71M"
 thumbnail: "https://i.ytimg.com/vi/iz5UAcgg71M/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Crowd ditches boards at solid Pipeline"
 date: 2023-01-25T00:04:38Z
+description: "On a near-perfect 8-10 foot day at Pipeline, a rogue set washes through the lineup forcing many to dangerously abandon equipment and pray their leashes..."
 draft: false
 video_id: "l50v1ij6nVM"
 thumbnail: "https://i.ytimg.com/vi/l50v1ij6nVM/maxresdefault.jpg"

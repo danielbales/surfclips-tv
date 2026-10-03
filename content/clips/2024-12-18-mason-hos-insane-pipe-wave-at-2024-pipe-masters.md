@@ -1,6 +1,7 @@
 ---
 title: "MASON HO's INSANE Pipe wave at 2024 Pipe Masters"
 date: 2024-12-18T23:20:12Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Mason Ho doesn't find the exit but left everyone's mind blown none-the-less. Credit: Surfline"
 draft: false
 video_id: "sKS1uRIkeIw"
 thumbnail: "https://i.ytimg.com/vi/sKS1uRIkeIw/maxresdefault.jpg"

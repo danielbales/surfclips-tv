@@ -1,6 +1,7 @@
 ---
 title: "Spring time HB Pier ripping"
 date: 2024-03-24T04:24:33Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "R-AUaFIyfss"
 thumbnail: "https://i.ytimg.com/vi/R-AUaFIyfss/maxresdefault.jpg"

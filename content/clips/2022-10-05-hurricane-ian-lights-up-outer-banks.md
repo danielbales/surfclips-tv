@@ -1,6 +1,7 @@
 ---
 title: "Hurricane Ian lights up Outer Banks"
 date: 2022-10-05T16:00:47Z
+description: "NE/ENE windswell (69º) and ESE/SE swell (133º) mix, while SSW winds provide peaky surf, thanks to the remnants of Hurricane Ian. Support the channel by..."
 draft: false
 video_id: "4DvUUIhEo5A"
 thumbnail: "https://i.ytimg.com/vi/4DvUUIhEo5A/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Hurricane Fiona hits New York on September 23, 2022"
 date: 2022-09-26T17:38:52Z
+description: "Fiona delivered great surf from the north Atlantic, while stiff, offshore winds turned waves into hollow wedges for New York surfers. Support the..."
 draft: false
 video_id: "q9LDZNDDBlQ"
 thumbnail: "https://i.ytimg.com/vi/q9LDZNDDBlQ/maxresdefault.jpg"

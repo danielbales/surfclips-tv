@@ -1,6 +1,7 @@
 ---
 title: "6 GREAT waves at BACKDOOR, OAHU on November 3, 2021"
 date: 2021-11-06T13:10:29Z
+description: "Solid NW swell on the north shore meant occasional gems at Backdoor. The window was short but magic. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "PQXNdyG7F90"
 thumbnail: "https://i.ytimg.com/vi/PQXNdyG7F90/maxresdefault.jpg"

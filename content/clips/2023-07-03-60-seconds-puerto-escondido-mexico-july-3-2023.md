@@ -1,6 +1,7 @@
 ---
 title: "60 seconds: Puerto Escondido, Mexico – July 3, 2023"
 date: 2023-07-03T22:24:22Z
+description: "A mix of old + new SSW swell (198º & 200º) and tropical swell (159º) with offshore winds provided some great tube rides for Zicatela surfers. Support..."
 draft: false
 video_id: "HTLfD0p7WoY"
 thumbnail: "https://i.ytimg.com/vi/HTLfD0p7WoY/maxresdefault.jpg"

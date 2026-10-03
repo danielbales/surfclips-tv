@@ -1,6 +1,7 @@
 ---
 title: "Wilbur the philosopher"
 date: 2026-01-22T20:38:58Z
+description: "Watch Wilbur the philosopher on Surf Clips TV."
 draft: false
 video_id: "9mH2osMoK58"
 thumbnail: "https://i.ytimg.com/vi/9mH2osMoK58/maxresdefault.jpg"

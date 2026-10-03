@@ -1,6 +1,7 @@
 ---
 title: "Worst wipeout ever? Tom Dosland at Jaws"
 date: 2025-05-21T07:01:01Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Surfline"
 draft: false
 video_id: "sH8ckdeXiME"
 thumbnail: "https://i.ytimg.com/vi/sH8ckdeXiME/maxresdefault.jpg"

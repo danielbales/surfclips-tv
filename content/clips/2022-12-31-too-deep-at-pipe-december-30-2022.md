@@ -1,6 +1,7 @@
 ---
 title: "Too deep at Pipe - December 30, 2022"
 date: 2022-12-31T23:08:17Z
+description: "The ocean releasing pressure. Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free..."
 draft: false
 video_id: "jRX9wggh1sE"
 thumbnail: "https://i.ytimg.com/vi/jRX9wggh1sE/maxresdefault.jpg"

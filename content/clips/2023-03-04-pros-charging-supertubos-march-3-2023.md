@@ -1,6 +1,7 @@
 ---
 title: "Pros CHARGING Supertubos - March 3, 2023"
 date: 2023-03-04T05:01:53Z
+description: "8-10 foot (3 meter) roll-in takeoffs turned into shallow pits for the world's best surfers before the 2023 Supertubos pro. Support the channel by..."
 draft: false
 video_id: "kC-b9HzJ1O4"
 thumbnail: "https://i.ytimg.com/vi/kC-b9HzJ1O4/maxresdefault.jpg"

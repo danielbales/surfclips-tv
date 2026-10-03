@@ -1,6 +1,7 @@
 ---
 title: "👀 When the bottom drops out 👀"
 date: 2025-01-04T06:07:46Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Early January 2025 continues to provide North Shore surfers with fantastic surf conditions...."
 draft: false
 video_id: "VStrh73mR8g"
 thumbnail: "https://i.ytimg.com/vi/VStrh73mR8g/maxresdefault.jpg"

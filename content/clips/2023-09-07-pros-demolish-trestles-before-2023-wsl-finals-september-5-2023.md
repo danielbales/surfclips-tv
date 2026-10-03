@@ -1,6 +1,7 @@
 ---
 title: "Pros DEMOLISH Trestles before 2023 WSL FINALS – September 5, 2023"
 date: 2023-09-07T01:05:13Z
+description: "Plenty of S swell pushed Trestles to well overhead sets with clean conditions out of the gates courtesy of light offshore wind out of the NE and a..."
 draft: false
 video_id: "Bm6BQF0EteI"
 thumbnail: "https://i.ytimg.com/vi/Bm6BQF0EteI/maxresdefault.jpg"

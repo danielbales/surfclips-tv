@@ -1,6 +1,7 @@
 ---
 title: "OVERHEAD BALI GLASS on October 21, 2021"
 date: 2021-10-21T19:47:24Z
+description: "Support the channel by subscribing! 4-6 foot (2 meter) sets made their way to the Bukit Peninsula, Bali on October 21, 2021. Tubes and rippable faces..."
 draft: false
 video_id: "Bnm_pga705c"
 thumbnail: "https://i.ytimg.com/vi/Bnm_pga705c/maxresdefault.jpg"

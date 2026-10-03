@@ -1,6 +1,7 @@
 ---
 title: "Longboarding Hawaii on March 24, 2022"
 date: 2022-03-27T21:18:03Z
+description: "South Shore reefs came alive on the 1st swell of the season. Winds were offshore and occasional fun waves came through for a handful of longboarders...."
 draft: false
 video_id: "pUhqU0Ev7yw"
 thumbnail: "https://i.ytimg.com/vi/pUhqU0Ev7yw/maxresdefault.jpg"

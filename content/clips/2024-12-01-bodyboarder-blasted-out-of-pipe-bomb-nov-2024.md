@@ -1,6 +1,7 @@
 ---
 title: "Bodyboarder BLASTED out of Pipe bomb - Nov 2024"
 date: 2024-12-01T03:57:49Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Surfline"
 draft: false
 video_id: "L0wSUXGqGrI"
 thumbnail: "https://i.ytimg.com/vi/L0wSUXGqGrI/maxresdefault.jpg"

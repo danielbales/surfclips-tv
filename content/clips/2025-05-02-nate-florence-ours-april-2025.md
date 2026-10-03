@@ -1,6 +1,7 @@
 ---
 title: "Nate Florence – Ours, April 2025"
 date: 2025-05-02T03:28:05Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "IbAS3NPHdc0"
 thumbnail: "https://i.ytimg.com/vi/IbAS3NPHdc0/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Ala Moana Bowls, Hawaii – July 11, 2023"
 date: 2023-07-14T20:22:42Z
+description: "Fun South swell hits Ala Moana Bowls, and offered a few lucky surfers some tube time. Support the channel by subscribing! Thank you for supporting Surf..."
 draft: false
 video_id: "gtnCyWMUh1k"
 thumbnail: "https://i.ytimg.com/vi/gtnCyWMUh1k/maxresdefault.jpg"

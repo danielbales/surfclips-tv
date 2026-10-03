@@ -1,6 +1,7 @@
 ---
 title: "No Pro Go-Pro"
 date: 2026-04-05T05:13:52Z
+description: "Watch No Pro Go-Pro on Surf Clips TV."
 draft: false
 video_id: "TxeRg_saLOE"
 thumbnail: "https://i.ytimg.com/vi/TxeRg_saLOE/maxresdefault.jpg"

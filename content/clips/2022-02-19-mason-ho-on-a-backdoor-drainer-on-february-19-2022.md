@@ -1,6 +1,7 @@
 ---
 title: "Mason Ho on a Backdoor drainer on February 19, 2022"
 date: 2022-02-19T22:12:14Z
+description: "4-7 foot and clean conditions were on tap while Mason Ho snags one of the better Backdoor barrels of the morning. Support the channel by subscribing!..."
 draft: false
 video_id: "DvxvC-SjIes"
 thumbnail: "https://i.ytimg.com/vi/DvxvC-SjIes/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "1st July swell in Indo fires"
 date: 2022-07-02T18:13:25Z
+description: "Solid long period waves from the SW (216º) with light winds lit up this Indonesian reef pass during the afternoon of July 2, 2022. Rain squalls moved..."
 draft: false
 video_id: "OPogU269M2A"
 thumbnail: "https://i.ytimg.com/vi/OPogU269M2A/maxresdefault.jpg"

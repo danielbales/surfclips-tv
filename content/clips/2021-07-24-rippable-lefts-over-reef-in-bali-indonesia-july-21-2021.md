@@ -1,6 +1,7 @@
 ---
 title: "RIPPABLE LEFTS over reef in Bali, Indonesia July 21, 2021"
 date: 2021-07-24T22:48:04Z
+description: "Support the channel by subscribing! Great waves broke throughout the day on this Bukit Peninsula stretch of reef. Those out had some fun rides, enjoy!..."
 draft: false
 video_id: "-mv3dGHyB78"
 thumbnail: "https://i.ytimg.com/vi/-mv3dGHyB78/maxresdefault.jpg"

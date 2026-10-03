@@ -1,6 +1,7 @@
 ---
 title: "TUBEFEST!! Surf at Padang Padang, Bali on July 30 2021"
 date: 2021-08-03T01:23:06Z
+description: "Support the channel by subscribing! Consistent, overhead barrels rolled through the lineup on Bali's Bukit Peninsula (Padang Padang) on July 30, 2021...."
 draft: false
 video_id: "DVUpfohs2pQ"
 thumbnail: "https://i.ytimg.com/vi/DVUpfohs2pQ/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Jamie O'Brien on 3 insane soft-tops rides"
 date: 2023-01-04T23:17:40Z
+description: "JOB puts the freakshow on display on his soft-top. Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to..."
 draft: false
 video_id: "AwIITYhvlqk"
 thumbnail: "https://i.ytimg.com/vi/AwIITYhvlqk/maxresdefault.jpg"

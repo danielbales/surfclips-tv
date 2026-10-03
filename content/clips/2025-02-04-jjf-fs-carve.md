@@ -1,6 +1,7 @@
 ---
 title: "@JJF FS carve"
 date: 2025-02-04T00:15:16Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "nFvjei-JblM"
 thumbnail: "https://i.ytimg.com/vi/nFvjei-JblM/maxresdefault.jpg"

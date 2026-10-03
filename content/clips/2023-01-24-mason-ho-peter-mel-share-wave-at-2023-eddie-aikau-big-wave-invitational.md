@@ -1,6 +1,7 @@
 ---
 title: "Mason Ho & Peter Mel share wave at 2023 Eddie Aikau Big Wave Invitational"
 date: 2023-01-24T00:39:42Z
+description: "Mason Ho and Peter Mel surf together on a solid Waimea Bay wave at the 2023 Eddie Aikau Big Wave Invitational. Support the channel by subscribing!..."
 draft: false
 video_id: "IY8YtUR5C2Q"
 thumbnail: "https://i.ytimg.com/vi/IY8YtUR5C2Q/maxresdefault.jpg"

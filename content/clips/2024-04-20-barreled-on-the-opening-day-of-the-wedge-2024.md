@@ -1,6 +1,7 @@
 ---
 title: "BARRELED on the opening day of THE WEDGE 2024"
 date: 2024-04-20T19:27:26Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "uRURQnwdpAQ"
 thumbnail: "https://i.ytimg.com/vi/uRURQnwdpAQ/maxresdefault.jpg"

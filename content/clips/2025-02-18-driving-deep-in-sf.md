@@ -1,6 +1,7 @@
 ---
 title: "Driving deep in SF"
 date: 2025-02-18T08:00:15Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "LzaJZB-w-Zw"
 thumbnail: "https://i.ytimg.com/vi/LzaJZB-w-Zw/maxresdefault.jpg"

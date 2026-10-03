@@ -1,6 +1,7 @@
 ---
 title: "Seth Moniz's long Backdoor pit at the 2024 Backdoor Shootout"
 date: 2024-01-05T03:35:50Z
+description: "Watch Seth Moniz's long Backdoor pit at the 2024 Backdoor Shootout on Surf Clips TV."
 draft: false
 video_id: "5IoaPTW6ya4"
 thumbnail: "https://i.ytimg.com/vi/5IoaPTW6ya4/maxresdefault.jpg"

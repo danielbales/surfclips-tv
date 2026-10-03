@@ -1,6 +1,7 @@
 ---
 title: "Wave of the swell !!(?) Hurricane Lee September 2023"
 date: 2023-09-17T21:47:17Z
+description: "Watch Wave of the swell !!(?) Hurricane Lee September 2023 on Surf Clips TV."
 draft: false
 video_id: "O7AF5SZWAcA"
 thumbnail: "https://i.ytimg.com/vi/O7AF5SZWAcA/maxresdefault.jpg"

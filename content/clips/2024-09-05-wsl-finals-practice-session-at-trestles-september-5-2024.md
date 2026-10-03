@@ -1,6 +1,7 @@
 ---
 title: "WSL FINALS PRACTICE session at Trestles – September 5, 2024"
 date: 2024-09-05T19:40:48Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ John John Florence, Italo Ferreira, Jack Robinson, Griffin Colapinto, & Ethan Ewing slay..."
 draft: false
 video_id: "6iSZ89RAx-M"
 thumbnail: "https://i.ytimg.com/vi/6iSZ89RAx-M/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Carnage as 2nd reef Pipeline set sweeps through lineup (morning after XL swell)"
 date: 2022-01-25T03:45:00Z
+description: "Five 2nd reef Pipeline waves rolled through the lineup on January 23, 2022 as a reminder to surfers who's boss. Support the channel by subscribing!..."
 draft: false
 video_id: "HHg3CEal6_U"
 thumbnail: "https://i.ytimg.com/vi/HHg3CEal6_U/maxresdefault.jpg"

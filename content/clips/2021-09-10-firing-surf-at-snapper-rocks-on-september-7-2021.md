@@ -1,6 +1,7 @@
 ---
 title: "FIRING SURF at SNAPPER ROCKS!!! on September 7, 2021"
 date: 2021-09-10T19:00:05Z
+description: "Support the channel by subscribing! The day after the swell peaked at Snapper Rocks, Australia was still looking quite fun, with head high barreling..."
 draft: false
 video_id: "9UAXafvNxvs"
 thumbnail: "https://i.ytimg.com/vi/9UAXafvNxvs/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "XL surf at Mundaka, Spain on December 13, 2021"
 date: 2021-12-14T17:11:24Z
+description: "10-15 foot (4-5 meter) waves steamrolled down Mundaka's sandbank on this XL day of surf. This was the same day as the Nazaré tow surf challenge...."
 draft: false
 video_id: "KkRvjEaNSu4"
 thumbnail: "https://i.ytimg.com/vi/KkRvjEaNSu4/maxresdefault.jpg"

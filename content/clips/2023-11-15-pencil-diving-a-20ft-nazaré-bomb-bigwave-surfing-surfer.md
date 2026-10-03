@@ -1,6 +1,7 @@
 ---
 title: "Pencil diving a 20ft Nazaré bomb #bigwave #surfing #surfer"
 date: 2023-11-15T03:58:41Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "i_C52GKCxes"
 thumbnail: "https://i.ytimg.com/vi/i_C52GKCxes/maxresdefault.jpg"

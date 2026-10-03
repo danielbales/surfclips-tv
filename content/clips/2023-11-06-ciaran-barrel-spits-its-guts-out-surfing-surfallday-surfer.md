@@ -1,6 +1,7 @@
 ---
 title: "#ciaran barrel spits it's guts out 🤮  #surfing #surfallday #surfer"
 date: 2023-11-06T00:43:17Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "mSTofOU8mWk"
 thumbnail: "https://i.ytimg.com/vi/mSTofOU8mWk/maxresdefault.jpg"

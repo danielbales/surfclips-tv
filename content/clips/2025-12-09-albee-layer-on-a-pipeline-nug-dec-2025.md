@@ -1,6 +1,7 @@
 ---
 title: "Albee Layer on a Pipeline NUG - Dec, 2025"
 date: 2025-12-09T19:30:49Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "8Nicy9hMw_U"
 thumbnail: "https://i.ytimg.com/vi/8Nicy9hMw_U/maxresdefault.jpg"

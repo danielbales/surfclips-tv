@@ -1,6 +1,7 @@
 ---
 title: "Kelly Slater at the 2023 Backdoor Shootout"
 date: 2023-01-16T02:16:18Z
+description: "Watch Kelly Slater at the 2023 Backdoor Shootout on Surf Clips TV."
 draft: false
 video_id: "7jHEkzvrE-k"
 thumbnail: "https://i.ytimg.com/vi/7jHEkzvrE-k/maxresdefault.jpg"

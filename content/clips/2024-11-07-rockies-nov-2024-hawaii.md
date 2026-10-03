@@ -1,6 +1,7 @@
 ---
 title: "Rockies - Nov, 2024, Hawaii"
 date: 2024-11-07T22:31:13Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Fun swell and offshore winds meant the likes of Mason Ho, John John Florence and others got..."
 draft: false
 video_id: "LEkr9_FB0-g"
 thumbnail: "https://i.ytimg.com/vi/LEkr9_FB0-g/maxresdefault.jpg"

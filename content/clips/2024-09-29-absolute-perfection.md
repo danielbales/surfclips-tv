@@ -1,6 +1,7 @@
 ---
 title: "Absolute perfection 🔥"
 date: 2024-09-29T20:27:48Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ Thank you for supporting Surf Cam Rewind so we can continue to provide you with free..."
 draft: false
 video_id: "uuoUHKs6hmA"
 thumbnail: "https://i.ytimg.com/vi/uuoUHKs6hmA/maxresdefault.jpg"

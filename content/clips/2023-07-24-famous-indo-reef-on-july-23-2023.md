@@ -1,6 +1,7 @@
 ---
 title: "Famous Indo reef on July 23, 2023"
 date: 2023-07-24T01:42:36Z
+description: "This sumatran reefbreak turned on thanks to large swell that slammed Indonesia recently. Support the channel by subscribing! Thank you for supporting..."
 draft: false
 video_id: "Wo6uLo0TQmU"
 thumbnail: "https://i.ytimg.com/vi/Wo6uLo0TQmU/maxresdefault.jpg"

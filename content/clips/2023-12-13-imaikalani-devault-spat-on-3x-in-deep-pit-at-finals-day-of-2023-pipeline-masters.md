@@ -1,6 +1,7 @@
 ---
 title: "Imaikalani DeVault spat on 3x in deep pit at Finals Day of 2023 Pipeline Masters"
 date: 2023-12-13T19:30:00Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "-u8LpoiPB3A"
 thumbnail: "https://i.ytimg.com/vi/-u8LpoiPB3A/maxresdefault.jpg"

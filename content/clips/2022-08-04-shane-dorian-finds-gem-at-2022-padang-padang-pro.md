@@ -1,6 +1,7 @@
 ---
 title: "Shane Dorian finds gem at 2022 Padang Padang Pro"
 date: 2022-08-04T00:55:03Z
+description: "Scoring a 7.5 in his heat with Mason Ho, big wave legend Shane Dorian finds a morning gem at the 2022 Padang Padang Pro. Support the channel by..."
 draft: false
 video_id: "vXezhOxi4_g"
 thumbnail: "https://i.ytimg.com/vi/vXezhOxi4_g/maxresdefault.jpg"

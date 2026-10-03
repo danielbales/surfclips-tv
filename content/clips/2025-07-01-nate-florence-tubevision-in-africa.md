@@ -1,6 +1,7 @@
 ---
 title: "Nate Florence tubevision in Africa"
 date: 2025-07-01T04:15:20Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "uvrX8EDSsv8"
 thumbnail: "https://i.ytimg.com/vi/uvrX8EDSsv8/maxresdefault.jpg"

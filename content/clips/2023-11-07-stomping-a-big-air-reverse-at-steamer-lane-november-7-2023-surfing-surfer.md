@@ -1,6 +1,7 @@
 ---
 title: "Stomping a big air-reverse at Steamer Lane - November 7, 2023 #surfing #surfer"
 date: 2023-11-07T20:02:08Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "RsHEAvmtAIY"
 thumbnail: "https://i.ytimg.com/vi/RsHEAvmtAIY/maxresdefault.jpg"

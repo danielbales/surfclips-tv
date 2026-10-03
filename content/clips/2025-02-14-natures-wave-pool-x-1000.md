@@ -1,6 +1,7 @@
 ---
 title: "Nature's wave pool x 1000"
 date: 2025-02-14T21:30:33Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Surfline"
 draft: false
 video_id: "PdzJ5KYMkeI"
 thumbnail: "https://i.ytimg.com/vi/PdzJ5KYMkeI/maxresdefault.jpg"

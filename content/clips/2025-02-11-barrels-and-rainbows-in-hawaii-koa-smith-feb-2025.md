@@ -1,6 +1,7 @@
 ---
 title: "Barrels and rainbows in Hawaii - Koa Smith, Feb 2025"
 date: 2025-02-11T21:42:46Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "NbIut-096Lk"
 thumbnail: "https://i.ytimg.com/vi/NbIut-096Lk/maxresdefault.jpg"

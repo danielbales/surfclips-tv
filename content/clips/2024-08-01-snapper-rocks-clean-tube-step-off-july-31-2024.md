@@ -1,6 +1,7 @@
 ---
 title: "SNAPPER ROCKS CLEAN TUBE - step off, July 31, 2024"
 date: 2024-08-01T01:00:07Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "EsYKOjrALEo"
 thumbnail: "https://i.ytimg.com/vi/EsYKOjrALEo/maxresdefault.jpg"

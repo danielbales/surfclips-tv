@@ -1,6 +1,7 @@
 ---
 title: "Winter PIPELINE SWELL fills in on Thanksgiving Eve"
 date: 2021-11-25T07:34:05Z
+description: "Reinforcing NW-NNW swell energy filles in across the North Shore. Locals charged head high to well overhead high range with sets nearing the double..."
 draft: false
 video_id: "t7NQpSJ7qT8"
 thumbnail: "https://i.ytimg.com/vi/t7NQpSJ7qT8/maxresdefault.jpg"

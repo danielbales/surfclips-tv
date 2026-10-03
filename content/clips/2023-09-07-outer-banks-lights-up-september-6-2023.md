@@ -1,6 +1,7 @@
 ---
 title: "Outer Banks LIGHTS UP – September 6, 2023"
 date: 2023-09-07T07:00:14Z
+description: "Clean conditions and solid ENE swell provided head high waves at this Outer Banks sandbar. Support the channel by subscribing! Thank you for supporting..."
 draft: false
 video_id: "eDlNhWOBlXg"
 thumbnail: "https://i.ytimg.com/vi/eDlNhWOBlXg/maxresdefault.jpg"

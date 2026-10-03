@@ -1,6 +1,7 @@
 ---
 title: "John John Florence snags Backdoor barrel on December 27, 2021"
 date: 2021-12-29T22:48:34Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ During firing Backdoor, Oahu Super Session John John Florence snags a heavy drainer! Support..."
 draft: false
 video_id: "eUjzdACF9XQ"
 thumbnail: "https://i.ytimg.com/vi/eUjzdACF9XQ/maxresdefault.jpg"

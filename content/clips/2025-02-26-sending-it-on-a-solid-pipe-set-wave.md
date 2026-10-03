@@ -1,6 +1,7 @@
 ---
 title: "Sending it on a SOLID Pipe set wave"
 date: 2025-02-26T04:57:12Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Surfline"
 draft: false
 video_id: "zjonGIq6Tgg"
 thumbnail: "https://i.ytimg.com/vi/zjonGIq6Tgg/maxresdefault.jpg"

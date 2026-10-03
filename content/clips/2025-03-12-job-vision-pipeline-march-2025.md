@@ -1,6 +1,7 @@
 ---
 title: "JOB vision - Pipeline, March 2025"
 date: 2025-03-12T04:23:40Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "3Ja_D5959-U"
 thumbnail: "https://i.ytimg.com/vi/3Ja_D5959-U/maxresdefault.jpg"

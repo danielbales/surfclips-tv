@@ -1,6 +1,7 @@
 ---
 title: "Ben Gravy in New Jersey - January, 2026"
 date: 2026-01-15T18:58:47Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "ARb8Ttsjfcc"
 thumbnail: "https://i.ytimg.com/vi/ARb8Ttsjfcc/maxresdefault.jpg"

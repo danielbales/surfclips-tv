@@ -1,6 +1,7 @@
 ---
 title: "INSANE reefbreak barrel hunt - Indonesia, April 1, 2024"
 date: 2024-04-01T04:12:45Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ Dreamy waves, epic barrels, close calls, and a memorable day of 8-10 long period..."
 draft: false
 video_id: "Xwgd3zFJ8gE"
 thumbnail: "https://i.ytimg.com/vi/Xwgd3zFJ8gE/maxresdefault.jpg"

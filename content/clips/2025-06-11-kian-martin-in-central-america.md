@@ -1,6 +1,7 @@
 ---
 title: "Kian Martin in Central America"
 date: 2025-06-11T18:21:36Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Channel Islands"
 draft: false
 video_id: "YZcM12spfx4"
 thumbnail: "https://i.ytimg.com/vi/YZcM12spfx4/maxresdefault.jpg"

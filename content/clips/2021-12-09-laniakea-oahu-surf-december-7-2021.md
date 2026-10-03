@@ -1,6 +1,7 @@
 ---
 title: "Laniakea, Oahu surf   December 7, 2021"
 date: 2021-12-09T17:47:00Z
+description: "While most of the north shore of Oahu offered low quality surf, Laniakea offered fun, 5-7 foot (2 meter) faces. Support the channel by subscribing!..."
 draft: false
 video_id: "tVQ_wAXMaB8"
 thumbnail: "https://i.ytimg.com/vi/tVQ_wAXMaB8/maxresdefault.jpg"

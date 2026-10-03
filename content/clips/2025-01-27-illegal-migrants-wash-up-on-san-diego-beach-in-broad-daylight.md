@@ -1,6 +1,7 @@
 ---
 title: "Illegal migrants wash up on San Diego beach in broad daylight"
 date: 2025-01-27T01:02:44Z
+description: "In broad daylight illegal migrants capsize boat and swim to US soil"
 draft: false
 video_id: "UxsIi45wE8Q"
 thumbnail: "https://i.ytimg.com/vi/UxsIi45wE8Q/maxresdefault.jpg"

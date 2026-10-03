@@ -1,6 +1,7 @@
 ---
 title: "Well-read BOWLS TUBE – South Swell of the Year – July 14, 2024"
 date: 2024-07-14T20:49:56Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "aQFbEJ5RO9I"
 thumbnail: "https://i.ytimg.com/vi/aQFbEJ5RO9I/maxresdefault.jpg"

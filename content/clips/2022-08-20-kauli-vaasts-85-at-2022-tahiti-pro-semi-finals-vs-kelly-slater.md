@@ -1,6 +1,7 @@
 ---
 title: "Kauli Vaast's 8.5 at 2022 Tahiti Pro (Semi-finals vs Kelly Slater)"
 date: 2022-08-20T07:00:11Z
+description: "In his heat that stunned the surf world, Kauli Vaast found this gem and surfed it flawlessly to help him progress onto the Finals of the 2022 Tahiti..."
 draft: false
 video_id: "LcgFFi_CXOk"
 thumbnail: "https://i.ytimg.com/vi/LcgFFi_CXOk/maxresdefault.jpg"

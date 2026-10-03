@@ -1,6 +1,7 @@
 ---
 title: "TOP 10 from January 16, 2026 – Surf Clips TV"
 date: 2026-01-16T20:04:17Z
+description: "Surfing from Africa, South Pacific, Hawaii & more."
 draft: false
 video_id: "VgtihRfLfow"
 thumbnail: "https://i.ytimg.com/vi/VgtihRfLfow/sddefault.jpg"

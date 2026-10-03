@@ -1,6 +1,7 @@
 ---
 title: "Kelly Slater's 8.83 at the 2024 Tahiti Pro (Quarterfinals)"
 date: 2024-05-30T22:34:10Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "7iApEB-U2mk"
 thumbnail: "https://i.ytimg.com/vi/7iApEB-U2mk/maxresdefault.jpg"

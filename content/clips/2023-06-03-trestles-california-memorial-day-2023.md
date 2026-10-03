@@ -1,6 +1,7 @@
 ---
 title: "Trestles, California – Memorial Day 2023"
 date: 2023-06-03T04:12:14Z
+description: "Fun waves at Trestles thanks to combo swells. Wind was on it early but there were still some rippable waves. Support the channel by subscribing! Thank..."
 draft: false
 video_id: "oTSPsR5aNX4"
 thumbnail: "https://i.ytimg.com/vi/oTSPsR5aNX4/maxresdefault.jpg"

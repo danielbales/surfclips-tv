@@ -1,6 +1,7 @@
 ---
 title: "Jamie O'Brien's sick Backdoor barrel"
 date: 2022-07-10T00:00:01Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "2O39IMQVCvU"
 thumbnail: "https://i.ytimg.com/vi/2O39IMQVCvU/hqdefault.jpg"

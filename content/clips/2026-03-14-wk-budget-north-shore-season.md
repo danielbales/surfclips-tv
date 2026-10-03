@@ -1,6 +1,7 @@
 ---
 title: "WK Budget North Shore Season"
 date: 2026-03-14T20:28:30Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ [enter description here] Credit:"
 draft: false
 video_id: "tHi-SRA1-RE"
 thumbnail: "https://i.ytimg.com/vi/tHi-SRA1-RE/maxresdefault.jpg"

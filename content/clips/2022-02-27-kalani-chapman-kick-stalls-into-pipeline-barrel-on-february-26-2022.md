@@ -1,6 +1,7 @@
 ---
 title: "Kalani Chapman kick-stalls into Pipeline barrel on February 26, 2022"
 date: 2022-02-27T14:41:23Z
+description: "Kalani Chapman being Kalani Chapman. Just one of his many Pipeline rides from a stellar afternoon on February 26, 2022. Pipe was occasionally 2nd..."
 draft: false
 video_id: "QiQzlPLhqQE"
 thumbnail: "https://i.ytimg.com/vi/QiQzlPLhqQE/maxresdefault.jpg"

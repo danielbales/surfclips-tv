@@ -1,6 +1,7 @@
 ---
 title: "Big surf at Ocean Beach, San Francisco"
 date: 2025-02-16T04:34:13Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ A mid-sized, but long period WNW swell offered up well overhead-double overhead+ surf to..."
 draft: false
 video_id: "6CEowp-vEwE"
 thumbnail: "https://i.ytimg.com/vi/6CEowp-vEwE/maxresdefault.jpg"

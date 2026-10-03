@@ -1,6 +1,7 @@
 ---
 title: "John John Florence on a deep make - Dec 2025"
 date: 2025-12-14T06:25:35Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "-HIy6oPE2uA"
 thumbnail: "https://i.ytimg.com/vi/-HIy6oPE2uA/maxresdefault.jpg"

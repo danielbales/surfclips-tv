@@ -1,6 +1,7 @@
 ---
 title: "The Search Continues"
 date: 2026-02-18T06:20:40Z
+description: "Watch The Search Continues on Surf Clips TV."
 draft: false
 video_id: "CxeeA5kIXrw"
 thumbnail: "https://i.ytimg.com/vi/CxeeA5kIXrw/maxresdefault.jpg"

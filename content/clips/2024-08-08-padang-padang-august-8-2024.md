@@ -1,6 +1,7 @@
 ---
 title: "Padang Padang - August 8, 2024"
 date: 2024-08-08T02:46:32Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "lvkNgB6d7rA"
 thumbnail: "https://i.ytimg.com/vi/lvkNgB6d7rA/maxresdefault.jpg"

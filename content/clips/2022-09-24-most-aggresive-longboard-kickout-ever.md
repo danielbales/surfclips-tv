@@ -1,6 +1,7 @@
 ---
 title: "Most aggresive longboard kickout ever?"
 date: 2022-09-24T21:01:57Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "FsZgySHvAYk"
 thumbnail: "https://i.ytimg.com/vi/FsZgySHvAYk/maxresdefault.jpg"

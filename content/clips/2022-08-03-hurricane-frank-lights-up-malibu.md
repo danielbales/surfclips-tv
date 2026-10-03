@@ -1,6 +1,7 @@
 ---
 title: "Hurricane Frank lights up Malibu"
 date: 2022-08-03T13:17:11Z
+description: "SSE/S swell (190º) from Hurricane Frank mixed with a blend of SW/SSW Southern Hemi swells (210º, 230º), offering well overhead sets on August 2, 2022...."
 draft: false
 video_id: "n6THOfCWsEg"
 thumbnail: "https://i.ytimg.com/vi/n6THOfCWsEg/maxresdefault.jpg"

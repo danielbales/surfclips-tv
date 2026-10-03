@@ -1,6 +1,7 @@
 ---
 title: "Yan Daberkow somewhere deep"
 date: 2025-06-21T22:24:05Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: yan daberkow"
 draft: false
 video_id: "K_zjOqwqx1U"
 thumbnail: "https://i.ytimg.com/vi/K_zjOqwqx1U/maxresdefault.jpg"

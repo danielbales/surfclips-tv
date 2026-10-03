@@ -1,6 +1,7 @@
 ---
 title: "Surfer gets BLOWN out of a perfect barrel"
 date: 2022-10-22T17:31:43Z
+description: "Watch Surfer gets BLOWN out of a perfect barrel on Surf Clips TV."
 draft: false
 video_id: "Z_MWdDTXfn0"
 thumbnail: "https://i.ytimg.com/vi/Z_MWdDTXfn0/sddefault.jpg"

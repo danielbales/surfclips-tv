@@ -1,6 +1,7 @@
 ---
 title: "John John Florence rips to death Backdoor wave at 2023 Pipeline Masters (Day 2)"
 date: 2023-12-11T15:30:11Z
+description: "In his second bearded bros heat, John John Florence shreds this Backdoor wave to the very bitter end. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "RftBFMZ7cuo"
 thumbnail: "https://i.ytimg.com/vi/RftBFMZ7cuo/maxresdefault.jpg"

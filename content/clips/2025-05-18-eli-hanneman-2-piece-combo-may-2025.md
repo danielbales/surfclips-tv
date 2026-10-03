@@ -1,6 +1,7 @@
 ---
 title: "Eli Hanneman 2-piece combo - May 2025"
 date: 2025-05-18T07:00:29Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Eli Hanneman"
 draft: false
 video_id: "WT3TGautmaU"
 thumbnail: "https://i.ytimg.com/vi/WT3TGautmaU/maxresdefault.jpg"

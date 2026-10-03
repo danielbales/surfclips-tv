@@ -1,6 +1,7 @@
 ---
 title: "XL Sandspit, Santa Barbara, California - Dec 28, 2023"
 date: 2023-12-30T23:15:25Z
+description: "Sandspit, Santa Barbara saw firing afternoon conditions thanks to a late December XL swell that lit the entire west coast up. Support the channel by..."
 draft: false
 video_id: "RQo8XrRHtDM"
 thumbnail: "https://i.ytimg.com/vi/RQo8XrRHtDM/maxresdefault.jpg"

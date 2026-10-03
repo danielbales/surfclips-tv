@@ -1,6 +1,7 @@
 ---
 title: "Firing day at Padang Padang on June 10, 2022"
 date: 2022-06-10T19:29:16Z
+description: "Powerful, long-period swell hit the Bukit Peninsula on June 10, 2022, offering 2x overhead waves with clean winds. There was perfection out there!..."
 draft: false
 video_id: "iFBdMsyHP88"
 thumbnail: "https://i.ytimg.com/vi/iFBdMsyHP88/maxresdefault.jpg"

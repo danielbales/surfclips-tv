@@ -1,6 +1,7 @@
 ---
 title: "Snapper Rocks, Australia — April 6, 2023"
 date: 2023-04-06T16:42:57Z
+description: "Good sized SE swell produced fun, hollow waves through the low tide on April 6, 2023. Support the channel by subscribing! Thank you for supporting Surf..."
 draft: false
 video_id: "REVdfDjiVLA"
 thumbnail: "https://i.ytimg.com/vi/REVdfDjiVLA/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Luis Perloiro at home - January, 2026"
 date: 2026-01-17T04:37:32Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "XJy1EhBguaY"
 thumbnail: "https://i.ytimg.com/vi/XJy1EhBguaY/maxresdefault.jpg"

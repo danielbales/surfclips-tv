@@ -1,6 +1,7 @@
 ---
 title: "WK Abstract Wilbur"
 date: 2026-04-21T03:42:28Z
+description: "Watch WK Abstract Wilbur on Surf Clips TV."
 draft: false
 video_id: "Cb1naYMU-Do"
 thumbnail: "https://i.ytimg.com/vi/Cb1naYMU-Do/maxresdefault.jpg"

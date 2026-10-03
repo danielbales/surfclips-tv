@@ -1,6 +1,7 @@
 ---
 title: "Evening J-Bay session on May 31, 2022"
 date: 2022-05-31T15:00:18Z
+description: "Mid-period SW swell with strong W winds produced clean conditions and long, long rides on the final day of May 2022. Support the channel by..."
 draft: false
 video_id: "nXBFJrGzALM"
 thumbnail: "https://i.ytimg.com/vi/nXBFJrGzALM/maxresdefault.jpg"

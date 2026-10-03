@@ -1,6 +1,7 @@
 ---
 title: "Clean & hollow Snapper Rocks, Australia on December 10, 2021"
 date: 2021-12-11T05:25:35Z
+description: "Mid period East swell + SE winds on the Gold Coast offered head high sets with occasional multiple-barrel opportunities. Support the channel by..."
 draft: false
 video_id: "b2kfgdX7VBI"
 thumbnail: "https://i.ytimg.com/vi/b2kfgdX7VBI/maxresdefault.jpg"

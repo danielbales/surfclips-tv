@@ -1,6 +1,7 @@
 ---
 title: "Big, clean BARRELS at EUROPEAN SLAB on December 29, 2021"
 date: 2021-12-30T14:39:05Z
+description: "An Ericeira, Portugal slab turned on for just hours and offered 3 lucky surfers 8-12 foot (3-4 meter) waves and an occasional tube. Support the channel..."
 draft: false
 video_id: "k7_jowD2J68"
 thumbnail: "https://i.ytimg.com/vi/k7_jowD2J68/maxresdefault.jpg"

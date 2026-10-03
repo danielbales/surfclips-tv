@@ -1,6 +1,7 @@
 ---
 title: "Gabriel Medina BLOWS KISSES to fans at the 2023 Pipeline Masters"
 date: 2023-02-08T01:28:22Z
+description: "Gabriel Medina returns to competition and gets the wave of the morning (9.33) on day 4 of the 2023 Pipeline Masters. Support the channel by..."
 draft: false
 video_id: "SEw1GwLr-LA"
 thumbnail: "https://i.ytimg.com/vi/SEw1GwLr-LA/maxresdefault.jpg"

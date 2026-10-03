@@ -1,6 +1,7 @@
 ---
 title: "3 waves from The Wedge – August 28 & 29, 2022"
 date: 2022-08-29T19:15:00Z
+description: "Solid SW swell hit Southern California for a late-August run of overhead swell. Winds were tricky but dawnpatrollers lucked out with some occasional..."
 draft: false
 video_id: "Wo6AAADeziU"
 thumbnail: "https://i.ytimg.com/vi/Wo6AAADeziU/maxresdefault.jpg"

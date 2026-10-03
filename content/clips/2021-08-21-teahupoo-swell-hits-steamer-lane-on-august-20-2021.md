@@ -1,6 +1,7 @@
 ---
 title: "TEAHUPO'O SWELL hits STEAMER LANE on August 20, 2021"
 date: 2021-08-21T21:42:10Z
+description: "Support the channel by subscribing! Well overhead surf wrapped into Steamer Lane on the morning of August 20, 2021. Westsiders were out ripping! Thank..."
 draft: false
 video_id: "zGCn-JCnMhA"
 thumbnail: "https://i.ytimg.com/vi/zGCn-JCnMhA/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "MASSIVE Puerto wave"
 date: 2023-06-06T22:33:18Z
+description: "Watch MASSIVE Puerto wave on Surf Clips TV."
 draft: false
 video_id: "Quk_FZXULbk"
 thumbnail: "https://i.ytimg.com/vi/Quk_FZXULbk/maxresdefault.jpg"

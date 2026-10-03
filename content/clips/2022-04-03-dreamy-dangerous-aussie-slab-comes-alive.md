@@ -1,6 +1,7 @@
 ---
 title: "Dreamy (& dangerous) Aussie slab comes alive"
 date: 2022-04-03T04:57:54Z
+description: "6-8 foot faces and offshore winds lit up this Sydney slab on April 3, 2022. Bodyboarders were out in force and a few surfers grabbed some hollow ones...."
 draft: false
 video_id: "dy07uLMUXZY"
 thumbnail: "https://i.ytimg.com/vi/dy07uLMUXZY/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Top 5 waves from Mundaka Supersession – October 20, 2024"
 date: 2024-10-25T16:55:31Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ After a long slumber, this European point wakes up to give Aritz Aramburu, Natxo Gonzalez,..."
 draft: false
 video_id: "tNhjRl5pldQ"
 thumbnail: "https://i.ytimg.com/vi/tNhjRl5pldQ/maxresdefault.jpg"

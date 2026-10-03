@@ -1,6 +1,7 @@
 ---
 title: "Backdoor highlights from the last day of 2022"
 date: 2023-01-13T17:21:58Z
+description: "Great swell continued to provide some amazing tuberides at Hawaii's most famous stretch of reef. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "jr76T8z1R4g"
 thumbnail: "https://i.ytimg.com/vi/jr76T8z1R4g/maxresdefault.jpg"

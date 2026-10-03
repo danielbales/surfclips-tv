@@ -1,6 +1,7 @@
 ---
 title: "9 dreamy waves at The Box on August 23, 2022"
 date: 2022-08-24T01:38:55Z
+description: "Dreamy conditions (8-12 foot 224º swell with offshore wind) hit West Oz's most famous slab, offering overhead mutant tubes for a handful of surfers and..."
 draft: false
 video_id: "PMXAnwlSbTc"
 thumbnail: "https://i.ytimg.com/vi/PMXAnwlSbTc/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Draining Nias tubes on May 14, 2022"
 date: 2022-05-15T13:07:37Z
+description: "Occasional overhead south swell and light winds provided perfect barrel in Sumatra's Nias. Support the channel by subscribing! Thank you for supporting..."
 draft: false
 video_id: "XwHxA5TXHPQ"
 thumbnail: "https://i.ytimg.com/vi/XwHxA5TXHPQ/maxresdefault.jpg"

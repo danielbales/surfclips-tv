@@ -1,6 +1,7 @@
 ---
 title: "Italo, Kolohe, Owen & more rip Off the Wall on January 26, 2022"
 date: 2022-01-27T03:13:45Z
+description: "With occassional overhead waves coming into the 7 mile miracle, Italo Ferreira, Kolohe Andino, Owen Wright and others tear Off the Wall the pieces on..."
 draft: false
 video_id: "DLXOi3fqxg4"
 thumbnail: "https://i.ytimg.com/vi/DLXOi3fqxg4/maxresdefault.jpg"

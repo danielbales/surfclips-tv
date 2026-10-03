@@ -1,6 +1,7 @@
 ---
 title: "WK Simple Question"
 date: 2026-02-27T05:28:22Z
+description: "Watch WK Simple Question on Surf Clips TV."
 draft: false
 video_id: "exXnBmInPms"
 thumbnail: "https://i.ytimg.com/vi/exXnBmInPms/maxresdefault.jpg"

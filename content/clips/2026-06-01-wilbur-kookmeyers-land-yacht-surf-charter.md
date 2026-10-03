@@ -1,6 +1,7 @@
 ---
 title: "Wilbur Kookmeyer's Land Yacht Surf Charter"
 date: 2026-06-01T19:59:12Z
+description: "Watch Wilbur Kookmeyer's Land Yacht Surf Charter on Surf Clips TV."
 draft: false
 video_id: "70cgSN2vj8Q"
 thumbnail: "https://i.ytimg.com/vi/70cgSN2vj8Q/maxresdefault.jpg"

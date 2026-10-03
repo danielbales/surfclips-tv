@@ -1,6 +1,7 @@
 ---
 title: "Seth Moniz - El Salvador, 2025"
 date: 2025-04-08T07:00:00Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "-1JdO1A--L8"
 thumbnail: "https://i.ytimg.com/vi/-1JdO1A--L8/maxresdefault.jpg"

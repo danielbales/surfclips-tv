@@ -1,6 +1,7 @@
 ---
 title: "Early morning drainer in 🇲🇽 (slow-mo)"
 date: 2022-07-08T20:49:13Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "MxeyzGJVWeQ"
 thumbnail: "https://i.ytimg.com/vi/MxeyzGJVWeQ/maxresdefault.jpg"

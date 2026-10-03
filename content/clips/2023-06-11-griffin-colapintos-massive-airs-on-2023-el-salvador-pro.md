@@ -1,6 +1,7 @@
 ---
 title: "Griffin Colapinto's massive airs on 2023 El Salvador Pro"
 date: 2023-06-11T03:38:10Z
+description: "In his opening round heat Griffin Colapinto landed a few incredible airs, helping him move onto the next round. Support the channel by subscribing!..."
 draft: false
 video_id: "Z2GcOBb2lbg"
 thumbnail: "https://i.ytimg.com/vi/Z2GcOBb2lbg/sddefault.jpg"

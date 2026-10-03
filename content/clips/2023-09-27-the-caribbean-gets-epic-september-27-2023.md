@@ -1,6 +1,7 @@
 ---
 title: "The Caribbean gets EPIC – September 27, 2023"
 date: 2023-09-27T22:12:41Z
+description: "Absolutely dreamy conditions with overhead swell offered some incredible barrels and turn sections at this Caribbean reef break. Support the channel by..."
 draft: false
 video_id: "vUoeMGGgIB0"
 thumbnail: "https://i.ytimg.com/vi/vUoeMGGgIB0/maxresdefault.jpg"

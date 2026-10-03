@@ -1,6 +1,7 @@
 ---
 title: "Party wave goes wrong, Hawaii - March 2025"
 date: 2025-04-01T05:48:20Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "KJQCKwrTZxM"
 thumbnail: "https://i.ytimg.com/vi/KJQCKwrTZxM/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Caribbean Dream Drainer"
 date: 2023-09-28T13:25:23Z
+description: "Watch Caribbean Dream Drainer on Surf Clips TV."
 draft: false
 video_id: "gO_lfVc5z30"
 thumbnail: "https://i.ytimg.com/vi/gO_lfVc5z30/maxresdefault.jpg"

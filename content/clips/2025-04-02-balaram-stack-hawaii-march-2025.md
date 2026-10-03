@@ -1,6 +1,7 @@
 ---
 title: "Balaram Stack, Hawaii - March 2025"
 date: 2025-04-02T16:49:55Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "qGJG03nYNtM"
 thumbnail: "https://i.ytimg.com/vi/qGJG03nYNtM/maxresdefault.jpg"

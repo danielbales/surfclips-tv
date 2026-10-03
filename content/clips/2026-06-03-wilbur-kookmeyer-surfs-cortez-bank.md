@@ -1,6 +1,7 @@
 ---
 title: "Wilbur Kookmeyer surfs Cortez Bank"
 date: 2026-06-03T16:02:10Z
+description: "https://surf-clips-tv-shop.fourthwall.com/. Wilbur is ready to tackle the biggest, gnarliest wave on the planet: the legendary Cortez Bank! The swell..."
 draft: false
 video_id: "LpMVVWLYf1U"
 thumbnail: "https://i.ytimg.com/vi/LpMVVWLYf1U/maxresdefault.jpg"

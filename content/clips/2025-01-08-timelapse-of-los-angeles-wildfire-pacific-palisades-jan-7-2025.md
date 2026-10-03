@@ -1,6 +1,7 @@
 ---
 title: "Timelapse of Los Angeles wildfire (Pacific Palisades) – Jan 7, 2025"
 date: 2025-01-08T18:27:28Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Shot from Sunset Beach Point before the cameras went down. Praying for all victims 🙏 Credit:..."
 draft: false
 video_id: "jGledNitp04"
 thumbnail: "https://i.ytimg.com/vi/jGledNitp04/maxresdefault.jpg"

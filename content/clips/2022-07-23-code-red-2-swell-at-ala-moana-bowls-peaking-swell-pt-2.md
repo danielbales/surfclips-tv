@@ -1,6 +1,7 @@
 ---
 title: "Code Red 2 swell at Ala Moana Bowls (peaking swell pt 2)"
 date: 2022-07-23T01:36:42Z
+description: "Long period South swell dubbed the infamous Code Red Swell 2 swell slammed the South Shore of Oahu and maxed out many spots. Bowls was nearly maxed out..."
 draft: false
 video_id: "0b3JxiV8QFg"
 thumbnail: "https://i.ytimg.com/vi/0b3JxiV8QFg/maxresdefault.jpg"

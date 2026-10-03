@@ -1,6 +1,7 @@
 ---
 title: "SHANE BESCHEN rips LOWERS right - May 17, 2024"
 date: 2024-05-19T21:40:02Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ At the tender age of 52 San Clemente Legend destroys this clean rippable Lowers peak..."
 draft: false
 video_id: "0w7Yw_L4dBo"
 thumbnail: "https://i.ytimg.com/vi/0w7Yw_L4dBo/maxresdefault.jpg"

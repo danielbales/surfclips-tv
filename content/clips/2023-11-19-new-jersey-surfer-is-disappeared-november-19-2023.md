@@ -1,6 +1,7 @@
 ---
 title: "New Jersey surfer is disappeared - November 19, 2023"
 date: 2023-11-19T14:35:37Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "7UdKA5cVeig"
 thumbnail: "https://i.ytimg.com/vi/7UdKA5cVeig/maxresdefault.jpg"

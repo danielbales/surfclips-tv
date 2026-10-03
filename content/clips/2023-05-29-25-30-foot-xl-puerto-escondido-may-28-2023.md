@@ -1,6 +1,7 @@
 ---
 title: "25-30+ foot XL Puerto Escondido - May 28, 2023"
 date: 2023-05-29T04:18:20Z
+description: "XL SSW swell hit Playa Zicatela, and peaks were all over and consistent. May be the best day of the season so far. Support the channel by subscribing!..."
 draft: false
 video_id: "5e5z6W0AFtE"
 thumbnail: "https://i.ytimg.com/vi/5e5z6W0AFtE/maxresdefault.jpg"

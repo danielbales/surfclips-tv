@@ -1,6 +1,7 @@
 ---
 title: "BEST PIPELINE of the year? February 12, 2025"
 date: 2025-02-13T02:40:35Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Pipeline got up to 4x overhead (20'+ faces), with light ESE-SE wind early to mid AM and a..."
 draft: false
 video_id: "UZvSANdZnuQ"
 thumbnail: "https://i.ytimg.com/vi/UZvSANdZnuQ/maxresdefault.jpg"

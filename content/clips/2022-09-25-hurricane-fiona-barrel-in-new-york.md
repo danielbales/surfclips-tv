@@ -1,6 +1,7 @@
 ---
 title: "Hurricane Fiona barrel in New York"
 date: 2022-09-25T18:05:14Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "5EXvySgQYI0"
 thumbnail: "https://i.ytimg.com/vi/5EXvySgQYI0/maxresdefault.jpg"

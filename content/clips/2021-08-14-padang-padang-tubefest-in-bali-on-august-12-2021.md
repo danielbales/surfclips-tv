@@ -1,6 +1,7 @@
 ---
 title: "Padang Padang TUBEFEST in Bali on August 12, 2021"
 date: 2021-08-14T00:38:26Z
+description: "Support the channel by subscribing! A dying swell meant normal surfers could have at ALL-TIME Padang on August 12, 2021. Thank you for supporting Daily..."
 draft: false
 video_id: "xxSyJA1mLHc"
 thumbnail: "https://i.ytimg.com/vi/xxSyJA1mLHc/maxresdefault.jpg"

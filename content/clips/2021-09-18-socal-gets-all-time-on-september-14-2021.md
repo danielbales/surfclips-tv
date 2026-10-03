@@ -1,6 +1,7 @@
 ---
 title: "SOCAL gets ALL-TIME on September 14, 2021"
 date: 2021-09-18T15:18:04Z
+description: "Support the channel by subscribing! Peaking south swell on September 14, 2021 meant dredging, hollow lefts with serious current at 56th Street Newport..."
 draft: false
 video_id: "ThhRcX6yJW0"
 thumbnail: "https://i.ytimg.com/vi/ThhRcX6yJW0/maxresdefault.jpg"

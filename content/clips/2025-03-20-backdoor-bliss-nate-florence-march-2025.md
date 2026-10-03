@@ -1,6 +1,7 @@
 ---
 title: "Backdoor bliss – Nate Florence, March 2025"
 date: 2025-03-20T10:45:02Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ During a dream run of North Shore winter surf, Nathan finds this gem during his morning session."
 draft: false
 video_id: "YjCxUckw-SU"
 thumbnail: "https://i.ytimg.com/vi/YjCxUckw-SU/maxresdefault.jpg"

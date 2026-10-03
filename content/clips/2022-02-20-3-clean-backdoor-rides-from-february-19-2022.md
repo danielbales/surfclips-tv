@@ -1,6 +1,7 @@
 ---
 title: "3 clean Backdoor rides from February 19, 2022"
 date: 2022-02-20T16:29:19Z
+description: "Occasional 10 foot faces and light wind produced a few great rides the morning of February 19, 2022. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "A3P6LtwFhhY"
 thumbnail: "https://i.ytimg.com/vi/A3P6LtwFhhY/maxresdefault.jpg"

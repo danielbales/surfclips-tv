@@ -1,6 +1,7 @@
 ---
 title: "The guillotine drops"
 date: 2024-11-06T00:28:32Z
+description: "Watch The guillotine drops on Surf Clips TV."
 draft: false
 video_id: "5ChnIxQOW50"
 thumbnail: "https://i.ytimg.com/vi/5ChnIxQOW50/maxresdefault.jpg"

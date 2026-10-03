@@ -1,6 +1,7 @@
 ---
 title: "6 highlights from Backdoor - December 26, 2022 (JJF, Mason & others)"
 date: 2022-12-27T21:03:32Z
+description: "On a great, 8-12 foot, North Shore fixtures navigated a thick crowd and got the best waves of the morning. Support the channel by subscribing! Thank..."
 draft: false
 video_id: "eRViqo3K34Y"
 thumbnail: "https://i.ytimg.com/vi/eRViqo3K34Y/maxresdefault.jpg"

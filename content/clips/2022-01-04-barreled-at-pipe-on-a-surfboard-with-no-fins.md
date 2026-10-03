@@ -1,6 +1,7 @@
 ---
 title: "Barreled at PIPE on a surfboard with NO FINS"
 date: 2022-01-04T17:15:41Z
+description: "On a recent Brown day with Backdoor and Pipeline going off, this surfer on a finless Catch Surf surfboard gets barreled and comes out with two 360s...."
 draft: false
 video_id: "yoxq-vb3nw8"
 thumbnail: "https://i.ytimg.com/vi/yoxq-vb3nw8/maxresdefault.jpg"

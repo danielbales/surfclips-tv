@@ -1,6 +1,7 @@
 ---
 title: "Bodyboarder blown into oblivion at XL PIPE   November 25, 2023"
 date: 2023-11-25T21:57:00Z
+description: "In XL Pipeline conditions (occasional 25ft+ faces), this bodyboarder sends it and disappears in the canon of spit. Support the channel by subscribing!..."
 draft: false
 video_id: "u4DxlPvPUIQ"
 thumbnail: "https://i.ytimg.com/vi/u4DxlPvPUIQ/maxresdefault.jpg"

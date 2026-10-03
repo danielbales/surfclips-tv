@@ -1,6 +1,7 @@
 ---
 title: "FRIDAY THE 13TH SWELL at TEAHUPO'O!! Tahiti August 13, 2021"
 date: 2021-08-17T04:59:08Z
+description: "Support the channel by subscribing! Raimana, Metahi Drollet, Kauai Vaast, Nate Florence and other big wave chargers took on massive, 30ft (10m)..."
 draft: false
 video_id: "yQ49SShvXFk"
 thumbnail: "https://i.ytimg.com/vi/yQ49SShvXFk/maxresdefault.jpg"

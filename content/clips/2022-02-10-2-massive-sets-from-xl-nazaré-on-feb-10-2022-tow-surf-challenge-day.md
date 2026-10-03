@@ -1,6 +1,7 @@
 ---
 title: "2 massive sets from XL Nazaré on Feb 10 (2022 Tow Surf Challenge day)"
 date: 2022-02-10T19:39:13Z
+description: "With the fog coming and going throughout the day of the the Nazaré Tow Surfing Challenge, tracking down these 15-20 foot (5-6 meter) waves were..."
 draft: false
 video_id: "LrBRC5RZqOI"
 thumbnail: "https://i.ytimg.com/vi/LrBRC5RZqOI/maxresdefault.jpg"

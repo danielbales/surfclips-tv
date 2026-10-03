@@ -1,6 +1,7 @@
 ---
 title: "Finding shade in the Mentawai"
 date: 2025-08-15T07:00:21Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "PucvSFRpDv4"
 thumbnail: "https://i9.ytimg.com/vi/PucvSFRpDv4/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLCpNhTEoJcRqEEp-72hrqaZ3tPypw"

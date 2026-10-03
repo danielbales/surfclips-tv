@@ -1,6 +1,7 @@
 ---
 title: "Dougnuts Down Under - October, 2023 #surfing #surf #surfer"
 date: 2023-10-28T02:32:26Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "BiHq0cTq4_I"
 thumbnail: "https://i.ytimg.com/vi/BiHq0cTq4_I/maxresdefault.jpg"

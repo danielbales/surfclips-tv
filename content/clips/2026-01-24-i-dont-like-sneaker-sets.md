@@ -1,6 +1,7 @@
 ---
 title: "I don't like sneaker sets"
 date: 2026-01-24T21:35:08Z
+description: "Watch I don't like sneaker sets on Surf Clips TV."
 draft: false
 video_id: "hJGZ2TKxwvM"
 thumbnail: "https://i.ytimg.com/vi/hJGZ2TKxwvM/maxresdefault.jpg"

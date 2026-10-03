@@ -1,6 +1,7 @@
 ---
 title: "60 seconds: Jack Robinson's Backdoor Barrel to Air-Reverse – January 24, 2023"
 date: 2023-01-24T23:25:51Z
+description: "WNW-NW swell (300-320º) provided this surfer with an excellent tube - air combo attempt. Support the channel by subscribing! Thank you for supporting..."
 draft: false
 video_id: "LXbJXJF-STE"
 thumbnail: "https://i.ytimg.com/vi/LXbJXJF-STE/maxresdefault.jpg"

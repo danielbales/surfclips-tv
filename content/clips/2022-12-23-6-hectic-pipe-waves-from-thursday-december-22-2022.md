@@ -1,6 +1,7 @@
 ---
 title: "6 HECTIC PIPE waves from Thursday, December 22, 2022"
 date: 2022-12-23T03:29:46Z
+description: "With all eyes on Surfline's live webcast of Pipeline this morning, some hectic waves slammed this infamous piece of reef, thanks to a long period..."
 draft: false
 video_id: "Ps55ncYNCsE"
 thumbnail: "https://i.ytimg.com/vi/Ps55ncYNCsE/maxresdefault.jpg"

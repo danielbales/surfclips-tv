@@ -1,6 +1,7 @@
 ---
 title: "3 sets at cruisey, Australian point break"
 date: 2022-07-26T01:00:47Z
+description: "Easterly swell (95º) under grey skies and a light WNW to northerly breeze offered some mellow yet long, fun rides for longboarders and fun-board..."
 draft: false
 video_id: "0hj2BNEkgKk"
 thumbnail: "https://i.ytimg.com/vi/0hj2BNEkgKk/maxresdefault.jpg"

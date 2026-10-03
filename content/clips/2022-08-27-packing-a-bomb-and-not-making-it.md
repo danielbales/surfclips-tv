@@ -1,6 +1,7 @@
 ---
 title: "Packing a BOMB (and not making it)"
 date: 2022-08-27T01:05:10Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "gWX8ml_xHVM"
 thumbnail: "https://i.ytimg.com/vi/gWX8ml_xHVM/maxresdefault.jpg"

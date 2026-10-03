@@ -1,6 +1,7 @@
 ---
 title: "PIPE SPECIALISTS charge firing surf (brown water day)"
 date: 2022-01-06T17:03:59Z
+description: "Highlights of Pipeline specialists ranging from Mason Ho to John John to Eli Hanneman and more. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "TIxScHALVc0"
 thumbnail: "https://i.ytimg.com/vi/TIxScHALVc0/maxresdefault.jpg"

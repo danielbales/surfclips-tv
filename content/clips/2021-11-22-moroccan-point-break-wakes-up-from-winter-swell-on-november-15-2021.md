@@ -1,6 +1,7 @@
 ---
 title: "MOROCCAN POINT BREAK wakes up from winter swell on November 15, 2021"
 date: 2021-11-22T22:28:39Z
+description: "Overhead faces rolled through the Anchor Point lineup on November 15, 2021. Glassy conditions kept the faces clean and locals ripping. Support the..."
 draft: false
 video_id: "iEvU0uP5OLU"
 thumbnail: "https://i.ytimg.com/vi/iEvU0uP5OLU/maxresdefault.jpg"

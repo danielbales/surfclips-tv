@@ -1,6 +1,7 @@
 ---
 title: "KENSHIN MATSUNAGA finds LONG BACKDOOR TUBE at 2024 Backdoor Shootout (Day 1)"
 date: 2024-01-04T22:51:23Z
+description: "Team Japan's Kenshin Matsunaga finds this deep, long Backdoor ride in the 1st heat of the day for the shortboard division. Support the channel by..."
 draft: false
 video_id: "sVl9kVnVQkU"
 thumbnail: "https://i.ytimg.com/vi/sVl9kVnVQkU/maxresdefault.jpg"

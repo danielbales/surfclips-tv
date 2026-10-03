@@ -1,6 +1,7 @@
 ---
 title: "WK Too Humble For Fame"
 date: 2026-03-12T19:50:08Z
+description: "Watch WK Too Humble For Fame on Surf Clips TV."
 draft: false
 video_id: "KL2-DSQQtfA"
 thumbnail: "https://i.ytimg.com/vi/KL2-DSQQtfA/maxresdefault.jpg"

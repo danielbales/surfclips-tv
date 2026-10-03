@@ -1,6 +1,7 @@
 ---
 title: "Dr Yani Klein gets DOUBLE BARREL at Africa pointbreak - March 24, 2023"
 date: 2023-03-24T19:17:08Z
+description: "North African surfer finds epic wave that offered him a double barrel. Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so..."
 draft: false
 video_id: "I1xD5TGbQzs"
 thumbnail: "https://i.ytimg.com/vi/I1xD5TGbQzs/maxresdefault.jpg"

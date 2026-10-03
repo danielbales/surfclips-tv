@@ -1,6 +1,7 @@
 ---
 title: "GIANT layback carve (North Shore)"
 date: 2022-09-20T23:53:54Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "PSRnZwJOFKA"
 thumbnail: "https://i.ytimg.com/vi/PSRnZwJOFKA/maxresdefault.jpg"

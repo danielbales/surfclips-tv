@@ -4,8 +4,8 @@
   <div class="clips-grid">
     {{ range .Pages }}
     <a href="{{ .Permalink }}" class="clip-card">
-      {{ with .Params.thumbnail }}
-      <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+      {{ if .Params.thumbnail }}
+      <img src="{{ .Params.thumbnail }}" alt="{{ .Title }}" loading="lazy">
       {{ end }}
       <div class="clip-card-body">
         <h3>{{ .Title }}</h3>

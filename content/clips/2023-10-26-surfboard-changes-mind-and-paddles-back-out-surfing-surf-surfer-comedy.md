@@ -1,6 +1,7 @@
 ---
 title: "Surfboard changes mind and paddles back out #surfing #surf #surfer #comedy"
 date: 2023-10-26T03:36:49Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "e0Q9ncMSH0M"
 thumbnail: "https://i.ytimg.com/vi/e0Q9ncMSH0M/maxresdefault.jpg"

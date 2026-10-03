@@ -1,6 +1,7 @@
 ---
 title: "October brings FIRING SURF to OUTER BANKS - October 7, 2023"
 date: 2023-10-07T21:57:22Z
+description: "ESE swell is in the water with moderate W/WNW winds provided plenty of overhead to well overhead waves at this Outer Banks swell magnet. Support the..."
 draft: false
 video_id: "_t_OKTpivKI"
 thumbnail: "https://i.ytimg.com/vi/_t_OKTpivKI/maxresdefault.jpg"

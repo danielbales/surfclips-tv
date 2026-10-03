@@ -1,6 +1,7 @@
 ---
 title: "Pipeline Backdoor FIRES (IN MAY!!?)"
 date: 2023-05-04T04:25:04Z
+description: "SOLID NW swell (305-320) peaked, sending occasional 2nd reef surf to the North Shore with great wind conditions. Support the channel by subscribing!..."
 draft: false
 video_id: "Uqk3xPNGZGA"
 thumbnail: "https://i.ytimg.com/vi/Uqk3xPNGZGA/maxresdefault.jpg"

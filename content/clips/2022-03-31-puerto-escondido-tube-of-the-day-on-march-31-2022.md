@@ -1,6 +1,7 @@
 ---
 title: "Puerto Escondido tube of the day on March 31, 2022"
 date: 2022-03-31T15:50:56Z
+description: "Long period swell served up 6-8 foot faces at Playa Zicatela on the last day of March. Sets were mostly closed out this day but this charger took out a..."
 draft: false
 video_id: "zDYo4W3fhyI"
 thumbnail: "https://i.ytimg.com/vi/zDYo4W3fhyI/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "South Swell of the year (Code Red 2) peaks at MALIBU, California"
 date: 2022-07-20T00:39:56Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ The 'Bu saw lully but occasionally solid lines thanks to Code Red 2 swell on July 19, 2022...."
 draft: false
 video_id: "cRyhhKqO7Pc"
 thumbnail: "https://i.ytimg.com/vi/cRyhhKqO7Pc/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Rocky Point gets FUN – November 27, 2022"
 date: 2022-11-30T23:24:38Z
+description: "NNE swell (26º) provided some nice sized surf to the North Shore with ideal ESE wind conditions for tubes and airs. Support the channel by subscribing!..."
 draft: false
 video_id: "J67UmUuarlU"
 thumbnail: "https://i.ytimg.com/vi/J67UmUuarlU/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Glassy, building SW swell at Teahupo'o, Tahiti on May 27, 2022"
 date: 2022-05-28T01:20:58Z
+description: "Blend of SW swells (6@14 204º & 5@16 206º) offered sets occasionally up to double overhead, while no wind created a dreamy canvas for Teahupo'o..."
 draft: false
 video_id: "z3tigaDE3ik"
 thumbnail: "https://i.ytimg.com/vi/z3tigaDE3ik/maxresdefault.jpg"

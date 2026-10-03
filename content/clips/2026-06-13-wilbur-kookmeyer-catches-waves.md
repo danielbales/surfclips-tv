@@ -1,6 +1,7 @@
 ---
 title: "Wilbur Kookmeyer Catches Waves"
 date: 2026-06-13T00:04:28Z
+description: "Watch Wilbur Kookmeyer Catches Waves on Surf Clips TV."
 draft: false
 video_id: "cmbQ7lnAjkA"
 thumbnail: "https://i.ytimg.com/vi/cmbQ7lnAjkA/maxresdefault.jpg"

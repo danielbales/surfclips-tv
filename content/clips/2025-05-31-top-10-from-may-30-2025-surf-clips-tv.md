@@ -1,6 +1,7 @@
 ---
 title: "TOP 10 from May 30, 2025 – Surf Clips TV"
 date: 2025-05-31T03:35:16Z
+description: "Watch TOP 10 from May 30, 2025 – Surf Clips TV on Surf Clips TV."
 draft: false
 video_id: "_2ojtL8STzQ"
 thumbnail: "https://i.ytimg.com/vi/_2ojtL8STzQ/maxresdefault.jpg"

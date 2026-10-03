@@ -1,6 +1,7 @@
 ---
 title: "Wave of the Day: Mason Ho at Backdoor– December 26, 2022"
 date: 2022-12-26T22:42:00Z
+description: "On a 8-12 foot day where Mason found himself on set wave after set wave, here he goes deep and just does what he's been doing since he was on a..."
 draft: false
 video_id: "kWClRPFhPQU"
 thumbnail: "https://i.ytimg.com/vi/kWClRPFhPQU/maxresdefault.jpg"

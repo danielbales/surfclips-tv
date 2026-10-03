@@ -1,6 +1,7 @@
 ---
 title: "Clay Marzo at home"
 date: 2024-11-12T21:31:50Z
+description: "https://surf-clips-tv.myspreadshop.com/ Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "w0rNd8eWupE"
 thumbnail: "https://i.ytimg.com/vi/w0rNd8eWupE/maxresdefault.jpg"

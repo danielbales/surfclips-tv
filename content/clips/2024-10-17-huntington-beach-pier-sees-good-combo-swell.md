@@ -1,6 +1,7 @@
 ---
 title: "Huntington Beach Pier sees GOOD combo swell"
 date: 2024-10-17T03:28:57Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ After a long drought HB saw a great combo swell that lit of the beachbreak and offered fun..."
 draft: false
 video_id: "KN_9NsaCwu4"
 thumbnail: "https://i.ytimg.com/vi/KN_9NsaCwu4/maxresdefault.jpg"

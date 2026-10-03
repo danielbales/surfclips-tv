@@ -1,6 +1,7 @@
 ---
 title: "Wave of the Day: Italo Ferreira, Supertubos, Feb 28, 2023"
 date: 2023-03-01T06:08:32Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Italo Ferreira surfed Supertubos along during a maxing swell and found a heavy pit before the..."
 draft: false
 video_id: "emZ6YArZX_A"
 thumbnail: "https://i.ytimg.com/vi/emZ6YArZX_A/maxresdefault.jpg"

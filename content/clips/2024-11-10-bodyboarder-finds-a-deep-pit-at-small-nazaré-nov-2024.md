@@ -1,6 +1,7 @@
 ---
 title: "Bodyboarder finds a deep pit at small Nazaré - Nov 2024"
 date: 2024-11-10T21:37:58Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!..."
 draft: false
 video_id: "xtnqZDTBHHI"
 thumbnail: "https://i.ytimg.com/vi/xtnqZDTBHHI/maxresdefault.jpg"

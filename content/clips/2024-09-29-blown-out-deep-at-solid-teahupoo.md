@@ -1,6 +1,7 @@
 ---
 title: "Blown out DEEP at solid Teahupo'o"
 date: 2024-09-29T02:37:10Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ Thank you for supporting Surf Cam Rewind so we can continue to provide you with free..."
 draft: false
 video_id: "vcIde7T-BTE"
 thumbnail: "https://i.ytimg.com/vi/vcIde7T-BTE/maxresdefault.jpg"

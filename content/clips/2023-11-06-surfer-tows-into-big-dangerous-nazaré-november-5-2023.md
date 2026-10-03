@@ -1,6 +1,7 @@
 ---
 title: "Surfer tows into big, dangerous Nazaré – November 5, 2023"
 date: 2023-11-06T22:45:45Z
+description: "Ciarán delivered massive surf to Portugal's premiere big wave surf spot. Unfortunately onshore winds also hit, but that didn't prevent this tow team to..."
 draft: false
 video_id: "I8naHRP7eoM"
 thumbnail: "https://i.ytimg.com/vi/I8naHRP7eoM/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Surfer gets EVAPORATED - May 2024"
 date: 2024-05-15T04:26:54Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "2tasuOKZsgo"
 thumbnail: "https://i.ytimg.com/vi/2tasuOKZsgo/maxresdefault.jpg"

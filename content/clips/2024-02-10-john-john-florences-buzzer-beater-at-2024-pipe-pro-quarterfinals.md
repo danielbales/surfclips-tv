@@ -1,6 +1,7 @@
 ---
 title: "JOHN JOHN FLORENCE'S BUZZER-BEATER at 2024 Pipe Pro (Quarterfinals)"
 date: 2024-02-10T20:35:10Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ In the final minute of his quarterfinals heat against Italian Leo Fiorvanti, John John..."
 draft: false
 video_id: "aG_QiHpBF0c"
 thumbnail: "https://i.ytimg.com/vi/aG_QiHpBF0c/maxresdefault.jpg"

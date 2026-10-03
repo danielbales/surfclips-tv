@@ -1,6 +1,7 @@
 ---
 title: "Shane Dorian returns to competition at 2022 Padang Padang Cup"
 date: 2022-08-08T19:00:33Z
+description: "Shane Dorian completely disappears during the 2022 Padang Padang Pro on August 4, 2022. Support the channel by subscribing! Thank you for supporting..."
 draft: false
 video_id: "xz_MfB8jzME"
 thumbnail: "https://i.ytimg.com/vi/xz_MfB8jzME/maxresdefault.jpg"

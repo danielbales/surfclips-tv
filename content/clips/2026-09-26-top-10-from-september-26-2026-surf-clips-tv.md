@@ -1,6 +1,7 @@
 ---
 title: "TOP 10 from September 26, 2026 – Surf Clips TV"
 date: 2026-09-26T14:40:40Z
+description: "Surfing from Africa, The Old World, California & more."
 draft: false
 video_id: "aebdDaKZn7k"
 thumbnail: "https://i.ytimg.com/vi/aebdDaKZn7k/sddefault.jpg"

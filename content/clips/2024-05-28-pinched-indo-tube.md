@@ -1,6 +1,7 @@
 ---
 title: "Pinched Indo tube"
 date: 2024-05-28T02:07:31Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "W7BOluKYEsI"
 thumbnail: "https://i.ytimg.com/vi/W7BOluKYEsI/maxresdefault.jpg"

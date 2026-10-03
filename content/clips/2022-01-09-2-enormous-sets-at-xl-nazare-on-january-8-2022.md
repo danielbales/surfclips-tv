@@ -1,6 +1,7 @@
 ---
 title: "2 enormous sets at XL Nazaré on January 8, 2022"
 date: 2022-01-09T04:00:57Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ A large XL NW swell hit Nazaré, Portugal on January 8, 2022. Tow in surfers including Lucas..."
 draft: false
 video_id: "g32w2U4H0WI"
 thumbnail: "https://i.ytimg.com/vi/g32w2U4H0WI/maxresdefault.jpg"

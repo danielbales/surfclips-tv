@@ -1,6 +1,7 @@
 ---
 title: "Wilbur Kookmeyer's Mystery Surfboard"
 date: 2026-08-01T11:50:05Z
+description: "Wilbur Kookmeyer is back on a sustainable surfboard."
 draft: false
 video_id: "_upSryF-Mgw"
 thumbnail: "https://i.ytimg.com/vi/_upSryF-Mgw/maxresdefault.jpg"

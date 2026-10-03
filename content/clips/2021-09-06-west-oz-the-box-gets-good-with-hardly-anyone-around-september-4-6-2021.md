@@ -1,6 +1,7 @@
 ---
 title: "West Oz' THE BOX GETS GOOD with hardly anyone around!!! September 4 - 6, 2021"
 date: 2021-09-06T05:02:28Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Support the channel by subscribing! After days of onshore winds, September 4 - 6 held massive..."
 draft: false
 video_id: "FV98Sj0CwxE"
 thumbnail: "https://i.ytimg.com/vi/FV98Sj0CwxE/maxresdefault.jpg"

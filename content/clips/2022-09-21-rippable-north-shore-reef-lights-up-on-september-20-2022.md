@@ -1,6 +1,7 @@
 ---
 title: "Rippable North Shore reef lights up on September 20, 2022"
 date: 2022-09-21T18:45:03Z
+description: "Fresh mid-period NW swell (316º) graced country shorelines, providing some sets nearing the overhead high range, while East winds around 10 mph groomed..."
 draft: false
 video_id: "YGZvJhCMb6c"
 thumbnail: "https://i.ytimg.com/vi/YGZvJhCMb6c/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "MIAMI'S SOUTH BEACH from zero to hero – Jan 22, 2025"
 date: 2025-01-23T23:31:03Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Strong northerly winds blew down Florida’s East Coast and in just hours surf went from flat..."
 draft: false
 video_id: "dPAchFuZ9M0"
 thumbnail: "https://i.ytimg.com/vi/dPAchFuZ9M0/maxresdefault.jpg"

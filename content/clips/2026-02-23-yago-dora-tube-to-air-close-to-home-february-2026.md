@@ -1,6 +1,7 @@
 ---
 title: "Yago Dora tube to air close to home - February 2026"
 date: 2026-02-23T04:22:24Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "-TdD7lCf81s"
 thumbnail: "https://i.ytimg.com/vi/-TdD7lCf81s/maxresdefault.jpg"

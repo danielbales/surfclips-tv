@@ -1,6 +1,7 @@
 ---
 title: "TOP 10 from July 3, 2026 – Surf Clips TV"
 date: 2026-07-03T16:38:55Z
+description: "Surfing from Hawaii, Indonesia, Mexico & more."
 draft: false
 video_id: "-s7Qx9RkHrg"
 thumbnail: "https://i.ytimg.com/vi/-s7Qx9RkHrg/sddefault.jpg"

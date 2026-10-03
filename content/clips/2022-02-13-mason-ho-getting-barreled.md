@@ -1,6 +1,7 @@
 ---
 title: "Mason Ho getting barreled!"
 date: 2022-02-13T05:30:12Z
+description: "Surfer: Mason Ho Date: February 4, 2022 Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you..."
 draft: false
 video_id: "dun0TexTwQE"
 thumbnail: "https://i.ytimg.com/vi/dun0TexTwQE/maxresdefault.jpg"

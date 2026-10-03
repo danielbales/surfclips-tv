@@ -1,6 +1,7 @@
 ---
 title: "Code Red 2 swell at THE WEDGE"
 date: 2022-07-20T17:25:52Z
+description: "Long-period SW swell slams Orange County's most notorious novelty wave, and created quite a spectacle. Completed rides were few and far between and..."
 draft: false
 video_id: "0_tEn0gsD4A"
 thumbnail: "https://i.ytimg.com/vi/0_tEn0gsD4A/maxresdefault.jpg"

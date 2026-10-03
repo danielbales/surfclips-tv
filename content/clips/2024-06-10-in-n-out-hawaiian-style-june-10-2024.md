@@ -1,6 +1,7 @@
 ---
 title: "In-N-Out Hawaiian style - June 10, 2024"
 date: 2024-06-10T20:26:37Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "-_gi-gdzLpE"
 thumbnail: "https://i.ytimg.com/vi/-_gi-gdzLpE/maxresdefault.jpg"

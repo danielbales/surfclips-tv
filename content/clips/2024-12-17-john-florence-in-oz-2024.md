@@ -1,6 +1,7 @@
 ---
 title: "John Florence in Oz - 2024"
 date: 2024-12-17T22:23:49Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "8EazhDd_xoE"
 thumbnail: "https://i.ytimg.com/vi/8EazhDd_xoE/maxresdefault.jpg"

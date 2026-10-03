@@ -1,6 +1,7 @@
 ---
 title: "Snapper Rocks pits on July 6, 2022"
 date: 2022-07-06T03:38:58Z
+description: "Combo mix of short period E/NE swells (146º) with a little bump in SSE swell (157º) and light WNW winds offered occasional head high pits for Gold..."
 draft: false
 video_id: "ynvitBLqd9I"
 thumbnail: "https://i.ytimg.com/vi/ynvitBLqd9I/maxresdefault.jpg"

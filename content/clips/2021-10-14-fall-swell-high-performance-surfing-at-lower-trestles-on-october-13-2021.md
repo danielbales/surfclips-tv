@@ -1,6 +1,7 @@
 ---
 title: "Fall swell & high-performance surfing at Lower Trestles on October 13, 2021"
 date: 2021-10-14T18:00:19Z
+description: "Support the channel by subscribing! Great rights and long lefts were on tap when a solid south swell met a northwest swell at Trestles on October 13,..."
 draft: false
 video_id: "Vpe4RWyWkNg"
 thumbnail: "https://i.ytimg.com/vi/Vpe4RWyWkNg/maxresdefault.jpg"

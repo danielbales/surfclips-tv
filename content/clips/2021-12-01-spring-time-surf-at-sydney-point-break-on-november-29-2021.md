@@ -1,6 +1,7 @@
 ---
 title: "Spring-time surf at Sydney point break on November 29, 2021"
 date: 2021-12-01T21:24:28Z
+description: "Springtime swell with windows of good wind offered occasional overhead rights on November, 29, 2021. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "7_FGDx7680U"
 thumbnail: "https://i.ytimg.com/vi/7_FGDx7680U/maxresdefault.jpg"

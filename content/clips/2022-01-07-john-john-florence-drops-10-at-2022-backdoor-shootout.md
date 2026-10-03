@@ -1,6 +1,7 @@
 ---
 title: "John John Florence drops 10 at 2022 Backdoor Shootout"
 date: 2022-01-07T00:15:40Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ In the Florence's heat, John John Florence catches a solid Pipeline wave and gets a 10...."
 draft: false
 video_id: "MGGqOTXe2bY"
 thumbnail: "https://i.ytimg.com/vi/MGGqOTXe2bY/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Caribbean Crown Jewel turns on – July 25, 2023"
 date: 2023-07-25T21:58:55Z
+description: "Gentle+ ESE/SE trade winds and trade swell provided occasional overhead surf to this Caribbean island. Support the channel by subscribing! Thank you..."
 draft: false
 video_id: "5t3Oobvf8RA"
 thumbnail: "https://i.ytimg.com/vi/5t3Oobvf8RA/maxresdefault.jpg"

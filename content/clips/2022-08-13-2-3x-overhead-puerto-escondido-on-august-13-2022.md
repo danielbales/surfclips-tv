@@ -1,6 +1,7 @@
 ---
 title: "2-3X overhead Puerto Escondido on August 13, 2022"
 date: 2022-08-13T18:48:23Z
+description: "Solid SSW swell (211º) peaked for dawn patrol surfers, while offshore AM winds groomed faces at Playa Zicatela. Made barrels were few and far between,..."
 draft: false
 video_id: "zdIgIE49XdY"
 thumbnail: "https://i.ytimg.com/vi/zdIgIE49XdY/maxresdefault.jpg"

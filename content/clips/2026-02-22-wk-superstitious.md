@@ -1,6 +1,7 @@
 ---
 title: "WK Superstitious"
 date: 2026-02-22T05:04:48Z
+description: "Watch WK Superstitious on Surf Clips TV."
 draft: false
 video_id: "0L6PKjfItoQ"
 thumbnail: "https://i.ytimg.com/vi/0L6PKjfItoQ/maxresdefault.jpg"

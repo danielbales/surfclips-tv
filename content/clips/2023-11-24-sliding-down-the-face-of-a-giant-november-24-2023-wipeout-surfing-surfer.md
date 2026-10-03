@@ -1,6 +1,7 @@
 ---
 title: "Sliding down the face of a giant - November 24, 2023  #wipeout #surfing #surfer"
 date: 2023-11-24T19:45:29Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "-YMD2A-fdRg"
 thumbnail: "https://i.ytimg.com/vi/-YMD2A-fdRg/maxresdefault.jpg"

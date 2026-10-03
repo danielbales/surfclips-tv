@@ -1,6 +1,7 @@
 ---
 title: "Mavericks wakes up with 1st BIG WNW swell – September 26, 2023"
 date: 2023-09-26T21:23:07Z
+description: "The first WNW of the '23-'24 winter season was met with semi-clean surface conditions at California's most famous big-wave surf break. Faces were small..."
 draft: false
 video_id: "WOUqKHi5QWU"
 thumbnail: "https://i.ytimg.com/vi/WOUqKHi5QWU/maxresdefault.jpg"

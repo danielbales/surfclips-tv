@@ -1,6 +1,7 @@
 ---
 title: "From the depths! Pipeline Feb 23, 2025"
 date: 2025-02-24T01:03:31Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Surfline"
 draft: false
 video_id: "A-Lx4Bg9h9Q"
 thumbnail: "https://i.ytimg.com/vi/A-Lx4Bg9h9Q/maxresdefault.jpg"

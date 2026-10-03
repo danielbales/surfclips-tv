@@ -1,6 +1,7 @@
 ---
 title: "Foamball MONSTER at Nazare - November 5, 2023 #ciaran  #surfing #bigwave #surfer"
 date: 2023-11-06T22:01:02Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "IaGEooV2jW8"
 thumbnail: "https://i.ytimg.com/vi/IaGEooV2jW8/maxresdefault.jpg"

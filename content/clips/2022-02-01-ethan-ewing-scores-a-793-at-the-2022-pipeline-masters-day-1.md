@@ -1,6 +1,7 @@
 ---
 title: "Ethan Ewing scores a 7.93 at the 2022 Pipeline Masters (Day 1)"
 date: 2022-02-01T04:29:56Z
+description: "On opening day of the 2022 season Ethan Ewing found himself this Pipeline gem just minutes after his heat kicked off. Support the channel by..."
 draft: false
 video_id: "XFoQCMKfzyM"
 thumbnail: "https://i.ytimg.com/vi/XFoQCMKfzyM/maxresdefault.jpg"

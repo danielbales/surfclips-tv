@@ -1,6 +1,7 @@
 ---
 title: "Al Cleland Jr INSANE 2-turn combo"
 date: 2025-04-22T02:38:45Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "ZngW-Dfb-C0"
 thumbnail: "https://i.ytimg.com/vi/ZngW-Dfb-C0/maxresdefault.jpg"

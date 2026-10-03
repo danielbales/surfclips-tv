@@ -1,6 +1,7 @@
 ---
 title: "Surfer gets airborne – Ours, April 2025"
 date: 2025-05-02T00:27:24Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "wjd1pf1V2gI"
 thumbnail: "https://i.ytimg.com/vi/wjd1pf1V2gI/maxresdefault.jpg"

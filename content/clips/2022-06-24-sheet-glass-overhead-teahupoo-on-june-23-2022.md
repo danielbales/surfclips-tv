@@ -1,6 +1,7 @@
 ---
 title: "Sheet glass & overhead Teahupo'o on June 23, 2022"
 date: 2022-06-24T18:15:09Z
+description: "Solid SSW swell out this morning, with double to triple overhead waves marching in. Moderate NNE winds keeping conditions fairly clean. Support the..."
 draft: false
 video_id: "D0iF7bsrmMo"
 thumbnail: "https://i.ytimg.com/vi/D0iF7bsrmMo/maxresdefault.jpg"

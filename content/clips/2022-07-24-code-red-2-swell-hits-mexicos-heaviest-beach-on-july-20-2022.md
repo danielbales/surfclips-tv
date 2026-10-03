@@ -1,6 +1,7 @@
 ---
 title: "Code Red 2 swell hits Mexico's heaviest beach on July 20, 2022"
 date: 2022-07-24T13:28:50Z
+description: "Puerto Escondido saw some stellar conditions as the Code Red 2 swell made it's way into the America's and lit up Playa Zicatela. Winds were offshore..."
 draft: false
 video_id: "kmey0CoJhPk"
 thumbnail: "https://i.ytimg.com/vi/kmey0CoJhPk/maxresdefault.jpg"

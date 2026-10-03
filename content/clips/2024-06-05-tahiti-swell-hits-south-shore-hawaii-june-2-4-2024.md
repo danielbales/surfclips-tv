@@ -1,6 +1,7 @@
 ---
 title: "TAHITI swell hits SOUTH SHORE, HAWAII - June 2-4, 2024"
 date: 2024-06-05T04:42:58Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ Solid long period SW swell that sent a 2x overhead swell to the 2024 Tahiti Pro hit..."
 draft: false
 video_id: "zwYvoUpCCfE"
 thumbnail: "https://i.ytimg.com/vi/zwYvoUpCCfE/maxresdefault.jpg"

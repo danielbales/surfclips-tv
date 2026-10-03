@@ -1,6 +1,7 @@
 ---
 title: "Saturn surf"
 date: 2026-02-04T21:30:34Z
+description: "Watch Saturn surf on Surf Clips TV."
 draft: false
 video_id: "ErSBmI2Y3gI"
 thumbnail: "https://i.ytimg.com/vi/ErSBmI2Y3gI/maxresdefault.jpg"

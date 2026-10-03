@@ -1,6 +1,7 @@
 ---
 title: "Honolua vision with Ian Gentil"
 date: 2026-01-03T22:21:11Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "bvZ8Kua5poM"
 thumbnail: "https://i.ytimg.com/vi/bvZ8Kua5poM/maxresdefault.jpg"

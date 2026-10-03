@@ -1,6 +1,7 @@
 ---
 title: "Griffin Colapinto's 9.17 at 2023 Sunset Beach Pro (Finals)"
 date: 2023-02-20T05:41:26Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "mz7Hf43SuD0"
 thumbnail: "https://i.ytimg.com/vi/mz7Hf43SuD0/maxresdefault.jpg"

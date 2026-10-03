@@ -1,6 +1,7 @@
 ---
 title: "Italo Ferreira's 8.1 (1-turn BLAST) at 2022 Trestles Pro"
 date: 2022-09-08T20:51:26Z
+description: "Up against Kanoa Igarashi in his early morning heat at the 2022 Trestles Pro, Italo Ferreira nails this massive backside air to land a 8.17 and his way..."
 draft: false
 video_id: "c2RltqQjvD4"
 thumbnail: "https://i.ytimg.com/vi/c2RltqQjvD4/maxresdefault.jpg"

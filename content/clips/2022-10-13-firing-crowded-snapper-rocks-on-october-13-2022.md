@@ -1,6 +1,7 @@
 ---
 title: "Firing (& crowded) Snapper Rocks on October 13, 2022"
 date: 2022-10-13T07:00:16Z
+description: "Strong Mid period East swell (90º@12s) provided well overhead surf at the points which are offered longer lines and hollow pits. Winds were out of the..."
 draft: false
 video_id: "qA_6hdXHWNE"
 thumbnail: "https://i.ytimg.com/vi/qA_6hdXHWNE/maxresdefault.jpg"

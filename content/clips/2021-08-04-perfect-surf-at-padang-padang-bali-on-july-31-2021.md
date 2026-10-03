@@ -1,6 +1,7 @@
 ---
 title: "PERFECT!!! surf at PADANG PADANG, Bali on July 31, 2021"
 date: 2021-08-04T04:27:02Z
+description: "Support the channel by subscribing! A light crowd and perfect waves made for a DREAM session for those out. Thank you for supporting Daily Surf Clips 🌊..."
 draft: false
 video_id: "U6e2SvNWkj0"
 thumbnail: "https://i.ytimg.com/vi/U6e2SvNWkj0/maxresdefault.jpg"

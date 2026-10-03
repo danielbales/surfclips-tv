@@ -1,6 +1,7 @@
 ---
 title: "Kelly Slater's 9.7 in the FINALS of 2022 Pipeline Pro (Finals Day 8)"
 date: 2022-02-06T02:17:29Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Kelly Slater defeated Hawaiian surfer Seth Moniz (see Seth's 9.4 wave after Kelly's) with..."
 draft: false
 video_id: "9WjzYlDAorg"
 thumbnail: "https://i.ytimg.com/vi/9WjzYlDAorg/maxresdefault.jpg"

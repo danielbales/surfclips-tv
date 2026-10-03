@@ -1,6 +1,7 @@
 ---
 title: "Portugese beach offers HOLLOW afternoon session on December 9, 2021"
 date: 2021-12-10T08:15:00Z
+description: "Solid winter swell and light NW winds hit Portugal and turns on this Peniche beach break. Support the channel by subscribing! Thank you for supporting..."
 draft: false
 video_id: "aP245AwjHo8"
 thumbnail: "https://i.ytimg.com/vi/aP245AwjHo8/maxresdefault.jpg"

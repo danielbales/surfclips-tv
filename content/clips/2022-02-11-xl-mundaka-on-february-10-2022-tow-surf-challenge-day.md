@@ -1,6 +1,7 @@
 ---
 title: "XL Mundaka on February 10 (2022 Tow Surf Challenge day)"
 date: 2022-02-11T14:15:15Z
+description: "While the Nazaré Tow Challenge was being held, Mundaka came alive as well and provided Basque surfers with double overhead waves and occasional..."
 draft: false
 video_id: "dEX4QS6nKnU"
 thumbnail: "https://i.ytimg.com/vi/dEX4QS6nKnU/maxresdefault.jpg"

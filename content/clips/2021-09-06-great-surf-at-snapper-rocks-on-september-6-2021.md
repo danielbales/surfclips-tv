@@ -1,6 +1,7 @@
 ---
 title: "GREAT SURF at SNAPPER ROCKS!!! on September 6, 2021"
 date: 2021-09-06T22:41:29Z
+description: "Support the channel by subscribing! Good waves all day despite a large high tide in the middle of the day. Surfers got tubed and crowds were thick!..."
 draft: false
 video_id: "Z_dIJxdI4-8"
 thumbnail: "https://i.ytimg.com/vi/Z_dIJxdI4-8/maxresdefault.jpg"

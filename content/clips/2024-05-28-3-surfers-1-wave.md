@@ -1,6 +1,7 @@
 ---
 title: "3 surfers 1 wave"
 date: 2024-05-28T02:14:04Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "BoXAtAy7ISE"
 thumbnail: "https://i.ytimg.com/vi/BoXAtAy7ISE/maxresdefault.jpg"

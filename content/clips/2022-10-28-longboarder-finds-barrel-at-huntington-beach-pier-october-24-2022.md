@@ -1,6 +1,7 @@
 ---
 title: "Longboarder finds barrel at Huntington Beach Pier - October 24, 2022"
 date: 2022-10-28T16:01:38Z
+description: "Offshore winds and a combo swell lit up Huntington Beach, and offered some hollow, rippable and great surf to Surf City."
 draft: false
 video_id: "iNxS5TEPe90"
 thumbnail: "https://i.ytimg.com/vi/iNxS5TEPe90/maxresdefault.jpg"

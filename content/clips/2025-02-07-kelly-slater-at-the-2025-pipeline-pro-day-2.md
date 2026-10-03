@@ -1,6 +1,7 @@
 ---
 title: "Kelly Slater at the 2025 Pipeline Pro (Day 2)"
 date: 2025-02-07T23:17:59Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Kelly Slater gets this Pipeline pit on his second day of the 2025 Pipeline Pro. Credit: Surfline"
 draft: false
 video_id: "bh9dXGdOvDo"
 thumbnail: "https://i.ytimg.com/vi/bh9dXGdOvDo/maxresdefault.jpg"

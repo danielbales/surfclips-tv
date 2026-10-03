@@ -1,6 +1,7 @@
 ---
 title: "Pre-Comp Freesurf - Portugal Pro Supertubos 2024"
 date: 2024-03-06T23:40:12Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ The day before the contest kicked off lumpy, bumpy, but occasional big deep pits were on..."
 draft: false
 video_id: "OSJ5bE0Vid4"
 thumbnail: "https://i.ytimg.com/vi/OSJ5bE0Vid4/maxresdefault.jpg"

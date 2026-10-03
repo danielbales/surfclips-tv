@@ -1,6 +1,7 @@
 ---
 title: "I live, breathe, and eat surfing.."
 date: 2026-01-22T20:23:55Z
+description: "Watch I live, breathe, and eat surfing.. on Surf Clips TV."
 draft: false
 video_id: "Eoz9yiudZdY"
 thumbnail: "https://i.ytimg.com/vi/Eoz9yiudZdY/maxresdefault.jpg"

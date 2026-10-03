@@ -1,6 +1,7 @@
 ---
 title: "Wave of a Lifetime, Eimeo Czermak at XL Teahupoo - May 2025"
 date: 2025-05-10T22:27:56Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Maybe one of the best paddle waves at Teahupoo. Credit: Surfline"
 draft: false
 video_id: "igR-bWuDEvE"
 thumbnail: "https://i.ytimg.com/vi/igR-bWuDEvE/maxresdefault.jpg"

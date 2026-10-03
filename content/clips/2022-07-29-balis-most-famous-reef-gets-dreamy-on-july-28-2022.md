@@ -1,6 +1,7 @@
 ---
 title: "Bali's most famous reef gets dreamy on July 28, 2022"
 date: 2022-07-29T01:55:09Z
+description: "A new SSW swell (209º@16) filled in, providing solid surf in the 1/2x overhead range for premier breaks, like this one on the infamous Bukit Peninsula...."
 draft: false
 video_id: "WpgEbLXuIlk"
 thumbnail: "https://i.ytimg.com/vi/WpgEbLXuIlk/maxresdefault.jpg"

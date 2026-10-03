@@ -1,6 +1,7 @@
 ---
 title: "Casual air-reverse at Steamer Lane - Sept 26, 2024"
 date: 2024-09-27T02:46:40Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ Thank you for supporting Surf Cam Rewind so we can continue to provide you with free..."
 draft: false
 video_id: "Z-wtXJiXVwQ"
 thumbnail: "https://i.ytimg.com/vi/Z-wtXJiXVwQ/maxresdefault.jpg"

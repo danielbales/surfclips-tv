@@ -1,6 +1,7 @@
 ---
 title: "Holding the reverse at STEAMER LANE - November 12, 2023  #surfrider #surfing #surfer #santacruz"
 date: 2023-11-13T17:49:56Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "n9Toc7uhYeA"
 thumbnail: "https://i.ytimg.com/vi/n9Toc7uhYeA/maxresdefault.jpg"

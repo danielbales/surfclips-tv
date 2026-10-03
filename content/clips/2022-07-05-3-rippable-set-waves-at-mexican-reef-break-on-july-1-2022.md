@@ -1,6 +1,7 @@
 ---
 title: "3 rippable set waves at Mexican reef break on July 1, 2022"
 date: 2022-07-05T18:44:57Z
+description: "SSW swell (210º) with peaking SSE swell (168º) mixes in at this Baja Californian reefbreak, while clean morning winds and a drained out tide produced..."
 draft: false
 video_id: "gWeDUBpfgKY"
 thumbnail: "https://i.ytimg.com/vi/gWeDUBpfgKY/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Makua Rothman drainer at the Backdoor Shootout"
 date: 2022-11-04T02:59:34Z
+description: "Watch Makua Rothman drainer at the Backdoor Shootout on Surf Clips TV."
 draft: false
 video_id: "r0jPTih7MW0"
 thumbnail: "https://i.ytimg.com/vi/r0jPTih7MW0/maxresdefault.jpg"

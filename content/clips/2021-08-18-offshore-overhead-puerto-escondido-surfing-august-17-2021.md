@@ -1,6 +1,7 @@
 ---
 title: "OFFSHORE + OVERHEAD PUERTO!!! Escondido surfing, August 17, 2021"
 date: 2021-08-18T02:57:02Z
+description: "Support the channel by subscribing! Solid south swell hit Puerto Escondido, Mexico on August 17, 2021. Local Mexican rippers Coco Nogales, Roger..."
 draft: false
 video_id: "5QJg1a1LuoQ"
 thumbnail: "https://i.ytimg.com/vi/5QJg1a1LuoQ/maxresdefault.jpg"

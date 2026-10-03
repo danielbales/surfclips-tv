@@ -1,6 +1,7 @@
 ---
 title: "S. Pacific pointbreak sees high performance conditions - September 21, 2023"
 date: 2023-09-21T23:45:37Z
+description: "A mix of swells hit this South Pacific island and provided rippable, high performance surf that was sectiony but fun. Support the channel by..."
 draft: false
 video_id: "cFMkFo66FQM"
 thumbnail: "https://i.ytimg.com/vi/cFMkFo66FQM/maxresdefault.jpg"

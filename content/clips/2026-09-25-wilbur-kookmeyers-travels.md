@@ -1,6 +1,7 @@
 ---
 title: "Wilbur Kookmeyer's travels"
 date: 2026-09-25T21:36:56Z
+description: "Watch Wilbur Kookmeyer's travels on Surf Clips TV."
 draft: false
 video_id: "Icn0Z3aqfZ8"
 thumbnail: "https://i.ytimg.com/vi/Icn0Z3aqfZ8/maxresdefault.jpg"

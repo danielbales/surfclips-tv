@@ -1,6 +1,7 @@
 ---
 title: "Perfect ride from 2022 Tahiti Pro (Yago Dora)"
 date: 2022-08-19T19:46:12Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "ya9TS9WvCtI"
 thumbnail: "https://i.ytimg.com/vi/ya9TS9WvCtI/maxresdefault.jpg"

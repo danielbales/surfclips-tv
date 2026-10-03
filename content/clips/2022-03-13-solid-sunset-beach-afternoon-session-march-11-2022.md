@@ -1,6 +1,7 @@
 ---
 title: "SOLID Sunset Beach afternoon session - March 11, 2022"
 date: 2022-03-13T00:23:26Z
+description: "Double overhead faces from a peaking WNW swell and offshore winds rolled down the Sunset Beach reef on March 11, 2022. Support the channel by..."
 draft: false
 video_id: "DS3yPFPNTGw"
 thumbnail: "https://i.ytimg.com/vi/DS3yPFPNTGw/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Evening at J-Bay on May 30, 2022"
 date: 2022-06-02T17:40:52Z
+description: "Glassoff for local surfers offered some fun, long rides thanks to a mid period SW swell with light WNW winds. Support the channel by subscribing! Thank..."
 draft: false
 video_id: "TJ7sx3uc8DQ"
 thumbnail: "https://i.ytimg.com/vi/TJ7sx3uc8DQ/maxresdefault.jpg"

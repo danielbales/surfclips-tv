@@ -1,6 +1,7 @@
 ---
 title: "Wilbur's Baack!"
 date: 2026-02-17T14:25:23Z
+description: "Watch Wilbur's Baack! on Surf Clips TV."
 draft: false
 video_id: "LvEowaqFzq4"
 thumbnail: "https://i.ytimg.com/vi/LvEowaqFzq4/hqdefault.jpg"

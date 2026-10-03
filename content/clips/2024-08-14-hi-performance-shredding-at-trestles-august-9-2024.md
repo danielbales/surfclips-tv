@@ -1,6 +1,7 @@
 ---
 title: "Hi-performance SHREDDING at TRESTLES - August 9, 2024"
 date: 2024-08-14T02:36:20Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "4pL4IDS6rT8"
 thumbnail: "https://i.ytimg.com/vi/4pL4IDS6rT8/maxresdefault.jpg"

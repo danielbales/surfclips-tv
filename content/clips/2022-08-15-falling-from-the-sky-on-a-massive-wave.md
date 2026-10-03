@@ -1,6 +1,7 @@
 ---
 title: "Falling from the sky on a massive wave"
 date: 2022-08-15T16:48:33Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "ol7n4vB9bs4"
 thumbnail: "https://i.ytimg.com/vi/ol7n4vB9bs4/maxresdefault.jpg"

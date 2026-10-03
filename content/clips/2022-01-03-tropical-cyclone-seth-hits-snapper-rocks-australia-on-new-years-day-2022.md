@@ -1,6 +1,7 @@
 ---
 title: "Tropical Cyclone Seth hits Snapper Rocks, Australia on New Year's Day, 2022"
 date: 2022-01-03T01:15:00Z
+description: "A large powerful & solid East swell produced by Tropical Cyclone Seth provided double overhead plus + sets on January 2, 2022. This footage is pre-peak..."
 draft: false
 video_id: "MPMm8_hwb7c"
 thumbnail: "https://i.ytimg.com/vi/MPMm8_hwb7c/maxresdefault.jpg"

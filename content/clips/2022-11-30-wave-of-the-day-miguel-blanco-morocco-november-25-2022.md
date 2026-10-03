@@ -1,6 +1,7 @@
 ---
 title: "Wave of the Day: Miguel Blanco – Morocco, November 25, 2022"
 date: 2022-11-30T03:38:41Z
+description: "During this supersession (see here: youtu.be/9PkdPmj-GoM) Portugal ripper Miguel Blanco snagged this dreamer and made it look way too easy. Support the..."
 draft: false
 video_id: "oCI-Vq4u3u4"
 thumbnail: "https://i.ytimg.com/vi/oCI-Vq4u3u4/maxresdefault.jpg"

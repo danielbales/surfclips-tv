@@ -1,6 +1,7 @@
 ---
 title: "Kelly Slater, Hawaii - March 2025"
 date: 2025-03-28T20:32:56Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "BBXSV7a3kWc"
 thumbnail: "https://i.ytimg.com/vi/BBXSV7a3kWc/maxresdefault.jpg"

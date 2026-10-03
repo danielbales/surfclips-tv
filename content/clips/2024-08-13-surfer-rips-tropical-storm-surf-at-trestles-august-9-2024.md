@@ -1,6 +1,7 @@
 ---
 title: "Surfer rips TROPICAL STORM surf at TRESTLES - August 9, 2024"
 date: 2024-08-13T03:37:30Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "ET7IFM_lvGU"
 thumbnail: "https://i.ytimg.com/vi/ET7IFM_lvGU/maxresdefault.jpg"

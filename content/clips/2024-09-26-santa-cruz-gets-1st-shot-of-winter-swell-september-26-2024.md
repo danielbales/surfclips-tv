@@ -1,6 +1,7 @@
 ---
 title: "SANTA CRUZ gets 1st shot of Winter swell – September 26, 2024"
 date: 2024-09-26T23:22:15Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ 7@16 seconds WNW swell arrived with a mid-high tide at Central California's most famed right..."
 draft: false
 video_id: "Hqyi4th0xFQ"
 thumbnail: "https://i.ytimg.com/vi/Hqyi4th0xFQ/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "John John Florence's 9.0 at 2022 Portugal Pro Supertubos (Day 2)"
 date: 2022-03-04T21:35:02Z
+description: "John John Florence late-drops right under the lip as his heat kicked off and scores a great tube (and score) at the Portugal Pro Supertubos. Support..."
 draft: false
 video_id: "Yo0EbPhA58Y"
 thumbnail: "https://i.ytimg.com/vi/Yo0EbPhA58Y/maxresdefault.jpg"

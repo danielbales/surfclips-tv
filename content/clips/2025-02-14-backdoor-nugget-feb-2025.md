@@ -1,6 +1,7 @@
 ---
 title: "Backdoor nugget - Feb 2025"
 date: 2025-02-14T21:13:03Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Surfline"
 draft: false
 video_id: "i0iqKKnPxJw"
 thumbnail: "https://i.ytimg.com/vi/i0iqKKnPxJw/maxresdefault.jpg"

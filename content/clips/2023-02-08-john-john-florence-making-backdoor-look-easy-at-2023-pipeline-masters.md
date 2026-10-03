@@ -1,6 +1,7 @@
 ---
 title: "John John Florence making Backdoor look easy at 2023 Pipeline Masters"
 date: 2023-02-08T01:04:49Z
+description: "In his Day 4 heat against Nat Young, John John Florence maximizes his time under the lip on this Backdoor wave. Support the channel by subscribing!..."
 draft: false
 video_id: "PlkVH_VhOhY"
 thumbnail: "https://i.ytimg.com/vi/PlkVH_VhOhY/maxresdefault.jpg"

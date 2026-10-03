@@ -1,6 +1,7 @@
 ---
 title: "Yay! Perfect conditions."
 date: 2026-01-21T22:28:16Z
+description: "Watch Yay! Perfect conditions. on Surf Clips TV."
 draft: false
 video_id: "cO08rAlb9xs"
 thumbnail: "https://i.ytimg.com/vi/cO08rAlb9xs/maxresdefault.jpg"

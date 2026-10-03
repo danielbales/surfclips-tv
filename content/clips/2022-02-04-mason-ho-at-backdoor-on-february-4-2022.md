@@ -1,6 +1,7 @@
 ---
 title: "Mason Ho at Backdoor on February 4, 2022"
 date: 2022-02-04T21:32:19Z
+description: "Mason Ho finds a great Backdoor barrel on an 8-10 foot day with near-perfect winds. Support the channel by subscribing! Thank you for supporting Surf..."
 draft: false
 video_id: "XeL12aEyJwE"
 thumbnail: "https://i.ytimg.com/vi/XeL12aEyJwE/maxresdefault.jpg"

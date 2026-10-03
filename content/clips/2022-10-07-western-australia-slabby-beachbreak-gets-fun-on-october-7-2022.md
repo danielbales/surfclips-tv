@@ -1,6 +1,7 @@
 ---
 title: "Western Australia slabby beachbreak gets fun on October 7, 2022"
 date: 2022-10-07T21:16:17Z
+description: "Offshore AM wind while a large short period SW swell provided overhead and fun surf to this Western Australia cranny. Support the channel by..."
 draft: false
 video_id: "H-6ar30Vd0A"
 thumbnail: "https://i.ytimg.com/vi/H-6ar30Vd0A/maxresdefault.jpg"

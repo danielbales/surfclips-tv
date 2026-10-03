@@ -1,6 +1,7 @@
 ---
 title: "#wipeout in XL #waimea #surf - November 24, 2023"
 date: 2023-11-24T19:18:33Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "uodHODioCGk"
 thumbnail: "https://i.ytimg.com/vi/uodHODioCGk/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Wipeout of the day - XL PUERTO - May 11, 2023"
 date: 2023-05-11T17:48:28Z
+description: "In 20 foot and challenging XL Puerto Escondido conditions, this big wave surfer sends it and somersaults down the face and luckily emerges out the back..."
 draft: false
 video_id: "p3S953wYcwc"
 thumbnail: "https://i.ytimg.com/vi/p3S953wYcwc/maxresdefault.jpg"

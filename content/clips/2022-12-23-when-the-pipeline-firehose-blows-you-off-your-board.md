@@ -1,6 +1,7 @@
 ---
 title: "When the Pipeline FIREHOSE blows you off your board"
 date: 2022-12-23T03:39:32Z
+description: "Watch When the Pipeline FIREHOSE blows you off your board on Surf Clips TV."
 draft: false
 video_id: "08o84Hna6ws"
 thumbnail: "https://i.ytimg.com/vi/08o84Hna6ws/maxresdefault.jpg"

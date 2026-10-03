@@ -1,6 +1,7 @@
 ---
 title: "New Jersey surfer gets punished"
 date: 2022-11-12T19:51:32Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "ihS8Zsek-Q8"
 thumbnail: "https://i.ytimg.com/vi/ihS8Zsek-Q8/maxresdefault.jpg"

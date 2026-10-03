@@ -1,6 +1,7 @@
 ---
 title: "Nazare bomb #bigwave  #surfing #surfallday #surfer"
 date: 2023-11-05T22:20:17Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "XYf5YIgcae4"
 thumbnail: "https://i.ytimg.com/vi/XYf5YIgcae4/maxresdefault.jpg"

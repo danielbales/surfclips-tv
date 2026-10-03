@@ -1,6 +1,7 @@
 ---
 title: "5 waves from FIRING Orange County surf – October 15, 2024"
 date: 2024-10-15T23:44:45Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Midday surf turned on at this Orange County staple during a solid run of combo swell. Thank..."
 draft: false
 video_id: "UT4nDsB9eHg"
 thumbnail: "https://i.ytimg.com/vi/UT4nDsB9eHg/maxresdefault.jpg"

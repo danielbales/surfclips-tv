@@ -1,6 +1,7 @@
 ---
 title: "SLEEP MUSIC - Fight INSOMNIA with 12 hours of POINT BREAK (OCEAN) WAVES at night"
 date: 2021-07-12T14:56:52Z
+description: "Support the channel by subscribing! 12 hours of perfect, peaceful ocean waves at night to fall asleep to. Filmed in Central America (El Salvador). This..."
 draft: false
 video_id: "B-rn_XiPmx8"
 thumbnail: "https://i9.ytimg.com/vi/B-rn_XiPmx8/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLAd4Bpr92WjP3g1-G9k2YbpyusJcw"

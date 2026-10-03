@@ -1,6 +1,7 @@
 ---
 title: "Nat Young's LETHAL backside hack (8.4) at 2022 Sunset Beach Pro - Round of 32"
 date: 2022-02-18T15:17:35Z
+description: "On one of the heavier turns of the 2022 Sunset Beach Pro up to that point, Nat Young showcases his Steamer Lane skills in triple overhead surf on..."
 draft: false
 video_id: "ug4HWv8-MpQ"
 thumbnail: "https://i.ytimg.com/vi/ug4HWv8-MpQ/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Jordy on a nugget close to home - January 2026"
 date: 2026-01-24T08:01:13Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "zXOejrNBIPI"
 thumbnail: "https://i.ytimg.com/vi/zXOejrNBIPI/maxresdefault.jpg"

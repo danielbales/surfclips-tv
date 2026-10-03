@@ -1,6 +1,7 @@
 ---
 title: "5 SICK Backdoor barrels – December 6, 2022"
 date: 2022-12-07T20:11:23Z
+description: "North Shore was on fire as a new NW swell (318º) filled in this afternoon with favorable ESE wind conditions. Wave heights were up from the AM, with..."
 draft: false
 video_id: "47i3qICODq8"
 thumbnail: "https://i.ytimg.com/vi/47i3qICODq8/maxresdefault.jpg"

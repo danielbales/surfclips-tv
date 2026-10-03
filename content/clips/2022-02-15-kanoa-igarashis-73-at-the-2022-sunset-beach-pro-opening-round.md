@@ -1,6 +1,7 @@
 ---
 title: "Kanoa Igarashi's 7.3 at the 2022 Sunset Beach Pro (Opening Round)"
 date: 2022-02-15T19:25:19Z
+description: "Kanoa found this Sunset Beach wave right as his heat kicked off. He ended up winning the heat and moving directly into the elimination round. Support..."
 draft: false
 video_id: "iOFfgAd3tx4"
 thumbnail: "https://i.ytimg.com/vi/iOFfgAd3tx4/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Yago Dora's MASSIVE 9.0 air at El Salvador Pro 2022 (Opening Round)"
 date: 2022-06-15T20:17:22Z
+description: "Yago Dora blasts a large backside air during the Opening Round of the 2022 El Salvador Pro, scoring a 9.0. Support the channel by subscribing! Thank..."
 draft: false
 video_id: "ymbOt5ptiT0"
 thumbnail: "https://i.ytimg.com/vi/ymbOt5ptiT0/maxresdefault.jpg"

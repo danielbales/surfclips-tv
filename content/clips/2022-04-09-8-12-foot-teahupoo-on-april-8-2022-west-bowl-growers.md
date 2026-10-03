@@ -1,6 +1,7 @@
 ---
 title: "8-12 foot Teahupoo on April 8, 2022 (West bowl growers)"
 date: 2022-04-09T16:55:38Z
+description: "Solid swell and early afternoon offshores meant fun, occasionally throaty End of the Road surf. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "wO9f9NNP8nI"
 thumbnail: "https://i.ytimg.com/vi/wO9f9NNP8nI/maxresdefault.jpg"

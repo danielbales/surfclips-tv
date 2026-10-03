@@ -1,6 +1,7 @@
 ---
 title: "Pro surfers score THE BOX (during day 2 of the 2023 Margaret River Pro)"
 date: 2023-04-22T17:30:02Z
+description: "While Day 2 of the 2023 Margaret River Pro played out, the world's best surfers scored incredible waves at The Box. Support the channel by subscribing!..."
 draft: false
 video_id: "LEl2M3SE6Uw"
 thumbnail: "https://i.ytimg.com/vi/LEl2M3SE6Uw/maxresdefault.jpg"

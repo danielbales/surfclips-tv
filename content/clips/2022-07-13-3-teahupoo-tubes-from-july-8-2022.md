@@ -1,6 +1,7 @@
 ---
 title: "3 Teahupo'o tubes from July 8, 2022"
 date: 2022-07-13T19:00:09Z
+description: "Solid SW-SSW swell (207º) tops out the morning of July 8. Wind from the SE groomed faces and a few stellar rides went down at The End of the Road...."
 draft: false
 video_id: "SFRRn1PclEw"
 thumbnail: "https://i.ytimg.com/vi/SFRRn1PclEw/maxresdefault.jpg"

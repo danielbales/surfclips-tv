@@ -1,6 +1,7 @@
 ---
 title: "Connor Coffin somewhere deep in Canada"
 date: 2025-12-07T16:00:53Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "KFDj5fUlv_U"
 thumbnail: "https://i.ytimg.com/vi/KFDj5fUlv_U/maxresdefault.jpg"

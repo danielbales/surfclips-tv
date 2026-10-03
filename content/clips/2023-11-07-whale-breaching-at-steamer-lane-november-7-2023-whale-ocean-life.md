@@ -1,6 +1,7 @@
 ---
 title: "Whale breaching at Steamer Lane - November 7, 2023 #whale #ocean #life"
 date: 2023-11-07T21:43:55Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "FRwrCiN_Wnw"
 thumbnail: "https://i.ytimg.com/vi/FRwrCiN_Wnw/maxresdefault.jpg"

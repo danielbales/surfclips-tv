@@ -1,6 +1,7 @@
 ---
 title: "JAMIE O'BRIEN on the wave of the day at XL PIPE – October 18, 2023"
 date: 2023-10-19T03:48:29Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ With 20-25 foot faces slamming Waimea Bay, John Florence and crew charged massive PIPELINE,..."
 draft: false
 video_id: "AMTBZAuX32U"
 thumbnail: "https://i.ytimg.com/vi/AMTBZAuX32U/maxresdefault.jpg"

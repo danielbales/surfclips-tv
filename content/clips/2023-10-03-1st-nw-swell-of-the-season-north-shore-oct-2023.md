@@ -1,6 +1,7 @@
 ---
 title: "1st NW swell of the season! North Shore, Oct 2023"
 date: 2023-10-03T05:16:07Z
+description: "Watch 1st NW swell of the season! North Shore, Oct 2023 on Surf Clips TV."
 draft: false
 video_id: "jMpkgAD5fAc"
 thumbnail: "https://i.ytimg.com/vi/jMpkgAD5fAc/maxresdefault.jpg"

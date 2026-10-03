@@ -1,6 +1,7 @@
 ---
 title: "Jetski charges set wave at Pipeline"
 date: 2021-12-18T04:49:47Z
+description: "As soon as the 2021 HIC Pipe Pro ended a jetski charges a set wave at pipeline. Support the channel by subscribing! Thank you for supporting Surf Cam..."
 draft: false
 video_id: "0z7wpLPD_ec"
 thumbnail: "https://i.ytimg.com/vi/0z7wpLPD_ec/maxresdefault.jpg"

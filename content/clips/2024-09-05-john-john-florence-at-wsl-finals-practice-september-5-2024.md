@@ -1,6 +1,7 @@
 ---
 title: "JOHN JOHN FLORENCE at WSL FINALS practice - September 5, 2024"
 date: 2024-09-05T18:26:00Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ Thank you for supporting Surf Cam Rewind so we can continue to provide you with free..."
 draft: false
 video_id: "echr06-eD3A"
 thumbnail: "https://i.ytimg.com/vi/echr06-eD3A/maxresdefault.jpg"

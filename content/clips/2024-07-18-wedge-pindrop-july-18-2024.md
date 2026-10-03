@@ -1,6 +1,7 @@
 ---
 title: "WEDGE pindrop - July 18, 2024"
 date: 2024-07-18T16:40:11Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "zPE7wU1NbMM"
 thumbnail: "https://i.ytimg.com/vi/zPE7wU1NbMM/maxresdefault.jpg"

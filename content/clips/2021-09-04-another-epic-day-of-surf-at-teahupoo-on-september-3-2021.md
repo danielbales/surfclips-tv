@@ -1,6 +1,7 @@
 ---
 title: "Another EPIC DAY of SURF at TEAHUPO'O!!! on September 3, 2021"
 date: 2021-09-04T20:51:23Z
+description: "Support the channel by subscribing! Clean, 6 - 8 foot (2 - 3 meter) slabs rolled in for the locals at Teahupo'o, Tahiti on September 3, 2021. Thank you..."
 draft: false
 video_id: "FGsngV9ntUk"
 thumbnail: "https://i.ytimg.com/vi/FGsngV9ntUk/maxresdefault.jpg"

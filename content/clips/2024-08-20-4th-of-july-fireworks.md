@@ -1,6 +1,7 @@
 ---
 title: "4th of July Fireworks 🎆🎇"
 date: 2024-08-20T17:05:29Z
+description: "Watch 4th of July Fireworks 🎆🎇 on Surf Clips TV."
 draft: false
 video_id: "nSZU_c5kCHQ"
 thumbnail: "https://i.ytimg.com/vi/nSZU_c5kCHQ/maxresdefault.jpg"

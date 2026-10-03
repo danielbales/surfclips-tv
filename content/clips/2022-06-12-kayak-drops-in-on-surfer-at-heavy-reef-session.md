@@ -1,6 +1,7 @@
 ---
 title: "Kayak drops in on surfer at heavy reef session"
 date: 2022-06-12T07:00:07Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "ZCm-NEvqljQ"
 thumbnail: "https://i.ytimg.com/vi/ZCm-NEvqljQ/hqdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Daiki Matsunaga's Pipe CAVERN at 2023 Backdoor Shootout"
 date: 2023-01-18T22:45:00Z
+description: "Team Japan summoned the North Pacific during their Day 2 heat of the 2023 Backdoor Shootout, with Daiki Matsunaga finding this Pipeline gem during the..."
 draft: false
 video_id: "ZVGYyeaZvvs"
 thumbnail: "https://i.ytimg.com/vi/ZVGYyeaZvvs/maxresdefault.jpg"

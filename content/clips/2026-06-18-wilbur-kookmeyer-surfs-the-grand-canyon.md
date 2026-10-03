@@ -1,6 +1,7 @@
 ---
 title: "Wilbur Kookmeyer surfs the Grand Canyon"
 date: 2026-06-18T18:41:01Z
+description: "Watch Wilbur Kookmeyer surfs the Grand Canyon on Surf Clips TV."
 draft: false
 video_id: "6jlqgEscKMU"
 thumbnail: "https://i.ytimg.com/vi/6jlqgEscKMU/maxresdefault.jpg"

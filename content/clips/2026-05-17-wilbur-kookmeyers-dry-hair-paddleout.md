@@ -1,6 +1,7 @@
 ---
 title: "Wilbur Kookmeyer's Dry Hair Paddleout"
 date: 2026-05-17T15:12:37Z
+description: "Watch Wilbur Kookmeyer's Dry Hair Paddleout on Surf Clips TV."
 draft: false
 video_id: "3Z-V8pzK14s"
 thumbnail: "https://i.ytimg.com/vi/3Z-V8pzK14s/maxresdefault.jpg"

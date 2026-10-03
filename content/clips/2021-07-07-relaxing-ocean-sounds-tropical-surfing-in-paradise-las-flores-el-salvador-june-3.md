@@ -1,6 +1,7 @@
 ---
 title: "RELAXING Ocean Sounds & TROPICAL surfing in PARADISE! Las Flores, El Salvador June 30, 2021"
 date: 2021-07-07T02:10:38Z
+description: "Support the channel by subscribing! Las Flores, El Salvador had some beautiful waves, and surfers were out enjoying warm sun! Thank you for supporting..."
 draft: false
 video_id: "mgldUhPbsZs"
 thumbnail: "https://i9.ytimg.com/vi/mgldUhPbsZs/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLDrfRX1guVNizM2Y-FSAhMZchTvIw"

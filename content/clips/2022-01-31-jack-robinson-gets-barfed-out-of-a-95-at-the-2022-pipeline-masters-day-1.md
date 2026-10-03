@@ -1,6 +1,7 @@
 ---
 title: "Jack Robinson gets BARFED OUT of a 9.5 at the 2022 Pipeline Masters (Day 1)"
 date: 2022-01-31T20:21:50Z
+description: "Tube wizard Jack Robinson finds an insane wave during the 2022 Pipeline Masters. Steep and deep! Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "CDIBXsPI5n8"
 thumbnail: "https://i.ytimg.com/vi/CDIBXsPI5n8/maxresdefault.jpg"

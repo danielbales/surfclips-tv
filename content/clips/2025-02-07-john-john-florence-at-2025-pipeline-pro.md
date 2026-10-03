@@ -1,6 +1,7 @@
 ---
 title: "John John Florence at 2025 Pipeline Pro"
 date: 2025-02-07T21:07:13Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ John John doing his thing at home during the 2025 Pipeline Pro Credit: Surfline"
 draft: false
 video_id: "r0AbgaYVSn8"
 thumbnail: "https://i.ytimg.com/vi/r0AbgaYVSn8/maxresdefault.jpg"

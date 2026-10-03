@@ -1,6 +1,7 @@
 ---
 title: "MIAMI BEACH surf FIRES thanks to Hurricane – October 11, 2024"
 date: 2024-10-11T18:02:00Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Hurricane Milton delivered a steep angled NNE swell to South Beach Miami, providing..."
 draft: false
 video_id: "8fELbGIREAY"
 thumbnail: "https://i.ytimg.com/vi/8fELbGIREAY/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Tiny board or bigger board"
 date: 2026-02-11T00:50:25Z
+description: "Watch Tiny board or bigger board on Surf Clips TV."
 draft: false
 video_id: "__QUPKCt7k8"
 thumbnail: "https://i.ytimg.com/vi/__QUPKCt7k8/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "John John Florence perfectly ridden at Backdoor – November 30, 2023"
 date: 2023-11-30T23:37:17Z
+description: "Amidst a thick crowd, John Florence finds a Backdoor gem and rides it as he's done thousands of times before Support the channel by subscribing! Thank..."
 draft: false
 video_id: "KW9qSR7fhdI"
 thumbnail: "https://i.ytimg.com/vi/KW9qSR7fhdI/maxresdefault.jpg"

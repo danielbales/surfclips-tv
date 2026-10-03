@@ -1,6 +1,7 @@
 ---
 title: "New York surfers rejoice thanks swell from Hurricane Lee – September 15, 2023"
 date: 2023-09-17T17:14:57Z
+description: "With Hurricane Lee sending solid swell to New York, local surfers found themselves enjoying one of the best days of the year for surfing. Support the..."
 draft: false
 video_id: "bxhdLuXZN5k"
 thumbnail: "https://i.ytimg.com/vi/bxhdLuXZN5k/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Kai Lenny chop hop air at XL Mavericks – December 28, 2023"
 date: 2024-01-01T14:00:19Z
+description: "Kai Lenny toys with XL Mavericks on December 28, 2023 by launching two chop hop airs while towing in his afternoon session. Support the channel by..."
 draft: false
 video_id: "fCmXJ6-UKKs"
 thumbnail: "https://i.ytimg.com/vi/fCmXJ6-UKKs/maxresdefault.jpg"

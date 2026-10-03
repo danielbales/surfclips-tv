@@ -1,6 +1,7 @@
 ---
 title: "SWELL OF THE YEAR hits NEW YORK (Hurricane Lee swell - Sept 14, 2023)"
 date: 2023-09-14T20:46:58Z
+description: "Firing this afternoon with light+ offshore NNW winds and groomed conditions, while a longer period SSE/SE swell from Hurricane Lee offered 1-3'..."
 draft: false
 video_id: "5-YVMewYXRw"
 thumbnail: "https://i.ytimg.com/vi/5-YVMewYXRw/maxresdefault.jpg"

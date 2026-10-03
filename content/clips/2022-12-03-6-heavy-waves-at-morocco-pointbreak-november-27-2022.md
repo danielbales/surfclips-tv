@@ -1,6 +1,7 @@
 ---
 title: "6 HEAVY waves at Morocco pointbreak – November 27, 2022"
 date: 2022-12-03T02:40:40Z
+description: "Moderate mid period waves from the WNW (303º) with light winds created clean conditions with solid overhead sets. Waves were hollow, racy, and..."
 draft: false
 video_id: "ZR04z9krAX0"
 thumbnail: "https://i.ytimg.com/vi/ZR04z9krAX0/maxresdefault.jpg"

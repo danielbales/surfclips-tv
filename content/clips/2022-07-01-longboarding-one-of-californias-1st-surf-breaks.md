@@ -1,6 +1,7 @@
 ---
 title: "Longboarding one of California's 1st surf breaks"
 date: 2022-07-01T15:20:09Z
+description: "SSW (202º) and NW windswell (284º) mix with calm winds out of the NNE with a bottomed out tide produced clean surface conditions and occasional waist..."
 draft: false
 video_id: "GNkhCmgmE6k"
 thumbnail: "https://i.ytimg.com/vi/GNkhCmgmE6k/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "John John Florence's SNEAKY Backdoor wave in the Finals of 2023 Pipeline Masters"
 date: 2023-12-14T15:30:05Z
+description: "This frothy Backdoor wave moved John John Florence up into 1st place during the Finals of the 2023 Pipeline Masters, and secured his WIN as 2x Pipeline..."
 draft: false
 video_id: "7CTWGZqyk5o"
 thumbnail: "https://i.ytimg.com/vi/7CTWGZqyk5o/maxresdefault.jpg"

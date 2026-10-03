@@ -1,6 +1,7 @@
 ---
 title: "Ivan Florence on a perfect North Shore left"
 date: 2022-12-29T20:33:33Z
+description: "Watch Ivan Florence on a perfect North Shore left on Surf Clips TV."
 draft: false
 video_id: "Q2lNuXbSITc"
 thumbnail: "https://i.ytimg.com/vi/Q2lNuXbSITc/maxresdefault.jpg"

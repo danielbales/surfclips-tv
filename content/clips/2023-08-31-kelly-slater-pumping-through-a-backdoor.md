@@ -1,6 +1,7 @@
 ---
 title: "Kelly Slater pumping through a backdoor 💎"
 date: 2023-08-31T19:39:11Z
+description: "Watch Kelly Slater pumping through a backdoor 💎 on Surf Clips TV."
 draft: false
 video_id: "76WtxX1Ly90"
 thumbnail: "https://i.ytimg.com/vi/76WtxX1Ly90/maxresdefault.jpg"

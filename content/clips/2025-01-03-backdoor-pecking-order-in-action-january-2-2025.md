@@ -1,6 +1,7 @@
 ---
 title: "Backdoor pecking order in action – January 2, 2025"
 date: 2025-01-03T03:12:23Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Lots to unpack here! Credit: Surfline"
 draft: false
 video_id: "SJp11Yq40hs"
 thumbnail: "https://i.ytimg.com/vi/SJp11Yq40hs/maxresdefault.jpg"

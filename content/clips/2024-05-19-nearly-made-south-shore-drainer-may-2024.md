@@ -1,6 +1,7 @@
 ---
 title: "Nearly made South Shore DRAINER - May 2024"
 date: 2024-05-19T23:05:49Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "BFIoQAmm0mc"
 thumbnail: "https://i.ytimg.com/vi/BFIoQAmm0mc/maxresdefault.jpg"

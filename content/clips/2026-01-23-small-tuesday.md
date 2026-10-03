@@ -1,6 +1,7 @@
 ---
 title: "Small Tuesday"
 date: 2026-01-23T00:28:32Z
+description: "Watch Small Tuesday on Surf Clips TV."
 draft: false
 video_id: "6Hu7o82pZtM"
 thumbnail: "https://i.ytimg.com/vi/6Hu7o82pZtM/maxresdefault.jpg"

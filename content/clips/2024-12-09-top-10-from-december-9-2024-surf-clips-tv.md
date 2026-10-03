@@ -1,6 +1,7 @@
 ---
 title: "TOP 10 from December 9, 2024 – Surf Clips TV"
 date: 2024-12-09T19:30:12Z
+description: "Watch TOP 10 from December 9, 2024 – Surf Clips TV on Surf Clips TV."
 draft: false
 video_id: "rsD6MJg-wE8"
 thumbnail: "https://i.ytimg.com/vi/rsD6MJg-wE8/maxresdefault.jpg"

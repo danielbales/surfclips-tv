@@ -1,6 +1,7 @@
 ---
 title: "SURFING under the GOLDEN GATE BRIDGE! (2021 winter swell at Fort Point, San Francisco)"
 date: 2025-02-15T15:43:31Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ The ultimate novelty surf spot comes alive in October 2021, offering overhead lefts directly..."
 draft: false
 video_id: "BvwUT4L4xTg"
 thumbnail: "https://i.ytimg.com/vi/BvwUT4L4xTg/maxresdefault.jpg"

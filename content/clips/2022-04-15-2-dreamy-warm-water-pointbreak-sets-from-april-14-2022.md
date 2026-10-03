@@ -1,6 +1,7 @@
 ---
 title: "2 dreamy (warm water) pointbreak sets from April 14, 2022"
 date: 2022-04-15T15:35:53Z
+description: "Occassional 8 foot faces wrapped into this Central American pointbreak. Light offshore winds groomed the faces and offered a great day of surf for..."
 draft: false
 video_id: "b5ZxPmGg1Fg"
 thumbnail: "https://i.ytimg.com/vi/b5ZxPmGg1Fg/maxresdefault.jpg"

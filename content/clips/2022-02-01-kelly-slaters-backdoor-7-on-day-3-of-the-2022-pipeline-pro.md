@@ -1,6 +1,7 @@
 ---
 title: "Kelly Slater's Backdoor 7 on Day 3 of the 2022 Pipeline Pro"
 date: 2022-02-01T20:38:33Z
+description: "Up against tour rookie Jake Marshall, Kelly Slater slept in and still found himself snagging this Backdoor tube on February 2, 2022. Support the..."
 draft: false
 video_id: "pji0AJggUMw"
 thumbnail: "https://i.ytimg.com/vi/pji0AJggUMw/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Barbados dreaming – December 5, 2022"
 date: 2022-12-06T20:31:26Z
+description: "NNE/N swell built in this early December day, while conditions were very clean with light winds. Surf was in the overhead range, and some surfers found..."
 draft: false
 video_id: "xNHybshQO_Q"
 thumbnail: "https://i.ytimg.com/vi/xNHybshQO_Q/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Baja pointbreak surf on May 22, 2022"
 date: 2022-05-23T15:44:03Z
+description: "Combo long-period SW swell and NW wind swell with light winds produced long, playful rides at this Baja Mexico reef break. Support the channel by..."
 draft: false
 video_id: "Ejvy9uLHkAg"
 thumbnail: "https://i.ytimg.com/vi/Ejvy9uLHkAg/maxresdefault.jpg"

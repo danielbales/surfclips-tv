@@ -1,6 +1,7 @@
 ---
 title: "Traffic at Nazaré - Oct 2024"
 date: 2024-10-29T21:51:07Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!..."
 draft: false
 video_id: "GVMzBIaWalY"
 thumbnail: "https://i.ytimg.com/vi/GVMzBIaWalY/maxresdefault.jpg"

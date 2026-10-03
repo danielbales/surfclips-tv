@@ -1,6 +1,7 @@
 ---
 title: "Kauli Vaast at home - January, 2026"
 date: 2026-01-17T04:33:36Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "f109NhR91as"
 thumbnail: "https://i.ytimg.com/vi/f109NhR91as/maxresdefault.jpg"

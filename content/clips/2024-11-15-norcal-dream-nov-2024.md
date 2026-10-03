@@ -1,6 +1,7 @@
 ---
 title: "Norcal DREAM - Nov 2024"
 date: 2024-11-15T19:01:53Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!..."
 draft: false
 video_id: "tmjNL8ETGQw"
 thumbnail: "https://i.ytimg.com/vi/tmjNL8ETGQw/maxresdefault.jpg"

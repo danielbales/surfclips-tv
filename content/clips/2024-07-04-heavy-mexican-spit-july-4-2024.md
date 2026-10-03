@@ -1,6 +1,7 @@
 ---
 title: "Heavy Mexican Spit - July 4, 2024"
 date: 2024-07-04T21:03:32Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "upn64DnJGmo"
 thumbnail: "https://i.ytimg.com/vi/upn64DnJGmo/maxresdefault.jpg"

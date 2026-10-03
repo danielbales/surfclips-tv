@@ -1,6 +1,7 @@
 ---
 title: "Tech Support Blues"
 date: 2026-04-11T03:48:47Z
+description: "Watch Tech Support Blues on Surf Clips TV."
 draft: false
 video_id: "0PGQx-QQkpo"
 thumbnail: "https://i.ytimg.com/vi/0PGQx-QQkpo/maxresdefault.jpg"

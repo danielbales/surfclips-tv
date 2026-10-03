@@ -1,6 +1,7 @@
 ---
 title: "Portugese SLAB MAXES out – March 16, 2024"
 date: 2024-03-19T04:20:25Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ Just after the 2024 Portugal Pro ended, this Portuguese reef break showed its teeth and..."
 draft: false
 video_id: "dM6BKhyL49E"
 thumbnail: "https://i.ytimg.com/vi/dM6BKhyL49E/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "South Shore Bowl ride – June 15, 2024"
 date: 2024-06-15T22:31:45Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "Pxd3VAG6ITk"
 thumbnail: "https://i.ytimg.com/vi/Pxd3VAG6ITk/maxresdefault.jpg"

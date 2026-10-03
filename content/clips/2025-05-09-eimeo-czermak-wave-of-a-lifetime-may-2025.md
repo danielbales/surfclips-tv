@@ -1,6 +1,7 @@
 ---
 title: "Eimeo Czermak wave of a lifetime - May 2025"
 date: 2025-05-09T21:23:54Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: surfline"
 draft: false
 video_id: "xfGI0Ca1s3U"
 thumbnail: "https://i.ytimg.com/vi/xfGI0Ca1s3U/maxresdefault.jpg"

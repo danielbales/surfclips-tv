@@ -1,6 +1,7 @@
 ---
 title: "Abstract Wilbur"
 date: 2026-04-21T03:52:24Z
+description: "Watch Abstract Wilbur on Surf Clips TV."
 draft: false
 video_id: "oXsQvzhLSw8"
 thumbnail: "https://i.ytimg.com/vi/oXsQvzhLSw8/maxresdefault.jpg"

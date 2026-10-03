@@ -1,6 +1,7 @@
 ---
 title: "Koa Smith's 2022 Backdoor drainer"
 date: 2022-07-09T03:36:32Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "RmMg52DLCG4"
 thumbnail: "https://i.ytimg.com/vi/RmMg52DLCG4/hqdefault.jpg"

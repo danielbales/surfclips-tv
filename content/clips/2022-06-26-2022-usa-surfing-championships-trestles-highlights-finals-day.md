@@ -1,6 +1,7 @@
 ---
 title: "2022 USA Surfing Championships Trestles highlights (Finals Day)"
 date: 2022-06-26T01:18:37Z
+description: "Fun-zone SW swell (214º) created head-high waves, while bumpy faces from a moderate onshore flow ruffled faces but still allowed surfers to unleash...."
 draft: false
 video_id: "iGYeKmHX1fw"
 thumbnail: "https://i.ytimg.com/vi/iGYeKmHX1fw/maxresdefault.jpg"

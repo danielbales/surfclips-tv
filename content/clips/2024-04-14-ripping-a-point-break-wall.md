@@ -1,6 +1,7 @@
 ---
 title: "Ripping a point break wall"
 date: 2024-04-14T23:38:40Z
+description: "Watch Ripping a point break wall on Surf Clips TV."
 draft: false
 video_id: "81MOBwo0j14"
 thumbnail: "https://i.ytimg.com/vi/81MOBwo0j14/maxresdefault.jpg"

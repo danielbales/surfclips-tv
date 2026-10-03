@@ -1,6 +1,7 @@
 ---
 title: "Coming out after the spit - Dec 2024"
 date: 2024-12-27T19:08:51Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ XL Pipeline conditions! #shorts Credit: Surfline"
 draft: false
 video_id: "KBTOXAwV5Co"
 thumbnail: "https://i.ytimg.com/vi/KBTOXAwV5Co/maxresdefault.jpg"

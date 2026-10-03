@@ -1,6 +1,7 @@
 ---
 title: "John John Florence —PERFECTLY read Backdoor barrel"
 date: 2022-10-29T02:33:14Z
+description: "Watch John John Florence —PERFECTLY read Backdoor barrel on Surf Clips TV."
 draft: false
 video_id: "COYhwmO4Jos"
 thumbnail: "https://i.ytimg.com/vi/COYhwmO4Jos/maxresdefault.jpg"

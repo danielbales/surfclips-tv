@@ -1,6 +1,7 @@
 ---
 title: "@Nathanflorence filming POV at Backdoor"
 date: 2022-11-24T02:05:57Z
+description: "Watch @Nathanflorence filming POV at Backdoor on Surf Clips TV."
 draft: false
 video_id: "4Tfhb-fb_j0"
 thumbnail: "https://i.ytimg.com/vi/4Tfhb-fb_j0/maxresdefault.jpg"

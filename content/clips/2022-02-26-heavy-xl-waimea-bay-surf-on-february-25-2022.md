@@ -1,6 +1,7 @@
 ---
 title: "HEAVY XL Waimea Bay surf on February 25, 2022"
 date: 2022-02-26T04:05:46Z
+description: "Consistent XL WNW swell (295-315°) slammed the North Shore and offered 20 to 25 foot faces all day, with breezes picking up in the afternoon. Support..."
 draft: false
 video_id: "fbtpInoawT0"
 thumbnail: "https://i.ytimg.com/vi/fbtpInoawT0/maxresdefault.jpg"

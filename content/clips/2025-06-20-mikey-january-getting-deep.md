@@ -1,6 +1,7 @@
 ---
 title: "Mikey January getting deep"
 date: 2025-06-20T07:00:50Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Dylan Graves"
 draft: false
 video_id: "nyRjuH_5EJo"
 thumbnail: "https://i.ytimg.com/vi/nyRjuH_5EJo/maxresdefault.jpg"

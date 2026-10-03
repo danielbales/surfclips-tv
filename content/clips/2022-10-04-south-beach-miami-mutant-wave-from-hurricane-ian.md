@@ -1,6 +1,7 @@
 ---
 title: "South Beach, Miami - Mutant wave from Hurricane Ian"
 date: 2022-10-04T17:08:08Z
+description: "On one of the better days in a while (some say biggest ever seen) thanks to Hurricane Ian, this early morning surfer snagged perhaps the cavern of the..."
 draft: false
 video_id: "n5D46vTgTpY"
 thumbnail: "https://i.ytimg.com/vi/n5D46vTgTpY/maxresdefault.jpg"

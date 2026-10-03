@@ -1,6 +1,7 @@
 ---
 title: "Tropical storm creates fun Puerto surf for average Jose's"
 date: 2022-06-24T19:00:12Z
+description: "SW swell (221º) + smaller tropical swell (193º)and light AM winds produced fun waves for average Joses on June 23, 2022. Support the channel by..."
 draft: false
 video_id: "XUC_E1tRvgY"
 thumbnail: "https://i.ytimg.com/vi/XUC_E1tRvgY/maxresdefault.jpg"

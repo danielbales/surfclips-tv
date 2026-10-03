@@ -1,6 +1,7 @@
 ---
 title: "John Florence - Dec 2024"
 date: 2024-12-27T23:21:18Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ John Florence enjoying XL Pipeline conditions! #shorts Credit: Surfline"
 draft: false
 video_id: "MNwBcdAqNI4"
 thumbnail: "https://i.ytimg.com/vi/MNwBcdAqNI4/maxresdefault.jpg"

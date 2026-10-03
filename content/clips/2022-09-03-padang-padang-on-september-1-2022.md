@@ -1,6 +1,7 @@
 ---
 title: "Padang Padang, on September 1, 2022"
 date: 2022-09-03T07:00:27Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "iIB8uEXq9l8"
 thumbnail: "https://i.ytimg.com/vi/iIB8uEXq9l8/sddefault.jpg"

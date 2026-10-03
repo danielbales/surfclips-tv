@@ -1,6 +1,7 @@
 ---
 title: "Silverback 🦍 vision - Nathan Florence, April, 2025"
 date: 2025-04-15T22:48:39Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "ONUwcy_4_kM"
 thumbnail: "https://i.ytimg.com/vi/ONUwcy_4_kM/maxresdefault.jpg"

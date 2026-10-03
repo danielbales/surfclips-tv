@@ -1,6 +1,7 @@
 ---
 title: "XXL swell hits Puerto Escondido on August 19, 2022 (Day 2/2)"
 date: 2022-08-20T19:45:01Z
+description: "XXL swell from Chile stayed strong, providing occasional 20 foot faces at the Mexican Pipeline. Early am winds were offshore and there were some..."
 draft: false
 video_id: "qFLF_Eh98v0"
 thumbnail: "https://i.ytimg.com/vi/qFLF_Eh98v0/maxresdefault.jpg"

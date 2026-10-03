@@ -1,6 +1,7 @@
 ---
 title: "Huntington Beach, California on August 28, 2022"
 date: 2022-09-01T00:44:49Z
+description: "Peaking South swell and light winds produced strong currents and hollow am sections, albeit they appeared tough to track down for HB surfers. Support..."
 draft: false
 video_id: "hD3NvF6N6cg"
 thumbnail: "https://i.ytimg.com/vi/hD3NvF6N6cg/maxresdefault.jpg"

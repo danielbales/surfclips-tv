@@ -1,6 +1,7 @@
 ---
 title: "Surfer blows eardrum at 2024 Eddie Aikau competition"
 date: 2024-12-23T16:44:58Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Mark Healey blew an eardrum but both surfers otherwise safe after this Waimea Bay BEAST..."
 draft: false
 video_id: "e50pIcXlDJc"
 thumbnail: "https://i.ytimg.com/vi/e50pIcXlDJc/maxresdefault.jpg"

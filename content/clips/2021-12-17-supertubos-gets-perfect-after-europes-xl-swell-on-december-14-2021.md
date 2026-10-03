@@ -1,6 +1,7 @@
 ---
 title: "SUPERTUBOS gets PERFECT after Europe's XL swell on December 14, 2021"
 date: 2021-12-17T03:11:38Z
+description: "5-8 foot (2-3 meter) waves and offshore winds graced Peniche surfers after the XL swell that produced tow-in surfing up the road in Nazaré. Support the..."
 draft: false
 video_id: "8E8zEZYwo5s"
 thumbnail: "https://i.ytimg.com/vi/8E8zEZYwo5s/maxresdefault.jpg"

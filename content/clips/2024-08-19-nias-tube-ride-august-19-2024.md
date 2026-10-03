@@ -1,6 +1,7 @@
 ---
 title: "Nias tube ride - August 19, 2024"
 date: 2024-08-19T17:19:49Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "emPgnIYZTD8"
 thumbnail: "https://i.ytimg.com/vi/emPgnIYZTD8/maxresdefault.jpg"

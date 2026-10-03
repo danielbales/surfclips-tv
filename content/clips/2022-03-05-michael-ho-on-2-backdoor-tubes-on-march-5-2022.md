@@ -1,6 +1,7 @@
 ---
 title: "Michael Ho on 2 Backdoor tubes on March 5, 2022"
 date: 2022-03-05T22:26:53Z
+description: "NW swell and light wind offered head high to overhead sets to Backdoor Pipeline surfers, including North Shore Legend Michael Ho. He caught a TON of..."
 draft: false
 video_id: "Sp1dAPGyEPc"
 thumbnail: "https://i.ytimg.com/vi/Sp1dAPGyEPc/maxresdefault.jpg"

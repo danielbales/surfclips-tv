@@ -1,6 +1,7 @@
 ---
 title: "Surfer on a DEEP BACKDOOR TUBE on March 29, 2022"
 date: 2022-03-29T19:59:51Z
+description: "On one of the last winter swells of the year, this lucky surfer finds a nice deep Backdoor gem. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "SIq3aJDiODY"
 thumbnail: "https://i.ytimg.com/vi/SIq3aJDiODY/maxresdefault.jpg"

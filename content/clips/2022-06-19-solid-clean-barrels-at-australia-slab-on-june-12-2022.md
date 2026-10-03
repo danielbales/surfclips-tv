@@ -1,6 +1,7 @@
 ---
 title: "Solid, clean barrels at Australia slab on June 12, 2022"
 date: 2022-06-19T16:45:02Z
+description: "Epic day of surf as offshore winds and long lines of powerful South swell (180º) closed out most beaches while reefs like this offered amazing tubes...."
 draft: false
 video_id: "WnNEs9p7MyM"
 thumbnail: "https://i.ytimg.com/vi/WnNEs9p7MyM/maxresdefault.jpg"

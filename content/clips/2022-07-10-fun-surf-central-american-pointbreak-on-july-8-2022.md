@@ -1,6 +1,7 @@
 ---
 title: "Fun surf: Central American pointbreak on July 8, 2022"
 date: 2022-07-10T19:00:09Z
+description: "SSW swell (198º) and light morning winds provided fun, rippable and occasionally hollow sections at this Central American point break. Support the..."
 draft: false
 video_id: "b5WMQ4V_Z0s"
 thumbnail: "https://i.ytimg.com/vi/b5WMQ4V_Z0s/maxresdefault.jpg"

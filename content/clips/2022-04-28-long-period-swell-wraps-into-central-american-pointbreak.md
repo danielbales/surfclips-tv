@@ -1,6 +1,7 @@
 ---
 title: "Long-period swell wraps into Central American pointbreak"
 date: 2022-04-28T15:55:30Z
+description: "Long-period SSW swell and glassy conditions turned on this warm pointbreak on April 26, 2022. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "bUpgl5UTwNc"
 thumbnail: "https://i.ytimg.com/vi/bUpgl5UTwNc/maxresdefault.jpg"

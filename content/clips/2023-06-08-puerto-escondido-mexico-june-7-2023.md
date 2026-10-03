@@ -1,6 +1,7 @@
 ---
 title: "Puerto Escondido, Mexico – June 7, 2023"
 date: 2023-06-08T23:40:42Z
+description: "The day after a XL swell hit Playa Zicatela, conditions stayed good in the early am and offered a few dreamy tube rides. Support the channel by..."
 draft: false
 video_id: "48q_7JoKg_w"
 thumbnail: "https://i.ytimg.com/vi/48q_7JoKg_w/maxresdefault.jpg"

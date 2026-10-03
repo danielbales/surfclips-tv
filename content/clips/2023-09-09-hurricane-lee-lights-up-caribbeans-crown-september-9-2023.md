@@ -1,6 +1,7 @@
 ---
 title: "Hurricane Lee lights up Caribbean's Crown 💎 September 9, 2023"
 date: 2023-09-09T22:18:31Z
+description: "ENE shifting NE swell from Hurricane Lee provided pristine conditions with overhead surf for those lucky enough to be in the right place at the right..."
 draft: false
 video_id: "lSMxZTbiQOI"
 thumbnail: "https://i.ytimg.com/vi/lSMxZTbiQOI/maxresdefault.jpg"

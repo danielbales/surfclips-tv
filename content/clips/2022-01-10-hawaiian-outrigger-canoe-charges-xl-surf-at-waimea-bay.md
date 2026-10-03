@@ -1,6 +1,7 @@
 ---
 title: "Hawaiian outrigger canoe charges XL surf at Waimea Bay"
 date: 2022-01-10T03:09:35Z
+description: "On a XL WNW swell, one Hawaiian outrigger canoe charged a solid 10 foot wave and was unable to make the section. No clean up sets followed so recovery..."
 draft: false
 video_id: "o0AVvh6eLy0"
 thumbnail: "https://i.ytimg.com/vi/o0AVvh6eLy0/maxresdefault.jpg"

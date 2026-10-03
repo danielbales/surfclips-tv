@@ -1,6 +1,7 @@
 ---
 title: "Wilbur Kookmeyer loves the smell of resin in the morning"
 date: 2026-06-30T04:23:59Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Wilbur Kookmeyer loves the smell of resin in the morning...Do you?"
 draft: false
 video_id: "-i2UdqHEh1k"
 thumbnail: "https://i.ytimg.com/vi/-i2UdqHEh1k/maxresdefault.jpg"

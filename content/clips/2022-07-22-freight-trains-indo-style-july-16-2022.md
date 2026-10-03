@@ -1,6 +1,7 @@
 ---
 title: "Freight trains, Indo style — July 16, 2022"
 date: 2022-07-22T15:05:34Z
+description: "Long period swell from the SSW (198º) with clean, light winds offer 6-8 foot tubes for local Indo surfers. Support the channel by subscribing! Thank..."
 draft: false
 video_id: "p4OUFni_xvI"
 thumbnail: "https://i.ytimg.com/vi/p4OUFni_xvI/maxresdefault.jpg"

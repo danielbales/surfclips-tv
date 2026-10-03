@@ -1,6 +1,7 @@
 ---
 title: "Hurricane Lee NUGGET"
 date: 2023-09-23T00:53:24Z
+description: "Watch Hurricane Lee NUGGET on Surf Clips TV."
 draft: false
 video_id: "vOIy9elKUnA"
 thumbnail: "https://i.ytimg.com/vi/vOIy9elKUnA/maxresdefault.jpg"

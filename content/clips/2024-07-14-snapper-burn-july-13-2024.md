@@ -1,6 +1,7 @@
 ---
 title: "Snapper BURN - July 13, 2024"
 date: 2024-07-14T02:32:28Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "LEh4xRl4Acs"
 thumbnail: "https://i.ytimg.com/vi/LEh4xRl4Acs/maxresdefault.jpg"

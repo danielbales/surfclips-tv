@@ -1,6 +1,7 @@
 ---
 title: "Lucas Godfrey - Nov 24, 2024"
 date: 2024-11-26T02:07:56Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!..."
 draft: false
 video_id: "j1zyAMVjYOo"
 thumbnail: "https://i.ytimg.com/vi/j1zyAMVjYOo/maxresdefault.jpg"

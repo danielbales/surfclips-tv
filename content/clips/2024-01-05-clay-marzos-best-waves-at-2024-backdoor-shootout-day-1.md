@@ -1,6 +1,7 @@
 ---
 title: "Clay Marzo's best waves at 2024 Backdoor Shootout (Day 1)"
 date: 2024-01-05T18:18:00Z
+description: "Stylemaster Clay Marzo shows off his Pipeline skills on Day 1 of the 2024 Backdoor Shootout. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "unxjelimkW8"
 thumbnail: "https://i.ytimg.com/vi/unxjelimkW8/maxresdefault.jpg"

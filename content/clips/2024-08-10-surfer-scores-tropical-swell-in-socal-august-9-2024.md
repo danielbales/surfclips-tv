@@ -1,6 +1,7 @@
 ---
 title: "Surfer scores tropical swell in SoCal - August 9, 2024"
 date: 2024-08-10T01:00:05Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "txleFG1TsOI"
 thumbnail: "https://i.ytimg.com/vi/txleFG1TsOI/maxresdefault.jpg"

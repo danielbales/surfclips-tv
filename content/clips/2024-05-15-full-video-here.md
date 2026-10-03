@@ -1,6 +1,7 @@
 ---
 title: "Full video here ☝️"
 date: 2024-05-15T01:48:07Z
+description: "Watch Full video here ☝️ on Surf Clips TV."
 draft: false
 video_id: "Tf6pP6XIywE"
 thumbnail: "https://i.ytimg.com/vi/Tf6pP6XIywE/maxresdefault.jpg"

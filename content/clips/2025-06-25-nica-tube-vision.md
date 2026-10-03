@@ -1,6 +1,7 @@
 ---
 title: "Nica Tube Vision"
 date: 2025-06-25T22:50:47Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Garrett Schmid"
 draft: false
 video_id: "GtSUZhZf7oo"
 thumbnail: "https://i.ytimg.com/vi/GtSUZhZf7oo/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Outside Waikiki BOMB"
 date: 2022-07-26T18:53:34Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "hHx2N8VSk2A"
 thumbnail: "https://i.ytimg.com/vi/hHx2N8VSk2A/maxresdefault.jpg"

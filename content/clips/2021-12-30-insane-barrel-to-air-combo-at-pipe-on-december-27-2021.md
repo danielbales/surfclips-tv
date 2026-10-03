@@ -1,6 +1,7 @@
 ---
 title: "INSANE barrel to air combo at PIPE on December 27, 2021"
 date: 2021-12-30T18:24:11Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Firing Pipe conditions on December 27, 2021 gave this lucky surfer the dreamy spitting..."
 draft: false
 video_id: "TAiyIchd6UU"
 thumbnail: "https://i.ytimg.com/vi/TAiyIchd6UU/maxresdefault.jpg"

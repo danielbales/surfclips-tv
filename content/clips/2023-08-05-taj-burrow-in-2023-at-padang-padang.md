@@ -1,6 +1,7 @@
 ---
 title: "Taj Burrow in 2023 at Padang Padang"
 date: 2023-08-05T14:11:58Z
+description: "Watch Taj Burrow in 2023 at Padang Padang on Surf Clips TV."
 draft: false
 video_id: "saSpXaBFIgw"
 thumbnail: "https://i.ytimg.com/vi/saSpXaBFIgw/maxresdefault.jpg"

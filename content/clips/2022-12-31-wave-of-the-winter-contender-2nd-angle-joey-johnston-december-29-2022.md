@@ -1,6 +1,7 @@
 ---
 title: "Wave of the Winter Contender (2nd angle) – Joey Johnston, December 29, 2022"
 date: 2022-12-31T23:06:08Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Second angle of Joey Johnston's INSANE Backdoor wave, during a solid 6-10 foot WNW-NW swell..."
 draft: false
 video_id: "u5ZkzPKIvN0"
 thumbnail: "https://i.ytimg.com/vi/u5ZkzPKIvN0/maxresdefault.jpg"

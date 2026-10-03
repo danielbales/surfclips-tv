@@ -1,6 +1,7 @@
 ---
 title: "Fun South Shore surf (1st swell of 2022 season)"
 date: 2022-03-26T16:00:21Z
+description: "4-5 foot faces and offshore winds turned on this reef near the famous Waikiki beach (albeit smaller) on the 1st solid south swell of the summer...."
 draft: false
 video_id: "BDvZ0tLFRSc"
 thumbnail: "https://i.ytimg.com/vi/BDvZ0tLFRSc/maxresdefault.jpg"

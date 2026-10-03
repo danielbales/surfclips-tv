@@ -1,6 +1,7 @@
 ---
 title: "2nd reef MONSTER Pipeline wave – January 2, 2022"
 date: 2023-01-04T23:58:39Z
+description: "OG Pipe surfer rolls into this 2nd reefer and gets spit out of her. Happy new year! Support the channel by subscribing! Thank you for supporting Surf..."
 draft: false
 video_id: "VYilAo8XK6c"
 thumbnail: "https://i.ytimg.com/vi/VYilAo8XK6c/maxresdefault.jpg"

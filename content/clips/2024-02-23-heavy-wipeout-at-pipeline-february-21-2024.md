@@ -1,6 +1,7 @@
 ---
 title: "HEAVY WIPEOUT at PIPELINE – February 21, 2024"
 date: 2024-02-23T22:34:49Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ A north shore surfer falls out of the sky during a perfect Pipeline morning. He surfaced..."
 draft: false
 video_id: "29sEtGmiRCc"
 thumbnail: "https://i.ytimg.com/vi/29sEtGmiRCc/maxresdefault.jpg"

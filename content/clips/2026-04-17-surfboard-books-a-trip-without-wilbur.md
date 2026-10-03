@@ -1,6 +1,7 @@
 ---
 title: "Surfboard books a trip without Wilbur"
 date: 2026-04-17T04:24:21Z
+description: "Watch Surfboard books a trip without Wilbur on Surf Clips TV."
 draft: false
 video_id: "FIEU0qH1eIU"
 thumbnail: "https://i.ytimg.com/vi/FIEU0qH1eIU/maxresdefault.jpg"

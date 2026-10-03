@@ -1,6 +1,7 @@
 ---
 title: "DEEP PIPE TUBE at black friday swell – November 25, 2023"
 date: 2023-11-27T01:33:25Z
+description: "While many North Shore surfers opted for Waimea during this midday session, this lucky surfer found a gem and surfed it as well as one could. Support..."
 draft: false
 video_id: "3PFNIhhLEHA"
 thumbnail: "https://i.ytimg.com/vi/3PFNIhhLEHA/maxresdefault.jpg"

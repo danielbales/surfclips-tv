@@ -1,6 +1,7 @@
 ---
 title: "New Jersey fires on April 19, 2022"
 date: 2022-04-20T16:17:09Z
+description: "5-8 foot faces and strong offshore winds turned on this East Coast beach in the early hours of April 19, 2022. It must've been tough since most of the..."
 draft: false
 video_id: "EpsuLurXmR4"
 thumbnail: "https://i.ytimg.com/vi/EpsuLurXmR4/maxresdefault.jpg"

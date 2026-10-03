@@ -1,6 +1,7 @@
 ---
 title: "Tosh Tudor in Hawaii, March 2025"
 date: 2025-03-20T07:00:43Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ During a dream run of North Shore winter surf, Tosh Tudor finds this gem during his morning..."
 draft: false
 video_id: "sQcLyWjvhss"
 thumbnail: "https://i.ytimg.com/vi/sQcLyWjvhss/maxresdefault.jpg"

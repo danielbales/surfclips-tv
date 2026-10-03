@@ -1,6 +1,7 @@
 ---
 title: "JJF being JJF at Pipeline after the 2022 Backdoor Shootout (Jan 19, 2022)"
 date: 2022-01-20T04:06:28Z
+description: "John found this Pipe wave early in the morning of January 19, 2022. Waves were 6-10 foot faces and light/no wind. Support the channel by subscribing!..."
 draft: false
 video_id: "R3zhmAF_WeY"
 thumbnail: "https://i.ytimg.com/vi/R3zhmAF_WeY/maxresdefault.jpg"

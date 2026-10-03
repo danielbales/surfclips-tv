@@ -1,6 +1,7 @@
 ---
 title: "Air reverse in Costa Rica"
 date: 2022-07-26T07:00:13Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "MdiiGcdVm6Y"
 thumbnail: "https://i.ytimg.com/vi/MdiiGcdVm6Y/maxresdefault.jpg"

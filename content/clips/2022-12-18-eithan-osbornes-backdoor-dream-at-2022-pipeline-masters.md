@@ -1,6 +1,7 @@
 ---
 title: "Eithan Osborne's Backdoor DREAM at 2022 Pipeline Masters"
 date: 2022-12-18T01:58:20Z
+description: "On day 2 of the 2022 Pipeline Masters Eithan Osbourne found this hefty Backdoor wave and, helping him move onto the next round. Support the channel by..."
 draft: false
 video_id: "2NH1P_JLLUo"
 thumbnail: "https://i.ytimg.com/vi/2NH1P_JLLUo/maxresdefault.jpg"

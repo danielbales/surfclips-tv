@@ -1,6 +1,7 @@
 ---
 title: "Pro surfers dismantling Lower Trestles before the 2022 Trestles Pro"
 date: 2022-09-07T19:03:52Z
+description: "Nice size on tap before the 2022 Trestles Pro, thanks to a holding SSW swell (202º) provides chest-head high surf for the likes of Kelly Slater, Jack..."
 draft: false
 video_id: "N5UlBg1vxJs"
 thumbnail: "https://i.ytimg.com/vi/N5UlBg1vxJs/sddefault.jpg"

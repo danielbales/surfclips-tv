@@ -1,6 +1,7 @@
 ---
 title: "Joao Chianca PIPELINE near-make"
 date: 2024-12-10T21:29:19Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "OXJxzU2ZtOc"
 thumbnail: "https://i.ytimg.com/vi/OXJxzU2ZtOc/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Lucas Godfrey gets insanely barreled at Backdoor (2022 Wave of the Winter contender?)"
 date: 2022-01-20T22:29:18Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Lucas Godfrey parts the sea & scores a wave of a lifetime (for most of us) at Backdoor on..."
 draft: false
 video_id: "DTbJQ9GRxR4"
 thumbnail: "https://i.ytimg.com/vi/DTbJQ9GRxR4/maxresdefault.jpg"

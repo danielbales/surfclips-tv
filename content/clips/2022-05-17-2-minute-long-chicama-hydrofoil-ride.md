@@ -1,6 +1,7 @@
 ---
 title: "2+ minute-long Chicama hydrofoil ride"
 date: 2022-05-17T20:18:17Z
+description: "Solid long period waves from the SSW + clean winds meant 8-10 foot faces at South America's (the world's?) longest left pointbreak. Support the channel..."
 draft: false
 video_id: "x8UJgAcj3JQ"
 thumbnail: "https://i.ytimg.com/vi/x8UJgAcj3JQ/maxresdefault.jpg"

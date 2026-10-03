@@ -1,6 +1,7 @@
 ---
 title: "Waikiki (Ala Moana Bowls) long-period swell on 1st day of June 2022"
 date: 2022-06-04T19:42:05Z
+description: "Second day or peaking long-period SSW swell (188º) hitting the South Shore during the morning of June 1, 2022. Support the channel by subscribing!..."
 draft: false
 video_id: "p1PN9OFnM8Q"
 thumbnail: "https://i.ytimg.com/vi/p1PN9OFnM8Q/maxresdefault.jpg"

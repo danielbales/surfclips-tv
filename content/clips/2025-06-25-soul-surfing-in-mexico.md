@@ -1,6 +1,7 @@
 ---
 title: "Soul surfing in Mexico"
 date: 2025-06-25T22:46:27Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Liquide"
 draft: false
 video_id: "d104nyWcGQI"
 thumbnail: "https://i.ytimg.com/vi/d104nyWcGQI/maxresdefault.jpg"

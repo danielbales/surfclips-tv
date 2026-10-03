@@ -1,6 +1,7 @@
 ---
 title: "Koa Rothman going sub-sea level in South America"
 date: 2025-10-05T02:07:15Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "uT4M6qqn-xM"
 thumbnail: "https://i9.ytimg.com/vi/uT4M6qqn-xM/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLBqQWgtUjkyGz6MFURvdU0RU2a3HA"

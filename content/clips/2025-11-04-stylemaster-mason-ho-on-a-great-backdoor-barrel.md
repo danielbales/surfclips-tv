@@ -1,6 +1,7 @@
 ---
 title: "Stylemaster Mason Ho on a great Backdoor barrel"
 date: 2025-11-04T04:10:26Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "mS2Odi2R3V8"
 thumbnail: "https://i.ytimg.com/vi/mS2Odi2R3V8/maxresdefault.jpg"

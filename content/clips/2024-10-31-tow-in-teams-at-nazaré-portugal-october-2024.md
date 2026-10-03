@@ -1,6 +1,7 @@
 ---
 title: "TOW IN teams at NAZARÉ, Portugal – October 2024"
 date: 2024-10-31T20:18:39Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ On a smaller, more tame version of Europe's premiere big wave venue, tow in teams searched..."
 draft: false
 video_id: "uF6742qvYW0"
 thumbnail: "https://i.ytimg.com/vi/uF6742qvYW0/maxresdefault.jpg"

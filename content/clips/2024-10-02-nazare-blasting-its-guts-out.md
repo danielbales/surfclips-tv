@@ -1,6 +1,7 @@
 ---
 title: "NAZARE blasting its guts out"
 date: 2024-10-02T07:00:34Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ Thank you for supporting Surf Cam Rewind so we can continue to provide you with free..."
 draft: false
 video_id: "mjh3vTvu8hY"
 thumbnail: "https://i.ytimg.com/vi/mjh3vTvu8hY/maxresdefault.jpg"

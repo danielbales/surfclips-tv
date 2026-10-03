@@ -1,6 +1,7 @@
 ---
 title: "EUROPEAN SUPERSESSION - Oct 20, 2024"
 date: 2024-10-20T20:17:25Z
+description: "https://surf-clips-tv.myspreadshop.com/ Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "5Ul7DPKTAZs"
 thumbnail: "https://i.ytimg.com/vi/5Ul7DPKTAZs/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Big, heavy Teahupo'o (May Day weekend swell)"
 date: 2022-05-01T13:22:08Z
+description: "10-15 foot faces on the biggest sets of the day meant a borderline tow-in day at the End of the Road. Winds were stiff but in an ideal direction...."
 draft: false
 video_id: "22GvAoHgeuI"
 thumbnail: "https://i.ytimg.com/vi/22GvAoHgeuI/maxresdefault.jpg"

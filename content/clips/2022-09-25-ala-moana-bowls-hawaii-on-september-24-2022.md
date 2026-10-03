@@ -1,6 +1,7 @@
 ---
 title: "Ala Moana Bowls, Hawaii on September 24, 2022"
 date: 2022-09-25T02:56:53Z
+description: "South Shore Oahu saw a late-September swell, turning on marquee spots like Ala Moana Bowls, while light early morning wind created great conditions...."
 draft: false
 video_id: "sfODFvkbaPU"
 thumbnail: "https://i.ytimg.com/vi/sfODFvkbaPU/maxresdefault.jpg"

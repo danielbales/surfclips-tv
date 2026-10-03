@@ -1,6 +1,7 @@
 ---
 title: "Spring swells hit Steamer Lane, California – March 21, 2024"
 date: 2024-03-24T00:25:46Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ Santa Cruz surfers enjoyed a surprise season opener on March 21st with light winds and..."
 draft: false
 video_id: "gcqaCymMPEs"
 thumbnail: "https://i.ytimg.com/vi/gcqaCymMPEs/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Morocco turns on for fun evening session – October 28, 2023"
 date: 2023-10-28T20:52:05Z
+description: "Large, long-period XL swell that sent 30 foot faces to Nazare this day, provided well overhead and hollow conditions to this Morrocan point break...."
 draft: false
 video_id: "k9ResLkLW0Y"
 thumbnail: "https://i.ytimg.com/vi/k9ResLkLW0Y/maxresdefault.jpg"

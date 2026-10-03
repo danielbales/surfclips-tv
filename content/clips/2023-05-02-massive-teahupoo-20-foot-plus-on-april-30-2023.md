@@ -1,6 +1,7 @@
 ---
 title: "MASSIVE Teahupo'o - 20 Foot Plus on April 30, 2023"
 date: 2023-05-02T04:20:01Z
+description: "A large swell slammed the End of the Road and big wave surfers sent it over the ledge on a number of heavy Teahupo'o pits. Support the channel by..."
 draft: false
 video_id: "vuq-AKUWOZQ"
 thumbnail: "https://i.ytimg.com/vi/vuq-AKUWOZQ/maxresdefault.jpg"

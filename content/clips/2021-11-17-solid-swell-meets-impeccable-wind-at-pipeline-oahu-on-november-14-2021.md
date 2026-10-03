@@ -1,6 +1,7 @@
 ---
 title: "Solid swell meets IMPECCABLE wind at PIPELINE, Oahu on November 14, 2021"
 date: 2021-11-17T17:00:34Z
+description: "While backdoor stole the show on November 14, 2021, Pipeline also saw some magic moments with ESE wind on the North Shore. Support the channel by..."
 draft: false
 video_id: "lqU2xgFsBq8"
 thumbnail: "https://i.ytimg.com/vi/lqU2xgFsBq8/maxresdefault.jpg"

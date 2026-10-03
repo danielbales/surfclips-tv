@@ -1,6 +1,7 @@
 ---
 title: "XL swell hits Morocco – November 7, 2022"
 date: 2022-11-09T20:34:03Z
+description: "Europe's 1st XL swell that produced 25 foot+ (10m) waves to big wave surf breaks like Nazaré wrapped into Morocco's pointbreaks like this one here...."
 draft: false
 video_id: "IKAglfZ0WXE"
 thumbnail: "https://i.ytimg.com/vi/IKAglfZ0WXE/maxresdefault.jpg"

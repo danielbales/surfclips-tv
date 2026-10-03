@@ -1,6 +1,7 @@
 ---
 title: "LARGE WHALE surfaces at SNAPPER ROCKS - July 31, 2024"
 date: 2024-08-02T20:02:49Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "WRDhM6gzhxM"
 thumbnail: "https://i.ytimg.com/vi/WRDhM6gzhxM/maxresdefault.jpg"

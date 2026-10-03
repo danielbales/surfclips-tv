@@ -1,6 +1,7 @@
 ---
 title: "Ala Moana Bowls at 6-10 foot (overlapping swells)"
 date: 2022-05-03T17:15:38Z
+description: "Large, overlapping, long period SSW swells (200-185°, 16-18+ seconds) filled in and were accompanied by ENE trade winds, grooming faces and offering a..."
 draft: false
 video_id: "N1zc6X5-Cco"
 thumbnail: "https://i.ytimg.com/vi/N1zc6X5-Cco/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Jamie O'Brien toying with Pipe - Feb 24, 2025"
 date: 2025-02-25T04:41:36Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Surfline"
 draft: false
 video_id: "rxnatjsXlSo"
 thumbnail: "https://i.ytimg.com/vi/rxnatjsXlSo/maxresdefault.jpg"

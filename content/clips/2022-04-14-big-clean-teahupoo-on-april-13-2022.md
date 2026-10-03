@@ -1,6 +1,7 @@
 ---
 title: "Big, clean Teahupo'o on April 13, 2022"
 date: 2022-04-14T04:22:06Z
+description: "10-15 foot faces and clean conditions were on offer all day at the End of the Road. Local chargers went deep and made some incredible rides. Support..."
 draft: false
 video_id: "J1lWrL2lhx0"
 thumbnail: "https://i.ytimg.com/vi/J1lWrL2lhx0/maxresdefault.jpg"

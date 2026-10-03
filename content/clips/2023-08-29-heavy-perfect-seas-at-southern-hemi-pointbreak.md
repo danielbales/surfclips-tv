@@ -1,6 +1,7 @@
 ---
 title: "Heavy (& perfect!) seas at Southern hemi pointbreak"
 date: 2023-08-29T13:44:06Z
+description: "This infamous pointbreak saw conditions come together, offering local surfers nearly minute long rides of glassy fun. Support the channel by..."
 draft: false
 video_id: "tqblfLMhXO4"
 thumbnail: "https://i.ytimg.com/vi/tqblfLMhXO4/maxresdefault.jpg"

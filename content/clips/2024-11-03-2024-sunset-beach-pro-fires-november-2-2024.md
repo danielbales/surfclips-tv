@@ -1,6 +1,7 @@
 ---
 title: "2024 SUNSET BEACH PRO FIRES – November 2, 2024"
 date: 2024-11-03T21:49:09Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ 2024 Sunset Beach Pro surfers took on challenging conditions that offered occasional barrels..."
 draft: false
 video_id: "c6Uf7ItEFZI"
 thumbnail: "https://i.ytimg.com/vi/c6Uf7ItEFZI/maxresdefault.jpg"

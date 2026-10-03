@@ -1,6 +1,7 @@
 ---
 title: "Clean, hollow Padang Padang on June 11, 2022"
 date: 2022-06-17T17:11:30Z
+description: "Nice, solid sets came through from a SW swell (222º), which was accompanied by no wind, providing a dreamy session for those who were in the right..."
 draft: false
 video_id: "elBW0dolcxg"
 thumbnail: "https://i.ytimg.com/vi/elBW0dolcxg/maxresdefault.jpg"

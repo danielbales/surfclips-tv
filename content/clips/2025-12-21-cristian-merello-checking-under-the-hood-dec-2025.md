@@ -1,6 +1,7 @@
 ---
 title: "Cristian Merello checking under the hood - Dec 2025"
 date: 2025-12-21T04:31:34Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "IUSAoCgg-pM"
 thumbnail: "https://i.ytimg.com/vi/IUSAoCgg-pM/maxresdefault.jpg"

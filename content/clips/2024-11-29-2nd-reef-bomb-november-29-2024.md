@@ -1,6 +1,7 @@
 ---
 title: "2nd REEF BOMB – November 29, 2024"
 date: 2024-11-29T23:36:31Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Fresh shot of NW swell energy and rapidly building longer period energy from the NW..."
 draft: false
 video_id: "SRST8ijGeGA"
 thumbnail: "https://i.ytimg.com/vi/SRST8ijGeGA/maxresdefault.jpg"

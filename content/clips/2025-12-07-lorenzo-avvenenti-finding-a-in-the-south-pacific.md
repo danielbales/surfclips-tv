@@ -1,6 +1,7 @@
 ---
 title: "Lorenzo Avvenenti finding a 💎 in the South Pacific"
 date: 2025-12-07T22:46:00Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "TMK4FlR8tG4"
 thumbnail: "https://i.ytimg.com/vi/TMK4FlR8tG4/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Kelly Slater's 8.3 at 2022 Pipeline Pro (Semifinals Day 8)"
 date: 2022-02-05T22:27:50Z
+description: "Kelly Slater comes out way after the spit on this Backdoor tube during his Semifinal heat against Miguel Pupo. Support the channel by subscribing!..."
 draft: false
 video_id: "xd9Wz3jaj_U"
 thumbnail: "https://i.ytimg.com/vi/xd9Wz3jaj_U/maxresdefault.jpg"

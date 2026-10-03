@@ -1,6 +1,7 @@
 ---
 title: "Carmel, California   September 1, 2023 1"
 date: 2023-09-03T23:19:14Z
+description: "[enter description here] Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "A_RcAWOCqEQ"
 thumbnail: "https://i9.ytimg.com/vi/A_RcAWOCqEQ/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLAY9M0OFDrTkOrbwBwSjQAhuJwS0A"

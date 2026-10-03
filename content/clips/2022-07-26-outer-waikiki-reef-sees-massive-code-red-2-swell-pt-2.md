@@ -1,6 +1,7 @@
 ---
 title: "Outer Waikiki reef sees massive Code Red 2 swell (Pt 2)"
 date: 2022-07-26T18:54:03Z
+description: "More from the large and dangerous Code Red 2 swell (SSW 183º) that pounded this outer South Shore reef, offering long, long rides to Honolulu surfers..."
 draft: false
 video_id: "oNw5emHHZ-g"
 thumbnail: "https://i.ytimg.com/vi/oNw5emHHZ-g/maxresdefault.jpg"

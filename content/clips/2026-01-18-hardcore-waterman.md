@@ -1,6 +1,7 @@
 ---
 title: "Hardcore Waterman"
 date: 2026-01-18T23:05:28Z
+description: "Watch Hardcore Waterman on Surf Clips TV."
 draft: false
 video_id: "xlg5mbQOyxg"
 thumbnail: "https://i.ytimg.com/vi/xlg5mbQOyxg/maxresdefault.jpg"

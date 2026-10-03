@@ -1,6 +1,7 @@
 ---
 title: "Has STEAMER LANE become MALIBU?"
 date: 2023-09-05T13:35:37Z
+description: "2023 Labor Day crowds showed up along with overlapping South swells. Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we..."
 draft: false
 video_id: "yoAV8mXRtjQ"
 thumbnail: "https://i.ytimg.com/vi/yoAV8mXRtjQ/maxresdefault.jpg"

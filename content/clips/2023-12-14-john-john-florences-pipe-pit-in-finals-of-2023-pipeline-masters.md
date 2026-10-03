@@ -1,6 +1,7 @@
 ---
 title: "John John Florence's Pipe pit in Finals of 2023 Pipeline Masters"
 date: 2023-12-14T03:15:01Z
+description: "In the Finals of the 2023 Pipeline Masters, John John Florence finds a great Pipeline wave and executes flawlessly, showing what a lifetime of surfing..."
 draft: false
 video_id: "ZnexKPZN6fI"
 thumbnail: "https://i.ytimg.com/vi/ZnexKPZN6fI/maxresdefault.jpg"

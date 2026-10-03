@@ -1,6 +1,7 @@
 ---
 title: "The Perfect Wave?"
 date: 2022-02-23T08:00:11Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "K_3-zKQ0Smc"
 thumbnail: "https://i.ytimg.com/vi/K_3-zKQ0Smc/maxresdefault.jpg"

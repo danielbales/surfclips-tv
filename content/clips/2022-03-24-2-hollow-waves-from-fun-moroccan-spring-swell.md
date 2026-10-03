@@ -1,6 +1,7 @@
 ---
 title: "2 hollow waves from fun Moroccan Spring swell"
 date: 2022-03-24T18:44:17Z
+description: "Overhead swell and calm winds meant long, clean faces for Moroccan surfers on March 23, 2022. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "fz-3r9UI5lE"
 thumbnail: "https://i.ytimg.com/vi/fz-3r9UI5lE/maxresdefault.jpg"

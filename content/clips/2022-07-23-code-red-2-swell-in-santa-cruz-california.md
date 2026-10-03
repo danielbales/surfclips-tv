@@ -1,6 +1,7 @@
 ---
 title: "Code Red 2 swell in Santa Cruz, California"
 date: 2022-07-23T15:28:12Z
+description: "Long-period swell peaked at Santa Cruz's famed-right points on July 19, 2022, offering long, playful waves to East Side surfers. Support the channel by..."
 draft: false
 video_id: "Ny37QpFh37k"
 thumbnail: "https://i.ytimg.com/vi/Ny37QpFh37k/maxresdefault.jpg"

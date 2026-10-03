@@ -1,6 +1,7 @@
 ---
 title: "Hawaiian triple spit - June 2, 2024"
 date: 2024-06-03T22:29:37Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "WgijOjvtyGo"
 thumbnail: "https://i.ytimg.com/vi/WgijOjvtyGo/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Mason Ho's front hand-grab barrel at PIPE during the 2022 Backdoor Shootout (Round 3)"
 date: 2022-01-12T19:27:18Z
+description: "Mason Ho on one of his highly entertaining rides during Round 3 of the 2022 Da Hui Backdoor Shootout. Go Mason! Support the channel by subscribing!..."
 draft: false
 video_id: "akstR_8qyME"
 thumbnail: "https://i.ytimg.com/vi/akstR_8qyME/maxresdefault.jpg"

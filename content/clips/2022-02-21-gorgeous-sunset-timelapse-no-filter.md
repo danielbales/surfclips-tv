@@ -1,6 +1,7 @@
 ---
 title: "Gorgeous sunset timelapse (No Filter)"
 date: 2022-02-21T08:00:17Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "p17AnPZQyPc"
 thumbnail: "https://i.ytimg.com/vi/p17AnPZQyPc/maxresdefault.jpg"

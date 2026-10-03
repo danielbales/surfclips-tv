@@ -1,6 +1,7 @@
 ---
 title: "Wilbur Kookmeyer doesn't exaggerate"
 date: 2026-05-13T02:12:52Z
+description: "Watch Wilbur Kookmeyer doesn't exaggerate on Surf Clips TV."
 draft: false
 video_id: "vCjwhEQgAw8"
 thumbnail: "https://i.ytimg.com/vi/vCjwhEQgAw8/maxresdefault.jpg"

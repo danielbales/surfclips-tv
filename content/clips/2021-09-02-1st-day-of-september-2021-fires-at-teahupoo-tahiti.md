@@ -1,6 +1,7 @@
 ---
 title: "1st day of SEPTEMBER 2021 FIRES!!! at Teahupo'o, Tahiti"
 date: 2021-09-02T03:01:25Z
+description: "Support the channel by subscribing! 6 - 8 ft (2-3m) sets were inconsistent but clean and powerful on September 1, 2021. Thank you for supporting Surf..."
 draft: false
 video_id: "0OvxnV_Iqyc"
 thumbnail: "https://i.ytimg.com/vi/0OvxnV_Iqyc/maxresdefault.jpg"

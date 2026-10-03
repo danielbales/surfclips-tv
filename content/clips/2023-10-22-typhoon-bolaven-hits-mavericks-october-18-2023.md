@@ -1,6 +1,7 @@
 ---
 title: "TYPHOON BOLAVEN hits MAVERICKS – OCTOBER 18, 2023"
 date: 2023-10-22T19:18:48Z
+description: "Large, XL-sized swell hit Northern California's most famous big wave reef. Afternoon sets were in the 20-30 foot face range. Support the channel by..."
 draft: false
 video_id: "OyZvSboA52M"
 thumbnail: "https://i.ytimg.com/vi/OyZvSboA52M/maxresdefault.jpg"

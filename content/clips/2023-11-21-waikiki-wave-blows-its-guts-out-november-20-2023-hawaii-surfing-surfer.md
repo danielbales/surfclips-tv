@@ -1,6 +1,7 @@
 ---
 title: "#waikiki #wave blows its guts out - November 20, 2023  #Hawaii #surfing #surfer"
 date: 2023-11-21T23:44:14Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "Je5O87ytl2Q"
 thumbnail: "https://i.ytimg.com/vi/Je5O87ytl2Q/maxresdefault.jpg"

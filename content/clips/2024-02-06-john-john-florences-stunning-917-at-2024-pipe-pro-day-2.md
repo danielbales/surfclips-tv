@@ -1,6 +1,7 @@
 ---
 title: "John John Florence's STUNNING 9.17 at 2024 Pipe Pro - Day 2"
 date: 2024-02-06T22:59:31Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ John John Florence stuns the crowd yet again with this deep disappearing act at the 2024..."
 draft: false
 video_id: "8_rDWUdfQx4"
 thumbnail: "https://i.ytimg.com/vi/8_rDWUdfQx4/maxresdefault.jpg"

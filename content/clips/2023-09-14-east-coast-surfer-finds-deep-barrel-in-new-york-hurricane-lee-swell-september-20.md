@@ -1,6 +1,7 @@
 ---
 title: "East Coast surfer finds deep barrel in New York - Hurricane Lee swell September 2023"
 date: 2023-09-14T21:54:12Z
+description: "Watch East Coast surfer finds deep barrel in New York - Hurricane Lee swell September 2023 on Surf Clips TV."
 draft: false
 video_id: "DsyNLVbqP0E"
 thumbnail: "https://i.ytimg.com/vi/DsyNLVbqP0E/maxresdefault.jpg"

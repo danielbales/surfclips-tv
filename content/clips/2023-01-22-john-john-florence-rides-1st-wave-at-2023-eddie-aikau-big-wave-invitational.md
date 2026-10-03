@@ -1,6 +1,7 @@
 ---
 title: "John John Florence rides 1st wave at 2023 Eddie Aikau Big Wave Invitational"
 date: 2023-01-22T20:24:38Z
+description: "XL NW swell pounded the North Shore of Oahu with large surf (30 - 35 foot faces) for 2023 Eddie Aikau Big Wave Invitational at Waimea Bay. John John..."
 draft: false
 video_id: "WuxouJBvwDw"
 thumbnail: "https://i.ytimg.com/vi/WuxouJBvwDw/maxresdefault.jpg"

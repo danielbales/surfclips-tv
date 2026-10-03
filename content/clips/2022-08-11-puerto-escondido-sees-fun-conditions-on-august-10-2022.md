@@ -1,6 +1,7 @@
 ---
 title: "Puerto Escondido sees fun conditions on August 10, 2022"
 date: 2022-08-11T03:35:28Z
+description: "Building SSW swell filled in through the day, while great offshore winds groomed faces. Support the channel by subscribing! Thank you for supporting..."
 draft: false
 video_id: "uls021A5q_4"
 thumbnail: "https://i.ytimg.com/vi/uls021A5q_4/maxresdefault.jpg"

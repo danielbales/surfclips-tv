@@ -1,6 +1,7 @@
 ---
 title: "3 perfectly surfed John John Florence Backdoor waves on January 2, 2022"
 date: 2022-01-03T17:13:54Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Brown water didn't keep surfers out of the water on January 2, 2022 with firing Backdoor..."
 draft: false
 video_id: "rnuDZxdrwks"
 thumbnail: "https://i.ytimg.com/vi/rnuDZxdrwks/maxresdefault.jpg"

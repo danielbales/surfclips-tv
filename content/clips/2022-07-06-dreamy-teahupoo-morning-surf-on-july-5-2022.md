@@ -1,6 +1,7 @@
 ---
 title: "Dreamy Teahupo'o morning surf on July 5, 2022"
 date: 2022-07-06T19:30:05Z
+description: "A rising yet lully SW swell (214º) topped out at The End of the Road, providing overhead sets that occasionally blasted lucky surfers out of beautiful..."
 draft: false
 video_id: "c1mupNoMbxc"
 thumbnail: "https://i.ytimg.com/vi/c1mupNoMbxc/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "[Morning session] 40 foot XL swell at Nazaré, Portugal on December 11, 2021"
 date: 2021-12-12T03:03:49Z
+description: "A huge NW swell and light winds created 30-40 foot (13 meter) XL waves at Nazaré, Portugal on December 11, 2021. Support the channel by subscribing!..."
 draft: false
 video_id: "ot9-scMayow"
 thumbnail: "https://i.ytimg.com/vi/ot9-scMayow/maxresdefault.jpg"

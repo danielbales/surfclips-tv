@@ -1,6 +1,7 @@
 ---
 title: "Superbank going off on March 1, 2022"
 date: 2022-03-03T04:28:23Z
+description: "Solid ESE swell hits the Superbank on the Gold Coast of Australia and provides multiple tube sections in brown murky water. Support the channel by..."
 draft: false
 video_id: "3VKafb5RZlM"
 thumbnail: "https://i.ytimg.com/vi/3VKafb5RZlM/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Ian Crane at Greenbush"
 date: 2025-04-04T17:19:09Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "fGA53tvqte8"
 thumbnail: "https://i.ytimg.com/vi/fGA53tvqte8/maxresdefault.jpg"

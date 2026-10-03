@@ -1,6 +1,7 @@
 ---
 title: "Pointbreak SUPERSESSION — November 25, 2022"
 date: 2022-11-27T21:28:11Z
+description: "An XL swell delivering high quality surf. Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide..."
 draft: false
 video_id: "9PkdPmj-GoM"
 thumbnail: "https://i.ytimg.com/vi/9PkdPmj-GoM/maxresdefault.jpg"

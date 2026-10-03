@@ -1,6 +1,7 @@
 ---
 title: "Indonesia BURN - August 14, 2024"
 date: 2024-08-14T16:34:03Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "qokq7LYdjqs"
 thumbnail: "https://i.ytimg.com/vi/qokq7LYdjqs/maxresdefault.jpg"

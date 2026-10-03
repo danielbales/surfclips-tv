@@ -1,6 +1,7 @@
 ---
 title: "Fickle Caribbean reef break on June 29, 2022"
 date: 2022-06-30T01:43:39Z
+description: "Short period East swell (85º) waves with light NE winds produced semi clean conditions to this reef break that doesn't break too often. Support the..."
 draft: false
 video_id: "mbIpWMJgGd0"
 thumbnail: "https://i.ytimg.com/vi/mbIpWMJgGd0/maxresdefault.jpg"

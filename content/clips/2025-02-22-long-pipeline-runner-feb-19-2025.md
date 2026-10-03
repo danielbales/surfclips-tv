@@ -1,6 +1,7 @@
 ---
 title: "Long, Pipeline runner - Feb 19, 2025"
 date: 2025-02-22T08:00:09Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Surfline"
 draft: false
 video_id: "Ad1sei84Q84"
 thumbnail: "https://i.ytimg.com/vi/Ad1sei84Q84/maxresdefault.jpg"

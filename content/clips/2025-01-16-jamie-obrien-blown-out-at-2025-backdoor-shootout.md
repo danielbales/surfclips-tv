@@ -1,6 +1,7 @@
 ---
 title: "JAMIE O'BRIEN BLOWN OUT at 2025 Backdoor Shootout"
 date: 2025-01-16T17:25:13Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ JOB caught this SICK Pipeline pit on day 4 of the 2025 Backdoor Shootout."
 draft: false
 video_id: "OgME2p4fjHU"
 thumbnail: "https://i.ytimg.com/vi/OgME2p4fjHU/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Jordy gets deep close to home - February 2026"
 date: 2026-02-18T19:05:39Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "mB8gKYIWHd0"
 thumbnail: "https://i.ytimg.com/vi/mB8gKYIWHd0/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Pipeline Ejection"
 date: 2025-02-21T16:05:52Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Surfline"
 draft: false
 video_id: "rbMv7wLAATM"
 thumbnail: "https://i.ytimg.com/vi/rbMv7wLAATM/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "SOLID Nazaré tow-in - November 10, 2023 #surf #surfing #surfer #bigwave"
 date: 2023-11-11T00:16:47Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "NOSCT8a_wjA"
 thumbnail: "https://i.ytimg.com/vi/NOSCT8a_wjA/maxresdefault.jpg"

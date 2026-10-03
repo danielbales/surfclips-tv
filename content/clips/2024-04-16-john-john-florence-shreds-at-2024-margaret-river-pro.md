@@ -1,6 +1,7 @@
 ---
 title: "John John Florence shreds at 2024 Margaret River Pro"
 date: 2024-04-16T04:07:49Z
+description: "Watch John John Florence shreds at 2024 Margaret River Pro on Surf Clips TV."
 draft: false
 video_id: "Jvl4pZs9wqk"
 thumbnail: "https://i.ytimg.com/vi/Jvl4pZs9wqk/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Pleasant Dreams from Wilbur Kookmeyer's Headquarters"
 date: 2026-05-07T00:35:15Z
+description: "Watch Pleasant Dreams from Wilbur Kookmeyer's Headquarters on Surf Clips TV."
 draft: false
 video_id: "5fmtzoIVqFM"
 thumbnail: "https://i.ytimg.com/vi/5fmtzoIVqFM/maxresdefault.jpg"

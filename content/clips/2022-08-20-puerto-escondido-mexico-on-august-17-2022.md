@@ -1,6 +1,7 @@
 ---
 title: "Puerto Escondido, Mexico on August 17, 2022"
 date: 2022-08-20T19:00:25Z
+description: "Building SSW swell (186º) filled in, while brisk offshore winds produced a morning of fantastic surf at Playa Zicatela. Support the channel by..."
 draft: false
 video_id: "ohii9-deSO0"
 thumbnail: "https://i.ytimg.com/vi/ohii9-deSO0/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "PITS at SUPERTUBOS, Peniche, Portugal on October 21, 2021"
 date: 2021-10-22T18:30:08Z
+description: "Support the channel by subscribing! Evening session in (5-7 foot) 2 meter beachbreak in Peniche, Portugal (Supertubes) on October 21, 2021. Thank you..."
 draft: false
 video_id: "ERBnsZVRa_A"
 thumbnail: "https://i.ytimg.com/vi/ERBnsZVRa_A/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "When the wave breaks here, don't be there"
 date: 2025-10-29T03:35:02Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "3SqUKPFdAHI"
 thumbnail: "https://i.ytimg.com/vi/3SqUKPFdAHI/maxresdefault.jpg"

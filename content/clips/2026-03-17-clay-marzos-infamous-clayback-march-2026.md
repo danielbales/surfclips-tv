@@ -1,6 +1,7 @@
 ---
 title: "Clay Marzo's infamous \"Clayback\" - March 2026"
 date: 2026-03-17T13:40:24Z
+description: "Surf Store Merch: Credit: Clay Marzo"
 draft: false
 video_id: "hkTVIp_B5yE"
 thumbnail: "https://i.ytimg.com/vi/hkTVIp_B5yE/maxresdefault.jpg"

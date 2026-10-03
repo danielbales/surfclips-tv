@@ -7,8 +7,8 @@
 <section class="hero-top10">
   <a href="{{ .Permalink }}" class="hero-top10-link">
     <div class="hero-top10-thumb">
-      {{ with .Params.thumbnail }}
-      <img src="{{ . }}" alt="{{ $.Title }}" class="hero-top10-img" loading="eager">
+      {{ if .Params.thumbnail }}
+      <img src="{{ .Params.thumbnail }}" alt="{{ .Title }}" class="hero-top10-img" loading="eager">
       {{ end }}
       <span class="play-btn">
         <svg viewBox="0 0 24 24" width="40" height="40" fill="currentColor"><polygon points="5,3 19,12 5,21"/></svg>
@@ -37,8 +37,8 @@
     <div class="top10s-grid">
       {{ range first 4 . }}
       <a href="{{ .Permalink }}" class="top10-card">
-        {{ with .Params.thumbnail }}
-        <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+        {{ if .Params.thumbnail }}
+        <img src="{{ .Params.thumbnail }}" alt="{{ .Title }}" loading="lazy">
         {{ end }}
         <div class="top10-card-info">
           <h3>{{ .Title }}</h3>
@@ -64,8 +64,8 @@
     <div class="wilbur-grid">
       {{ with $pinned1 }}
       <a href="{{ .Permalink }}" class="clip-card">
-        {{ with .Params.thumbnail }}
-        <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+        {{ if .Params.thumbnail }}
+        <img src="{{ .Params.thumbnail }}" alt="{{ .Title }}" loading="lazy">
         {{ end }}
         <div class="clip-card-body">
           <h3>{{ .Title }}</h3>
@@ -74,8 +74,8 @@
       {{ end }}
       {{ with $pinned2 }}
       <a href="{{ .Permalink }}" class="clip-card">
-        {{ with .Params.thumbnail }}
-        <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+        {{ if .Params.thumbnail }}
+        <img src="{{ .Params.thumbnail }}" alt="{{ .Title }}" loading="lazy">
         {{ end }}
         <div class="clip-card-body">
           <h3>{{ .Title }}</h3>
@@ -85,8 +85,8 @@
       {{ range first 2 $wilburNoShorts }}
       {{ if and (ne .Params.video_id "T2xWCk0BNfk") (ne .Params.video_id "_4fgttapCM0") }}
       <a href="{{ .Permalink }}" class="clip-card">
-        {{ with .Params.thumbnail }}
-        <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+        {{ if .Params.thumbnail }}
+        <img src="{{ .Params.thumbnail }}" alt="{{ .Title }}" loading="lazy">
         {{ end }}
         <div class="clip-card-body">
           <h3>{{ .Title }}</h3>
@@ -112,9 +112,9 @@
   <div class="shorts-rail">
     {{ range first 24 . }}
     <a href="{{ .Permalink }}" class="short-card">
-      {{ with .Params.thumbnail }}
+      {{ if .Params.thumbnail }}
       <div class="short-thumb">
-        <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+        <img src="{{ .Params.thumbnail }}" alt="{{ .Title }}" loading="lazy">
       </div>
       {{ end }}
       <span class="short-title">{{ .Title }}</span>

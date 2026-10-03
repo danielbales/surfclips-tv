@@ -1,6 +1,7 @@
 ---
 title: "Shane Borland, December 2025"
 date: 2025-12-11T00:13:35Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "sUiXx7m8dHo"
 thumbnail: "https://i.ytimg.com/vi/sUiXx7m8dHo/maxresdefault.jpg"

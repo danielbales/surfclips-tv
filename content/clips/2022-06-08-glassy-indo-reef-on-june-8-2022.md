@@ -1,6 +1,7 @@
 ---
 title: "Glassy Indo reef on June 8, 2022"
 date: 2022-06-08T01:56:21Z
+description: "Mid period SSW (207) swell is producing some fun waves, albeit inconsistent. Light N/NE winds groomed faces and offered some great rides. Support the..."
 draft: false
 video_id: "BL0W0kYHhT0"
 thumbnail: "https://i.ytimg.com/vi/BL0W0kYHhT0/maxresdefault.jpg"

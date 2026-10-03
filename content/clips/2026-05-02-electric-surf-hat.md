@@ -1,6 +1,7 @@
 ---
 title: "Electric Surf Hat"
 date: 2026-05-02T17:57:32Z
+description: "Watch Electric Surf Hat on Surf Clips TV."
 draft: false
 video_id: "_UFGDCNf9W0"
 thumbnail: "https://i.ytimg.com/vi/_UFGDCNf9W0/maxresdefault.jpg"

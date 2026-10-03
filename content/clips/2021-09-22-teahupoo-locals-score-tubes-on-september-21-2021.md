@@ -1,6 +1,7 @@
 ---
 title: "TEAHUPO’O LOCALS SCORE!! tubes on September 21, 2021"
 date: 2021-09-22T21:22:29Z
+description: "Support the channel by subscribing! 5 - 8 foot (2 - 3 meter) surf rolled across the reef at Teahupo'o, Tahiti on September 21, 2021. Thank you for..."
 draft: false
 video_id: "JwyZPMjDRcw"
 thumbnail: "https://i.ytimg.com/vi/JwyZPMjDRcw/maxresdefault.jpg"

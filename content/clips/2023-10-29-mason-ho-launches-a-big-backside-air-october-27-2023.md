@@ -1,6 +1,7 @@
 ---
 title: "MASON HO launches a BIG backside air – October 27, 2023"
 date: 2023-10-29T20:48:43Z
+description: "Mason Ho finds just the right section to blast a massive air over a very shallow section. Support the channel by subscribing! Thank you for supporting..."
 draft: false
 video_id: "nXT9tM9rKO8"
 thumbnail: "https://i.ytimg.com/vi/nXT9tM9rKO8/maxresdefault.jpg"

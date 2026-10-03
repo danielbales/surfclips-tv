@@ -1,6 +1,7 @@
 ---
 title: "Warm water (Indian Ocean) wedges - September 24, 2023"
 date: 2023-09-25T22:09:37Z
+description: "SW (229@16sec) swell produced high-performance wedges at this beach break. Winds were light in the morning. Support the channel by subscribing! Thank..."
 draft: false
 video_id: "VKU72r2RQl4"
 thumbnail: "https://i.ytimg.com/vi/VKU72r2RQl4/maxresdefault.jpg"

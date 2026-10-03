@@ -1,6 +1,7 @@
 ---
 title: "Maldives perfection"
 date: 2024-12-05T02:28:09Z
+description: "Watch Maldives perfection on Surf Clips TV."
 draft: false
 video_id: "U2pq-vdChT8"
 thumbnail: "https://i.ytimg.com/vi/U2pq-vdChT8/maxresdefault.jpg"

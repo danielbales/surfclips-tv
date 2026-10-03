@@ -1,6 +1,7 @@
 ---
 title: "Pipe Master (Jamie O'Brien) on two absolute Pipeline kegs"
 date: 2022-01-05T16:42:50Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ January 2, 2022 was a memorable day at both Backdoor and Pipeline, with Pipeline Master Jamie..."
 draft: false
 video_id: "ks4RR_78pSo"
 thumbnail: "https://i.ytimg.com/vi/ks4RR_78pSo/maxresdefault.jpg"

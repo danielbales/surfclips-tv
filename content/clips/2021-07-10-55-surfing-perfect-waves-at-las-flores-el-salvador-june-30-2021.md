@@ -1,6 +1,7 @@
 ---
 title: "[5/5] Surfing PERFECT waves at Las Flores, El Salvador | June 30, 2021"
 date: 2021-07-10T07:59:34Z
+description: "Support the channel by subscribing! As the wind came up beautiful waves popped up and broke along the point at Las Flores, El Salvador on July 7, 2021...."
 draft: false
 video_id: "Y1n2_ZF1HJ8"
 thumbnail: "https://i9.ytimg.com/vi/Y1n2_ZF1HJ8/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLDObJg_UvcDh_5Mtd03IG86skbifA"

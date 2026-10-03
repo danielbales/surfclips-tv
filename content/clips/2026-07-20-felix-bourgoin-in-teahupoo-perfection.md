@@ -1,6 +1,7 @@
 ---
 title: "Felix Bourgoin in Teahupo'o perfection"
 date: 2026-07-20T04:41:47Z
+description: "2026 Big wave entry submission, video by Maiko Mou."
 draft: false
 video_id: "YeVmT53GD44"
 thumbnail: "https://i.ytimg.com/vi/YeVmT53GD44/maxresdefault.jpg"

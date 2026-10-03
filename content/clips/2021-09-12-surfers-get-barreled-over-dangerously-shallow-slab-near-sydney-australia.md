@@ -1,6 +1,7 @@
 ---
 title: "Surfers get BARRELED over DANGEROUSLY SHALLOW SLAB near Sydney, Australia"
 date: 2021-09-12T19:02:55Z
+description: "Support the channel by subscribing! New South Wales saw even more great conditions on September 7, 2021 as surfers and bodyboarders alike charged a..."
 draft: false
 video_id: "Qn_bkz51d00"
 thumbnail: "https://i.ytimg.com/vi/Qn_bkz51d00/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Jordy Smith's 8.0 HACK at 2022 Sunset Beach Pro (Opening Round)"
 date: 2022-02-15T18:47:50Z
+description: "In the 1st heat of the Sunset Beach contest, Jordday grabbed this big right and hacked his way to a great score while skipping the elimination round...."
 draft: false
 video_id: "dOq8PuUAm0I"
 thumbnail: "https://i.ytimg.com/vi/dOq8PuUAm0I/maxresdefault.jpg"

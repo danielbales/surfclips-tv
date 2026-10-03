@@ -1,6 +1,7 @@
 ---
 title: "Clay Marzo steezee layback"
 date: 2025-03-12T02:31:11Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "D7W6Zirbo9w"
 thumbnail: "https://i.ytimg.com/vi/D7W6Zirbo9w/maxresdefault.jpg"

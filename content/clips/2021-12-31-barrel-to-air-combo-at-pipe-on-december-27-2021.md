@@ -1,6 +1,7 @@
 ---
 title: "BARREL TO AIR combo at PIPE on December 27, 2021"
 date: 2021-12-31T20:02:58Z
+description: "Surfer blasts a stock-standard barrel to air combo at Pipeline in great conditions on December 27, 2021. Support the channel by subscribing! Thank you..."
 draft: false
 video_id: "1-nn0nb3gEg"
 thumbnail: "https://i.ytimg.com/vi/1-nn0nb3gEg/maxresdefault.jpg"

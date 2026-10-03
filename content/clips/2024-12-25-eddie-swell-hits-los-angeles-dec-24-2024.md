@@ -1,6 +1,7 @@
 ---
 title: "Eddie swell hits Los Angeles - Dec 24, 2024"
 date: 2024-12-25T05:03:21Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Surfline"
 draft: false
 video_id: "nqloyoqYQ8Y"
 thumbnail: "https://i.ytimg.com/vi/nqloyoqYQ8Y/maxresdefault.jpg"

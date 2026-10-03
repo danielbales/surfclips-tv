@@ -1,6 +1,7 @@
 ---
 title: "San Diego pointbreak sees XL conditions – December 28, 2023"
 date: 2023-12-29T23:33:40Z
+description: "While Northern Calfornia's Mavericks was seeing 40 foot faces, this San Diego reef saw fun, overhead swell and its usually thick crowd. Support the..."
 draft: false
 video_id: "K8XS93kXxwk"
 thumbnail: "https://i.ytimg.com/vi/K8XS93kXxwk/maxresdefault.jpg"

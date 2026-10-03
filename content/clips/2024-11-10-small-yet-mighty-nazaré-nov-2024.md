@@ -1,6 +1,7 @@
 ---
 title: "Small yet mighty Nazaré - Nov 2024"
 date: 2024-11-10T21:38:31Z
+description: "https://surf-clips-tv.myspreadshop.com/ Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "netn3KpCKLA"
 thumbnail: "https://i.ytimg.com/vi/netn3KpCKLA/maxresdefault.jpg"

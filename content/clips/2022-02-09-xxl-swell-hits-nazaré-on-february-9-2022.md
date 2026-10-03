@@ -1,6 +1,7 @@
 ---
 title: "XXL swell hits Nazaré on February 9, 2022"
 date: 2022-02-09T16:34:36Z
+description: "A growing NNW swell hit Nazaré the afternoon of February 9, 2022 and produced 20+ foot (6-7 meter). Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "u4K-QDIpfQo"
 thumbnail: "https://i.ytimg.com/vi/u4K-QDIpfQo/maxresdefault.jpg"

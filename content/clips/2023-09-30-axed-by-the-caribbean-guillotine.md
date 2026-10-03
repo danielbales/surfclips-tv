@@ -1,6 +1,7 @@
 ---
 title: "Axed by the Caribbean guillotine 🪓"
 date: 2023-09-30T03:12:50Z
+description: "Watch Axed by the Caribbean guillotine 🪓 on Surf Clips TV."
 draft: false
 video_id: "MwgrIdHvYjQ"
 thumbnail: "https://i.ytimg.com/vi/MwgrIdHvYjQ/maxresdefault.jpg"

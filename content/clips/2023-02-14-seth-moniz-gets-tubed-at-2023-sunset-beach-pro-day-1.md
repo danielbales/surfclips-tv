@@ -1,6 +1,7 @@
 ---
 title: "Seth Moniz gets tubed at 2023 Sunset Beach Pro (Day 1)"
 date: 2023-02-14T02:42:36Z
+description: "Pulse of NW swell peaked and provided some solid surf to the North Shore for Seth Moniz's feat against Italo Ferreira and Keanu Asing on Day 1 of the..."
 draft: false
 video_id: "TtHk6jQUqck"
 thumbnail: "https://i.ytimg.com/vi/TtHk6jQUqck/maxresdefault.jpg"

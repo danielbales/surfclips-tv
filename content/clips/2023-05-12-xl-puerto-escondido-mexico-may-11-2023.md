@@ -1,6 +1,7 @@
 ---
 title: "XL Puerto Escondido, Mexico - May 11, 2023"
 date: 2023-05-12T21:15:04Z
+description: "20 foot bombs landed on Playa Zicatela, while big wave surfers waited for their perfect entry. Successful rides were few and far between but it sure..."
 draft: false
 video_id: "rvu9Dc8SCDw"
 thumbnail: "https://i.ytimg.com/vi/rvu9Dc8SCDw/maxresdefault.jpg"

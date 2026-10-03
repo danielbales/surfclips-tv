@@ -1,6 +1,7 @@
 ---
 title: "Wilbur Kookmeyer Practices Gratitude"
 date: 2026-06-08T02:52:12Z
+description: "Watch Wilbur Kookmeyer Practices Gratitude on Surf Clips TV."
 draft: false
 video_id: "AZpTdSmmQQo"
 thumbnail: "https://i.ytimg.com/vi/AZpTdSmmQQo/maxresdefault.jpg"

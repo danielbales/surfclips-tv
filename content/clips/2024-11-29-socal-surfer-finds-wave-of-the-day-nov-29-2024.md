@@ -1,6 +1,7 @@
 ---
 title: "SoCal surfer finds wave of the day - Nov 29, 2024"
 date: 2024-11-29T19:04:03Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Surfline"
 draft: false
 video_id: "1nM3Sq5AQFg"
 thumbnail: "https://i.ytimg.com/vi/1nM3Sq5AQFg/maxresdefault.jpg"

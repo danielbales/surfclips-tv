@@ -1,6 +1,7 @@
 ---
 title: "Jamie O'Brien at undisclosed location"
 date: 2026-09-26T15:39:03Z
+description: "Watch Jamie O'Brien at undisclosed location on Surf Clips TV."
 draft: false
 video_id: "4BPWoaRcSRI"
 thumbnail: "https://i.ytimg.com/vi/4BPWoaRcSRI/maxresdefault.jpg"

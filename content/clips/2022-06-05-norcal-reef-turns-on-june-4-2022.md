@@ -1,6 +1,7 @@
 ---
 title: "Norcal Reef turns on June 4, 2022"
 date: 2022-06-05T19:53:30Z
+description: "Fun SW swell (210º) and very light wind offered evening surfers rippable faces and occasional barrels. Support the channel by subscribing! Thank you..."
 draft: false
 video_id: "_XYmpWV545o"
 thumbnail: "https://i.ytimg.com/vi/_XYmpWV545o/maxresdefault.jpg"

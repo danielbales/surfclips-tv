@@ -1,6 +1,7 @@
 ---
 title: "Mason Ho's deep tuberide at 2022 Padang Padang Pro"
 date: 2022-08-04T03:30:08Z
+description: "In his heat with Legend Shane Dorian, Mason Ho wins the heat thanks to this 8.6 during the 2022 Padang Padang Pro. Support the channel by subscribing!..."
 draft: false
 video_id: "hJ6ZPtX6bNQ"
 thumbnail: "https://i.ytimg.com/vi/hJ6ZPtX6bNQ/maxresdefault.jpg"

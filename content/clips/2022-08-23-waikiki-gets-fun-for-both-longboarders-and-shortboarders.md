@@ -1,6 +1,7 @@
 ---
 title: "Waikiki gets fun for both longboarders and shortboarders"
 date: 2022-08-23T18:17:04Z
+description: "Peaking SW swell that sent 2x overhead waves to Teahupo'o earlier in the week hit the South Shore's nook and crannies, like this. Waves were lully but..."
 draft: false
 video_id: "6vm5HBWeOqQ"
 thumbnail: "https://i.ytimg.com/vi/6vm5HBWeOqQ/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "THE WEDGE, OPENING SEASON SWELL 2024: Makes & Misses"
 date: 2024-04-20T20:34:33Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ Late April 2024 saw the first large South Swell of the season, with Koa Smith, Brad Domke..."
 draft: false
 video_id: "fzLNqIzCD7Y"
 thumbnail: "https://i.ytimg.com/vi/fzLNqIzCD7Y/maxresdefault.jpg"

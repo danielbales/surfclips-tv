@@ -1,6 +1,7 @@
 ---
 title: "5 best Backdoor barrels from February 8, 2022"
 date: 2022-02-09T03:57:29Z
+description: "6-10 foot WNW-NW + East winds 10 to 15 mph turned offered these lucky surfers some backdoor tubes. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "IR8KSG8TsUQ"
 thumbnail: "https://i.ytimg.com/vi/IR8KSG8TsUQ/maxresdefault.jpg"

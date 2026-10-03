@@ -1,6 +1,7 @@
 ---
 title: "Australian point break during the 2022 Sydney Surf Pro Finals"
 date: 2022-05-25T19:15:01Z
+description: "During the finals day of the 2022 GMW Sydney Surf Pro, this point break offered occassional rides thanks to SSE swell, long period swell and NE swell...."
 draft: false
 video_id: "8vLAFe9ViTo"
 thumbnail: "https://i.ytimg.com/vi/8vLAFe9ViTo/maxresdefault.jpg"

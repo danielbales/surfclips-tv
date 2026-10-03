@@ -1,6 +1,7 @@
 ---
 title: "Pristine Pipeline - Feb 19, 2025"
 date: 2025-02-21T04:52:33Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Reinforcing NW swell delivers more firing surf to North Shore surfers. Credit: Surfline"
 draft: false
 video_id: "UnT5jgZEKJM"
 thumbnail: "https://i.ytimg.com/vi/UnT5jgZEKJM/maxresdefault.jpg"

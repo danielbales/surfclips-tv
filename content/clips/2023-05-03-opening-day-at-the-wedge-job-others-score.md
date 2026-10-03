@@ -1,6 +1,7 @@
 ---
 title: "Opening day at THE WEDGE! JOB & others score"
 date: 2023-05-03T00:10:48Z
+description: "6 waves from opening day at Southern California's most famous novelty wave. Jamie O'Brien and others sent it! Support the channel by subscribing! Thank..."
 draft: false
 video_id: "KE1vTpZPmtY"
 thumbnail: "https://i.ytimg.com/vi/KE1vTpZPmtY/maxresdefault.jpg"

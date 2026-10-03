@@ -1,6 +1,7 @@
 ---
 title: "Ian Gentil with a STEEZY kickstall into a South African tube"
 date: 2025-07-04T07:00:15Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "EW-V6SAu4RU"
 thumbnail: "https://i.ytimg.com/vi/EW-V6SAu4RU/maxresdefault.jpg"

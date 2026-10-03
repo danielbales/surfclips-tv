@@ -1,6 +1,7 @@
 ---
 title: "MASON HO BLOWN OUT at 2025 Backdoor Shootout – Day 4"
 date: 2025-01-14T19:59:51Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Mason Ho caught this SICK backdoor pit on day 4 of the 2025 Backdoor Shootout. Credit: Surfline"
 draft: false
 video_id: "dGMqmz695wU"
 thumbnail: "https://i.ytimg.com/vi/dGMqmz695wU/maxresdefault.jpg"

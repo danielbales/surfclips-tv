@@ -1,6 +1,7 @@
 ---
 title: "PERFECTLY read INDO TUBE - May 28, 2024"
 date: 2024-05-28T01:45:39Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "eMWQaZKPYTs"
 thumbnail: "https://i.ytimg.com/vi/eMWQaZKPYTs/maxresdefault.jpg"

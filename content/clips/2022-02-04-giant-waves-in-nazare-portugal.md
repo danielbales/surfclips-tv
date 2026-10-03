@@ -1,6 +1,7 @@
 ---
 title: "Giant waves in Nazare, Portugal"
 date: 2022-02-04T04:08:41Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "R-f1O_JPrXk"
 thumbnail: "https://i.ytimg.com/vi/R-f1O_JPrXk/maxresdefault.jpg"

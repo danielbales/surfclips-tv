@@ -1,6 +1,7 @@
 ---
 title: "POWERFUL SWELL hits Bali Pipeline"
 date: 2022-05-24T14:37:32Z
+description: "Powerful long period SW swell (219º) with light NE winds groomed faces at Padang Padang and offered occasional multiple-tube rides and solid sets..."
 draft: false
 video_id: "8NEeu2gw7AY"
 thumbnail: "https://i.ytimg.com/vi/8NEeu2gw7AY/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Sneaky barrel in the heart of the Caribbean – September 9, 2023"
 date: 2023-09-13T04:08:36Z
+description: "At this world class reef break in the heart of the Caribbean, this surfer finds a quality wave the provides two fun sections. Support the channel by..."
 draft: false
 video_id: "2hs-y2_E3Bw"
 thumbnail: "https://i.ytimg.com/vi/2hs-y2_E3Bw/maxresdefault.jpg"

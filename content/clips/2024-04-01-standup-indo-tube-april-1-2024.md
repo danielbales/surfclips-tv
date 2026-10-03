@@ -1,6 +1,7 @@
 ---
 title: "Standup Indo tube - April 1, 2024"
 date: 2024-04-01T04:16:13Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "yiYX2S2KhOQ"
 thumbnail: "https://i.ytimg.com/vi/yiYX2S2KhOQ/maxresdefault.jpg"

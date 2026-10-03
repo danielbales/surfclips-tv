@@ -1,6 +1,7 @@
 ---
 title: "Surfer breaks surfboard on Backdoor wave"
 date: 2022-03-11T08:00:11Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "VM2iWYoKq0Y"
 thumbnail: "https://i.ytimg.com/vi/VM2iWYoKq0Y/hqdefault.jpg"

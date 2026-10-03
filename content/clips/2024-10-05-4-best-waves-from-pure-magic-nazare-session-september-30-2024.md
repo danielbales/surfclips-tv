@@ -1,6 +1,7 @@
 ---
 title: "4 BEST waves from PURE MAGIC NAZARÉ session – September 30, 2024"
 date: 2024-10-05T03:51:45Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com The world's biggest wave was one of the world's best, including Lucas Chumbo, Justine Dupont,..."
 draft: false
 video_id: "LZu2eAm5cfI"
 thumbnail: "https://i.ytimg.com/vi/LZu2eAm5cfI/maxresdefault.jpg"

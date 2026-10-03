@@ -1,6 +1,7 @@
 ---
 title: "Consistent, solid South swell hits Ala Moana Bowls"
 date: 2022-06-29T14:20:56Z
+description: "Tahiti swell (187º) and trade winds made their way to Oahu's south shore on the afternoon of June 26. Sets were well overhead, and surfers like Flynn..."
 draft: false
 video_id: "BmvgyT9Ikw0"
 thumbnail: "https://i.ytimg.com/vi/BmvgyT9Ikw0/maxresdefault.jpg"

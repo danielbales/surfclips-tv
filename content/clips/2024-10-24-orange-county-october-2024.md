@@ -1,6 +1,7 @@
 ---
 title: "Orange County - October 2024"
 date: 2024-10-24T20:46:34Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!..."
 draft: false
 video_id: "xiEpD6TBSxo"
 thumbnail: "https://i.ytimg.com/vi/xiEpD6TBSxo/maxresdefault.jpg"

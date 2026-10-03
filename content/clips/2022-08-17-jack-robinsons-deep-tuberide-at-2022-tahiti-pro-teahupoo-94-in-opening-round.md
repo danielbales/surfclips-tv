@@ -1,6 +1,7 @@
 ---
 title: "🧨 Jack Robinson's DEEP tuberide at 2022 Tahiti Pro Teahupo'o (9.4 in Opening Round)"
 date: 2022-08-17T23:47:22Z
+description: "On the first day of competition (and Jack's 1st time back to Chopes in 3 years), Aussie tube rider extraordinaire found this deep tube to help him earn..."
 draft: false
 video_id: "KsfcD7T2OY0"
 thumbnail: "https://i.ytimg.com/vi/KsfcD7T2OY0/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "XXL Chile swell hits Puerto Escondido on August 18, 2022 (Day 1/2)"
 date: 2022-08-19T07:00:20Z
+description: "Powerful XXL swell from Chile (189º) filled in, offering occasional 20ft faces while AM winds stayed light and offshore, grooming massive faces...."
 draft: false
 video_id: "xlkj_CpaVoQ"
 thumbnail: "https://i.ytimg.com/vi/xlkj_CpaVoQ/maxresdefault.jpg"

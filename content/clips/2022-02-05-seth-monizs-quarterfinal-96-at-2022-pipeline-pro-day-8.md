@@ -1,6 +1,7 @@
 ---
 title: "Seth Moniz's Quarterfinal 9.6 at 2022 Pipeline Pro (Day 8)"
 date: 2022-02-05T21:18:36Z
+description: "Seth Moniz's falls out of the sky and into this backdoor tube, which helped him take down John John Florence in the Quarterfinals of the 2022 event...."
 draft: false
 video_id: "e7l57pcKpGQ"
 thumbnail: "https://i.ytimg.com/vi/e7l57pcKpGQ/maxresdefault.jpg"

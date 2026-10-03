@@ -1,6 +1,7 @@
 ---
 title: "North Shore shredders put on demo at Rocky Point – November 18, 2022"
 date: 2022-11-19T03:34:48Z
+description: "Fun-zone NNW swell (351º) were on tap, while NE-ENE trades set up a great air wind for North Shore rippers. Support the channel by subscribing! Thank..."
 draft: false
 video_id: "Ykr62kYcgns"
 thumbnail: "https://i.ytimg.com/vi/Ykr62kYcgns/maxresdefault.jpg"

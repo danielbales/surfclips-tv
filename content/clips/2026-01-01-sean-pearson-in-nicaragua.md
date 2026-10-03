@@ -1,6 +1,7 @@
 ---
 title: "Sean Pearson in Nicaragua"
 date: 2026-01-01T21:22:38Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "w7A6d_TDqCw"
 thumbnail: "https://i.ytimg.com/vi/w7A6d_TDqCw/maxresdefault.jpg"

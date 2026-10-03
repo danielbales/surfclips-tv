@@ -1,6 +1,7 @@
 ---
 title: "This is the life."
 date: 2026-01-21T22:12:58Z
+description: "Watch This is the life. on Surf Clips TV."
 draft: false
 video_id: "OF_NXBIcX2I"
 thumbnail: "https://i.ytimg.com/vi/OF_NXBIcX2I/maxresdefault.jpg"

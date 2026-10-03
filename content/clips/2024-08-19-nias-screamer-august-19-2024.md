@@ -1,6 +1,7 @@
 ---
 title: "NIAS SCREAMER - August 19, 2024"
 date: 2024-08-19T19:52:36Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "PGSklt9Y0XE"
 thumbnail: "https://i.ytimg.com/vi/PGSklt9Y0XE/maxresdefault.jpg"

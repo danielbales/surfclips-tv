@@ -1,6 +1,7 @@
 ---
 title: "Massive Naval submarine getting towed in Hawaii"
 date: 2022-10-23T14:39:16Z
+description: "South Shore of Oahu has always entertaining sights, with this morning bringing a large Naval submarine being tow. Support the channel by subscribing!..."
 draft: false
 video_id: "HbxB3JENg2Q"
 thumbnail: "https://i.ytimg.com/vi/HbxB3JENg2Q/maxresdefault.jpg"

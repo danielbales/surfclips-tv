@@ -1,6 +1,7 @@
 ---
 title: "7 waves from A+ Supertubos - Feb 2022"
 date: 2022-02-20T20:04:24Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ 6-10 foot faces detonated on the shores of Supertubos at dawn on February 20, 2022. Does it..."
 draft: false
 video_id: "AiygRr_QmvM"
 thumbnail: "https://i.ytimg.com/vi/AiygRr_QmvM/maxresdefault.jpg"

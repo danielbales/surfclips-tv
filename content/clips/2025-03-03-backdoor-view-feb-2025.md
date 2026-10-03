@@ -1,6 +1,7 @@
 ---
 title: "Backdoor view, Feb 2025"
 date: 2025-03-03T01:26:39Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Nathan Florence sends it from deep and emerges unscathed on a nice one."
 draft: false
 video_id: "EmGgTjbr7a4"
 thumbnail: "https://i.ytimg.com/vi/EmGgTjbr7a4/maxresdefault.jpg"

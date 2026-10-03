@@ -1,6 +1,7 @@
 ---
 title: "New Jersey sees DREAMY, HOLLOW SURF - October 8, 2023"
 date: 2023-10-08T21:56:50Z
+description: "ESE swell (102º) and stiff offshore winds produced incredible waves for New Jersey surfers during this early morning session. Support the channel by..."
 draft: false
 video_id: "HwIt_tlz2bs"
 thumbnail: "https://i.ytimg.com/vi/HwIt_tlz2bs/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "New Jersey PUMPS! - January 7, 2024"
 date: 2024-01-10T05:01:35Z
+description: "More firing conditions hit the East Coast, and this beach break provided overhead waves and offshore winds all afternoon. Support the channel by..."
 draft: false
 video_id: "xrTbSaFBeog"
 thumbnail: "https://i.ytimg.com/vi/xrTbSaFBeog/maxresdefault.jpg"

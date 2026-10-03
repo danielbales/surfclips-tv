@@ -1,6 +1,7 @@
 ---
 title: "OPENING DAY AT WEDGE – April 17, 2024"
 date: 2024-04-21T15:00:17Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ Solid long period swell hits California's original novelty wave during this early morning..."
 draft: false
 video_id: "MhmjaHis8kI"
 thumbnail: "https://i.ytimg.com/vi/MhmjaHis8kI/maxresdefault.jpg"

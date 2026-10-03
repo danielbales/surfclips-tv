@@ -1,6 +1,7 @@
 ---
 title: "Hawaiian Tube ride - November 28, 2023"
 date: 2023-11-30T01:43:43Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "qAEbfpJkPsg"
 thumbnail: "https://i.ytimg.com/vi/qAEbfpJkPsg/maxresdefault.jpg"

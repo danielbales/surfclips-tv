@@ -1,6 +1,7 @@
 ---
 title: "Backdoor barrel via Nate Florence - Jan 2025"
 date: 2025-01-27T18:58:05Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "LDtQQV2AUjQ"
 thumbnail: "https://i.ytimg.com/vi/LDtQQV2AUjQ/maxresdefault.jpg"

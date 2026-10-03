@@ -1,6 +1,7 @@
 ---
 title: "Brian Conley in Mexico"
 date: 2025-08-25T03:27:12Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "W2LGnY0GN7I"
 thumbnail: "https://i9.ytimg.com/vi/W2LGnY0GN7I/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLArOBSArJQqpjUd2fwpSeyM0KHsaw"

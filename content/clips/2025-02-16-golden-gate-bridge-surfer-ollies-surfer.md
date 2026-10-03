@@ -1,6 +1,7 @@
 ---
 title: "Golden Gate Bridge surfer ollie's surfer!!"
 date: 2025-02-16T16:52:58Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "jLFh6z7nU7w"
 thumbnail: "https://i.ytimg.com/vi/jLFh6z7nU7w/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Filipe Toledo's LIPSLIDE BLAST at 2022 Portugal Pro Supertubos (Day 3)"
 date: 2022-03-05T19:59:21Z
+description: "In the final heat of day 3 of the 2022 Portugal Pro at Supertubos Filipe Toledo finds a right that offered a lipslide blast and air section that helped..."
 draft: false
 video_id: "vaY-1Pf3dbI"
 thumbnail: "https://i.ytimg.com/vi/vaY-1Pf3dbI/maxresdefault.jpg"

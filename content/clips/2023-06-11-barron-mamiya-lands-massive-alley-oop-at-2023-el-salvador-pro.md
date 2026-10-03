@@ -1,6 +1,7 @@
 ---
 title: "Barron Mamiya lands MASSIVE ALLEY OOP at 2023 El Salvador Pro"
 date: 2023-06-11T00:29:35Z
+description: "North Shore phenom Barron Mamiya sticks the end section with a huge alley-oop, proving his air game can compete with the best. Support the channel by..."
 draft: false
 video_id: "KlRmCQhnlu4"
 thumbnail: "https://i.ytimg.com/vi/KlRmCQhnlu4/maxresdefault.jpg"

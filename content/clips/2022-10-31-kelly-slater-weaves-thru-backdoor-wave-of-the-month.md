@@ -1,6 +1,7 @@
 ---
 title: "Kelly Slater weaves thru Backdoor wave of the month"
 date: 2022-10-31T15:54:36Z
+description: "Watch Kelly Slater weaves thru Backdoor wave of the month on Surf Clips TV."
 draft: false
 video_id: "vOiph_f_sv0"
 thumbnail: "https://i.ytimg.com/vi/vOiph_f_sv0/maxresdefault.jpg"

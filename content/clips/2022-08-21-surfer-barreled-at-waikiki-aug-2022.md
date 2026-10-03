@@ -1,6 +1,7 @@
 ---
 title: "Surfer barreled at Waikiki - Aug 2022"
 date: 2022-08-21T23:54:45Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "Hm1ZhBekLb4"
 thumbnail: "https://i.ytimg.com/vi/Hm1ZhBekLb4/maxresdefault.jpg"

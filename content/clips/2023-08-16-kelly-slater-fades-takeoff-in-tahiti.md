@@ -1,6 +1,7 @@
 ---
 title: "Kelly Slater fades takeoff in Tahiti"
 date: 2023-08-16T00:20:52Z
+description: "Kelly Slater finds this wave during the 2023 Tahiti Pro against Australian Ryan Callinan."
 draft: false
 video_id: "alwUHSWOnlY"
 thumbnail: "https://i.ytimg.com/vi/alwUHSWOnlY/maxresdefault.jpg"

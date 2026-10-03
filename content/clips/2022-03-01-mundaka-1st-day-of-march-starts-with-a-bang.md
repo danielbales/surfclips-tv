@@ -1,6 +1,7 @@
 ---
 title: "Mundaka 1st day of March starts with a bang"
 date: 2022-03-01T18:03:55Z
+description: "8-10 foot faces (2-3 meter) hit the Basque region along with light SSE winds to offer some great rides. Support the channel by subscribing! Thank you..."
 draft: false
 video_id: "pagv84ZwXEk"
 thumbnail: "https://i.ytimg.com/vi/pagv84ZwXEk/maxresdefault.jpg"

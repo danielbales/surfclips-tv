@@ -1,6 +1,7 @@
 ---
 title: "John John Florence rips a wave at 2024 Margaret River Pro"
 date: 2024-04-16T02:32:22Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ In his heat vs David Silva, John John Florence puts his rail game on display and hacks..."
 draft: false
 video_id: "or0h5UV1W6I"
 thumbnail: "https://i.ytimg.com/vi/or0h5UV1W6I/maxresdefault.jpg"

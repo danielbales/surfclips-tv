@@ -1,6 +1,7 @@
 ---
 title: "Los Angeles beach sees 1st day of fun Spring surf - March 21, 2024"
 date: 2024-03-24T00:12:39Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ March winds usually howl, but Los Angeles surfers were treated to an unexpected delight..."
 draft: false
 video_id: "BaIgXWhgCZ4"
 thumbnail: "https://i.ytimg.com/vi/BaIgXWhgCZ4/maxresdefault.jpg"

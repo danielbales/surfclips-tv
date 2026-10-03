@@ -1,6 +1,7 @@
 ---
 title: "Watch the whole session 👆"
 date: 2024-05-21T19:29:46Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "eCEiSC_yc3Y"
 thumbnail: "https://i.ytimg.com/vi/eCEiSC_yc3Y/maxresdefault.jpg"

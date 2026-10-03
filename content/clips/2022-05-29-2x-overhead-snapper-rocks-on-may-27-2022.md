@@ -1,6 +1,7 @@
 ---
 title: "2x overhead Snapper Rocks on May 27, 2022"
 date: 2022-05-29T14:43:30Z
+description: "Well overhead East swell (93º) and offshore wind produced a memorable day for Gold Coast surfers. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "sT-ljVGCYuY"
 thumbnail: "https://i.ytimg.com/vi/sT-ljVGCYuY/maxresdefault.jpg"

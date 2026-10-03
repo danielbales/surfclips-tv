@@ -1,6 +1,7 @@
 ---
 title: "Jordy Smith's 9.17 at 2022 Portugal Pro Supertubos (Day 4)"
 date: 2022-03-06T16:08:43Z
+description: "Jordy Smith finds a dreamy right tube in 4-5 foot Supertubos during the round of 16. Support the channel by subscribing! Thank you for supporting Surf..."
 draft: false
 video_id: "B_K1AVta8aU"
 thumbnail: "https://i.ytimg.com/vi/B_K1AVta8aU/maxresdefault.jpg"

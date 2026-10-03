@@ -1,6 +1,7 @@
 ---
 title: "Baron Mamiya going mad"
 date: 2026-07-04T03:00:19Z
+description: "Watch Baron Mamiya going mad on Surf Clips TV."
 draft: false
 video_id: "okIAwyh5X7c"
 thumbnail: "https://i.ytimg.com/vi/okIAwyh5X7c/maxresdefault.jpg"

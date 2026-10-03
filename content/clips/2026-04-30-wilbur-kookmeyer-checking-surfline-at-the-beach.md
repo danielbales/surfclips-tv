@@ -1,6 +1,7 @@
 ---
 title: "Wilbur Kookmeyer checking @Surfline (at the beach)"
 date: 2026-04-30T13:21:43Z
+description: "We all know a guy who does this. 🤦‍♂️ @surfline #wilburkookmeyer #surfline"
 draft: false
 video_id: "z7YPUL5BTH4"
 thumbnail: "https://i.ytimg.com/vi/z7YPUL5BTH4/maxresdefault.jpg"

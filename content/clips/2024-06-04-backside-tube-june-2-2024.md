@@ -1,6 +1,7 @@
 ---
 title: "Backside tube - June 2, 2024"
 date: 2024-06-04T03:59:29Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "QtI1HGnMOKc"
 thumbnail: "https://i.ytimg.com/vi/QtI1HGnMOKc/maxresdefault.jpg"

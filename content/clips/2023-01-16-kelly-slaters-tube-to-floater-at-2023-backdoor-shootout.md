@@ -1,6 +1,7 @@
 ---
 title: "Kelly Slater's tube-to-floater at 2023 Backdoor Shootout"
 date: 2023-01-16T03:15:03Z
+description: "https://surf-clips-tv.myspreadshop.com/ NW swell peaked and provided Kelly Slater with this Pipeline barrel-to-floater combination. Support the channel..."
 draft: false
 video_id: "k7KCQH3lrD0"
 thumbnail: "https://i.ytimg.com/vi/k7KCQH3lrD0/maxresdefault.jpg"

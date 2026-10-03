@@ -1,6 +1,7 @@
 ---
 title: "THE BOX, Western Australia from July 2-3, 2022"
 date: 2022-07-05T01:35:21Z
+description: "Long period WSW swell (247º) pushed up through the morning, while clean light offshores groomed faces and offered occasional hollow pits at Western..."
 draft: false
 video_id: "N_vQdJQOJrc"
 thumbnail: "https://i.ytimg.com/vi/N_vQdJQOJrc/maxresdefault.jpg"

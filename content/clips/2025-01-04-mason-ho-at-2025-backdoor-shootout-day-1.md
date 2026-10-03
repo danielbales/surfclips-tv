@@ -1,6 +1,7 @@
 ---
 title: "Mason Ho at 2025 Backdoor Shootout – Day 1"
 date: 2025-01-04T22:53:51Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Mason Ho caught this Pipe pit on day 1 of the 2025 Backdoor Shootout. Credit: Surfline"
 draft: false
 video_id: "01sLkLKPhZA"
 thumbnail: "https://i.ytimg.com/vi/01sLkLKPhZA/maxresdefault.jpg"

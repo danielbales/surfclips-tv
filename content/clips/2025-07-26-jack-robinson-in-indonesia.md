@@ -1,6 +1,7 @@
 ---
 title: "Jack Robinson in Indonesia"
 date: 2025-07-26T15:34:05Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "IDpuwFJQ__Q"
 thumbnail: "https://i9.ytimg.com/vi/IDpuwFJQ__Q/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLAErXNAWsjv1cWidmMB2DBC2h8Ibw"

@@ -1,6 +1,7 @@
 ---
 title: "MORE raw, overhead swell hits Outer Banks – October 8, 2023"
 date: 2023-10-11T22:57:48Z
+description: "As October arrives in full-swing, Outer Banks surfers rejoice thanks to yet another swell that provides overhead, hollow surf. Support the channel by..."
 draft: false
 video_id: "CccvIJzHNyo"
 thumbnail: "https://i.ytimg.com/vi/CccvIJzHNyo/maxresdefault.jpg"

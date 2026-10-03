@@ -1,6 +1,7 @@
 ---
 title: "Joao Chianca's THROATY 9.8 at the 2022 Pipeline Pro (Day 3)"
 date: 2022-02-02T14:31:04Z
+description: "Against JJF, Joao Chianca found this heavy Pipe ledge and earned a near-perfect score during an afternoon of quickly-rising swell. Support the channel..."
 draft: false
 video_id: "eOPYjNUKCo8"
 thumbnail: "https://i.ytimg.com/vi/eOPYjNUKCo8/maxresdefault.jpg"

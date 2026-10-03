@@ -1,6 +1,7 @@
 ---
 title: "If only I knew how to catch waves"
 date: 2026-01-31T04:15:51Z
+description: "Watch If only I knew how to catch waves on Surf Clips TV."
 draft: false
 video_id: "-Cz2tqFz_5Q"
 thumbnail: "https://i.ytimg.com/vi/-Cz2tqFz_5Q/maxresdefault.jpg"

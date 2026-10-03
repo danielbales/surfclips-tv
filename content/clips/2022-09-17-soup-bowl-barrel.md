@@ -1,6 +1,7 @@
 ---
 title: "Soup Bowl barrel"
 date: 2022-09-17T02:23:58Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "A2vSiCzps6M"
 thumbnail: "https://i.ytimg.com/vi/A2vSiCzps6M/maxresdefault.jpg"

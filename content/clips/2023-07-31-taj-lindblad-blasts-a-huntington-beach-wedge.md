@@ -1,6 +1,7 @@
 ---
 title: "Taj Lindblad blasts a Huntington Beach wedge"
 date: 2023-07-31T07:00:10Z
+description: "Call us old fashioned but this is a thing of beauty. During day 1 of the 2023 US Open of Surfing this unsuspecting right was properly handled. Support..."
 draft: false
 video_id: "Ctxeo4BcVvU"
 thumbnail: "https://i.ytimg.com/vi/Ctxeo4BcVvU/maxresdefault.jpg"

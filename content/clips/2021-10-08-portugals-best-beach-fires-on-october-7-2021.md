@@ -1,6 +1,7 @@
 ---
 title: "PORTUGAL'S BEST BEACH FIRES!! on October 7, 2021"
 date: 2021-10-08T18:45:00Z
+description: "Support the channel by subscribing! 6-8 foot (2-3 meter) surf made its way to Peniche, Portugal (Supertubos) on October 7, 2021. There were tubes, airs..."
 draft: false
 video_id: "VS_1Fj1QgEM"
 thumbnail: "https://i.ytimg.com/vi/VS_1Fj1QgEM/maxresdefault.jpg"

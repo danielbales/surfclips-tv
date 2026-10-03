@@ -1,6 +1,7 @@
 ---
 title: "Combo swell LIGHTS UP ORANGE COUNTY! October 14, 2024"
 date: 2024-10-14T20:43:49Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Day 2 of a SOLID combo swell lit up California's most infamous novelty wave (Wedge), along..."
 draft: false
 video_id: "t_OGurM86Eo"
 thumbnail: "https://i.ytimg.com/vi/t_OGurM86Eo/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Peter Mel & Shane Dorian party wave at 2023 Eddie Aikau Invitational"
 date: 2023-01-23T02:34:43Z
+description: "Shane Dorian and Peter Mel surf a memorable wave together at the 2023 Eddie Aikau Big Wave Invitational in Waimea Bay, Hawaii Support the channel by..."
 draft: false
 video_id: "Z-3283wH4cY"
 thumbnail: "https://i.ytimg.com/vi/Z-3283wH4cY/maxresdefault.jpg"

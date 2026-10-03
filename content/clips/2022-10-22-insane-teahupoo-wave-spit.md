@@ -1,6 +1,7 @@
 ---
 title: "INSANE Teahupo'o wave spit"
 date: 2022-10-22T17:39:02Z
+description: "Watch INSANE Teahupo'o wave spit on Surf Clips TV."
 draft: false
 video_id: "7WP3deHp-HM"
 thumbnail: "https://i.ytimg.com/vi/7WP3deHp-HM/maxresdefault.jpg"

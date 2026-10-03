@@ -1,6 +1,7 @@
 ---
 title: "GIANT backflip by Jackson Bunch"
 date: 2025-06-05T18:36:47Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Jackson Bunch"
 draft: false
 video_id: "CVZIZIADv5E"
 thumbnail: "https://i.ytimg.com/vi/CVZIZIADv5E/maxresdefault.jpg"

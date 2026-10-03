@@ -1,6 +1,7 @@
 ---
 title: "Luke Davis DEEP somewhere in Indo"
 date: 2025-04-03T16:51:30Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "YNce2wfgTy0"
 thumbnail: "https://i.ytimg.com/vi/YNce2wfgTy0/maxresdefault.jpg"

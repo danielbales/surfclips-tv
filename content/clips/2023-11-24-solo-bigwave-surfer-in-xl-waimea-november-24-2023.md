@@ -1,6 +1,7 @@
 ---
 title: "Solo #bigwave #surfer in XL #waimea - November 24, 2023"
 date: 2023-11-24T19:02:11Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "Oy1uwMWqqlE"
 thumbnail: "https://i.ytimg.com/vi/Oy1uwMWqqlE/maxresdefault.jpg"

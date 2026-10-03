@@ -1,6 +1,7 @@
 ---
 title: "Wedge highlights - May 16, 2023"
 date: 2023-05-17T01:57:03Z
+description: "Solid long period SW swell turned on Southern California's favorite novelty wave. Support the channel by subscribing! Thank you for supporting Surf Cam..."
 draft: false
 video_id: "fVGXdIMnw0g"
 thumbnail: "https://i.ytimg.com/vi/fVGXdIMnw0g/maxresdefault.jpg"

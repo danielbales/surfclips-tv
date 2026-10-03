@@ -1,6 +1,7 @@
 ---
 title: "Serious Shipsterns wipeout"
 date: 2025-05-30T05:00:16Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Surfing Visions"
 draft: false
 video_id: "rPc_BSIQzZg"
 thumbnail: "https://i.ytimg.com/vi/rPc_BSIQzZg/maxresdefault.jpg"

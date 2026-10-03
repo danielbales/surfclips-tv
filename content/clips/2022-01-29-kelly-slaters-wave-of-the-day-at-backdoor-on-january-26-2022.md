@@ -1,6 +1,7 @@
 ---
 title: "Kelly Slater's Wave of the Day at Backdoor on January 26, 2022"
 date: 2022-01-29T18:17:13Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Kelly Slater's triple-pump tube gets him deep and also Surfline's Wave of the Day on January..."
 draft: false
 video_id: "jgvyFUkgIpg"
 thumbnail: "https://i.ytimg.com/vi/jgvyFUkgIpg/maxresdefault.jpg"

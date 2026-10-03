@@ -1,6 +1,7 @@
 ---
 title: "SPAT OUT of a Nias tube - August 19, 2024"
 date: 2024-08-19T17:49:53Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "hX1J50LWR2k"
 thumbnail: "https://i.ytimg.com/vi/hX1J50LWR2k/maxresdefault.jpg"

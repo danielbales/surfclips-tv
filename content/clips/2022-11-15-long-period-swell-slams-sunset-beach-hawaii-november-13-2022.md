@@ -1,6 +1,7 @@
 ---
 title: "Long period swell slams Sunset Beach, Hawaii – November 13, 2022"
 date: 2022-11-15T00:46:42Z
+description: "Longer period NW swell provided some SOLID north shore surf, with wave heights hovering around 2x overhead. Winds were tricky but definitely made it..."
 draft: false
 video_id: "HO-VHPbpUpY"
 thumbnail: "https://i.ytimg.com/vi/HO-VHPbpUpY/maxresdefault.jpg"

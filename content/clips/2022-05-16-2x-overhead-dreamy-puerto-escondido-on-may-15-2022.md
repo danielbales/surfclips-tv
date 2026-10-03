@@ -1,6 +1,7 @@
 ---
 title: "2x overhead & dreamy Puerto Escondido on May 15, 2022"
 date: 2022-05-16T00:07:19Z
+description: "8-12ft waves slammed Playa Zicatela, while stiff offshore winds groomed faces. Those who found themselves on the peak were rewarded. Support the..."
 draft: false
 video_id: "TaxYxBecqLM"
 thumbnail: "https://i.ytimg.com/vi/TaxYxBecqLM/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "SANTA CRUZ FIRES – July 17, 2024"
 date: 2024-07-17T19:52:00Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ This Santa Cruz reef lit up during the morning of this peaking Southwest swell. Locals..."
 draft: false
 video_id: "jjYVgVed27Y"
 thumbnail: "https://i.ytimg.com/vi/jjYVgVed27Y/maxresdefault.jpg"

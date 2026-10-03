@@ -1,6 +1,7 @@
 ---
 title: "Indo decap - June 2025"
 date: 2025-06-13T05:00:50Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Kandui Villas Mentawai"
 draft: false
 video_id: "yOaLwkYwnLw"
 thumbnail: "https://i.ytimg.com/vi/yOaLwkYwnLw/maxresdefault.jpg"

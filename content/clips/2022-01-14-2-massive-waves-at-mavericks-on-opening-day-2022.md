@@ -1,6 +1,7 @@
 ---
 title: "2 massive waves at Mavericks on Opening Day 2022"
 date: 2022-01-14T20:11:42Z
+description: "Occasional 20ft faces slammed Pillar Point on January 11, 2022, offering these to massive waves to big wave surfers. Support the channel by..."
 draft: false
 video_id: "P3dno8YWT3k"
 thumbnail: "https://i.ytimg.com/vi/P3dno8YWT3k/maxresdefault.jpg"

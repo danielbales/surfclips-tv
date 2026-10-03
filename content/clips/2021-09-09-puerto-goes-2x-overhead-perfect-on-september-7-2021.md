@@ -1,6 +1,7 @@
 ---
 title: "PUERTO goes 2X OVERHEAD & PERFECT!!! on September 7, 2021"
 date: 2021-09-09T19:00:08Z
+description: "Support the channel by subscribing! While other regions of the world were also holding great surf (Australia, USA, etc), Puerto Escondido, Mexico also..."
 draft: false
 video_id: "Nqxo7oVcDs0"
 thumbnail: "https://i.ytimg.com/vi/Nqxo7oVcDs0/maxresdefault.jpg"

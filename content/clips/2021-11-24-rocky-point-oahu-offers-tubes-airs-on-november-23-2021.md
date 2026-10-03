@@ -1,6 +1,7 @@
 ---
 title: "ROCKY POINT, Oahu offers TUBES & AIRS on November 23, 2021"
 date: 2021-11-24T01:40:41Z
+description: "A combo of slowly decreasing and steadily increasing NW-NNW swells provided some great North Shore surf on this absolutely stunning Tuesday. Support..."
 draft: false
 video_id: "XjhryIIDJ9s"
 thumbnail: "https://i.ytimg.com/vi/XjhryIIDJ9s/maxresdefault.jpg"

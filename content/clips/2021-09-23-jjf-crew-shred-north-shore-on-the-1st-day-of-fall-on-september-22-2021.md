@@ -1,6 +1,7 @@
 ---
 title: "JJF & crew SHRED NORTH SHORE on the 1ST DAY OF FALL on September 22, 2021"
 date: 2021-09-23T16:30:17Z
+description: "Support the channel by subscribing! The 1st day of fall delivers great, shreddable surf to the North Shore of Oahu, Hawaii on September 22, 2021. Jon..."
 draft: false
 video_id: "ENHkSxYHdrI"
 thumbnail: "https://i.ytimg.com/vi/ENHkSxYHdrI/maxresdefault.jpg"

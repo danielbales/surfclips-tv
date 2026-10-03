@@ -1,6 +1,7 @@
 ---
 title: "Dreamy Indo Tube - June 7, 2024"
 date: 2024-06-09T04:40:17Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "LTu2de-91qU"
 thumbnail: "https://i.ytimg.com/vi/LTu2de-91qU/maxresdefault.jpg"

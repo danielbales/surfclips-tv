@@ -1,6 +1,7 @@
 ---
 title: "Hawaiians rip fun-sized Sunset Beach, Oahu on December 2, 2021"
 date: 2021-12-03T18:47:52Z
+description: "Mid-period NW swell dropped off while a shorter period NNW swell offered well overhead sets at Sunset Beach, Oahu on December 2, 2021 Support the..."
 draft: false
 video_id: "gEW2f4JL1zw"
 thumbnail: "https://i.ytimg.com/vi/gEW2f4JL1zw/maxresdefault.jpg"

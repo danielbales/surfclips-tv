@@ -1,6 +1,7 @@
 ---
 title: "Europe's best pointbreak wakes up! – Spain, October 16, 2022"
 date: 2022-10-17T19:00:01Z
+description: "Solid mid period waves from the NW (305º) and light SSW winds create clean conditions and a fall session to remember. Support the channel by..."
 draft: false
 video_id: "5oU29y0bi-I"
 thumbnail: "https://i.ytimg.com/vi/5oU29y0bi-I/maxresdefault.jpg"

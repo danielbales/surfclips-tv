@@ -1,6 +1,7 @@
 ---
 title: "BACKDOOR highlights – December 6, 2022 (Nate, JOB, Mason & more)"
 date: 2022-12-10T01:59:57Z
+description: "New NW swell (318º) quickly built in and peaked, pushing waves near triple overhead for top spots like this before dark. Wind was a great offshore SE..."
 draft: false
 video_id: "-udS8hFWCyw"
 thumbnail: "https://i.ytimg.com/vi/-udS8hFWCyw/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "TOW-INS at XL OCEAN BEACH, SF – October 19, 2023"
 date: 2023-10-22T02:40:01Z
+description: "While paddle-in surfers mostly stayed dry, this tow-in team whipped in to a few large set waves as San Francisco's famous Ocean Beach provided..."
 draft: false
 video_id: "05DT0nSbvWo"
 thumbnail: "https://i.ytimg.com/vi/05DT0nSbvWo/maxresdefault.jpg"

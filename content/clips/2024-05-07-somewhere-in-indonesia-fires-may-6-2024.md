@@ -1,6 +1,7 @@
 ---
 title: "Somewhere in Indonesia FIRES – May 6, 2024"
 date: 2024-05-07T18:30:01Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ SSW swell provided good waves at this famed spot. Size was mostly head to overhead+ range..."
 draft: false
 video_id: "1l29aZdXBsI"
 thumbnail: "https://i.ytimg.com/vi/1l29aZdXBsI/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "New Jersey LIGHTS UP – November 19, 2023"
 date: 2023-11-19T17:21:41Z
+description: "Mid-period SE energy with a predawn low tide delivered 3-5 foot faces with offshore winds. Another drop in the bucket for an already stellar season for..."
 draft: false
 video_id: "Pamf4oMwRRI"
 thumbnail: "https://i.ytimg.com/vi/Pamf4oMwRRI/maxresdefault.jpg"

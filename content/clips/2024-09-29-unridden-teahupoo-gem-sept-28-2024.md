@@ -1,6 +1,7 @@
 ---
 title: "Unridden Teahupo'o gem - Sept 28, 2024"
 date: 2024-09-29T03:20:00Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ Thank you for supporting Surf Cam Rewind so we can continue to provide you with free..."
 draft: false
 video_id: "WUKB-UhMa-4"
 thumbnail: "https://i.ytimg.com/vi/WUKB-UhMa-4/maxresdefault.jpg"

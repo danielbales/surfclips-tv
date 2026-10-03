@@ -1,6 +1,7 @@
 ---
 title: "Nathan Florence Backdoor POV - Dec 2025"
 date: 2025-12-08T21:26:31Z
+description: "Weekly Top 10 here 👉 youtu.be/ZW9lzB1N4dM Surf Store Merch: surf-clips-tv.myspreadshop.com"
 draft: false
 video_id: "INJ2QSqZaG8"
 thumbnail: "https://i.ytimg.com/vi/INJ2QSqZaG8/maxresdefault.jpg"

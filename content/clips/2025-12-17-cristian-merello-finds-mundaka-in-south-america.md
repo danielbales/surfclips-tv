@@ -1,6 +1,7 @@
 ---
 title: "Cristian Merello finds Mundaka in South America"
 date: 2025-12-17T04:18:43Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "zg2hBOWRpjU"
 thumbnail: "https://i.ytimg.com/vi/zg2hBOWRpjU/maxresdefault.jpg"

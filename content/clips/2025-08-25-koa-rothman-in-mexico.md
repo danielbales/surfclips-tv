@@ -1,6 +1,7 @@
 ---
 title: "Koa Rothman in Mexico"
 date: 2025-08-25T03:27:28Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "HMiXC03Xwlc"
 thumbnail: "https://i9.ytimg.com/vi/HMiXC03Xwlc/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLAVvvIyMxsyutYM5bmVDQAINQ6efw"

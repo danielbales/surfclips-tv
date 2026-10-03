@@ -1,6 +1,7 @@
 ---
 title: "Thick Fort Point wave"
 date: 2025-02-17T20:00:33Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "ha-32UzCJco"
 thumbnail: "https://i.ytimg.com/vi/ha-32UzCJco/maxresdefault.jpg"

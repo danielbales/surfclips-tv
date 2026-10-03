@@ -1,6 +1,7 @@
 ---
 title: "Harry Bryant at Pipeline"
 date: 2025-05-25T07:00:13Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Jamie O'Brien"
 draft: false
 video_id: "F1cAFvlsTXY"
 thumbnail: "https://i.ytimg.com/vi/F1cAFvlsTXY/maxresdefault.jpg"

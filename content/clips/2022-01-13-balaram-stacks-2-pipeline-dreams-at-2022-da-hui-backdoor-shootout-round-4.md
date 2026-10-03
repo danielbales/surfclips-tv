@@ -1,6 +1,7 @@
 ---
 title: "Balaram Stack's 2 Pipeline DREAMS at 2022 Da Hui Backdoor Shootout (Round 4)"
 date: 2022-01-13T02:33:56Z
+description: "Bal Stack continued to show ease at Pipeline during the 2022 Da Hui Backdoor Shootout by packing these two dreamy Pipeline waves on January 11, 2022...."
 draft: false
 video_id: "fWGHDzvsJYo"
 thumbnail: "https://i.ytimg.com/vi/fWGHDzvsJYo/maxresdefault.jpg"

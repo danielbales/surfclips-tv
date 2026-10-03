@@ -1,6 +1,7 @@
 ---
 title: "Caribbean reefbreak goes off - March 30, 2024"
 date: 2024-03-31T04:02:15Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ Head-high surf hits this infamous Caribbean reef break, while light winds groomed faces..."
 draft: false
 video_id: "SA6gUFqRzq8"
 thumbnail: "https://i.ytimg.com/vi/SA6gUFqRzq8/maxresdefault.jpg"

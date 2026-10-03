@@ -1,6 +1,7 @@
 ---
 title: "Late season Puerto delivers (occ 15ft bombs)"
 date: 2022-09-27T18:45:00Z
+description: "Late September SW/SSW swell (214º) peaked, while tropical swell remnants linger in favorable AM winds, offering some solid waves for Playa Zicatela..."
 draft: false
 video_id: "aj-euixryAY"
 thumbnail: "https://i.ytimg.com/vi/aj-euixryAY/maxresdefault.jpg"

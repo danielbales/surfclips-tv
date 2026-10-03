@@ -1,6 +1,7 @@
 ---
 title: "Wave of the Day: Dawn Patrol at Puerto August 24, 2022"
 date: 2022-08-24T21:43:57Z
+description: "SW/SSW swell (214º) filled in while am morning offshores created fantastic conditions for this lucky (unidentified) surfer. Support the channel by..."
 draft: false
 video_id: "3bxldIbJIZo"
 thumbnail: "https://i.ytimg.com/vi/3bxldIbJIZo/sddefault.jpg"

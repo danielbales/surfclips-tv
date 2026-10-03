@@ -1,6 +1,7 @@
 ---
 title: "Post-swell highlights from Hurricane Lee in NewYork (Sept 14 - 15, 2023)"
 date: 2023-09-17T17:33:54Z
+description: "All the best waves from Hurrucane Lee swell in New York in September 2023. The waves were overhead and offshore for 2 days straight! Support the..."
 draft: false
 video_id: "Acav4bMiM9Q"
 thumbnail: "https://i.ytimg.com/vi/Acav4bMiM9Q/maxresdefault.jpg"

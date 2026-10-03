@@ -1,6 +1,7 @@
 ---
 title: "Kelly Slater sends spray to the sky at 2024 Margaret River Pro"
 date: 2024-04-15T14:35:34Z
+description: "Watch Kelly Slater sends spray to the sky at 2024 Margaret River Pro on Surf Clips TV."
 draft: false
 video_id: "L6s1dQzXvo8"
 thumbnail: "https://i.ytimg.com/vi/L6s1dQzXvo8/maxresdefault.jpg"

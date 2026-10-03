@@ -1,6 +1,7 @@
 ---
 title: "JAMIE O'BRIEN'S MEAN PIPELINE PIT – December 3, 2023"
 date: 2023-12-03T23:49:53Z
+description: "Pipe Master Jamie 0\"Brien found a few great Pipe barrels during this midday session, showing us all how a lifetime of experience translates when the..."
 draft: false
 video_id: "eG0hkAEcG9Q"
 thumbnail: "https://i.ytimg.com/vi/eG0hkAEcG9Q/maxresdefault.jpg"

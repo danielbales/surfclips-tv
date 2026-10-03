@@ -1,6 +1,7 @@
 ---
 title: "SNAPPER STEP OFFS in MACKING surf - July 31, 2024"
 date: 2024-07-31T22:25:08Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ Mix of ESE swell @14s (Local Buoy Reading). Well overhead at the south magnets, the open..."
 draft: false
 video_id: "vP-i1Gka-fI"
 thumbnail: "https://i.ytimg.com/vi/vP-i1Gka-fI/maxresdefault.jpg"

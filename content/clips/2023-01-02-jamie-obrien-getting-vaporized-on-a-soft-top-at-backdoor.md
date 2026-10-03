@@ -1,6 +1,7 @@
 ---
 title: "Jamie O'Brien getting vaporized on a soft top at Backdoor"
 date: 2023-01-02T02:40:03Z
+description: "Watch Jamie O'Brien getting vaporized on a soft top at Backdoor on Surf Clips TV."
 draft: false
 video_id: "1JsF-XWly18"
 thumbnail: "https://i.ytimg.com/vi/1JsF-XWly18/maxresdefault.jpg"

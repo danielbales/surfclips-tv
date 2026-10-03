@@ -1,6 +1,7 @@
 ---
 title: "BIG, UGLY NAZARE - October 28, 2023 #surfing #surf #surfer #bigwave"
 date: 2023-10-28T16:49:40Z
+description: "Portugal's most famous big wave saw 30 foot (10m) faces with scary, stormy conditions. Support the channel by subscribing! Thank you for supporting..."
 draft: false
 video_id: "bpQ_YCQTxig"
 thumbnail: "https://i.ytimg.com/vi/bpQ_YCQTxig/maxresdefault.jpg"

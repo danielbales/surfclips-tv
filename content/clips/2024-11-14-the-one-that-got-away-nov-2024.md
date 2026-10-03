@@ -1,6 +1,7 @@
 ---
 title: "The one that got away - Nov 2024"
 date: 2024-11-14T17:34:14Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!..."
 draft: false
 video_id: "rjq_2nuG03Y"
 thumbnail: "https://i.ytimg.com/vi/rjq_2nuG03Y/maxresdefault.jpg"

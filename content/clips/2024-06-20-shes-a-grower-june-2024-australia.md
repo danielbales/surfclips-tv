@@ -1,6 +1,7 @@
 ---
 title: "She's a grower - June 2024, Australia"
 date: 2024-06-20T06:00:01Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "af-4JZgXLyg"
 thumbnail: "https://i.ytimg.com/vi/af-4JZgXLyg/maxresdefault.jpg"

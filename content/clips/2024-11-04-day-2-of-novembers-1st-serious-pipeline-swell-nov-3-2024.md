@@ -1,6 +1,7 @@
 ---
 title: "Day 2 of November's 1st SERIOUS Pipeline swell - Nov 3, 2024"
 date: 2024-11-04T20:00:25Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Additional swell joined the previous day's mid-range NW swell (310º-330º) peaked for some..."
 draft: false
 video_id: "WwTCmJWdyo4"
 thumbnail: "https://i.ytimg.com/vi/WwTCmJWdyo4/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "South swell at THE WEDGE"
 date: 2022-04-30T15:17:53Z
+description: "Long-period south swell hit Orange County's freak man-made wave on April 26, 2022. Skimboarders, surfers and bodyboarders waiting on lully sets and..."
 draft: false
 video_id: "2hPhZWLYELc"
 thumbnail: "https://i.ytimg.com/vi/2hPhZWLYELc/maxresdefault.jpg"

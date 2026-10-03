@@ -1,6 +1,7 @@
 ---
 title: "Carribean FIRES – September 20, 2024"
 date: 2024-09-20T13:15:07Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ [enter description here] Thank you for supporting Surf Cam Rewind so we can continue to..."
 draft: false
 video_id: "cvicmxnqmXY"
 thumbnail: "https://i.ytimg.com/vi/cvicmxnqmXY/maxresdefault.jpg"

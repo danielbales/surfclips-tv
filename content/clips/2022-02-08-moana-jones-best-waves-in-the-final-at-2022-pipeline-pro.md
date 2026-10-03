@@ -1,6 +1,7 @@
 ---
 title: "Moana Jones' BEST waves in the FINAL at 2022 Pipeline Pro"
 date: 2022-02-08T05:36:59Z
+description: "Moana Jones takes down world champ Carissa Moore with help from these waves in the final of the 2022 Women's Pipeline Pro. Support the channel by..."
 draft: false
 video_id: "tUQtew77t7c"
 thumbnail: "https://i.ytimg.com/vi/tUQtew77t7c/maxresdefault.jpg"

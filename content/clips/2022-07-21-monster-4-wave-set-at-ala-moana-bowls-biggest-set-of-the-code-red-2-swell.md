@@ -1,6 +1,7 @@
 ---
 title: "Monster 4-wave set at Ala Moana Bowls (biggest set of the Code Red 2 swell)"
 date: 2022-07-21T19:31:21Z
+description: "The massive Code Red 2 swell (long period S 182º) was met with offshore winds and mostly maxed out Ala Moana Bowls, like this 4 wave set of the swell...."
 draft: false
 video_id: "VWzYqRPLHFM"
 thumbnail: "https://i.ytimg.com/vi/VWzYqRPLHFM/maxresdefault.jpg"

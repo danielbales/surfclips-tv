@@ -1,6 +1,7 @@
 ---
 title: "Giant part of Santa Cruz cliff falls in ocean"
 date: 2023-02-11T02:21:25Z
+description: "Watch Giant part of Santa Cruz cliff falls in ocean on Surf Clips TV."
 draft: false
 video_id: "ygl8UguhxCw"
 thumbnail: "https://i.ytimg.com/vi/ygl8UguhxCw/maxresdefault.jpg"

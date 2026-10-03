@@ -1,6 +1,7 @@
 ---
 title: "Waimea Bay DURING the 2022 Pipeline Masters"
 date: 2022-12-20T00:45:03Z
+description: "During the 2022 Pipe Masters, a large NNW swell (322º) filled in across the North Shore, pushing wave heights in the 18 - 20 foot face value mark at..."
 draft: false
 video_id: "6gQqSUjC5no"
 thumbnail: "https://i.ytimg.com/vi/6gQqSUjC5no/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "OUTER BANKS sees firing DAY OF TUBES – September 4, 2023"
 date: 2023-09-04T20:00:15Z
+description: "light W/WSW winds with a mid-period ENE swell produced long, barreling, perfection for East Coast surfers on September, 4, 2023. Support the channel by..."
 draft: false
 video_id: "l0tmsGq70EE"
 thumbnail: "https://i.ytimg.com/vi/l0tmsGq70EE/maxresdefault.jpg"

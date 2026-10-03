@@ -1,6 +1,7 @@
 ---
 title: "Spring combo swell at Trestles – April 11, 2023"
 date: 2023-04-11T23:56:26Z
+description: "Fun but lully combo of S and NW swells offered occasional head-high waves at San Clemente's most famous reef. Support the channel by subscribing! Thank..."
 draft: false
 video_id: "iFXXf4-HvyM"
 thumbnail: "https://i.ytimg.com/vi/iFXXf4-HvyM/maxresdefault.jpg"

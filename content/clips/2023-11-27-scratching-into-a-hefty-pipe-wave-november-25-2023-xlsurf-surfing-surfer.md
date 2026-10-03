@@ -1,6 +1,7 @@
 ---
 title: "Scratching into a HEFTY PIPE wave - November 25, 2023  #xlsurf #surfing #surfer"
 date: 2023-11-27T01:11:35Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "BwQLzT_3TkI"
 thumbnail: "https://i.ytimg.com/vi/BwQLzT_3TkI/maxresdefault.jpg"

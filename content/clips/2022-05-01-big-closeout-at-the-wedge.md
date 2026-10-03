@@ -1,6 +1,7 @@
 ---
 title: "Big closeout at The Wedge"
 date: 2022-05-01T01:12:27Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "rgtFmXV8kpE"
 thumbnail: "https://i.ytimg.com/vi/rgtFmXV8kpE/maxresdefault.jpg"

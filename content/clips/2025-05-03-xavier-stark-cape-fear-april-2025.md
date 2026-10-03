@@ -1,6 +1,7 @@
 ---
 title: "Xavier Stark – Cape Fear, April 2025"
 date: 2025-05-03T14:30:19Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "Jma6M8seE4U"
 thumbnail: "https://i.ytimg.com/vi/Jma6M8seE4U/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Famous (& fickle) Caribbean reef lights up – pt. 1"
 date: 2022-09-16T18:14:22Z
+description: "Easing N swell and trade swell mix (6º and 65º), while light SE/SSE winds created textured/semi-clean conditions. Support the channel by subscribing!..."
 draft: false
 video_id: "WpXFzlBN54s"
 thumbnail: "https://i.ytimg.com/vi/WpXFzlBN54s/maxresdefault.jpg"

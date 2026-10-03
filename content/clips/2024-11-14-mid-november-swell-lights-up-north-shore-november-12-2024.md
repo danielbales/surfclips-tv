@@ -1,6 +1,7 @@
 ---
 title: "Mid-November swell lights up NORTH SHORE – November 12, 2024"
 date: 2024-11-14T17:06:03Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Steep angled WNW swell produced solid, overhead waves at this infamous reef on the 7 mile..."
 draft: false
 video_id: "FvR2D8PNy3Y"
 thumbnail: "https://i.ytimg.com/vi/FvR2D8PNy3Y/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Brett Barley toying around at home"
 date: 2025-06-19T21:52:19Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Brett Barley"
 draft: false
 video_id: "bAKW813Bcv4"
 thumbnail: "https://i.ytimg.com/vi/bAKW813Bcv4/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "James Kustino sitting down on the job 🕶️"
 date: 2025-11-30T21:52:32Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "u6X_ISXq2nw"
 thumbnail: "https://i.ytimg.com/vi/u6X_ISXq2nw/maxresdefault.jpg"

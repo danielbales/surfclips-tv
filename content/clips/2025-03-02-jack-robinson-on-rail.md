@@ -1,6 +1,7 @@
 ---
 title: "Jack Robinson on RAIL"
 date: 2025-03-02T20:22:35Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Jack Robinson sends it from deep and puts his rail game on display."
 draft: false
 video_id: "MoLDZTVKTww"
 thumbnail: "https://i.ytimg.com/vi/MoLDZTVKTww/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Huntington Beach pier - November 22, 2022"
 date: 2022-11-24T15:31:49Z
+description: "Late November SSW swell rolled in, while a new NW swell gradually filled in also. Morning wind was favorable and there were some fun rights this am...."
 draft: false
 video_id: "IdsXPMME778"
 thumbnail: "https://i.ytimg.com/vi/IdsXPMME778/maxresdefault.jpg"

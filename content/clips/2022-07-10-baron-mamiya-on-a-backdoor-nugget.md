@@ -1,6 +1,7 @@
 ---
 title: "Baron Mamiya on a Backdoor nugget"
 date: 2022-07-10T04:07:06Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "fS_v9qhj3GU"
 thumbnail: "https://i.ytimg.com/vi/fS_v9qhj3GU/maxresdefault.jpg"

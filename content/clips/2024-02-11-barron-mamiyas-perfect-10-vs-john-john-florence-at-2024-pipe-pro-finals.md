@@ -1,6 +1,7 @@
 ---
 title: "Barron Mamiya's PERFECT 10 vs John John Florence at 2024 Pipe Pro Finals"
 date: 2024-02-11T01:55:00Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ In his Finals heat vs John John Florence, Barron Mamiya becomes a Pipe Master thanks to..."
 draft: false
 video_id: "_4mpT5NFQpw"
 thumbnail: "https://i.ytimg.com/vi/_4mpT5NFQpw/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Surf Station Wilbur"
 date: 2026-04-15T01:47:24Z
+description: "Watch Surf Station Wilbur on Surf Clips TV."
 draft: false
 video_id: "sDhDcOuk4OM"
 thumbnail: "https://i.ytimg.com/vi/sDhDcOuk4OM/maxresdefault.jpg"

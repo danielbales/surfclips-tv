@@ -1,6 +1,7 @@
 ---
 title: "Boat vs wall of water"
 date: 2025-05-24T23:07:56Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: SFRL Tahiti"
 draft: false
 video_id: "1s8UcvFnHDg"
 thumbnail: "https://i.ytimg.com/vi/1s8UcvFnHDg/maxresdefault.jpg"

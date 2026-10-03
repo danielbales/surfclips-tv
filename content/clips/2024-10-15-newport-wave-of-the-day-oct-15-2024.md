@@ -1,6 +1,7 @@
 ---
 title: "Newport wave of the day – Oct 15, 2024"
 date: 2024-10-15T23:06:09Z
+description: "https://surf-clips-tv.myspreadshop.com/ Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "cRoS5k9zew8"
 thumbnail: "https://i.ytimg.com/vi/cRoS5k9zew8/maxresdefault.jpg"

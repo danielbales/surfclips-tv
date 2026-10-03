@@ -1,6 +1,7 @@
 ---
 title: "XL-sized swell hits STEAMER LANE - October 19, 2023"
 date: 2023-10-22T21:23:57Z
+description: "As Typhoon Bolaven hit Maverick's, Santa Cruz also saw big, cleaner sets thanks to a large WNW swell and glassy conditions. Support the channel by..."
 draft: false
 video_id: "Gcn_1ePhjzw"
 thumbnail: "https://i.ytimg.com/vi/Gcn_1ePhjzw/maxresdefault.jpg"

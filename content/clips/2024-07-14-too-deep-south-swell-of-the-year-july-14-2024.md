@@ -1,6 +1,7 @@
 ---
 title: "TOO DEEP? South Swell of the Year – July 14, 2024"
 date: 2024-07-14T21:11:59Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "52byLqJIgJA"
 thumbnail: "https://i.ytimg.com/vi/52byLqJIgJA/maxresdefault.jpg"

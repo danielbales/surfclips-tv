@@ -1,6 +1,7 @@
 ---
 title: "Hurricane Fiona - 5 waves from North Carolina"
 date: 2022-09-25T16:57:00Z
+description: "Hurricane Fiona delivers ESE/SE swell (98º), while an easing NE windswell (31º) and light NW winds delivered fun, rippable waves to North Carolina on..."
 draft: false
 video_id: "Cs24YocXJX4"
 thumbnail: "https://i.ytimg.com/vi/Cs24YocXJX4/maxresdefault.jpg"

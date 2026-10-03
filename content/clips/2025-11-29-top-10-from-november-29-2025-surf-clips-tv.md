@@ -1,6 +1,7 @@
 ---
 title: "TOP 10 from November 29, 2025 – Surf Clips TV"
 date: 2025-11-29T22:20:29Z
+description: "Surfing from Hawaii, Australia, & more."
 draft: false
 video_id: "7gTVyK9wpno"
 thumbnail: "https://i.ytimg.com/vi/7gTVyK9wpno/sddefault.jpg"

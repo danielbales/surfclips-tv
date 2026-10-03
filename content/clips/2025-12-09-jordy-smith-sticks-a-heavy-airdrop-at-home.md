@@ -1,6 +1,7 @@
 ---
 title: "Jordy Smith sticks a heavy airdrop at home"
 date: 2025-12-09T04:27:01Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "LRPBFukQjEU"
 thumbnail: "https://i.ytimg.com/vi/LRPBFukQjEU/maxresdefault.jpg"

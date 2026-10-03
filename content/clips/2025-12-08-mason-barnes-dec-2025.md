@@ -1,6 +1,7 @@
 ---
 title: "Mason Barnes - Dec 2025"
 date: 2025-12-08T18:56:11Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "YkRU7_McwU8"
 thumbnail: "https://i.ytimg.com/vi/YkRU7_McwU8/maxresdefault.jpg"

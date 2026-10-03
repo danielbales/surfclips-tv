@@ -1,6 +1,7 @@
 ---
 title: "No April Foolin' these Puerto Escondido surfers - April 1, 2022"
 date: 2022-04-01T16:30:07Z
+description: "Offshore winds and occasional 2x overhead surf hit Playa Zicatela on April Fool's Day 2022. Crowd was thick but there were some great tubes! Support..."
 draft: false
 video_id: "yNCMkjJMYg0"
 thumbnail: "https://i.ytimg.com/vi/yNCMkjJMYg0/maxresdefault.jpg"

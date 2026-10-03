@@ -1,6 +1,7 @@
 ---
 title: "Caribbean Dream!"
 date: 2023-09-13T14:29:01Z
+description: "Watch Caribbean Dream! on Surf Clips TV."
 draft: false
 video_id: "nILSEJg21cc"
 thumbnail: "https://i.ytimg.com/vi/nILSEJg21cc/maxresdefault.jpg"

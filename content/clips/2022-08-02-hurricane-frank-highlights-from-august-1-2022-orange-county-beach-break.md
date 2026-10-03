@@ -1,6 +1,7 @@
 ---
 title: "Hurricane Frank highlights from August 1, 2022 (Orange County beach break)"
 date: 2022-08-02T19:00:19Z
+description: "Tropical Storm Frank filled in and lit up this Orange County beach on the first day of August, 2022. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "nCynKmQCv-4"
 thumbnail: "https://i.ytimg.com/vi/nCynKmQCv-4/maxresdefault.jpg"

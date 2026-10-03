@@ -1,6 +1,7 @@
 ---
 title: "Deep South Shore tube - June 2, 2024"
 date: 2024-06-04T04:03:58Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "YyRLCl4jiHc"
 thumbnail: "https://i.ytimg.com/vi/YyRLCl4jiHc/maxresdefault.jpg"

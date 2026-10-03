@@ -1,6 +1,7 @@
 ---
 title: "Michael Ho on a Backdoor dream, February 4, 2022 (Wave of the Winter contender?)"
 date: 2022-02-04T22:27:18Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ On a pristine 8-10 foot day on the North Shore, stalwart and Legend Michael Ho bags a heavy..."
 draft: false
 video_id: "wy8bhxw4Xvc"
 thumbnail: "https://i.ytimg.com/vi/wy8bhxw4Xvc/maxresdefault.jpg"

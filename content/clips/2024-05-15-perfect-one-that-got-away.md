@@ -1,6 +1,7 @@
 ---
 title: "Perfect one that got away"
 date: 2024-05-15T04:38:19Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "Xjopv2DjNZ0"
 thumbnail: "https://i.ytimg.com/vi/Xjopv2DjNZ0/maxresdefault.jpg"

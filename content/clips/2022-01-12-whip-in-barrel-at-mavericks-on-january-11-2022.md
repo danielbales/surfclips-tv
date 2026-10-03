@@ -1,6 +1,7 @@
 ---
 title: "Whip-in barrel at Mavericks on January 11, 2022"
 date: 2022-01-12T01:49:37Z
+description: "10-15 foot swell was small for Mavericks but still offered some tow-in opportunity for surfers on January 11, 2022. Support the channel by subscribing!..."
 draft: false
 video_id: "G667DHszOIU"
 thumbnail: "https://i.ytimg.com/vi/G667DHszOIU/maxresdefault.jpg"

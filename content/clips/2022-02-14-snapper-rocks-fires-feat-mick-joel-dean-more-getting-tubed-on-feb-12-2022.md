@@ -1,6 +1,7 @@
 ---
 title: "Snapper Rocks FIRES (feat. Mick, Joel, Dean & more getting TUBED!) on Feb 12, 2022"
 date: 2022-02-14T16:46:34Z
+description: "February 12, 2022 was a day to remember on the Gold Coast, as overhead swell and SW wind offered pros and joes heavy tubes. Support the channel by..."
 draft: false
 video_id: "zjGIoZzeAB4"
 thumbnail: "https://i.ytimg.com/vi/zjGIoZzeAB4/maxresdefault.jpg"

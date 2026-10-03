@@ -1,6 +1,7 @@
 ---
 title: "BIG (and perfect) Puerto Escondido, Mexico – July 5, 2023"
 date: 2023-07-06T04:52:43Z
+description: "Combo souths produced occasional 15-18 foot overhead waves at Puerto Escondido. Support the channel by subscribing! Thank you for supporting Surf Cam..."
 draft: false
 video_id: "wkVh2Bmr2ws"
 thumbnail: "https://i.ytimg.com/vi/wkVh2Bmr2ws/maxresdefault.jpg"

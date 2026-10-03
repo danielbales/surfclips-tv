@@ -1,6 +1,7 @@
 ---
 title: "3 waves in growing XXL swell at Mundaka (February 9, 2022)"
 date: 2022-02-09T22:46:33Z
+description: "Large long period NW swell with SSW winds offered down the line rides with an occasional tube to Basque surfers. Support the channel by subscribing!..."
 draft: false
 video_id: "-3DqPAzldyM"
 thumbnail: "https://i.ytimg.com/vi/-3DqPAzldyM/maxresdefault.jpg"

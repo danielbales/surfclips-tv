@@ -1,6 +1,7 @@
 ---
 title: "🇲🇽 Nate Florence spat on 🌬️ in Mex"
 date: 2025-04-23T16:24:16Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "YT3yRf8E4Y0"
 thumbnail: "https://i.ytimg.com/vi/YT3yRf8E4Y0/maxresdefault.jpg"

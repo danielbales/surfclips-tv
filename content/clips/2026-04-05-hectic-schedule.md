@@ -1,6 +1,7 @@
 ---
 title: "Hectic Schedule"
 date: 2026-04-05T20:03:07Z
+description: "Watch Hectic Schedule on Surf Clips TV."
 draft: false
 video_id: "uOqfSESrMHM"
 thumbnail: "https://i.ytimg.com/vi/uOqfSESrMHM/maxresdefault.jpg"

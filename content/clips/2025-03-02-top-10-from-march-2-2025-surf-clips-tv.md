@@ -1,6 +1,7 @@
 ---
 title: "TOP 10 from March 2, 2025 – Surf Clips TV"
 date: 2025-03-02T17:50:14Z
+description: "Watch TOP 10 from March 2, 2025 – Surf Clips TV on Surf Clips TV."
 draft: false
 video_id: "rD1Rp-Biebc"
 thumbnail: "https://i.ytimg.com/vi/rD1Rp-Biebc/maxresdefault.jpg"

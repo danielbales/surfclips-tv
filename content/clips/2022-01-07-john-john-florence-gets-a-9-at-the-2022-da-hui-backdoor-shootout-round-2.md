@@ -1,6 +1,7 @@
 ---
 title: "John John Florence gets a 9 at the 2022 Da Hui Backdoor Shootout (Round 2)"
 date: 2022-01-07T22:04:04Z
+description: "https://surf-clips-tv.myspreadshop.com/ On Round 2 of the Da Hui Backdoor Shootout, JJF shows everyone how its done at Backdoor. This wave scored a 9..."
 draft: false
 video_id: "SvZv50pYHGs"
 thumbnail: "https://i.ytimg.com/vi/SvZv50pYHGs/maxresdefault.jpg"

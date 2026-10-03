@@ -1,6 +1,7 @@
 ---
 title: "Kelly Slater's Wave of the Day (January 26, 2022)"
 date: 2022-02-03T21:45:26Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "6I-WaraCKp4"
 thumbnail: "https://i.ytimg.com/vi/6I-WaraCKp4/maxresdefault.jpg"

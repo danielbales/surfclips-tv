@@ -1,6 +1,7 @@
 ---
 title: "Michael February deep in Africa 2026"
 date: 2026-01-11T13:15:02Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "Gu_CT5rOZ2g"
 thumbnail: "https://i.ytimg.com/vi/Gu_CT5rOZ2g/maxresdefault.jpg"

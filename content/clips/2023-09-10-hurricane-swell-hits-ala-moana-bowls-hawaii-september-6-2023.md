@@ -1,6 +1,7 @@
 ---
 title: "Hurricane swell hits Ala Moana Bowls, Hawaii – September 6, 2023"
 date: 2023-09-10T22:56:42Z
+description: "A late season south swell courtesy of a hurricane sent overhead and fun swell to Hawaii's South Shore. Support the channel by subscribing! Thank you..."
 draft: false
 video_id: "y4QhE_GHXX8"
 thumbnail: "https://i.ytimg.com/vi/y4QhE_GHXX8/maxresdefault.jpg"

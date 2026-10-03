@@ -1,6 +1,7 @@
 ---
 title: "Kauli Vaast's switch stance barrel at 2022 Tahiti Pro Semi finals vs Kelly Slater"
 date: 2022-08-20T02:23:21Z
+description: "In his shocking heat vs Kelly Slater, Kauli toyed with the GOAT by getting a deep tube switch-stance. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "3NsLdFywyeg"
 thumbnail: "https://i.ytimg.com/vi/3NsLdFywyeg/maxresdefault.jpg"

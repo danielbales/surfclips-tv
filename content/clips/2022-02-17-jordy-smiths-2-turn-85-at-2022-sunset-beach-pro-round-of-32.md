@@ -1,6 +1,7 @@
 ---
 title: "Jordy Smith's 2-turn 8.5 at 2022 Sunset Beach Pro (Round of 32)"
 date: 2022-02-17T05:00:08Z
+description: "Jordy lays down his rail twice on a 15-18ft day at the 2022 Sunset Beach Pro on February 16, 2022. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "LoLl6TToxKM"
 thumbnail: "https://i.ytimg.com/vi/LoLl6TToxKM/maxresdefault.jpg"

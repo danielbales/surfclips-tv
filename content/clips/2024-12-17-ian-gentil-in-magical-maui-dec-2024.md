@@ -1,6 +1,7 @@
 ---
 title: "Ian Gentil in Magical Maui - Dec 2024"
 date: 2024-12-17T23:27:02Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "ISAu9XjOLVs"
 thumbnail: "https://i.ytimg.com/vi/ISAu9XjOLVs/maxresdefault.jpg"

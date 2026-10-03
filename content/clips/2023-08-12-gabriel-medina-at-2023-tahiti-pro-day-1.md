@@ -1,6 +1,7 @@
 ---
 title: "Gabriel Medina at 2023 Tahiti Pro (Day 1)"
 date: 2023-08-12T22:48:30Z
+description: "On Day 1 of the 2023 Tahiti Pro, Gabriel Medina found this 8.1 in the opening round agains Barron Mamiya and Hawaiian Seth Moniz. Support the channel..."
 draft: false
 video_id: "JeXVoBtESbs"
 thumbnail: "https://i.ytimg.com/vi/JeXVoBtESbs/maxresdefault.jpg"

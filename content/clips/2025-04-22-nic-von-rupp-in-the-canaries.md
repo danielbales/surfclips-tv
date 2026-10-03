@@ -1,6 +1,7 @@
 ---
 title: "Nic Von Rupp in the Canaries 🦜"
 date: 2025-04-22T19:38:30Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "GKQaVPhKams"
 thumbnail: "https://i.ytimg.com/vi/GKQaVPhKams/maxresdefault.jpg"

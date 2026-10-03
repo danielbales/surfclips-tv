@@ -1,6 +1,7 @@
 ---
 title: "Monster surf at Sunset Beach on Thanksgiving 2021"
 date: 2021-11-28T05:39:46Z
+description: "Thanksgiving Day 2021 on the North Shore delivered solid surf to Sunset Beach, Oahu. Support the channel by subscribing! Thank you for supporting Surf..."
 draft: false
 video_id: "F3P6rzMujYo"
 thumbnail: "https://i.ytimg.com/vi/F3P6rzMujYo/maxresdefault.jpg"

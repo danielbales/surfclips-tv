@@ -1,6 +1,7 @@
 ---
 title: "2x air from Italo Ferriera (attempt)"
 date: 2025-02-11T21:46:01Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "KveZEslTMuA"
 thumbnail: "https://i.ytimg.com/vi/KveZEslTMuA/maxresdefault.jpg"

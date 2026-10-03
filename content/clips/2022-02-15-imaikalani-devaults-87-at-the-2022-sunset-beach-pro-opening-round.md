@@ -1,6 +1,7 @@
 ---
 title: "Imaikalani deVault's 8.7 at the 2022 Sunset Beach Pro (Opening Round)"
 date: 2022-02-15T21:41:22Z
+description: "Imai gets his first ever CT heat win with help from this Sunset Beach wave that offered multiple hacks and the opportunity to showcase his style...."
 draft: false
 video_id: "x-kATwr9GMI"
 thumbnail: "https://i.ytimg.com/vi/x-kATwr9GMI/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Santa Cruz cliff collapse after heavy winter rains"
 date: 2023-02-11T02:07:16Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ After an abnormally rainy winter season, a large portion of the bluffs above Steamer Lane..."
 draft: false
 video_id: "ViTKf0rhELg"
 thumbnail: "https://i.ytimg.com/vi/ViTKf0rhELg/maxresdefault.jpg"

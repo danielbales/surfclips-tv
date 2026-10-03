@@ -1,6 +1,7 @@
 ---
 title: "Brendon Gibbens paying for pleasure"
 date: 2025-12-11T19:32:08Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "neyKi4fE0-E"
 thumbnail: "https://i.ytimg.com/vi/neyKi4fE0-E/maxresdefault.jpg"

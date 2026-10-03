@@ -1,6 +1,7 @@
 ---
 title: "Late May '24 WEDGE ride"
 date: 2024-05-25T04:08:50Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "RaNEkQwW9IY"
 thumbnail: "https://i.ytimg.com/vi/RaNEkQwW9IY/maxresdefault.jpg"

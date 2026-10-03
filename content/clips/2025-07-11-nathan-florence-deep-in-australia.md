@@ -1,6 +1,7 @@
 ---
 title: "Nathan Florence deep in Australia"
 date: 2025-07-11T04:55:31Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "sLQ-ceeDPTk"
 thumbnail: "https://i9.ytimg.com/vi/sLQ-ceeDPTk/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLA_fV1eFs5KgxRQE7tFvHzhLVPVPQ"

@@ -1,6 +1,7 @@
 ---
 title: "July 1, 2022 at Lowers sees fun combo swell"
 date: 2022-07-01T23:46:50Z
+description: "SSW swell (206º) with NW windswell (274º) produced rippable peaks at San Clemente's most notorious cobblestone reef. Morning winds were light but..."
 draft: false
 video_id: "0hTITnNka9k"
 thumbnail: "https://i.ytimg.com/vi/0hTITnNka9k/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "East Coast beachbreak lights up for afternoon session – November 22, 2023"
 date: 2023-11-23T01:01:20Z
+description: "Solid and clean SE swell in the water this afternoon with moderate W/WNW winds. While it looks like a lot of work, there are firing waves on offer with..."
 draft: false
 video_id: "IcnwdE2IZ0M"
 thumbnail: "https://i.ytimg.com/vi/IcnwdE2IZ0M/maxresdefault.jpg"

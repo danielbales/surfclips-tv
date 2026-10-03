@@ -1,6 +1,7 @@
 ---
 title: "Tuberide Day Dreamin' - Wilbur Kookmeyer"
 date: 2026-05-01T16:58:46Z
+description: "Watch Tuberide Day Dreamin' - Wilbur Kookmeyer on Surf Clips TV."
 draft: false
 video_id: "_dN5H8Blqgc"
 thumbnail: "https://i.ytimg.com/vi/_dN5H8Blqgc/maxresdefault.jpg"

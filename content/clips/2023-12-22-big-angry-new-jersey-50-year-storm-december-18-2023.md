@@ -1,6 +1,7 @@
 ---
 title: "Big, angry NEW JERSEY (50 year storm – December 18, 2023)"
 date: 2023-12-22T16:50:58Z
+description: "Large, double overhead sets slammed the Jersey Shore on December 18, 2023, which many say is the largest surf in 50 years. Support the channel by..."
 draft: false
 video_id: "3avM6b9mMIk"
 thumbnail: "https://i.ytimg.com/vi/3avM6b9mMIk/maxresdefault.jpg"

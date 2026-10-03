@@ -1,6 +1,7 @@
 ---
 title: "Carnage at Jaws – Jan 2025"
 date: 2025-01-16T17:25:07Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Jack Akrop sends it during XL swell on Maui!"
 draft: false
 video_id: "JQixVifr410"
 thumbnail: "https://i.ytimg.com/vi/JQixVifr410/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Dreamscape Taj Majal"
 date: 2026-05-11T18:26:06Z
+description: "Watch Dreamscape Taj Majal on Surf Clips TV."
 draft: false
 video_id: "HfamcwTQmlc"
 thumbnail: "https://i.ytimg.com/vi/HfamcwTQmlc/maxresdefault.jpg"

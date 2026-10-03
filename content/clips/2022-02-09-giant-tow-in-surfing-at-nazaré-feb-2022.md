@@ -1,6 +1,7 @@
 ---
 title: "GIANT tow-in surfing at NAZARÉ, Feb 2022"
 date: 2022-02-09T20:00:13Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "O3cZnwhWypU"
 thumbnail: "https://i.ytimg.com/vi/O3cZnwhWypU/maxresdefault.jpg"

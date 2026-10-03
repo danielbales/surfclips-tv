@@ -1,6 +1,7 @@
 ---
 title: "Backdoor comes to France - Jan 2025"
 date: 2025-01-08T04:50:00Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "i-TKnepPezo"
 thumbnail: "https://i.ytimg.com/vi/i-TKnepPezo/maxresdefault.jpg"

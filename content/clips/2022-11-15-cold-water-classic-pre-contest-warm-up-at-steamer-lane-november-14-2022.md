@@ -1,6 +1,7 @@
 ---
 title: "Cold Water Classic pre-contest warm up at Steamer Lane – November 14, 2022"
 date: 2022-11-15T03:57:49Z
+description: "Solid, long-period WNW swell topped out, while light SW winds created clean conditions on consistent surf. Lots of pro surfers were out taking..."
 draft: false
 video_id: "D1atQdAX4mM"
 thumbnail: "https://i.ytimg.com/vi/D1atQdAX4mM/maxresdefault.jpg"

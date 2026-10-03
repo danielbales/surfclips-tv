@@ -1,6 +1,7 @@
 ---
 title: "John John Florence getting drained at Backdoor Pipeline"
 date: 2022-11-12T03:16:47Z
+description: "Watch John John Florence getting drained at Backdoor Pipeline on Surf Clips TV."
 draft: false
 video_id: "C3clBjAh6GY"
 thumbnail: "https://i.ytimg.com/vi/C3clBjAh6GY/maxresdefault.jpg"

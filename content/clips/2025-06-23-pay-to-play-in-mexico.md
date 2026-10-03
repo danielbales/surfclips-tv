@@ -1,6 +1,7 @@
 ---
 title: "Pay to play in Mexico"
 date: 2025-06-23T07:00:40Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Liquide"
 draft: false
 video_id: "eZJeOe5JfOg"
 thumbnail: "https://i.ytimg.com/vi/eZJeOe5JfOg/maxresdefault.jpg"

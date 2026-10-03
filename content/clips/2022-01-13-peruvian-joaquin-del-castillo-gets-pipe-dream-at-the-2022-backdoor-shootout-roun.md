@@ -1,6 +1,7 @@
 ---
 title: "Peruvian Joaquin Del Castillo gets PIPE DREAM at the 2022 Backdoor Shootout (Round 4)"
 date: 2022-01-13T17:03:01Z
+description: "During team Team Peru's heat at the 2022 Da Hui Backdoor Shootout Joaquin Del Castillo got this heavy and hollow wave. Support the channel by..."
 draft: false
 video_id: "EkVa0J4TE-E"
 thumbnail: "https://i.ytimg.com/vi/EkVa0J4TE-E/maxresdefault.jpg"

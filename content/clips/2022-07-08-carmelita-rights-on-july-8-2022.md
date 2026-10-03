@@ -1,6 +1,7 @@
 ---
 title: "Carmelita Rights on July 8, 2022"
 date: 2022-07-08T20:52:41Z
+description: "Good shot of SSW swell (193º) peaked, while an additional small, short-period SSE pulse (163º) joined in along with great AM winds producing some great..."
 draft: false
 video_id: "ziA-Tr4AU0w"
 thumbnail: "https://i.ytimg.com/vi/ziA-Tr4AU0w/maxresdefault.jpg"

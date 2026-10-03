@@ -1,6 +1,7 @@
 ---
 title: "South swell hits Ala Moana Bowls, Hawaii – August 10, 2023"
 date: 2023-08-11T05:27:59Z
+description: "Pulse of SSW swell energy provided some fun sized albeit rather inconsistent surf to the South Shore on this picture perfect morning. Wave heights were..."
 draft: false
 video_id: "2DEEew67IZw"
 thumbnail: "https://i.ytimg.com/vi/2DEEew67IZw/maxresdefault.jpg"

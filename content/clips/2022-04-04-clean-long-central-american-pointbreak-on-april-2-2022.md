@@ -1,6 +1,7 @@
 ---
 title: "Clean, long Central American pointbreak on April 2, 2022"
 date: 2022-04-04T01:20:22Z
+description: "Solid S/SW swell and great early morning conditions provided amazing rides to the lucky surfers who happened to be in this corner of the world. Support..."
 draft: false
 video_id: "jitO58YsNuY"
 thumbnail: "https://i.ytimg.com/vi/jitO58YsNuY/maxresdefault.jpg"

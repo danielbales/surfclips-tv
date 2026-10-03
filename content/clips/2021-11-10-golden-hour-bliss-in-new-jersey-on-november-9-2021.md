@@ -1,6 +1,7 @@
 ---
 title: "Golden hour bliss in New Jersey on November 9, 2021"
 date: 2021-11-10T18:27:25Z
+description: "Casino Pier, New Jersey fires with 4-6 foot (2 meter) waves and offshore winds on November 9, 2021. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "mxTbx7ObmUI"
 thumbnail: "https://i.ytimg.com/vi/mxTbx7ObmUI/maxresdefault.jpg"

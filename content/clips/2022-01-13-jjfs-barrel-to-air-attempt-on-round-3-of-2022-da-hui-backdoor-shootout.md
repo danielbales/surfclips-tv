@@ -1,6 +1,7 @@
 ---
 title: "JJF's barrel to air (attempt) on Round 3 of 2022 Da Hui Backdoor Shootout"
 date: 2022-01-13T03:32:07Z
+description: "During Round 3 of the Da Hui Backdoor Shootout John John Florence gets himself perfectly slotted then blasts an air-reverse attempt. Support the..."
 draft: false
 video_id: "K-xVxh76I6A"
 thumbnail: "https://i.ytimg.com/vi/K-xVxh76I6A/maxresdefault.jpg"

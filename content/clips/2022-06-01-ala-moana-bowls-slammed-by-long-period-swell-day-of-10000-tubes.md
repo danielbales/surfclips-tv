@@ -1,6 +1,7 @@
 ---
 title: "Ala Moana Bowls SLAMMED by long-period swell –  Day of 10,000 Tubes"
 date: 2022-06-01T17:02:58Z
+description: "Double overhead high from longer period SSW swell (200-185°) and light offshore winds produced perhaps the best day of the year on the South Shore...."
 draft: false
 video_id: "TA3RQy5qW9A"
 thumbnail: "https://i.ytimg.com/vi/TA3RQy5qW9A/maxresdefault.jpg"

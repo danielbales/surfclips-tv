@@ -1,6 +1,7 @@
 ---
 title: "Supertubos after the 2022 Portugal Pro"
 date: 2022-03-14T19:18:54Z
+description: "The day after the contest window ends Supertubos gets A+ through the morning of March 14, 2022. Looks like the contest organizers chose the right days..."
 draft: false
 video_id: "ufBUQrh8oQA"
 thumbnail: "https://i.ytimg.com/vi/ufBUQrh8oQA/maxresdefault.jpg"

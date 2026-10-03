@@ -1,6 +1,7 @@
 ---
 title: "Jamie O'Brien finding the wave of the day - October 18, 2023"
 date: 2023-10-19T14:57:56Z
+description: "Watch Jamie O'Brien finding the wave of the day - October 18, 2023 on Surf Clips TV."
 draft: false
 video_id: "vRedYC-oYd0"
 thumbnail: "https://i.ytimg.com/vi/vRedYC-oYd0/maxresdefault.jpg"

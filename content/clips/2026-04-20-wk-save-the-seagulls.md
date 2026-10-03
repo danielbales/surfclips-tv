@@ -1,6 +1,7 @@
 ---
 title: "WK Save the Seagulls"
 date: 2026-04-20T05:22:23Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ [enter description here] Credit:"
 draft: false
 video_id: "1KPsUWWhaFs"
 thumbnail: "https://i.ytimg.com/vi/1KPsUWWhaFs/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Kelly Slater at 2024 Pipe Pro - Day 1"
 date: 2024-01-31T22:55:36Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "tOEKEYWe7QI"
 thumbnail: "https://i.ytimg.com/vi/tOEKEYWe7QI/maxresdefault.jpg"

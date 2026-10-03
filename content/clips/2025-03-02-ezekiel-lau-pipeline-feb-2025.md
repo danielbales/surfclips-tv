@@ -1,6 +1,7 @@
 ---
 title: "Ezekiel Lau – Pipeline, Feb 2025"
 date: 2025-03-02T20:51:37Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Zeke sends it from deep and emerges unscathed on a nice one."
 draft: false
 video_id: "y_8rd89D0oU"
 thumbnail: "https://i.ytimg.com/vi/y_8rd89D0oU/maxresdefault.jpg"

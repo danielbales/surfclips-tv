@@ -1,6 +1,7 @@
 ---
 title: "Rare Aussie slab turns on June 10, 2022"
 date: 2022-06-10T13:34:15Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Long period swell fills into Australia's east coast, while offshore winds groomed faces at..."
 draft: false
 video_id: "BDFzmMM4Kfw"
 thumbnail: "https://i.ytimg.com/vi/BDFzmMM4Kfw/maxresdefault.jpg"

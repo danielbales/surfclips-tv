@@ -1,6 +1,7 @@
 ---
 title: "Snapper Rocks FIRES – July 11, 2022"
 date: 2022-07-11T04:09:39Z
+description: "SSE swell (153º) filled in throughout the morning, offering well-overhead and powerful tubes on the Gold Coast's most famous point break while a light..."
 draft: false
 video_id: "l8GpBkWaLfQ"
 thumbnail: "https://i.ytimg.com/vi/l8GpBkWaLfQ/maxresdefault.jpg"

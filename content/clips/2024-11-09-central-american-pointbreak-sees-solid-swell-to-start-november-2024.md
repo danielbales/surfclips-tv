@@ -1,6 +1,7 @@
 ---
 title: "Central American pointbreak sees SOLID swell to start November 2024"
 date: 2024-11-09T04:31:19Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Late season SSW/S swell peaked, while early morning winds provided a classic day at this..."
 draft: false
 video_id: "vVrz037P86Y"
 thumbnail: "https://i.ytimg.com/vi/vVrz037P86Y/maxresdefault.jpg"

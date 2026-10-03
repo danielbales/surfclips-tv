@@ -1,6 +1,7 @@
 ---
 title: "MUNDAKA goes RICHTER for just hours on December 4, 2021"
 date: 2021-12-04T20:28:46Z
+description: "Over just 3 hours, a solid short period WNW swell provided hollow, 8-10 foot (2-3 meter) faces for Basque region surfers at Mundaka. Winds were SW..."
 draft: false
 video_id: "gctfGVKXOng"
 thumbnail: "https://i.ytimg.com/vi/gctfGVKXOng/maxresdefault.jpg"

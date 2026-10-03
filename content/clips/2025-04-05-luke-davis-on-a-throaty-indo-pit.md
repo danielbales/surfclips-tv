@@ -1,6 +1,7 @@
 ---
 title: "Luke Davis on a THROATY Indo pit"
 date: 2025-04-05T07:00:01Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "0tdSrQdUQb0"
 thumbnail: "https://i.ytimg.com/vi/0tdSrQdUQb0/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "New York near-make (Hurricane Lee swell)"
 date: 2023-09-22T15:33:26Z
+description: "Watch New York near-make (Hurricane Lee swell) on Surf Clips TV."
 draft: false
 video_id: "g4br0eWQWmM"
 thumbnail: "https://i.ytimg.com/vi/g4br0eWQWmM/maxresdefault.jpg"

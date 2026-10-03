@@ -1,6 +1,7 @@
 ---
 title: "Ferocious Florida, pt. 2 - Hurricane Ian slams South Beach, Miami"
 date: 2022-10-06T16:52:49Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Some locals say the biggest they've ever seen it thanks to a strong pulse of NNE swell from..."
 draft: false
 video_id: "wiv3BoV2FUw"
 thumbnail: "https://i.ytimg.com/vi/wiv3BoV2FUw/maxresdefault.jpg"

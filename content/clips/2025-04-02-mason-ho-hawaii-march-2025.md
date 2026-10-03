@@ -1,6 +1,7 @@
 ---
 title: "Mason Ho, Hawaii - March 2025"
 date: 2025-04-02T04:52:13Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "iS6N7pMBrBs"
 thumbnail: "https://i.ytimg.com/vi/iS6N7pMBrBs/maxresdefault.jpg"

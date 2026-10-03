@@ -1,6 +1,7 @@
 ---
 title: "BRUTAL WIPEOUT w/ Mark Healey + Ian Walsh at 2024 Eddie Aikau competition"
 date: 2024-12-22T22:45:40Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Mark blew an eardrum but both otherwise safe after this Waimea Bay BEAST during the 2024..."
 draft: false
 video_id: "nWxkfAE8_W0"
 thumbnail: "https://i.ytimg.com/vi/nWxkfAE8_W0/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Is Eimeo Czermak the best backside tuberider alive?"
 date: 2025-06-12T21:22:29Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Meko Time"
 draft: false
 video_id: "uDcxcqUOeUU"
 thumbnail: "https://i.ytimg.com/vi/uDcxcqUOeUU/maxresdefault.jpg"

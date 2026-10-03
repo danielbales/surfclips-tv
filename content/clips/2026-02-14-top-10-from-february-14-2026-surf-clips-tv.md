@@ -1,6 +1,7 @@
 ---
 title: "TOP 10 from February 14, 2026 – Surf Clips TV"
 date: 2026-02-14T23:47:24Z
+description: "Surfing from Hawaii, California, Hawaii & more."
 draft: false
 video_id: "EgrSgkFyH7Y"
 thumbnail: "https://i.ytimg.com/vi/EgrSgkFyH7Y/sddefault.jpg"

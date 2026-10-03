@@ -1,6 +1,7 @@
 ---
 title: "2025 Wave of the Winter contender – Feb 12, 2025"
 date: 2025-02-13T00:20:48Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Reinforcing WNW swell moved in with pumping surf GREAT AM conditions. This lucky surfer..."
 draft: false
 video_id: "NnZEzeyyZBU"
 thumbnail: "https://i.ytimg.com/vi/NnZEzeyyZBU/maxresdefault.jpg"

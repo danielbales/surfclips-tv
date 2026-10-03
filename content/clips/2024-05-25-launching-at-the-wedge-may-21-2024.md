@@ -1,6 +1,7 @@
 ---
 title: "LAUNCHING at the Wedge - May 21, 2024"
 date: 2024-05-25T17:18:00Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "o7AQeeJfERM"
 thumbnail: "https://i.ytimg.com/vi/o7AQeeJfERM/maxresdefault.jpg"

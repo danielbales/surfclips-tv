@@ -1,6 +1,7 @@
 ---
 title: "Finn McGill wins the 2025 Sunset Pro!"
 date: 2025-12-14T22:40:21Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "xmb91yPv2Vo"
 thumbnail: "https://i.ytimg.com/vi/xmb91yPv2Vo/maxresdefault.jpg"

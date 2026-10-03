@@ -1,6 +1,7 @@
 ---
 title: "September '23 kicks off with XL PUERTO (20 - 25+ foot faces)"
 date: 2023-09-01T21:21:23Z
+description: "Solid SSW swell (6@16 198º) was greeted with stiff early morning offshore winds and big wave surfers licking their chops. Crazy wipeouts, beatdowns,..."
 draft: false
 video_id: "nrIqUEf0gMU"
 thumbnail: "https://i.ytimg.com/vi/nrIqUEf0gMU/maxresdefault.jpg"

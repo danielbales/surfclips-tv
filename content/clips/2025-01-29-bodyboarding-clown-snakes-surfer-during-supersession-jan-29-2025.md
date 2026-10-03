@@ -1,6 +1,7 @@
 ---
 title: "Bodyboarding CLOWN SNAKES surfer during supersession – Jan 29, 2025"
 date: 2025-01-29T16:24:31Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Firing Moroccan wave interrupted by bodyboarder, ruining an incredible ride. Credit: Surfline"
 draft: false
 video_id: "xx3S8h9XFl8"
 thumbnail: "https://i.ytimg.com/vi/xx3S8h9XFl8/maxresdefault.jpg"

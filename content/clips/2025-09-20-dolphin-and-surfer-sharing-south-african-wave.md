@@ -1,6 +1,7 @@
 ---
 title: "Dolphin and surfer sharing South African wave"
 date: 2025-09-20T22:44:25Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "3v1VTfdp8Tk"
 thumbnail: "https://i9.ytimg.com/vi/3v1VTfdp8Tk/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLCk6OKDrk7whOskFxHnEVFbJ9UYmQ"

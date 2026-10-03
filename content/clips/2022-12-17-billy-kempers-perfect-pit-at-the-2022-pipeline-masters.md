@@ -1,6 +1,7 @@
 ---
 title: "Billy Kemper's PERFECT PIT at the 2022 Pipeline Masters"
 date: 2022-12-17T01:42:34Z
+description: "Big wave surfer Billy Kemper scored a 29.9 (7.9) at the 2022 Pipeline Masters with help from this perfect Pipe wave. Must've been a nice view! Support..."
 draft: false
 video_id: "l9SuG6vELEs"
 thumbnail: "https://i.ytimg.com/vi/l9SuG6vELEs/maxresdefault.jpg"

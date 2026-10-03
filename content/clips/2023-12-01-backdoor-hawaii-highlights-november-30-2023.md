@@ -1,6 +1,7 @@
 ---
 title: "Backdoor, Hawaii Highlights – November 30, 2023"
 date: 2023-12-01T11:59:43Z
+description: "Near-perfect slightly overhead Backdoor waves with glassy conditions and a thick crowd were on tap for a great day of surf at Backdoor. Support the..."
 draft: false
 video_id: "zIcrbXBST5s"
 thumbnail: "https://i.ytimg.com/vi/zIcrbXBST5s/maxresdefault.jpg"

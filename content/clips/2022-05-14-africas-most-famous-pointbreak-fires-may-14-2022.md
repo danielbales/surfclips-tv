@@ -1,6 +1,7 @@
 ---
 title: "Africa's most famous pointbreak FIRES May 14, 2022"
 date: 2022-05-14T13:48:59Z
+description: "Solid long period swell from the SW with light WNW winds and clean conditions light up Jeffrey's Bay on May 14, 2022. Support the channel by..."
 draft: false
 video_id: "Z9ljdZroy0Y"
 thumbnail: "https://i.ytimg.com/vi/Z9ljdZroy0Y/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Moana Jones' Pipe barrel at the 2022 Backdoor Shootout on Day 2"
 date: 2022-01-08T02:59:42Z
+description: "Wahines charged Pipeline and Backdoor on Day 2 of the 2022 Da Hui Backdoor Shootout, with Moana Jones leading the charge. Support the channel by..."
 draft: false
 video_id: "9sMv5QYZ_II"
 thumbnail: "https://i.ytimg.com/vi/9sMv5QYZ_II/maxresdefault.jpg"

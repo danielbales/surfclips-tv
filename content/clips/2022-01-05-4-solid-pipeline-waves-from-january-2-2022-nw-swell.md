@@ -1,6 +1,7 @@
 ---
 title: "4 solid Pipeline waves from January 2, 2022 NW swell"
 date: 2022-01-05T06:50:38Z
+description: "Brown water didn't prevent North Shore chargers from pulling into the day's best sets. Support the channel by subscribing! Thank you for supporting..."
 draft: false
 video_id: "VIQ-tO2q6nQ"
 thumbnail: "https://i.ytimg.com/vi/VIQ-tO2q6nQ/maxresdefault.jpg"

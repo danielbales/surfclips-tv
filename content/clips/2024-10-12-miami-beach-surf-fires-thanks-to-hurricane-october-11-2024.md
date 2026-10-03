@@ -1,6 +1,7 @@
 ---
 title: "MIAMI BEACH surf FIRES thanks to Hurricane – October 11, 2024"
 date: 2024-10-12T04:28:01Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ Thank you for supporting Surf Cam Rewind so we can continue to provide you with free..."
 draft: false
 video_id: "ywpJ0YRzX8Y"
 thumbnail: "https://i.ytimg.com/vi/ywpJ0YRzX8Y/maxresdefault.jpg"

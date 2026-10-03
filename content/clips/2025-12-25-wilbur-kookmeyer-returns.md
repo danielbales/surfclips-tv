@@ -1,6 +1,7 @@
 ---
 title: "Wilbur Kookmeyer returns!"
 date: 2025-12-25T04:47:32Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Part of our new series, where we're reviving a surf icon! Credit: Bob Penuelas"
 draft: false
 video_id: "eAHaY6qqNFA"
 thumbnail: "https://i9.ytimg.com/vi/eAHaY6qqNFA/maxresdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLDv77R5z_g2sxvjb6xdy3tYeF7DPw"

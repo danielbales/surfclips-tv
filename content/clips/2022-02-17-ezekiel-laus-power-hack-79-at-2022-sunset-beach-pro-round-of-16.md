@@ -1,6 +1,7 @@
 ---
 title: "Ezekiel Lau's POWER HACK 7.9 at 2022 Sunset Beach Pro (Round of 16)"
 date: 2022-02-17T15:09:53Z
+description: "Zeke lays down the hammer on an unsuspecting Sunset Beach face and earns a 7.9 and spot in the quarterfinals of the 2022 Sunset Beach Pro. Support the..."
 draft: false
 video_id: "BHFlCrUqLjc"
 thumbnail: "https://i.ytimg.com/vi/BHFlCrUqLjc/maxresdefault.jpg"

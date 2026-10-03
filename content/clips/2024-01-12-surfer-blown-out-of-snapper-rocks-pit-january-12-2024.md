@@ -1,6 +1,7 @@
 ---
 title: "Surfer blown out of Snapper Rocks pit - January 12, 2024"
 date: 2024-01-12T04:12:32Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "Cjt1IiulkV0"
 thumbnail: "https://i.ytimg.com/vi/Cjt1IiulkV0/maxresdefault.jpg"

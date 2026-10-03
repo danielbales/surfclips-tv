@@ -1,6 +1,7 @@
 ---
 title: "Tropical Storm Earl surfer surfs (way!) outside Smyrna peak"
 date: 2022-09-12T21:46:43Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "dNp-y_pMgiE"
 thumbnail: "https://i.ytimg.com/vi/dNp-y_pMgiE/maxresdefault.jpg"

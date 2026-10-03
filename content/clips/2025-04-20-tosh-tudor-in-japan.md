@@ -1,6 +1,7 @@
 ---
 title: "Tosh Tudor in Japan 🇯🇵"
 date: 2025-04-20T01:31:14Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "nIcxd0H4pXw"
 thumbnail: "https://i.ytimg.com/vi/nIcxd0H4pXw/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Waimea Bay wakes up — Near-XL surf on November 2, 2021"
 date: 2021-11-03T04:45:48Z
+description: "https://surf-clips-tv.myspreadshop.com/ Support the channel by subscribing! An XL Northshore swell meant 20 foot waves at Waimea Bay on November 2,..."
 draft: false
 video_id: "INC9cOa1iRs"
 thumbnail: "https://i.ytimg.com/vi/INC9cOa1iRs/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Solid SW swell peaks at Waikiki on August 21, 2022"
 date: 2022-08-21T22:07:57Z
+description: "Healthy dose of SSW-S swell peaked across the South Shore, providing easily overhead sets at reef breaks like this. It looked pretty darn fun! Support..."
 draft: false
 video_id: "Rzgbeta82jY"
 thumbnail: "https://i.ytimg.com/vi/Rzgbeta82jY/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Ethan Ewing pushing it - Oct 2024"
 date: 2024-10-25T15:59:38Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!..."
 draft: false
 video_id: "-ThangjHUkw"
 thumbnail: "https://i.ytimg.com/vi/-ThangjHUkw/maxresdefault.jpg"

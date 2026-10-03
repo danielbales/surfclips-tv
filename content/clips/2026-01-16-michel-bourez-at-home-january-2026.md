@@ -1,6 +1,7 @@
 ---
 title: "Michel Bourez at home - January, 2026"
 date: 2026-01-16T19:11:24Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "eqoF1aZQwRY"
 thumbnail: "https://i.ytimg.com/vi/eqoF1aZQwRY/maxresdefault.jpg"

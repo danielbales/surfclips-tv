@@ -1,6 +1,7 @@
 ---
 title: "15 year old Erin Brooks at 2022 Padang Padang Pro"
 date: 2022-08-06T20:06:28Z
+description: "Erin Brooks finds her way into the Finals of the 2022 Padang Padang Pro, despite being up against Shane Dorian, Mason Ho and others on August 4, 2022...."
 draft: false
 video_id: "yMb2rTWVlOg"
 thumbnail: "https://i.ytimg.com/vi/yMb2rTWVlOg/maxresdefault.jpg"

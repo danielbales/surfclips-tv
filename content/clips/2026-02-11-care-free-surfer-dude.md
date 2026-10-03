@@ -1,6 +1,7 @@
 ---
 title: "Care free surfer dude"
 date: 2026-02-11T23:20:52Z
+description: "Watch Care free surfer dude on Surf Clips TV."
 draft: false
 video_id: "iOqEl1U0TXg"
 thumbnail: "https://i.ytimg.com/vi/iOqEl1U0TXg/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "XL Waimea Bay - 30+ foot faces on January 22, 2022"
 date: 2022-01-23T15:05:57Z
+description: "https://surf-clips-tv.myspreadshop.com/ XL WNW-NW swell (290-320°) pounded the North Shore provided big wave surfers 3x overhead sets. Support the..."
 draft: false
 video_id: "baQPo9KPQp4"
 thumbnail: "https://i.ytimg.com/vi/baQPo9KPQp4/maxresdefault.jpg"

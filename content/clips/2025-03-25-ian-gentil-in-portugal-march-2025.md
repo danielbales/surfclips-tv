@@ -1,6 +1,7 @@
 ---
 title: "Ian Gentil in Portugal - March 2025"
 date: 2025-03-25T23:20:30Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "Dxd8BS5TJaI"
 thumbnail: "https://i.ytimg.com/vi/Dxd8BS5TJaI/maxresdefault.jpg"

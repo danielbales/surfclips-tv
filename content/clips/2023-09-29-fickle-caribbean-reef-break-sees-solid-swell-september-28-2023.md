@@ -1,6 +1,7 @@
 ---
 title: "Fickle Caribbean reef break sees SOLID swell - September 28, 2023"
 date: 2023-09-29T03:54:44Z
+description: "NNE swell with light winds/conditions produced very fun surf at this reef break in the Caribbean. Support the channel by subscribing! Thank you for..."
 draft: false
 video_id: "KKPIYMDCFxg"
 thumbnail: "https://i.ytimg.com/vi/KKPIYMDCFxg/maxresdefault.jpg"

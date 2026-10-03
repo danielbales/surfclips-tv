@@ -1,6 +1,7 @@
 ---
 title: "Snapper Rocks surfer starts his day off right - November 1, 2023 #surfing #surf #surfer"
 date: 2023-10-31T22:17:30Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "ebpxsSIq06Y"
 thumbnail: "https://i.ytimg.com/vi/ebpxsSIq06Y/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Imaikalani DeVault at 2022 Pipeline Masters"
 date: 2022-12-18T03:37:52Z
+description: "Hawaiian charger Imaikalani DeVault found this perfect Pipe tube during his heat of the 2022 Pipeline Masters. Support the channel by subscribing!..."
 draft: false
 video_id: "LHp7DThz68w"
 thumbnail: "https://i.ytimg.com/vi/LHp7DThz68w/maxresdefault.jpg"

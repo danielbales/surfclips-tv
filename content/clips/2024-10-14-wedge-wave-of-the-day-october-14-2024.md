@@ -1,6 +1,7 @@
 ---
 title: "Wedge wave of the day - October 14, 2024"
 date: 2024-10-14T17:46:57Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!..."
 draft: false
 video_id: "_h2MjJ5dsNU"
 thumbnail: "https://i.ytimg.com/vi/_h2MjJ5dsNU/maxresdefault.jpg"

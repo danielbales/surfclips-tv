@@ -1,6 +1,7 @@
 ---
 title: "Andrew Glover in West Oz - June 2025"
 date: 2025-06-25T23:37:33Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/ Credit: Andrew Glover"
 draft: false
 video_id: "Ws2lX19EmfY"
 thumbnail: "https://i.ytimg.com/vi/Ws2lX19EmfY/maxresdefault.jpg"

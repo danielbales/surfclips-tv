@@ -1,6 +1,7 @@
 ---
 title: "WEDGE - Big Day late-May 2024"
 date: 2024-05-25T21:24:54Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ Long period South swell provided big Wedge waves during the end (May 21, 2024) of May..."
 draft: false
 video_id: "C0DR9mpzID0"
 thumbnail: "https://i.ytimg.com/vi/C0DR9mpzID0/maxresdefault.jpg"

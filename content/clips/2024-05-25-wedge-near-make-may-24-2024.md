@@ -1,6 +1,7 @@
 ---
 title: "WEDGE near-make -  May 24, 2024"
 date: 2024-05-25T16:50:37Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "t01ZqgZllHA"
 thumbnail: "https://i.ytimg.com/vi/t01ZqgZllHA/maxresdefault.jpg"

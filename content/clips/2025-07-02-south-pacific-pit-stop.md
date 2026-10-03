@@ -1,6 +1,7 @@
 ---
 title: "South Pacific pit stop"
 date: 2025-07-02T07:01:05Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "wOhDcKMpnj8"
 thumbnail: "https://i.ytimg.com/vi/wOhDcKMpnj8/maxresdefault.jpg"

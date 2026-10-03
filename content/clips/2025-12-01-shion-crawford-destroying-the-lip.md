@@ -1,6 +1,7 @@
 ---
 title: "Shion Crawford destroying the lip"
 date: 2025-12-01T18:30:40Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "Vf5WPLifCHg"
 thumbnail: "https://i.ytimg.com/vi/Vf5WPLifCHg/maxresdefault.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "SWELL OF THE SEASON – Ala Moana Bowls, Hawaii – July 14, 2024"
 date: 2024-07-14T22:07:02Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ SSW swell (3@18, 187º) provided SOLID surf to the South Shore with ideal ENE wind..."
 draft: false
 video_id: "1oNDnPexDUw"
 thumbnail: "https://i.ytimg.com/vi/1oNDnPexDUw/maxresdefault.jpg"

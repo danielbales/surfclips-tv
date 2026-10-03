@@ -1,6 +1,7 @@
 ---
 title: "Jordy Smith at home"
 date: 2025-11-21T05:07:24Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "C10XLMD-3j4"
 thumbnail: "https://i.ytimg.com/vi/C10XLMD-3j4/maxresdefault.jpg"

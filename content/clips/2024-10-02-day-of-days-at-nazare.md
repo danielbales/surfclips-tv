@@ -1,6 +1,7 @@
 ---
 title: "DAY OF DAYS AT NAZARE"
 date: 2024-10-02T04:04:10Z
+description: "Surf Store Merch: https://surf-cam-rewind.creator-spring.com/ Thank you for supporting Surf Cam Rewind so we can continue to provide you with free..."
 draft: false
 video_id: "zuZ3p2Zi-qg"
 thumbnail: "https://i.ytimg.com/vi/zuZ3p2Zi-qg/maxresdefault.jpg"

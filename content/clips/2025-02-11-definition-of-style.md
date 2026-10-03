@@ -1,6 +1,7 @@
 ---
 title: "Definition of STYLE"
 date: 2025-02-11T21:48:37Z
+description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "t2y0e86fRk0"
 thumbnail: "https://i.ytimg.com/vi/t2y0e86fRk0/maxresdefault.jpg"

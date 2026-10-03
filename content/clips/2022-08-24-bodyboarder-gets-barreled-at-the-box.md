@@ -1,6 +1,7 @@
 ---
 title: "Bodyboarder gets barreled at The Box"
 date: 2022-08-24T01:44:35Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content!"
 draft: false
 video_id: "oASo6MW8vi8"
 thumbnail: "https://i.ytimg.com/vi/oASo6MW8vi8/maxresdefault.jpg"

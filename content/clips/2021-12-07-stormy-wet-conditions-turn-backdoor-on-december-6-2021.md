@@ -1,6 +1,7 @@
 ---
 title: "Stormy & wet conditions turn Backdoor on! December 6, 2021"
 date: 2021-12-07T07:30:38Z
+description: "NW swell on the North Shore during a stormy and wet day offer head high to near overhead high and south winds at Backdoor, Oahu. Support the channel by..."
 draft: false
 video_id: "YBw6-8oLFqQ"
 thumbnail: "https://i.ytimg.com/vi/YBw6-8oLFqQ/maxresdefault.jpg"

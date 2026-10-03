@@ -1,6 +1,7 @@
 ---
 title: "Ivan Florence scores PERFECT 10 in front of brother John John Florence at 2021 HIC Pipe Pro"
 date: 2021-12-19T03:08:21Z
+description: "Stylemaster Ivan Florence gets drained in front of brother & World Champ John John Florence during the quarterfinals at the 2021 HIC Pipeline Pro on..."
 draft: false
 video_id: "dizdNV3W26g"
 thumbnail: "https://i.ytimg.com/vi/dizdNV3W26g/maxresdefault.jpg"

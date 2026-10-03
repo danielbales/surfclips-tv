@@ -1,6 +1,7 @@
 ---
 title: "Waiting for it - Australia, June 2024"
 date: 2024-06-21T03:00:00Z
+description: "Support the channel by subscribing! Thank you for supporting Surf Cam Rewind so we can continue to provide you with free content! Credit: Surfline"
 draft: false
 video_id: "-ZG6qCBSXGo"
 thumbnail: "https://i.ytimg.com/vi/-ZG6qCBSXGo/maxresdefault.jpg"

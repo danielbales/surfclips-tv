@@ -1,6 +1,7 @@
 ---
 title: "4 waves from Labor Day weekend at the HB Pier"
 date: 2022-09-05T18:11:06Z
+description: "A decent-sized South swell rolled into Orange County, California, providing some fun, occassionally hollow sections for north-side HB pier surfers...."
 draft: false
 video_id: "ULjDXMjsTeY"
 thumbnail: "https://i.ytimg.com/vi/ULjDXMjsTeY/maxresdefault.jpg"

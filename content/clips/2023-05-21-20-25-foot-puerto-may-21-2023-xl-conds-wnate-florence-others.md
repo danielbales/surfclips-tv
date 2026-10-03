@@ -1,6 +1,7 @@
 ---
 title: "20-25 foot PUERTO - May 21, 2023 (XL cond's w/Nate Florence & others)"
 date: 2023-05-21T17:03:57Z
+description: "Peaking SW swell (194º) slammed the Mexican Pipeline, offering XL surf with faces in the 20-25 foot range. Support the channel by subscribing! Thank..."
 draft: false
 video_id: "XAVsEqpKsLw"
 thumbnail: "https://i.ytimg.com/vi/XAVsEqpKsLw/maxresdefault.jpg"
