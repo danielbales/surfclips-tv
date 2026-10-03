@@ -9,7 +9,7 @@ tags: ["wilbur kookmeyer", "surfcomic", "claymation", "surfing", "baja californi
 type: "clips"
 clip_type: "short"
 duration: 42
-visibility: "unlisted"
+visibility: "public"
 ---
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/_4fgttapCM0" title="Wilbur Kookmeyer’s Deep Thoughts in Baja" allowfullscreen loading="lazy"></iframe>
