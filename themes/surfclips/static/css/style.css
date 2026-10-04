@@ -535,6 +535,64 @@ img { display: block; max-width: 100%; }
   transform: translateY(-1px);
 }
 
+.btn-sm {
+  padding: 0.55rem 1.2rem;
+  font-size: 0.85rem;
+}
+
+/* ---- Email Form ---- */
+
+.email-form {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+  max-width: 420px;
+  margin: 0 auto;
+}
+
+.email-input {
+  flex: 1;
+  padding: 0.7rem 1rem;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  font-size: 0.9rem;
+  outline: none;
+  transition: border-color 0.15s;
+}
+
+.email-input:focus {
+  border-color: var(--accent);
+}
+
+.email-input::placeholder {
+  color: var(--text-muted);
+}
+
+.email-msg {
+  font-size: 0.85rem;
+  margin-top: 0.75rem;
+  min-height: 1.25em;
+}
+
+.hp-field {
+  position: absolute;
+  left: -9999px;
+  opacity: 0;
+  height: 0;
+  width: 0;
+  overflow: hidden;
+}
+
+.email-success { color: #4caf50; }
+.email-error { color: var(--accent); }
+
+.footer-email-form {
+  max-width: 360px;
+  width: 100%;
+}
+
 /* ---- Clip Single Page ---- */
 
 .clip-page {

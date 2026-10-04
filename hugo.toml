@@ -10,6 +10,7 @@ theme = "surfclips"
   merch_url = "https://surf-clips-tv-shop.fourthwall.com/"
   instagram = "https://www.instagram.com/surfclipstv/"
   tiktok = "https://www.tiktok.com/@surfclipstv"
+  email_form_url = "https://script.google.com/macros/s/AKfycbykQXG11SrbHLaF6C81dbnB2RaBGOY597HttqvONjENyuS249ATVUX52zFzgoYsp41RxA/exec"
 
 [taxonomies]
   tag = "tags"

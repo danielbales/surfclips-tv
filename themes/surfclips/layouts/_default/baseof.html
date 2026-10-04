@@ -27,7 +27,7 @@
 
   <link rel="icon" type="image/jpeg" href="{{ "images/sctv-logo.jpg" | absURL }}">
   <link rel="apple-touch-icon" href="{{ "images/sctv-logo.jpg" | absURL }}">
-  <link rel="stylesheet" href="{{ "css/style.css" | absURL }}?v=8">
+  <link rel="stylesheet" href="{{ "css/style.css" | absURL }}?v=9">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lite-youtube-embed@0.3.4/src/lite-yt-embed.css">
   <script src="https://cdn.jsdelivr.net/npm/lite-youtube-embed@0.3.4/src/lite-yt-embed.js" defer></script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -63,6 +63,12 @@
         <span class="footer-logo">Surf Clips TV</span>
         <p class="footer-tagline">{{ .Site.Params.tagline }}</p>
       </div>
+      <form class="footer-email-form email-form" id="footer-email-form">
+        <input type="text" name="website" class="hp-field" tabindex="-1" autocomplete="off">
+        <input type="email" name="email" placeholder="Your email" required class="email-input">
+        <button type="submit" class="btn btn-subscribe btn-sm">Sign Up</button>
+      </form>
+      <p class="email-msg" id="footer-email-msg"></p>
       <div class="footer-links">
         <a href="{{ .Site.Params.youtube_channel }}" target="_blank" rel="noopener">YouTube</a>
         <a href="{{ "shop/" | absURL }}">Merch</a>
@@ -76,6 +82,45 @@
     document.querySelector('.nav-toggle')?.addEventListener('click', function() {
       document.querySelector('.site-nav').classList.toggle('open');
     });
+
+    (function() {
+      var SHEET_URL = '{{ .Site.Params.email_form_url }}';
+      function handleSubmit(form, msgEl) {
+        form.addEventListener('submit', function(e) {
+          e.preventDefault();
+          if (form.querySelector('input[name="website"]').value) return;
+          var email = form.querySelector('input[name="email"]').value;
+          var btn = form.querySelector('button');
+          btn.disabled = true;
+          btn.textContent = 'Sending...';
+          msgEl.textContent = '';
+          msgEl.className = 'email-msg';
+          fetch(SHEET_URL, {
+            method: 'POST',
+            mode: 'no-cors',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ email: email })
+          }).then(function() {
+            msgEl.textContent = "You're in! Watch your inbox.";
+            msgEl.classList.add('email-success');
+            form.reset();
+            btn.disabled = false;
+            btn.textContent = 'Sign Up';
+          }).catch(function() {
+            msgEl.textContent = 'Something went wrong. Try again.';
+            msgEl.classList.add('email-error');
+            btn.disabled = false;
+            btn.textContent = 'Sign Up';
+          });
+        });
+      }
+      var f1 = document.getElementById('email-form');
+      var m1 = document.getElementById('email-msg');
+      if (f1 && m1) handleSubmit(f1, m1);
+      var f2 = document.getElementById('footer-email-form');
+      var m2 = document.getElementById('footer-email-msg');
+      if (f2 && m2) handleSubmit(f2, m2);
+    })();
   </script>
 </body>
 </html>
