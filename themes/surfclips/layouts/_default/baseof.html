@@ -27,7 +27,7 @@
 
   <link rel="icon" type="image/jpeg" href="{{ "images/sctv-logo.jpg" | absURL }}">
   <link rel="apple-touch-icon" href="{{ "images/sctv-logo.jpg" | absURL }}">
-  <link rel="stylesheet" href="{{ "css/style.css" | absURL }}?v=9">
+  <link rel="stylesheet" href="{{ "css/style.css" | absURL }}?v=10">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lite-youtube-embed@0.3.4/src/lite-yt-embed.css">
   <script src="https://cdn.jsdelivr.net/npm/lite-youtube-embed@0.3.4/src/lite-yt-embed.js" defer></script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -114,12 +114,9 @@
           });
         });
       }
-      var f1 = document.getElementById('email-form');
-      var m1 = document.getElementById('email-msg');
-      if (f1 && m1) handleSubmit(f1, m1);
-      var f2 = document.getElementById('footer-email-form');
-      var m2 = document.getElementById('footer-email-msg');
-      if (f2 && m2) handleSubmit(f2, m2);
+      var f = document.getElementById('footer-email-form');
+      var m = document.getElementById('footer-email-msg');
+      if (f && m) handleSubmit(f, m);
     })();
   </script>
 </body>

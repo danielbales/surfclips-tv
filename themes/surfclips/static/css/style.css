@@ -492,25 +492,6 @@ img { display: block; max-width: 100%; }
   color: var(--text-muted);
 }
 
-/* ---- Subscribe CTA ---- */
-
-.subscribe-cta {
-  text-align: center;
-  padding: 3.5rem 1.25rem;
-  margin-top: 1rem;
-}
-
-.subscribe-cta h2 {
-  font-size: 1.75rem;
-  font-weight: 800;
-  letter-spacing: -0.03em;
-}
-
-.subscribe-cta p {
-  color: var(--text-secondary);
-  margin: 0.5rem auto 1.5rem;
-  max-width: 420px;
-}
 
 .btn {
   display: inline-flex;
@@ -1078,5 +1059,4 @@ img { display: block; max-width: 100%; }
   .shop-grid { grid-template-columns: repeat(2, 1fr); }
   .short-card { flex: 0 0 150px; }
   .short-thumb { width: 150px; height: 85px; }
-  .subscribe-cta h2 { font-size: 1.35rem; }
 }
