@@ -10,7 +10,7 @@ type: "clips"
 clip_type: "top10"
 duration: 245
 visibility: "public"
-views: 22443
+views: 22448
 surfers:
   - "Surfing Visions"
   - "Charlie Quivront"

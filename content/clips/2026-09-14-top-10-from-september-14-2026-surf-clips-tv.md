@@ -10,7 +10,7 @@ type: "clips"
 clip_type: "top10"
 duration: 206
 visibility: "public"
-views: 26477
+views: 26489
 surfers:
   - "Nathan Florence"
   - "Billabong"
