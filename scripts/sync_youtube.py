@@ -233,12 +233,16 @@ def generate_page(video):
     # Classify
     kind = classify_video(title, duration_secs)
 
-    # Best thumbnail available (prefer maxres when API confirms it exists)
-    thumb_url = ""
-    for quality in ["maxres", "standard", "high", "medium", "default"]:
+    # Best thumbnail available — construct clean URL from video ID to avoid
+    # tokenized URLs (with ?sqp=...&rs=...) that YouTube returns for freshly
+    # uploaded videos before thumbnails are fully processed.
+    thumb_quality = "sddefault"
+    for quality, filename in [("maxres", "maxresdefault"), ("standard", "sddefault"),
+                              ("high", "hqdefault"), ("medium", "mqdefault")]:
         if quality in thumbnails:
-            thumb_url = thumbnails[quality]["url"]
+            thumb_quality = filename
             break
+    thumb_url = f"https://i.ytimg.com/vi/{video_id}/{thumb_quality}.jpg"
 
     # Parse date for slug
     pub_date = datetime.fromisoformat(published.replace("Z", "+00:00"))
