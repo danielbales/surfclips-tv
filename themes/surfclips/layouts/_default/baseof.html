@@ -98,7 +98,7 @@
           fetch(SHEET_URL, {
             method: 'POST',
             mode: 'no-cors',
-            headers: { 'Content-Type': 'application/json' },
+            headers: { 'Content-Type': 'text/plain' },
             body: JSON.stringify({ email: email })
           }).then(function() {
             msgEl.textContent = "You're in! Watch your inbox.";
