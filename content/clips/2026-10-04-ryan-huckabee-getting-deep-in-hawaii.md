@@ -4,7 +4,7 @@ date: 2026-10-04T05:40:30Z
 draft: false
 description: "Watch Ryan Huckabee getting deep in Hawaii on Surf Clips TV."
 video_id: "IbPPPxkpovk"
-thumbnail: "https://i9.ytimg.com/vi/IbPPPxkpovk/maxresdefault.jpg?sqp=CLjbh9YG&rs=AOn4CLD2cGdw3W3kCgO8gfwXPCRF459-vQ"
+thumbnail: "https://i9.ytimg.com/vi/IbPPPxkpovk/maxresdefault.jpg?sqp=CLjxiNYG&rs=AOn4CLCmrW_q7HkPak4mcX2JZfruYv1tWA"
 tags: ["surf highlight", "ryan huckabee"]
 type: "clips"
 clip_type: "short"

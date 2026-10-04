@@ -4,7 +4,7 @@ date: 2026-10-04T05:34:36Z
 draft: false
 description: "Watch Liam Turner in Indonesia on Surf Clips TV."
 video_id: "lRBXOgCO3tg"
-thumbnail: "https://i9.ytimg.com/vi/lRBXOgCO3tg/maxresdefault.jpg?sqp=CLjbh9YG&rs=AOn4CLAxr2c_6NOYg2aAe8Z0ve5jUAXfDg"
+thumbnail: "https://i9.ytimg.com/vi/lRBXOgCO3tg/maxresdefault.jpg?sqp=CLjxiNYG&rs=AOn4CLD86GmByIteNqTTQjMokbMBkmUvog"
 tags: ["surf highlight", "liam turner", "mentawai surf"]
 type: "clips"
 clip_type: "short"
