@@ -1,0 +1,17 @@
+{{- $clips := where .Site.RegularPages "Type" "clips" -}}
+{{- $results := slice -}}
+{{- range $clips -}}
+  {{- $surfers := .Params.surfers | default slice -}}
+  {{- $tags := .Params.tags | default slice -}}
+  {{- $entry := dict
+    "title" .Title
+    "url" .Permalink
+    "thumbnail" .Params.thumbnail
+    "date" (.Date.Format "Jan 2, 2006")
+    "clip_type" .Params.clip_type
+    "surfers" $surfers
+    "tags" $tags
+  -}}
+  {{- $results = $results | append $entry -}}
+{{- end -}}
+{{- $results | jsonify -}}
