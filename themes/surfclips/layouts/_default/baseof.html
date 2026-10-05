@@ -189,7 +189,7 @@
             html += '<img src="' + item.thumbnail + '" alt="' + item.title.replace(/"/g, '&quot;') + '" loading="lazy">';
           }
           html += '<div class="clip-card-body">';
-          html += '<h3>' + item.title.replace(/</g, '&lt;') + '</h3>';
+          html += '<h3>' + item.title.replace(/\x3c/g, '&lt;') + '</h3>';
           html += '<time>' + item.date + '</time>';
           html += '</div></a>';
         });
