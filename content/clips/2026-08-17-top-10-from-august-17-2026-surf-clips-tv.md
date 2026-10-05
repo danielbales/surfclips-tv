@@ -10,7 +10,7 @@ type: "clips"
 clip_type: "top10"
 duration: 195
 visibility: "public"
-views: 9292
+views: 9295
 surfers:
   - "Ethan Ewing"
   - "Mason Ho"
