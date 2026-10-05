@@ -4,7 +4,7 @@ date: 2025-09-22T02:57:15Z
 description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "XFn4SgtE3B0"
-thumbnail: "https://i9.ytimg.com/vi/XFn4SgtE3B0/sddefault.jpg?sqp=CKzYgdYG&rs=AOn4CLAnz_1Sv-vdop_Iuoi_PCdiZg95NQ"
+thumbnail: "https://i.ytimg.com/vi/XFn4SgtE3B0/sddefault.jpg"
 tags: ["Top 10 Surf", "perfect surf", "bingin surf"]
 type: "clips"
 clip_type: "short"

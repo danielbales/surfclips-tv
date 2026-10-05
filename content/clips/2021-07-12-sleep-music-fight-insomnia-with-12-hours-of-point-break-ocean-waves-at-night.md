@@ -4,7 +4,7 @@ date: 2021-07-12T14:56:52Z
 description: "Support the channel by subscribing! 12 hours of perfect, peaceful ocean waves at night to fall asleep to. Filmed in Central America (El Salvador). This..."
 draft: false
 video_id: "B-rn_XiPmx8"
-thumbnail: "https://i9.ytimg.com/vi/B-rn_XiPmx8/sddefault.jpg?sqp=CKzYgdYG&rs=AOn4CLAd4Bpr92WjP3g1-G9k2YbpyusJcw"
+thumbnail: "https://i.ytimg.com/vi/B-rn_XiPmx8/sddefault.jpg"
 tags: ["ocean sounds", "relaxing ocean", "ocean meditation", "relaxing music", "sleep music", "meditation music", "soothing relaxation", "yoga music", "background music", "calming ocean"]
 type: "clips"
 clip_type: "clip"

@@ -4,7 +4,7 @@ date: 2025-09-29T22:45:00Z
 description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "1Ms2uW7Tm6c"
-thumbnail: "https://i9.ytimg.com/vi/1Ms2uW7Tm6c/sddefault.jpg?sqp=CKzYgdYG&rs=AOn4CLCytPpYLGOqfYbDBbteOFHAEZIduQ"
+thumbnail: "https://i.ytimg.com/vi/1Ms2uW7Tm6c/sddefault.jpg"
 tags: ["Top 10 Surf", "perfect surf", "the wedge", "chris ward"]
 type: "clips"
 clip_type: "short"

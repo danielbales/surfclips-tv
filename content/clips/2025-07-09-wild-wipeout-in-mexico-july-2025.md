@@ -4,7 +4,7 @@ date: 2025-07-09T00:34:49Z
 description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "SbSBphYBRwQ"
-thumbnail: "https://i9.ytimg.com/vi/SbSBphYBRwQ/sddefault.jpg?sqp=CKzYgdYG&rs=AOn4CLBMHzfzrJ0rgikKINtT7YC67l3K-w"
+thumbnail: "https://i.ytimg.com/vi/SbSBphYBRwQ/sddefault.jpg"
 tags: ["Top 10 Surf", "perfect surf", "puerto escondido surf", "xl surf wipeout"]
 type: "clips"
 clip_type: "short"

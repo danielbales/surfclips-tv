@@ -4,7 +4,7 @@ date: 2025-08-14T20:11:01Z
 description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "oEj4Arqa7ww"
-thumbnail: "https://i9.ytimg.com/vi/oEj4Arqa7ww/sddefault.jpg?sqp=CKzYgdYG&rs=AOn4CLAU950nYixElSNwYI2P8i3AR_3IAQ"
+thumbnail: "https://i.ytimg.com/vi/oEj4Arqa7ww/sddefault.jpg"
 tags: ["Top 10 Surf", "perfect surf", "ala moana bowls surf"]
 type: "clips"
 clip_type: "short"

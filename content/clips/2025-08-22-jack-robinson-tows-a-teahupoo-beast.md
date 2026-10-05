@@ -4,7 +4,7 @@ date: 2025-08-22T07:00:56Z
 description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "y8MpZ3xP3PU"
-thumbnail: "https://i9.ytimg.com/vi/y8MpZ3xP3PU/sddefault.jpg?sqp=CKzYgdYG&rs=AOn4CLCpGjjUbPsBYEvzQYdThuGGbXO6_w"
+thumbnail: "https://i.ytimg.com/vi/y8MpZ3xP3PU/sddefault.jpg"
 tags: ["Top 10 Surf", "perfect surf", "jack robinson", "teahupoo surf"]
 type: "clips"
 clip_type: "short"

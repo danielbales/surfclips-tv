@@ -4,7 +4,7 @@ date: 2025-10-10T16:37:15Z
 description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "-jSS-d9Kew8"
-thumbnail: "https://i9.ytimg.com/vi/-jSS-d9Kew8/sddefault.jpg?sqp=CKzYgdYG&rs=AOn4CLACJorKcXzBJzH4sOZSpe2-KQOCZA"
+thumbnail: "https://i.ytimg.com/vi/-jSS-d9Kew8/sddefault.jpg"
 tags: ["Top 10 Surf", "perfect surf", "noah beschen", "pascuales"]
 type: "clips"
 clip_type: "short"

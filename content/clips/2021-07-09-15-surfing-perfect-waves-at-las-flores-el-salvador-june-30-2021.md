@@ -4,7 +4,7 @@ date: 2021-07-09T05:07:55Z
 description: "Support the channel by subscribing! A beautiful sunrise with great waves for surfing showed up on June 30, 2021. Thank you for supporting Surf Rewind..."
 draft: false
 video_id: "qtkcEJiOOBQ"
-thumbnail: "https://i9.ytimg.com/vi/qtkcEJiOOBQ/sddefault.jpg?sqp=CKzYgdYG&rs=AOn4CLBP_toeuBZiZdsMcZ5nyROEkaB9rw"
+thumbnail: "https://i.ytimg.com/vi/qtkcEJiOOBQ/sddefault.jpg"
 tags: ["worldwide waves", "surfing big waves", "surfing el salvador", "surfing las flores", "unedited surfing", "ocean sounds", "relaxing ocean", "raw surfing", "point break surfing", "kelly slater"]
 type: "clips"
 clip_type: "clip"

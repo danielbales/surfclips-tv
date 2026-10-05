@@ -4,7 +4,7 @@ date: 2025-10-15T04:53:59Z
 description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "PHtUQyA_ISI"
-thumbnail: "https://i9.ytimg.com/vi/PHtUQyA_ISI/sddefault.jpg?sqp=CKzYgdYG&rs=AOn4CLBYl7DPc1vLK0YhmwICunPKjGMyZA"
+thumbnail: "https://i.ytimg.com/vi/PHtUQyA_ISI/sddefault.jpg"
 tags: ["Top 10 Surf", "craig anderon surfing"]
 type: "clips"
 clip_type: "short"

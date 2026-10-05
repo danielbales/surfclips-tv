@@ -4,7 +4,7 @@ date: 2023-02-17T05:03:40Z
 description: "The pride of San Clemente found the sweet spot on his board and showcased his powerful rail game at 2023 Sunset Beach Pro. Support the channel by..."
 draft: false
 video_id: "7E1cuIeLNTI"
-thumbnail: "https://i9.ytimg.com/vi/7E1cuIeLNTI/sddefault.jpg?sqp=CKzYgdYG&rs=AOn4CLC2naZ2MQTuhZcPxW3mp-6_-OE2uw"
+thumbnail: "https://i.ytimg.com/vi/7E1cuIeLNTI/sddefault.jpg"
 tags: ["surfing hawaii", "surfing 2023 hurley pro sunset beach", "unedited surfing", "surf cam", "raw surfing", "griffin colapinto", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
 clip_type: "short"

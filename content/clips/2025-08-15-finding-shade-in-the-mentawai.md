@@ -4,7 +4,7 @@ date: 2025-08-15T07:00:21Z
 description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "PucvSFRpDv4"
-thumbnail: "https://i9.ytimg.com/vi/PucvSFRpDv4/sddefault.jpg?sqp=CKzYgdYG&rs=AOn4CLCpNhTEoJcRqEEp-72hrqaZ3tPypw"
+thumbnail: "https://i.ytimg.com/vi/PucvSFRpDv4/sddefault.jpg"
 tags: ["Top 10 Surf", "perfect surf", "mentawai surf"]
 type: "clips"
 clip_type: "short"

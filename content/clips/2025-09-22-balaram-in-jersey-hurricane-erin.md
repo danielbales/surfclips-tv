@@ -4,7 +4,7 @@ date: 2025-09-22T02:57:07Z
 description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "jK_r_9b_Uow"
-thumbnail: "https://i9.ytimg.com/vi/jK_r_9b_Uow/sddefault.jpg?sqp=CKzYgdYG&rs=AOn4CLBSe7VF370vjz08R7GOHbEOazxqDA"
+thumbnail: "https://i.ytimg.com/vi/jK_r_9b_Uow/sddefault.jpg"
 tags: ["Top 10 Surf", "perfect surf", "hurricane erin", "balaram stack"]
 type: "clips"
 clip_type: "short"

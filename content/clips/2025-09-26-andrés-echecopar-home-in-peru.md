@@ -4,7 +4,7 @@ date: 2025-09-26T15:05:29Z
 description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "1Jptb6i4uks"
-thumbnail: "https://i9.ytimg.com/vi/1Jptb6i4uks/sddefault.jpg?sqp=CKzYgdYG&rs=AOn4CLDA38UlHQTsq87EH31ClGZ9jT68Hg"
+thumbnail: "https://i.ytimg.com/vi/1Jptb6i4uks/sddefault.jpg"
 tags: ["Top 10 Surf", "perfect surf", "Andr\u00e9s Echecopar", "peru surf"]
 type: "clips"
 clip_type: "short"

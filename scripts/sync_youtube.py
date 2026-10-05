@@ -272,7 +272,7 @@ def generate_page(video):
     content = f"""---
 title: "{escape_yaml(title)}"
 date: {published}
-draft: false
+draft: {"true" if visibility != "public" else "false"}
 description: "{escape_yaml(meta_desc)}"
 video_id: "{video_id}"
 thumbnail: "{thumb_url}"

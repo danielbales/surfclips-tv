@@ -4,7 +4,7 @@ date: 2025-07-31T02:45:55Z
 description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "2W0K7XJEntE"
-thumbnail: "https://i9.ytimg.com/vi/2W0K7XJEntE/sddefault.jpg?sqp=CKzYgdYG&rs=AOn4CLAbzhsf5zkvlpquEZGJTr_Xkf-15A"
+thumbnail: "https://i.ytimg.com/vi/2W0K7XJEntE/sddefault.jpg"
 tags: ["Top 10 Surf", "perfect surf", "Matahi Drollet", "teahupoo surf"]
 type: "clips"
 clip_type: "short"

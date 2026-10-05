@@ -4,7 +4,7 @@ date: 2023-01-31T19:45:01Z
 description: "A fresh run of solid WNW swell (307º) moved in this afternoon and peaked in the late evening, offering John John Florence this deep, spitting Backdoor..."
 draft: false
 video_id: "79p7VYeW2M0"
-thumbnail: "https://i9.ytimg.com/vi/79p7VYeW2M0/sddefault.jpg?sqp=CKzYgdYG&rs=AOn4CLCoKl7tq-pgbOle48T7aW-8e0KSkg"
+thumbnail: "https://i.ytimg.com/vi/79p7VYeW2M0/sddefault.jpg"
 tags: ["surfing hawaii", "surfing backdoor pipeline", "unedited surfing", "surf cam", "raw surfing", "north shore surf", "john john florence", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
 clip_type: "short"

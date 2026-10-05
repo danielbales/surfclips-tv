@@ -4,7 +4,7 @@ date: 2021-07-10T16:20:29Z
 description: "Support the channel by subscribing! As the sun came up, near-perfect barrels rolled down the beach. Talk about a surfer's paradise! Thank you for..."
 draft: false
 video_id: "k9Vzs_M1Ok8"
-thumbnail: "https://i9.ytimg.com/vi/k9Vzs_M1Ok8/sddefault.jpg?sqp=CKzYgdYG&rs=AOn4CLAp-4zxqB9K06TPds6EZfANlnVduQ"
+thumbnail: "https://i.ytimg.com/vi/k9Vzs_M1Ok8/sddefault.jpg"
 tags: ["worldwide waves", "surfing big waves", "surfing australia", "surfing snapper rocks", "unedited surfing", "ocean sounds", "relaxing ocean", "raw surfing", "point break surfing", "kelly slater"]
 type: "clips"
 clip_type: "clip"

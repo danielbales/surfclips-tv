@@ -4,7 +4,7 @@ date: 2025-10-13T21:47:00Z
 description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "khCoKw-aktA"
-thumbnail: "https://i9.ytimg.com/vi/khCoKw-aktA/sddefault.jpg?sqp=CKzYgdYG&rs=AOn4CLDr5lp0JiL6b9XNXfm9p-r-CG6xrw"
+thumbnail: "https://i.ytimg.com/vi/khCoKw-aktA/sddefault.jpg"
 tags: ["Top 10 Surf", "perfect surf", "Mark Harris - Barbados Photography", "soup bowl surf"]
 type: "clips"
 clip_type: "short"

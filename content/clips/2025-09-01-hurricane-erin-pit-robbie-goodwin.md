@@ -4,7 +4,7 @@ date: 2025-09-01T03:35:28Z
 description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "BI6szpPUHEw"
-thumbnail: "https://i9.ytimg.com/vi/BI6szpPUHEw/sddefault.jpg?sqp=CKzYgdYG&rs=AOn4CLBhSsdWen3Z5t-xcwHCyMajbcv9Vw"
+thumbnail: "https://i.ytimg.com/vi/BI6szpPUHEw/sddefault.jpg"
 tags: ["Top 10 Surf", "perfect surf", "hurricane erin", "robbie goodwin"]
 type: "clips"
 clip_type: "short"

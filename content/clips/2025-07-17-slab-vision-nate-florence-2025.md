@@ -4,7 +4,7 @@ date: 2025-07-17T00:22:02Z
 description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "7TP9uQ1Idgc"
-thumbnail: "https://i9.ytimg.com/vi/7TP9uQ1Idgc/sddefault.jpg?sqp=CKzYgdYG&rs=AOn4CLCXWQXWXf2mbhoFQJpp5KUdJR2sUg"
+thumbnail: "https://i.ytimg.com/vi/7TP9uQ1Idgc/sddefault.jpg"
 tags: ["Top 10 Surf", "slab tour", "nathan florence", "the box surf"]
 type: "clips"
 clip_type: "short"

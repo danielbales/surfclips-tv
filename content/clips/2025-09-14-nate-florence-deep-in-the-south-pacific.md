@@ -4,7 +4,7 @@ date: 2025-09-14T20:16:07Z
 description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "SKONZOLTgwM"
-thumbnail: "https://i9.ytimg.com/vi/SKONZOLTgwM/sddefault.jpg?sqp=CKzYgdYG&rs=AOn4CLCm4DIFTFbJYQWeFbOthw67M3ckBw"
+thumbnail: "https://i.ytimg.com/vi/SKONZOLTgwM/sddefault.jpg"
 tags: ["Top 10 Surf", "perfect surf", "nate florence", "tahiti surf"]
 type: "clips"
 clip_type: "short"

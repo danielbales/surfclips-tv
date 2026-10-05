@@ -4,7 +4,7 @@ date: 2026-05-06T21:34:22Z
 description: "Wilbur learns a hard lesson about beachside charity in this classic scam! 🏄‍♂️ When a \"$20 Entry\" benefit surf contest promises glory, Wilbur is eager..."
 draft: false
 video_id: "TCbx94YSmJU"
-thumbnail: "https://i9.ytimg.com/vi/TCbx94YSmJU/hqdefault.jpg?sqp=CKzYgdYG&rs=AOn4CLDHzgZweY4_TDQMIwm6zN7ldl4ikA"
+thumbnail: "https://i.ytimg.com/vi/TCbx94YSmJU/sddefault.jpg"
 tags: ["wilbur kookmeyer", "surfboard", "ocean", "wave", "SurfComedy", "Claymation", "Surfing", "animation"]
 type: "clips"
 clip_type: "short"

@@ -4,7 +4,7 @@ date: 2025-07-29T05:42:44Z
 description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "F9ZcUCvbkl8"
-thumbnail: "https://i9.ytimg.com/vi/F9ZcUCvbkl8/sddefault.jpg?sqp=CKzYgdYG&rs=AOn4CLDG05y0FOhnPv4h3-7nb1z3Tj0VJA"
+thumbnail: "https://i.ytimg.com/vi/F9ZcUCvbkl8/sddefault.jpg"
 tags: ["Top 10 Surf", "perfect surf", "maddix alotis"]
 type: "clips"
 clip_type: "short"

@@ -4,7 +4,7 @@ date: 2025-08-20T07:00:08Z
 description: "Surf Store Merch: https://surf-clips-tv.myspreadshop.com/"
 draft: false
 video_id: "8zOL3R4l6Dk"
-thumbnail: "https://i9.ytimg.com/vi/8zOL3R4l6Dk/sddefault.jpg?sqp=CKzYgdYG&rs=AOn4CLCx7-qyhKkRtjKKQg7gOH1isayf9A"
+thumbnail: "https://i.ytimg.com/vi/8zOL3R4l6Dk/sddefault.jpg"
 tags: ["Top 10 Surf", "perfect surf", "teahupoo surf", "joao chianca"]
 type: "clips"
 clip_type: "short"

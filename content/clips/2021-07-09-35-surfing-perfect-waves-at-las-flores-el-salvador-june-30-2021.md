@@ -4,7 +4,7 @@ date: 2021-07-09T20:40:22Z
 description: "Support the channel by subscribing! Afternoon swells continue to pour into Las Flores, El Salvador. A light wind also appeared but didn't hinder the..."
 draft: false
 video_id: "Hq5Ob4C9KgE"
-thumbnail: "https://i9.ytimg.com/vi/Hq5Ob4C9KgE/sddefault.jpg?sqp=CKzYgdYG&rs=AOn4CLBESebSUx75Qg-k4Dcf1H_L8Kpeew"
+thumbnail: "https://i.ytimg.com/vi/Hq5Ob4C9KgE/sddefault.jpg"
 tags: ["worldwide waves", "surfing big waves", "surfing el salvador", "surfing las flores", "unedited surfing", "ocean sounds", "relaxing ocean", "raw surfing", "point break surfing", "kelly slater"]
 type: "clips"
 clip_type: "clip"
