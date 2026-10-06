@@ -7,7 +7,7 @@ video_id: "2FKPHEOIFyk"
 thumbnail: "https://i.ytimg.com/vi/2FKPHEOIFyk/maxresdefault.jpg"
 tags: ["Wilbur Kookmeyer", "surf comedy", "modern art parody", "Surf Clips TV", "funny surfer animation", "surf art", "Wilbur Kookmeyer animation", "Bob Penuelas", "Surfer Magazine", "kook"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 35
 visibility: "public"
 views: 135

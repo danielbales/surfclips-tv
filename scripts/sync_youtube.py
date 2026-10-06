@@ -143,11 +143,21 @@ def parse_duration(iso):
     return h * 3600 + mn * 60 + s
 
 
-def classify_video(title, duration_secs):
+def is_vertical(thumbnails):
+    """Check if video is vertical (portrait) based on thumbnail dimensions."""
+    for quality in ("standard", "high", "medium", "default"):
+        thumb = thumbnails.get(quality, {})
+        w, h = thumb.get("width", 0), thumb.get("height", 0)
+        if w and h:
+            return h > w
+    return False
+
+
+def classify_video(title, duration_secs, thumbnails=None):
     """Classify video as 'short', 'top10', or 'clip'."""
     if re.search(r"top\s*10", title, re.IGNORECASE):
         return "top10"
-    if duration_secs <= 60:
+    if duration_secs <= 60 and is_vertical(thumbnails or {}):
         return "short"
     return "clip"
 
@@ -231,7 +241,7 @@ def generate_page(video):
     view_count = int(video.get("statistics", {}).get("viewCount", 0))
 
     # Classify
-    kind = classify_video(title, duration_secs)
+    kind = classify_video(title, duration_secs, thumbnails)
 
     # Best thumbnail available — construct clean URL from video ID to avoid
     # tokenized URLs (with ?sqp=...&rs=...) that YouTube returns for freshly
@@ -296,11 +306,53 @@ views: {view_count}
 
 # --- Main ---
 
+def reclassify_existing(youtube):
+    """Re-check clip_type for existing 'short' pages using thumbnail aspect ratio."""
+    short_files = {}
+    for f in CONTENT_DIR.glob("*.md"):
+        text = f.read_text()
+        if 'clip_type: "short"' not in text:
+            continue
+        m = re.search(r'^video_id:\s*"?(\S+)"?', text, re.MULTILINE)
+        if m:
+            short_files[m.group(1)] = f
+
+    if not short_files:
+        print("No shorts to reclassify.")
+        return 0
+
+    print(f"Checking {len(short_files)} shorts for misclassification...")
+    video_ids = list(short_files.keys())
+    videos = fetch_video_details(youtube, video_ids)
+
+    fixed = 0
+    for video in videos:
+        vid = video["id"]
+        thumbnails = video["snippet"].get("thumbnails", {})
+        if not is_vertical(thumbnails):
+            # Misclassified - should be "clip" not "short"
+            f = short_files[vid]
+            text = f.read_text()
+            text = text.replace('clip_type: "short"', 'clip_type: "clip"')
+            f.write_text(text)
+            title = video["snippet"]["title"]
+            print(f"  Reclassified: {title}")
+            fixed += 1
+
+    return fixed
+
+
 def main():
     sync_all = "--all" in sys.argv
+    do_reclassify = "--reclassify" in sys.argv
 
     print("Connecting to YouTube API...")
     youtube = get_youtube_client()
+
+    if do_reclassify:
+        fixed = reclassify_existing(youtube)
+        print(f"Reclassified {fixed} videos from 'short' to 'clip'.")
+        return
 
     print("Getting uploads playlist...")
     playlist_id = get_uploads_playlist_id(youtube)
