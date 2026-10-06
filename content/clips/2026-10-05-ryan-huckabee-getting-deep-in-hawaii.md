@@ -7,10 +7,10 @@ video_id: "IbPPPxkpovk"
 thumbnail: "https://i.ytimg.com/vi/IbPPPxkpovk/maxresdefault.jpg"
 tags: ["surf highlight", "ryan huckabee"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 8
 visibility: "public"
-views: 1142
+views: 1176
 ---
 
 <div class="video-embed">

@@ -7,7 +7,7 @@ video_id: "YeVmT53GD44"
 thumbnail: "https://i.ytimg.com/vi/YeVmT53GD44/maxresdefault.jpg"
 tags: ["surf highlight", "teahupoo xxl", "big wave surfing", "felix bourgoin"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 10
 visibility: "public"
 views: 5701

@@ -7,10 +7,10 @@ video_id: "lRBXOgCO3tg"
 thumbnail: "https://i.ytimg.com/vi/lRBXOgCO3tg/maxresdefault.jpg"
 tags: ["surf highlight", "liam turner", "mentawai surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 9
 visibility: "public"
-views: 2593
+views: 2643
 ---
 
 <div class="video-embed">

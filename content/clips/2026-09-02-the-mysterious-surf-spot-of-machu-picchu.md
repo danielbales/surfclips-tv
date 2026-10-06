@@ -7,10 +7,10 @@ video_id: "AemtQNb8Rxg"
 thumbnail: "https://i.ytimg.com/vi/AemtQNb8Rxg/maxresdefault.jpg"
 tags: ["wilbur kookmeyer", "surf humor", "surfboards", "#Surfing", "#SurfAnimation", "dreamscape"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 9
 visibility: "public"
-views: 1889
+views: 1894
 ---
 
 <div class="video-embed">

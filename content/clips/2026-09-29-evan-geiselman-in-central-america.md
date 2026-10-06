@@ -7,7 +7,7 @@ video_id: "sodx9dX8aaI"
 thumbnail: "https://i.ytimg.com/vi/sodx9dX8aaI/maxresdefault.jpg"
 tags: ["surf highlight", "Evan Geiselman", "panama surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 7
 visibility: "public"
 views: 3904

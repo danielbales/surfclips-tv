@@ -7,7 +7,7 @@ video_id: "N5Lk9mUf4no"
 thumbnail: "https://i.ytimg.com/vi/N5Lk9mUf4no/maxresdefault.jpg"
 tags: ["surf highlight", "shipsterns bluff surf", "jai glindeman"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 9
 visibility: "public"
 views: 2579

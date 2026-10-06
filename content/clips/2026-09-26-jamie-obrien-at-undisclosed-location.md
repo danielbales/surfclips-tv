@@ -7,10 +7,10 @@ video_id: "4BPWoaRcSRI"
 thumbnail: "https://i.ytimg.com/vi/4BPWoaRcSRI/maxresdefault.jpg"
 tags: ["surf highlight", "jamie obrien"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 11
 visibility: "public"
-views: 8061
+views: 8059
 ---
 
 <div class="video-embed">
