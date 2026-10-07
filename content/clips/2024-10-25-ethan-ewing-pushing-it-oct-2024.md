@@ -7,7 +7,7 @@ video_id: "-ThangjHUkw"
 thumbnail: "https://i.ytimg.com/vi/-ThangjHUkw/maxresdefault.jpg"
 tags: ["surfing bali", "surfing keramas", "unedited surfing", "surf cam", "raw surfing", "ethan ewing", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 11
 ---
 <div class="video-embed">

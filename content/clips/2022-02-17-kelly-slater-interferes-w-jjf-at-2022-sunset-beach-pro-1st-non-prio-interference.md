@@ -7,7 +7,7 @@ video_id: "xRL68-rB-Eg"
 thumbnail: "https://i.ytimg.com/vi/xRL68-rB-Eg/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing 2022 sunset beach pro", "unedited surfing", "surf cam", "raw surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 49
 ---
 <div class="video-embed">

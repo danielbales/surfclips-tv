@@ -7,7 +7,7 @@ video_id: "zcdLxxI3BEE"
 thumbnail: "https://i.ytimg.com/vi/zcdLxxI3BEE/maxresdefault.jpg"
 tags: ["jack Robinson surf", "backdoor pipeline surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 13
 ---
 <div class="video-embed">

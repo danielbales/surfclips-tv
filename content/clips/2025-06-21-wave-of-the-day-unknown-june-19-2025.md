@@ -7,7 +7,7 @@ video_id: "zV0iBIfne9s"
 thumbnail: "https://i.ytimg.com/vi/zV0iBIfne9s/maxresdefault.jpg"
 tags: ["Top 10 Surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 32
 ---
 <div class="video-embed">

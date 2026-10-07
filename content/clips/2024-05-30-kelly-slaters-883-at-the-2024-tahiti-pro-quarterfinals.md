@@ -7,7 +7,7 @@ video_id: "7iApEB-U2mk"
 thumbnail: "https://i.ytimg.com/vi/7iApEB-U2mk/maxresdefault.jpg"
 tags: ["surfing tahiti", "2024 tahiti pro", "surf cam", "raw surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 11
 ---
 <div class="video-embed">

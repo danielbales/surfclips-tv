@@ -7,7 +7,7 @@ video_id: "vOiph_f_sv0"
 thumbnail: "https://i.ytimg.com/vi/vOiph_f_sv0/maxresdefault.jpg"
 tags: ["Kelly slater", "backdoor pipeline", "perfect waves for surfing"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 10
 ---
 <div class="video-embed">

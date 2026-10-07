@@ -7,7 +7,7 @@ video_id: "nqw89HyhSLA"
 thumbnail: "https://i.ytimg.com/vi/nqw89HyhSLA/maxresdefault.jpg"
 tags: ["surfing southern california", "surfing lower trestles", "unedited surfing", "surf cam", "raw surfing", "chris ward", "kelly slater", "kolohe andino", "mental therapy", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 59
 ---
 <div class="video-embed">

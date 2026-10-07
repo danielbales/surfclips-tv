@@ -7,7 +7,7 @@ video_id: "oASo6MW8vi8"
 thumbnail: "https://i.ytimg.com/vi/oASo6MW8vi8/maxresdefault.jpg"
 tags: ["surfing australia", "surfing the box Margaret river", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 6
 ---
 <div class="video-embed">

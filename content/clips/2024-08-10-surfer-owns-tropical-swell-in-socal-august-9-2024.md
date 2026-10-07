@@ -7,7 +7,7 @@ video_id: "uH61En0mCLE"
 thumbnail: "https://i.ytimg.com/vi/uH61En0mCLE/maxresdefault.jpg"
 tags: ["surfing newport beach", "surfing 56th street", "unedited surfing", "surf cam", "raw surfing", "orange county surf", "mason ho", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 9
 ---
 <div class="video-embed">

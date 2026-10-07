@@ -7,7 +7,7 @@ video_id: "L_EFqGr86lk"
 thumbnail: "https://i.ytimg.com/vi/L_EFqGr86lk/maxresdefault.jpg"
 tags: ["surfing hurricane kirk", "surfing lido beach", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 6
 ---
 <div class="video-embed">

@@ -7,7 +7,7 @@ video_id: "7Z2ZGLbloiE"
 thumbnail: "https://i.ytimg.com/vi/7Z2ZGLbloiE/maxresdefault.jpg"
 tags: ["surfing backdoor pipeline", "2022 pipeline masters", "unedited surfing", "surf cam", "raw surfing", "balaram stack pipeline", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 47
 ---
 <div class="video-embed">

@@ -7,7 +7,7 @@ video_id: "CLXRMrYfcEU"
 thumbnail: "https://i.ytimg.com/vi/CLXRMrYfcEU/maxresdefault.jpg"
 tags: ["surfing north carolina", "surfing outer banks", "unedited surfing", "surf cam", "raw surfing", "surf wipeout", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 30
 ---
 <div class="video-embed">

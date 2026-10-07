@@ -7,7 +7,7 @@ video_id: "BAIirt6ii90"
 thumbnail: "https://i.ytimg.com/vi/BAIirt6ii90/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing pipeline", "unedited surfing", "surf cam", "raw surfing", "north shore surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 58
 ---
 <div class="video-embed">

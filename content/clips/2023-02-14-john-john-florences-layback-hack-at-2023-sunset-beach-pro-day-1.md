@@ -7,7 +7,7 @@ video_id: "r9_Q81V1hNc"
 thumbnail: "https://i.ytimg.com/vi/r9_Q81V1hNc/maxresdefault.jpg"
 tags: ["surfing hawaii", "2023 hurley pro sunset beach", "unedited surfing", "surf cam", "raw surfing", "john john florence", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 53
 ---
 <div class="video-embed">

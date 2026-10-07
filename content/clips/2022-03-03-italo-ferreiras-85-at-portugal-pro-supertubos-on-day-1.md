@@ -7,7 +7,7 @@ video_id: "w3CH_SIslic"
 thumbnail: "https://i.ytimg.com/vi/w3CH_SIslic/maxresdefault.jpg"
 tags: ["surfing portugal", "surfing portugal pro supertubos", "unedited surfing", "surf cam", "raw surfing", "italo ferreira", "mental health", "mental therapy", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 40
 ---
 <div class="video-embed">

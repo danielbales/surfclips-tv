@@ -7,7 +7,7 @@ video_id: "oiiCcywT7ng"
 thumbnail: "https://i.ytimg.com/vi/oiiCcywT7ng/maxresdefault.jpg"
 tags: ["surfing indonesia", "surfing padang padang", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing bali", "lee smith", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 15
 ---
 <div class="video-embed">

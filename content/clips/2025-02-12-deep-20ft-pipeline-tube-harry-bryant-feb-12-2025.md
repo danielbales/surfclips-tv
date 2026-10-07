@@ -7,7 +7,7 @@ video_id: "m2nuoSA5Sbc"
 thumbnail: "https://i.ytimg.com/vi/m2nuoSA5Sbc/maxresdefault.jpg"
 tags: ["xl pipeline"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 55
 ---
 <div class="video-embed">

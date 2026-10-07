@@ -7,7 +7,7 @@ video_id: "UTUpaWC6Kto"
 thumbnail: "https://i.ytimg.com/vi/UTUpaWC6Kto/maxresdefault.jpg"
 tags: ["surfing southern california", "surfing the wedge", "unedited surfing", "surf cam", "raw surfing", "novelty surfing", "kelly slater", "surf wipeout", "mental therapy", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 6
 ---
 <div class="video-embed">

@@ -7,7 +7,7 @@ video_id: "D0pvTt21Xkk"
 thumbnail: "https://i.ytimg.com/vi/D0pvTt21Xkk/maxresdefault.jpg"
 tags: ["surfing tahiti", "2023 tahiti pro", "unedited surfing", "surf cam", "raw surfing", "filipe toledo", "matahi drollet", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 37
 ---
 <div class="video-embed">

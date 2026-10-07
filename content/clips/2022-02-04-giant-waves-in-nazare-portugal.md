@@ -7,7 +7,7 @@ video_id: "R-f1O_JPrXk"
 thumbnail: "https://i.ytimg.com/vi/R-f1O_JPrXk/maxresdefault.jpg"
 tags: ["surfing nazare", "surfing portugal", "unedited surfing", "raw surfing", "mental therapy", "big surf", "ocean", "waves", "surfline rewind", "good to epic"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 24
 ---
 <div class="video-embed">

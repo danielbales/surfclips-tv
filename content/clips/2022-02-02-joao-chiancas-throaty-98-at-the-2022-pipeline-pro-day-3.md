@@ -7,7 +7,7 @@ video_id: "eOPYjNUKCo8"
 thumbnail: "https://i.ytimg.com/vi/eOPYjNUKCo8/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing pipeline", "unedited surfing", "surf cam", "raw surfing", "ocean waves with sound", "big surf", "ocean", "waves", "surfline rewind"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 47
 ---
 <div class="video-embed">

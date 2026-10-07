@@ -7,7 +7,7 @@ video_id: "5hO0HcgLIJE"
 thumbnail: "https://i.ytimg.com/vi/5hO0HcgLIJE/maxresdefault.jpg"
 tags: ["surfing europe", "surfing mundaka", "unedited surfing", "surf cam", "raw surfing", "aritz aramburu", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 56
 ---
 <div class="video-embed">

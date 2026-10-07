@@ -7,7 +7,7 @@ video_id: "qpKsrB-vXDk"
 thumbnail: "https://i.ytimg.com/vi/qpKsrB-vXDk/maxresdefault.jpg"
 tags: ["mason ho", "pipeline surf", "surf wipeout"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 8
 ---
 <div class="video-embed">

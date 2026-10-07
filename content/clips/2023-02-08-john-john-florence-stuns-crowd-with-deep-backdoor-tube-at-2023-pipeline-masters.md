@@ -7,7 +7,7 @@ video_id: "x2cEZ37DKf0"
 thumbnail: "https://i.ytimg.com/vi/x2cEZ37DKf0/maxresdefault.jpg"
 tags: ["surfing hawaii", "2023 pipeline masters", "unedited surfing", "surf cam", "raw surfing", "north shore surf", "john john florence", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 48
 ---
 <div class="video-embed">

@@ -7,7 +7,7 @@ video_id: "PxCQSY5UCOk"
 thumbnail: "https://i.ytimg.com/vi/PxCQSY5UCOk/maxresdefault.jpg"
 tags: ["joao chianca wipeout", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves", "surfline rewind", "good to epic", "perfect surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 59
 ---
 <div class="video-embed">

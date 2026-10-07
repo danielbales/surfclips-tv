@@ -7,7 +7,7 @@ video_id: "mjHVy8hDBsI"
 thumbnail: "https://i.ytimg.com/vi/mjHVy8hDBsI/maxresdefault.jpg"
 tags: ["surfing wipeout", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves", "surfline rewind"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 5
 ---
 <div class="video-embed">

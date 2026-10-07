@@ -7,7 +7,7 @@ video_id: "FR3sqj4cPUM"
 thumbnail: "https://i.ytimg.com/vi/FR3sqj4cPUM/maxresdefault.jpg"
 tags: ["italo ferreira", "2023 supertubos"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 11
 ---
 <div class="video-embed">

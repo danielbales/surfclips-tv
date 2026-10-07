@@ -7,7 +7,7 @@ video_id: "RZ4_Hbar4Sc"
 thumbnail: "https://i.ytimg.com/vi/RZ4_Hbar4Sc/maxresdefault.jpg"
 tags: ["surfing mexico", "surfing puerto escondido", "unedited surfing", "surf cam", "raw surfing", "BEACH break surfing", "coco nogales", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 50
 ---
 <div class="video-embed">

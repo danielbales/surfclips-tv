@@ -7,7 +7,7 @@ video_id: "hwBZk-Wegds"
 thumbnail: "https://i.ytimg.com/vi/hwBZk-Wegds/maxresdefault.jpg"
 tags: ["surfing tahiti", "2023 tahiti pro", "unedited surfing", "surf cam", "raw surfing", "jack robinson", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 54
 ---
 <div class="video-embed">

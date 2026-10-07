@@ -7,7 +7,7 @@ video_id: "Gx5ZUjESd9A"
 thumbnail: "https://i.ytimg.com/vi/Gx5ZUjESd9A/maxresdefault.jpg"
 tags: ["surfing portugal", "surfing supertubos", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "big surf", "ocean", "waves"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 9
 ---
 <div class="video-embed">

@@ -7,7 +7,7 @@ video_id: "Nfj5bi4HZ7s"
 thumbnail: "https://i.ytimg.com/vi/Nfj5bi4HZ7s/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing Rocky point", "unedited surfing", "surf cam", "raw surfing", "mason ho", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 10
 ---
 <div class="video-embed">

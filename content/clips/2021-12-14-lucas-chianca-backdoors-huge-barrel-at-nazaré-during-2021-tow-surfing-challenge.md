@@ -7,7 +7,7 @@ video_id: "XVZehHoQm3Q"
 thumbnail: "https://i.ytimg.com/vi/XVZehHoQm3Q/maxresdefault.jpg"
 tags: ["surfing portugal", "surfing nazare", "unedited surfing", "surf cam", "raw surfing", "xl tow surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 48
 ---
 <div class="video-embed">

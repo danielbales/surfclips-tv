@@ -7,7 +7,7 @@ video_id: "44nKYbAUdWg"
 thumbnail: "https://i.ytimg.com/vi/44nKYbAUdWg/maxresdefault.jpg"
 tags: ["surfing lower trestles pro", "john john florence", "perfect surf", "surf video"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 52
 ---
 <div class="video-embed">

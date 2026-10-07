@@ -7,7 +7,7 @@ video_id: "g8Yi280mhIY"
 thumbnail: "https://i.ytimg.com/vi/g8Yi280mhIY/maxresdefault.jpg"
 tags: ["surfing portugal pro supertubos", "unedited surfing", "surf cam", "raw surfing", "connor o'leary", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 45
 ---
 <div class="video-embed">

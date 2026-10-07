@@ -7,7 +7,7 @@ video_id: "oxl-AlsMjuk"
 thumbnail: "https://i.ytimg.com/vi/oxl-AlsMjuk/maxresdefault.jpg"
 tags: ["surfing teahupoo", "novelty surf", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 34
 ---
 <div class="video-embed">

@@ -7,7 +7,7 @@ video_id: "FFMLflTX-w8"
 thumbnail: "https://i.ytimg.com/vi/FFMLflTX-w8/maxresdefault.jpg"
 tags: ["surfing lower trestles", "surfing california", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 10
 ---
 <div class="video-embed">

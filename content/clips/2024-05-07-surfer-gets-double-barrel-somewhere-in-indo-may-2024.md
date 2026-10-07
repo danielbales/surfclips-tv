@@ -7,7 +7,7 @@ video_id: "vZ_0A1MQi14"
 thumbnail: "https://i.ytimg.com/vi/vZ_0A1MQi14/maxresdefault.jpg"
 tags: ["surfing indo", "surfing padang", "unedited surfing", "surf cam", "raw surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 12
 ---
 <div class="video-embed">

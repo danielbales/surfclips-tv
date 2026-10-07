@@ -7,7 +7,7 @@ video_id: "wrFIK0KyU6c"
 thumbnail: "https://i.ytimg.com/vi/wrFIK0KyU6c/maxresdefault.jpg"
 tags: ["Jay Davies", "the box", "margaret river pro 2025"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 33
 ---
 <div class="video-embed">

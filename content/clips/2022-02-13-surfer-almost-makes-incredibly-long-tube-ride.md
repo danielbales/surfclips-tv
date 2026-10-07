@@ -7,7 +7,7 @@ video_id: "EeixSy-D48I"
 thumbnail: "https://i.ytimg.com/vi/EeixSy-D48I/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing backdoor", "unedited surfing", "surf cam", "raw surfing", "north shore surf", "jack robinson", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 10
 ---
 <div class="video-embed">

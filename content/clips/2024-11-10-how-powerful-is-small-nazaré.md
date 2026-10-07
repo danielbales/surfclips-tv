@@ -7,7 +7,7 @@ video_id: "OwVBP_pAj2c"
 thumbnail: "https://i.ytimg.com/vi/OwVBP_pAj2c/maxresdefault.jpg"
 tags: ["surfing portugal", "surfing nazare", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 57
 ---
 <div class="video-embed">

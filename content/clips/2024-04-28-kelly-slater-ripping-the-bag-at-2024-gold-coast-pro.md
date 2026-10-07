@@ -7,7 +7,7 @@ video_id: "2-0Jp2U-dZE"
 thumbnail: "https://i.ytimg.com/vi/2-0Jp2U-dZE/maxresdefault.jpg"
 tags: []
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 12
 ---
 <div class="video-embed">

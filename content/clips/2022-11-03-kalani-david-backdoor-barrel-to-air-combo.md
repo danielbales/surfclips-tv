@@ -7,7 +7,7 @@ video_id: "zXlLwU2GS8M"
 thumbnail: "https://i.ytimg.com/vi/zXlLwU2GS8M/maxresdefault.jpg"
 tags: ["backdoor pipeline", "john john florence", "perfect surf", "bonz"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 10
 ---
 <div class="video-embed">

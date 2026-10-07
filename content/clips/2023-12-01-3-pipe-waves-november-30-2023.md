@@ -7,7 +7,7 @@ video_id: "pZs6TNfhhZk"
 thumbnail: "https://i.ytimg.com/vi/pZs6TNfhhZk/maxresdefault.jpg"
 tags: ["surfing pipeline", "surfing north shore", "unedited surfing", "surf cam", "raw surfing", "kalani chapman", "mason ho", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 35
 ---
 <div class="video-embed">

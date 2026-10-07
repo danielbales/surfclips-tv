@@ -7,7 +7,7 @@ video_id: "gWX8ml_xHVM"
 thumbnail: "https://i.ytimg.com/vi/gWX8ml_xHVM/maxresdefault.jpg"
 tags: ["surfing mexico", "surfing puerto escondido", "unedited surfing", "surf cam", "raw surfing", "big wave surfing", "coco nogales", "grant twiggy baker", "nate florence", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 5
 ---
 <div class="video-embed">

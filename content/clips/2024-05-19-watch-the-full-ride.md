@@ -7,7 +7,7 @@ video_id: "Khp32g2pCWk"
 thumbnail: "https://i.ytimg.com/vi/Khp32g2pCWk/maxresdefault.jpg"
 tags: ["surfing lower trestles", "surfing 2024 boardriders cup", "unedited surfing", "surf cam", "raw surfing", "taylor knox", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 9
 ---
 <div class="video-embed">

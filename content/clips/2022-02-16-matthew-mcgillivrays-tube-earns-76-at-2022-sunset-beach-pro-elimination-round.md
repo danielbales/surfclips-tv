@@ -7,7 +7,7 @@ video_id: "_lKhe_V-2HY"
 thumbnail: "https://i.ytimg.com/vi/_lKhe_V-2HY/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing sunset beach pro 2022", "unedited surfing", "surf cam", "raw surfing", "Matthew McGillivray", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 42
 ---
 <div class="video-embed">

@@ -7,7 +7,7 @@ video_id: "uA3XX_SKXvk"
 thumbnail: "https://i.ytimg.com/vi/uA3XX_SKXvk/maxresdefault.jpg"
 tags: ["surfing australia", "surfing 2022 margaret river pro", "unedited surfing", "surf cam", "raw surfing", "John John Florence", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 47
 ---
 <div class="video-embed">

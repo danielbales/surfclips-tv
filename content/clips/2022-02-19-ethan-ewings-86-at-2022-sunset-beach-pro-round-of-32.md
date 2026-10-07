@@ -7,7 +7,7 @@ video_id: "eqmOivpBkyM"
 thumbnail: "https://i.ytimg.com/vi/eqmOivpBkyM/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing 2022 sunset beach pro", "unedited surfing", "surf cam", "raw surfing", "ethan ewing", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 56
 ---
 <div class="video-embed">

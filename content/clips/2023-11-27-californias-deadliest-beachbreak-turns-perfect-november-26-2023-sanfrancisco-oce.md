@@ -7,7 +7,7 @@ video_id: "DYB7YZvTysU"
 thumbnail: "https://i.ytimg.com/vi/DYB7YZvTysU/maxresdefault.jpg"
 tags: ["surfing san francisco", "ocean beach xl surf", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 6
 ---
 <div class="video-embed">

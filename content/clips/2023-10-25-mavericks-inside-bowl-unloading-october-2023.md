@@ -7,7 +7,7 @@ video_id: "bM2Q5xWRU8g"
 thumbnail: "https://i.ytimg.com/vi/bM2Q5xWRU8g/maxresdefault.jpg"
 tags: ["mavericks surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 7
 ---
 <div class="video-embed">

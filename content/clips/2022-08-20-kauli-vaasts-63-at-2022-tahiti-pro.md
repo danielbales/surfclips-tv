@@ -7,7 +7,7 @@ video_id: "Y6ImSMfUAwU"
 thumbnail: "https://i.ytimg.com/vi/Y6ImSMfUAwU/maxresdefault.jpg"
 tags: ["surfing tahiti", "surfing 2022 outerknown tahiti pro teahupoo", "unedited surfing", "surf cam", "raw surfing", "kauli vaast", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 36
 ---
 <div class="video-embed">

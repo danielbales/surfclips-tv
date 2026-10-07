@@ -7,7 +7,7 @@ video_id: "p17AnPZQyPc"
 thumbnail: "https://i.ytimg.com/vi/p17AnPZQyPc/maxresdefault.jpg"
 tags: ["surfing new zealand", "surfing raglan", "unedited surfing", "surf cam", "raw surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 12
 ---
 <div class="video-embed">

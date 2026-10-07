@@ -7,7 +7,7 @@ video_id: "iFXXf4-HvyM"
 thumbnail: "https://i.ytimg.com/vi/iFXXf4-HvyM/maxresdefault.jpg"
 tags: ["surfing southern california", "surfing lower trestles", "unedited surfing", "surf cam", "raw surfing", "kolohe andino", "chris ward", "matt biolos", "mental therapy", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 48
 ---
 <div class="video-embed">

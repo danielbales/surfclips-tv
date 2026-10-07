@@ -7,7 +7,7 @@ video_id: "uRURQnwdpAQ"
 thumbnail: "https://i.ytimg.com/vi/uRURQnwdpAQ/maxresdefault.jpg"
 tags: ["surfing the wedge", "blair conklin", "surf cam", "raw surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 8
 ---
 <div class="video-embed">

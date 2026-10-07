@@ -7,7 +7,7 @@ video_id: "sVl9kVnVQkU"
 thumbnail: "https://i.ytimg.com/vi/sVl9kVnVQkU/maxresdefault.jpg"
 tags: ["surfing 2024 backdoor shootout", "unedited surfing", "team japan", "raw surfing", "kenshin matsunaga", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 56
 ---
 <div class="video-embed">

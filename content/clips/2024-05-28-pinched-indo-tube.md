@@ -7,7 +7,7 @@ video_id: "W7BOluKYEsI"
 thumbnail: "https://i.ytimg.com/vi/W7BOluKYEsI/maxresdefault.jpg"
 tags: ["surfing bali", "surfing padang padang", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 14
 ---
 <div class="video-embed">

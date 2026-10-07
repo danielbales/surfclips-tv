@@ -7,7 +7,7 @@ video_id: "zUcpZYgRW38"
 thumbnail: "https://i.ytimg.com/vi/zUcpZYgRW38/maxresdefault.jpg"
 tags: ["malibu surf", "crowded surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 6
 ---
 <div class="video-embed">

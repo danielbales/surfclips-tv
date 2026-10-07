@@ -7,7 +7,7 @@ video_id: "iNxS5TEPe90"
 thumbnail: "https://i.ytimg.com/vi/iNxS5TEPe90/maxresdefault.jpg"
 tags: ["surfing huntington beach", "surfing orange county", "unedited surfing", "surf cam", "raw surfing", "BEACH break surfing", "brett simpson", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 42
 ---
 <div class="video-embed">

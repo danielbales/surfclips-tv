@@ -7,7 +7,7 @@ video_id: "EpsuLurXmR4"
 thumbnail: "https://i.ytimg.com/vi/EpsuLurXmR4/maxresdefault.jpg"
 tags: ["surfing new jersey", "surfing Manasquan Inlet", "unedited surfing", "surf cam", "raw surfing", "east coast surf", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 41
 ---
 <div class="video-embed">

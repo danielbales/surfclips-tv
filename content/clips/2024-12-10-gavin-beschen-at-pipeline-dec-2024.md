@@ -7,7 +7,7 @@ video_id: "oZmtqAt2NvQ"
 thumbnail: "https://i.ytimg.com/vi/oZmtqAt2NvQ/maxresdefault.jpg"
 tags: ["gavin beschen", "pipeline surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 10
 ---
 <div class="video-embed">

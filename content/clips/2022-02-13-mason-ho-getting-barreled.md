@@ -7,7 +7,7 @@ video_id: "dun0TexTwQE"
 thumbnail: "https://i.ytimg.com/vi/dun0TexTwQE/maxresdefault.jpg"
 tags: ["surfing backdoor", "surfing hawaii", "unedited surfing", "surf cam", "raw surfing", "mason ho", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 15
 ---
 <div class="video-embed">

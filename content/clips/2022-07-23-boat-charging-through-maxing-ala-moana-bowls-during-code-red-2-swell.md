@@ -7,7 +7,7 @@ video_id: "YIZjpSopiVI"
 thumbnail: "https://i.ytimg.com/vi/YIZjpSopiVI/maxresdefault.jpg"
 tags: ["surfing hawaii", "ala moana bowls boating accident", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 19
 ---
 <div class="video-embed">

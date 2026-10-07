@@ -7,7 +7,7 @@ video_id: "NWbGBuzIwV0"
 thumbnail: "https://i.ytimg.com/vi/NWbGBuzIwV0/maxresdefault.jpg"
 tags: ["max beach", "pascuales surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 6
 ---
 <div class="video-embed">

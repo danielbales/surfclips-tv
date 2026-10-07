@@ -7,7 +7,7 @@ video_id: "3PFNIhhLEHA"
 thumbnail: "https://i.ytimg.com/vi/3PFNIhhLEHA/maxresdefault.jpg"
 tags: ["surfing xl pipeline", "surfing black friday swell", "unedited surfing", "surf cam", "raw surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 51
 ---
 <div class="video-embed">

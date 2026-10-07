@@ -7,7 +7,7 @@ video_id: "Rzs694Q2uVQ"
 thumbnail: "https://i.ytimg.com/vi/Rzs694Q2uVQ/maxresdefault.jpg"
 tags: ["surfing el salvador", "surfing punta mango", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 56
 ---
 <div class="video-embed">

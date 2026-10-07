@@ -7,7 +7,7 @@ video_id: "nCynKmQCv-4"
 thumbnail: "https://i.ytimg.com/vi/nCynKmQCv-4/maxresdefault.jpg"
 tags: ["surfing california", "surfing 56th street", "unedited surfing", "surf cam", "raw surfing", "tropical storm frank", "newport beach surf", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 53
 ---
 <div class="video-embed">

@@ -7,7 +7,7 @@ video_id: "NnZEzeyyZBU"
 thumbnail: "https://i.ytimg.com/vi/NnZEzeyyZBU/maxresdefault.jpg"
 tags: ["xl pipeline", "wave of the winter"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 40
 ---
 <div class="video-embed">

@@ -7,7 +7,7 @@ video_id: "nk4ENtO5wOk"
 thumbnail: "https://i.ytimg.com/vi/nk4ENtO5wOk/maxresdefault.jpg"
 tags: ["surfing bali", "surfing keramas", "unedited surfing", "surf cam", "raw surfing", "jack robinson", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 11
 ---
 <div class="video-embed">

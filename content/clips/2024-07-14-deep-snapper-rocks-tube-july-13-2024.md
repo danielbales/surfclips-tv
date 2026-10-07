@@ -7,7 +7,7 @@ video_id: "dWG8ZSNm4-c"
 thumbnail: "https://i.ytimg.com/vi/dWG8ZSNm4-c/maxresdefault.jpg"
 tags: ["surfing australia", "surfing snapper rocks", "unedited surfing", "surf cam", "raw surfing", "Mick Fanning", "Joel Parkinson", "dean morrison", "mark occilupo", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 12
 ---
 <div class="video-embed">

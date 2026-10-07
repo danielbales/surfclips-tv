@@ -7,7 +7,7 @@ video_id: "9d32HGTH2lA"
 thumbnail: "https://i.ytimg.com/vi/9d32HGTH2lA/maxresdefault.jpg"
 tags: ["surfing french polynesia", "surfing teahupoo", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "michel bourez", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 46
 ---
 <div class="video-embed">

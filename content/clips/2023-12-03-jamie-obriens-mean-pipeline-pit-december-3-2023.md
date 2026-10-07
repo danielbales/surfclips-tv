@@ -7,7 +7,7 @@ video_id: "eG0hkAEcG9Q"
 thumbnail: "https://i.ytimg.com/vi/eG0hkAEcG9Q/maxresdefault.jpg"
 tags: ["surfing Pipeline", "surf cam", "raw surfing", "jamie obrien", "JOB vlogs", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 40
 ---
 <div class="video-embed">

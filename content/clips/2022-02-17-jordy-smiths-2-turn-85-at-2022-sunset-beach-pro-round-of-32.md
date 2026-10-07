@@ -7,7 +7,7 @@ video_id: "LoLl6TToxKM"
 thumbnail: "https://i.ytimg.com/vi/LoLl6TToxKM/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing sunset beach", "unedited surfing", "surf cam", "raw surfing", "2022 Sunset Beach Pro", "Jordy Smith", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 46
 ---
 <div class="video-embed">

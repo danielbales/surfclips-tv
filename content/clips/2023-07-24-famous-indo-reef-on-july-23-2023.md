@@ -7,7 +7,7 @@ video_id: "Wo6uLo0TQmU"
 thumbnail: "https://i.ytimg.com/vi/Wo6uLo0TQmU/maxresdefault.jpg"
 tags: ["surfing indonesia", "surfing lugrundri bay nias", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 32
 ---
 <div class="video-embed">

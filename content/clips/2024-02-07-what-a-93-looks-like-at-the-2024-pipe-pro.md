@@ -7,7 +7,7 @@ video_id: "80MGK2-Hawc"
 thumbnail: "https://i.ytimg.com/vi/80MGK2-Hawc/maxresdefault.jpg"
 tags: ["2024 pipe pro", "jack robinson", "john john florence", "kelly slater", "callum robson", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 9
 ---
 <div class="video-embed">

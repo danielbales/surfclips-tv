@@ -7,7 +7,7 @@ video_id: "bmpKOZxPHSI"
 thumbnail: "https://i.ytimg.com/vi/bmpKOZxPHSI/maxresdefault.jpg"
 tags: ["surfing 2024 portugal pro", "surfing supertubos", "unedited surfing", "surf cam", "raw surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 9
 ---
 <div class="video-embed">

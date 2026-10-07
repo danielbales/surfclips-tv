@@ -7,7 +7,7 @@ video_id: "_3WXeTxk3jk"
 thumbnail: "https://i.ytimg.com/vi/_3WXeTxk3jk/maxresdefault.jpg"
 tags: ["surfing new jersey", "surfing casino pier", "unedited surfing", "surf cam", "raw surfing", "ben gravy", "brett barley", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 6
 ---
 <div class="video-embed">

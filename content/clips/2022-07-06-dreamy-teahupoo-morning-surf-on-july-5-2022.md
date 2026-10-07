@@ -7,7 +7,7 @@ video_id: "c1mupNoMbxc"
 thumbnail: "https://i.ytimg.com/vi/c1mupNoMbxc/maxresdefault.jpg"
 tags: ["surfing tahiti", "surfing teahupoo", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "michel bourez", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 55
 ---
 <div class="video-embed">

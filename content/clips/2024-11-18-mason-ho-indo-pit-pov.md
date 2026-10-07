@@ -7,7 +7,7 @@ video_id: "wNhP_AIKa4k"
 thumbnail: "https://i.ytimg.com/vi/wNhP_AIKa4k/maxresdefault.jpg"
 tags: ["surfing desert point indo", "surfing indonesia", "unedited surfing", "surf cam", "raw surfing", "mason ho", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 8
 ---
 <div class="video-embed">

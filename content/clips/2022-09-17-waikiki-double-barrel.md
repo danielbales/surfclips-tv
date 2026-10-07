@@ -7,7 +7,7 @@ video_id: "zc7DW99_Hsg"
 thumbnail: "https://i.ytimg.com/vi/zc7DW99_Hsg/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing kaiser's waikiki", "unedited surfing", "surf cam", "raw surfing", "south shore surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 14
 ---
 <div class="video-embed">

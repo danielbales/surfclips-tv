@@ -7,7 +7,7 @@ video_id: "kTQvWQPhADM"
 thumbnail: "https://i.ytimg.com/vi/kTQvWQPhADM/sddefault.jpg"
 tags: ["surfing hawaii", "surfing backdoor pipeline", "unedited surfing", "surf cam", "raw surfing", "north shore surf", "john john florence", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 49
 ---
 <div class="video-embed">

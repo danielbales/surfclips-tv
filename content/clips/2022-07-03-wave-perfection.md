@@ -7,7 +7,7 @@ video_id: "lEqXqgo-5VA"
 thumbnail: "https://i.ytimg.com/vi/lEqXqgo-5VA/hqdefault.jpg"
 tags: ["surfing the box margaret river", "unedited surfing", "surf cam", "raw surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 6
 ---
 <div class="video-embed">

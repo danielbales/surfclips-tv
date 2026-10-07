@@ -7,7 +7,7 @@ video_id: "3V1CkzH15ms"
 thumbnail: "https://i.ytimg.com/vi/3V1CkzH15ms/maxresdefault.jpg"
 tags: ["surfing the wedge", "surfing cyllinders orange county", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 9
 ---
 <div class="video-embed">

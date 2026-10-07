@@ -7,7 +7,7 @@ video_id: "Ld-KfZN1pHA"
 thumbnail: "https://i.ytimg.com/vi/Ld-KfZN1pHA/maxresdefault.jpg"
 tags: ["Mason ho", "backdoor pipeline", "barrel to air combo"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 10
 ---
 <div class="video-embed">

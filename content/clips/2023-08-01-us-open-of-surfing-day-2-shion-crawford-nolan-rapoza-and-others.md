@@ -7,7 +7,7 @@ video_id: "fFQ4F5RnsfI"
 thumbnail: "https://i.ytimg.com/vi/fFQ4F5RnsfI/sddefault.jpg"
 tags: ["US Open of Surfing", "huntington beach surf", "unedited surfing", "surf cam", "raw surfing", "zeke lau", "shion crawford", "nolan rapoza", "mental therapy", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 45
 ---
 <div class="video-embed">

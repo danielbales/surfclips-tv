@@ -7,7 +7,7 @@ video_id: "x-kATwr9GMI"
 thumbnail: "https://i.ytimg.com/vi/x-kATwr9GMI/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing sunset beach 2022 pro", "unedited surfing", "surf cam", "raw surfing", "imaikalani devault", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 47
 ---
 <div class="video-embed">

@@ -7,7 +7,7 @@ video_id: "CAVmX8hA1DQ"
 thumbnail: "https://i.ytimg.com/vi/CAVmX8hA1DQ/maxresdefault.jpg"
 tags: ["surfing hawaii", "2023 pipeline masters", "surf cam", "raw surfing", "north shore surf", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 47
 ---
 <div class="video-embed">

@@ -7,7 +7,7 @@ video_id: "HXmkTBLyJKU"
 thumbnail: "https://i.ytimg.com/vi/HXmkTBLyJKU/hqdefault.jpg"
 tags: ["surfing hawaii", "surfing backdoor", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 23
 ---
 <div class="video-embed">

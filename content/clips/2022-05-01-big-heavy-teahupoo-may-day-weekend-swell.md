@@ -7,7 +7,7 @@ video_id: "22GvAoHgeuI"
 thumbnail: "https://i.ytimg.com/vi/22GvAoHgeuI/maxresdefault.jpg"
 tags: ["surfing tahiti", "surfing teahupoo", "unedited surfing", "surf cam", "raw surfing", "big wave surfing", "koa rothman this is living", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 42
 ---
 <div class="video-embed">

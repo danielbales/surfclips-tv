@@ -7,7 +7,7 @@ video_id: "KKkB79Ug_Bs"
 thumbnail: "https://i.ytimg.com/vi/KKkB79Ug_Bs/maxresdefault.jpg"
 tags: ["surfing bonzai pipeline", "surfing north shore", "unedited surfing", "surf cam", "raw surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 34
 ---
 <div class="video-embed">

@@ -7,7 +7,7 @@ video_id: "nWxkfAE8_W0"
 thumbnail: "https://i.ytimg.com/vi/nWxkfAE8_W0/maxresdefault.jpg"
 tags: ["mark healey wipeout", "ian walsh big wave", "2024 eddie aikau", "surf wipeout"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 36
 ---
 <div class="video-embed">

@@ -7,7 +7,7 @@ video_id: "QaHG11QrtQo"
 thumbnail: "https://i.ytimg.com/vi/QaHG11QrtQo/sddefault.jpg"
 tags: ["surfing tahiti", "surfing teahupoo", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 36
 ---
 <div class="video-embed">

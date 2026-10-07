@@ -7,7 +7,7 @@ video_id: "WLLy832ex_8"
 thumbnail: "https://i.ytimg.com/vi/WLLy832ex_8/maxresdefault.jpg"
 tags: ["surfing newport beach", "surfing 56th street", "unedited surfing", "surf cam", "raw surfing", "BEACH break surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 53
 ---
 <div class="video-embed">

@@ -7,7 +7,7 @@ video_id: "tDTYOt0d96M"
 thumbnail: "https://i.ytimg.com/vi/tDTYOt0d96M/maxresdefault.jpg"
 tags: ["wilbur kookmeyer", "claymation", "surfing", "funny animation", "3d animation", "stop motion", "comedy short", "animated short", "surfing fail", "epic fail"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 48
 visibility: "public"
 views: 304

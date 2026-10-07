@@ -7,7 +7,7 @@ video_id: "zrwxlxeYQxM"
 thumbnail: "https://i.ytimg.com/vi/zrwxlxeYQxM/maxresdefault.jpg"
 tags: ["surfing california", "surfing the wedge", "unedited surfing", "surf cam", "jamie obrien", "novelty surf", "mason ho", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 48
 ---
 <div class="video-embed">

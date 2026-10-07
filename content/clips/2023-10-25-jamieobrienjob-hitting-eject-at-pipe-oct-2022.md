@@ -7,7 +7,7 @@ video_id: "ocIqV9RlRYM"
 thumbnail: "https://i.ytimg.com/vi/ocIqV9RlRYM/maxresdefault.jpg"
 tags: ["Jamie O'Brien vlog", "job vlog", "surf wipeout"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 6
 ---
 <div class="video-embed">

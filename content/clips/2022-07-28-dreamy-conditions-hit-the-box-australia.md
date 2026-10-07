@@ -7,7 +7,7 @@ video_id: "A5trw5qTbQY"
 thumbnail: "https://i.ytimg.com/vi/A5trw5qTbQY/maxresdefault.jpg"
 tags: ["surfing australia", "surfing the box margaret river", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "jack robinson", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 59
 ---
 <div class="video-embed">

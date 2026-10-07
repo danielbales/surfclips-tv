@@ -7,7 +7,7 @@ video_id: "FWIvjAsm2VA"
 thumbnail: "https://i.ytimg.com/vi/FWIvjAsm2VA/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing 2023 hurley pro sunset beach", "unedited surfing", "surf cam", "raw surfing", "griffin colapinto", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 59
 ---
 <div class="video-embed">

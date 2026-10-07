@@ -7,7 +7,7 @@ video_id: "InIEvktrG80"
 thumbnail: "https://i.ytimg.com/vi/InIEvktrG80/maxresdefault.jpg"
 tags: ["surfing lower trestles", "wsl finals surf", "griffin colapinto", "surf cam", "raw surfing", "big surf", "ocean", "waves", "surfline rewind", "good to epic"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 29
 ---
 <div class="video-embed">

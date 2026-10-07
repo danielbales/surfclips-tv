@@ -7,7 +7,7 @@ video_id: "Hi7r8Z24VdE"
 thumbnail: "https://i.ytimg.com/vi/Hi7r8Z24VdE/maxresdefault.jpg"
 tags: ["nathan florence surf", "ireland surf", "slab tour"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 15
 ---
 <div class="video-embed">

@@ -7,7 +7,7 @@ video_id: "9GLsPwsv3YU"
 thumbnail: "https://i.ytimg.com/vi/9GLsPwsv3YU/maxresdefault.jpg"
 tags: ["surfing rocky point", "surf cam", "raw surfing", "north shore surf", "mason ho", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 7
 ---
 <div class="video-embed">

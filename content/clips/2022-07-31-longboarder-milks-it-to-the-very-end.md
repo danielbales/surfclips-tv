@@ -7,7 +7,7 @@ video_id: "LKoNeNYxy58"
 thumbnail: "https://i.ytimg.com/vi/LKoNeNYxy58/maxresdefault.jpg"
 tags: ["surfing california", "surfing huntington beach", "unedited surfing", "surf cam", "raw surfing", "duct tape invitational", "honolua blomfield", "longboard surfing", "harrison roach", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 13
 ---
 <div class="video-embed">

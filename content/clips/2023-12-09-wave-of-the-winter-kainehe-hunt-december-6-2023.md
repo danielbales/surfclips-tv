@@ -7,7 +7,7 @@ video_id: "ZnsK50pfEOs"
 thumbnail: "https://i.ytimg.com/vi/ZnsK50pfEOs/maxresdefault.jpg"
 tags: ["Wave of the Winter: Kainehe Hunt", "backdoor surf", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves", "surfline rewind", "good to epic"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 21
 ---
 <div class="video-embed">

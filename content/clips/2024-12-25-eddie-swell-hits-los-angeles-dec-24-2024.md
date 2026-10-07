@@ -7,7 +7,7 @@ video_id: "nqloyoqYQ8Y"
 thumbnail: "https://i.ytimg.com/vi/nqloyoqYQ8Y/maxresdefault.jpg"
 tags: ["seal beach surf", "los angeles surf", "eddie swell"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 7
 ---
 <div class="video-embed">

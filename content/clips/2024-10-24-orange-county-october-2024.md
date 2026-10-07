@@ -7,7 +7,7 @@ video_id: "xiEpD6TBSxo"
 thumbnail: "https://i.ytimg.com/vi/xiEpD6TBSxo/maxresdefault.jpg"
 tags: ["surfing orange county", "56th street surf", "raw surfing", "mental health", "mental therapy", "big surf", "ocean", "waves", "surfline rewind", "good to epic"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 16
 ---
 <div class="video-embed">

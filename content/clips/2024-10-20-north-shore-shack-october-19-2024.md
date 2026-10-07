@@ -7,7 +7,7 @@ video_id: "UB3djko9_oo"
 thumbnail: "https://i.ytimg.com/vi/UB3djko9_oo/maxresdefault.jpg"
 tags: ["surfing north shore", "surfing rocky point", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 7
 ---
 <div class="video-embed">

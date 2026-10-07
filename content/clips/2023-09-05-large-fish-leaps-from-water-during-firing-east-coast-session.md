@@ -7,7 +7,7 @@ video_id: "kY1VI9vc-fk"
 thumbnail: "https://i.ytimg.com/vi/kY1VI9vc-fk/maxresdefault.jpg"
 tags: ["Shark cape hatteras"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 27
 ---
 <div class="video-embed">

@@ -7,7 +7,7 @@ video_id: "qvdICqx4iY8"
 thumbnail: "https://i.ytimg.com/vi/qvdICqx4iY8/maxresdefault.jpg"
 tags: ["soup bowl Barbados", "wave of the day", "Caribbean surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 13
 ---
 <div class="video-embed">

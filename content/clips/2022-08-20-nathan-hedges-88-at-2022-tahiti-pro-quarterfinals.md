@@ -7,7 +7,7 @@ video_id: "bDCPj5jpTM8"
 thumbnail: "https://i.ytimg.com/vi/bDCPj5jpTM8/maxresdefault.jpg"
 tags: ["surfing tahiti", "surfing 2022 outerknown tahiti pro teahupoo", "unedited surfing", "surf cam", "raw surfing", "nathan Hedge", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 37
 ---
 <div class="video-embed">

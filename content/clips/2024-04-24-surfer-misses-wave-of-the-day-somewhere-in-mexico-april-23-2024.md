@@ -7,7 +7,7 @@ video_id: "oZ13J1---nI"
 thumbnail: "https://i.ytimg.com/vi/oZ13J1---nI/maxresdefault.jpg"
 tags: []
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 42
 ---
 <div class="video-embed">

@@ -7,7 +7,7 @@ video_id: "JYOxaoC8l2g"
 thumbnail: "https://i.ytimg.com/vi/JYOxaoC8l2g/maxresdefault.jpg"
 tags: ["Wave of the winter", "XL pipeline", "perfect wave", "eli olson"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 44
 ---
 <div class="video-embed">

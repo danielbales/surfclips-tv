@@ -7,7 +7,7 @@ video_id: "IG-WDAKMaKo"
 thumbnail: "https://i.ytimg.com/vi/IG-WDAKMaKo/hqdefault.jpg"
 tags: ["surfing hawaii", "surfing backdoor pipeline", "unedited surfing", "surf cam", "raw surfing", "north shore surf", "lucas godfrey", "wave of the winter", "mental therapy", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 15
 ---
 <div class="video-embed">

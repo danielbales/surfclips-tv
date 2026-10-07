@@ -7,7 +7,7 @@ video_id: "vq0_Jj1NCSY"
 thumbnail: "https://i.ytimg.com/vi/vq0_Jj1NCSY/maxresdefault.jpg"
 tags: ["kelly slater", "2025 pipeline pro"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 48
 ---
 <div class="video-embed">

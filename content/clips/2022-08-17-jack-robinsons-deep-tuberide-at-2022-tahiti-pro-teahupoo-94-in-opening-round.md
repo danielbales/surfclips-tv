@@ -7,7 +7,7 @@ video_id: "KsfcD7T2OY0"
 thumbnail: "https://i.ytimg.com/vi/KsfcD7T2OY0/maxresdefault.jpg"
 tags: ["surfing tahiti", "outerknown tahiti teahupoo pro", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "jack robinson", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 46
 ---
 <div class="video-embed">

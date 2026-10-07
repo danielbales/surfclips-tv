@@ -7,7 +7,7 @@ video_id: "qUIPL6x9oaE"
 thumbnail: "https://i.ytimg.com/vi/qUIPL6x9oaE/maxresdefault.jpg"
 tags: ["backdoor pipeline wipeout"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 6
 ---
 <div class="video-embed">

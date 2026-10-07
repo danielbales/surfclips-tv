@@ -7,7 +7,7 @@ video_id: "zPE7wU1NbMM"
 thumbnail: "https://i.ytimg.com/vi/zPE7wU1NbMM/maxresdefault.jpg"
 tags: ["surfing california", "surfing wedge", "unedited surfing", "surf cam", "raw surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 6
 ---
 <div class="video-embed">

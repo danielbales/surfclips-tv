@@ -7,7 +7,7 @@ video_id: "FRwrCiN_Wnw"
 thumbnail: "https://i.ytimg.com/vi/FRwrCiN_Wnw/maxresdefault.jpg"
 tags: ["surfing steamer lane", "surfing santa cruz", "whale breach", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 4
 ---
 <div class="video-embed">

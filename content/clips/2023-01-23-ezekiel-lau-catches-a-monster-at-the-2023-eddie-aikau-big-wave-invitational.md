@@ -7,7 +7,7 @@ video_id: "67BxnEVxx9k"
 thumbnail: "https://i.ytimg.com/vi/67BxnEVxx9k/maxresdefault.jpg"
 tags: ["surfing 2023 eddie aikau", "surfing waimea bay", "unedited surfing", "surf cam", "raw surfing", "ezekiel lau", "big wave surfing", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 43
 ---
 <div class="video-embed">

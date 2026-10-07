@@ -7,7 +7,7 @@ video_id: "DPAjWHPo4Os"
 thumbnail: "https://i.ytimg.com/vi/DPAjWHPo4Os/maxresdefault.jpg"
 tags: ["surfing 2024 backdoor shootout", "unedited surfing", "surf cam", "raw surfing", "josh moniz", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 58
 ---
 <div class="video-embed">

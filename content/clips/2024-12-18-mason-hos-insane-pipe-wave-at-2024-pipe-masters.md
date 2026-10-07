@@ -7,7 +7,7 @@ video_id: "sKS1uRIkeIw"
 thumbnail: "https://i.ytimg.com/vi/sKS1uRIkeIw/maxresdefault.jpg"
 tags: ["2024 pipeline masters", "mason ho"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 44
 ---
 <div class="video-embed">

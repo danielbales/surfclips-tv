@@ -7,7 +7,7 @@ video_id: "vRedYC-oYd0"
 thumbnail: "https://i.ytimg.com/vi/vRedYC-oYd0/maxresdefault.jpg"
 tags: ["John John Florence", "XL surf Hawaii"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 9
 ---
 <div class="video-embed">

@@ -7,7 +7,7 @@ video_id: "Z2GcOBb2lbg"
 thumbnail: "https://i.ytimg.com/vi/Z2GcOBb2lbg/sddefault.jpg"
 tags: ["surfing el salvador", "2023 el salvador pro", "unedited surfing", "surf cam", "raw surfing", "griffin colapinto", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 55
 ---
 <div class="video-embed">

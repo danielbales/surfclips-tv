@@ -7,7 +7,7 @@ video_id: "W4ZshrQ5M7Q"
 thumbnail: "https://i.ytimg.com/vi/W4ZshrQ5M7Q/maxresdefault.jpg"
 tags: ["jamie O'brien", "backdoor surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 43
 ---
 <div class="video-embed">

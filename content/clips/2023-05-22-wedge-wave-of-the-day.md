@@ -7,7 +7,7 @@ video_id: "uGyrssYpMTY"
 thumbnail: "https://i.ytimg.com/vi/uGyrssYpMTY/maxresdefault.jpg"
 tags: ["the wedge", "swell of the year"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 6
 ---
 <div class="video-embed">

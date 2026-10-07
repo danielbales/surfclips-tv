@@ -7,7 +7,7 @@ video_id: "hjve3DVrD_M"
 thumbnail: "https://i.ytimg.com/vi/hjve3DVrD_M/maxresdefault.jpg"
 tags: ["jamie obrien surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 10
 ---
 <div class="video-embed">

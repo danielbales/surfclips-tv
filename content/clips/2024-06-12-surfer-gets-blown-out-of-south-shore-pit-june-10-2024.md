@@ -7,7 +7,7 @@ video_id: "afYpYWt5img"
 thumbnail: "https://i.ytimg.com/vi/afYpYWt5img/maxresdefault.jpg"
 tags: ["surfing waikiki", "surfing ala moana bowls", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 7
 ---
 <div class="video-embed">

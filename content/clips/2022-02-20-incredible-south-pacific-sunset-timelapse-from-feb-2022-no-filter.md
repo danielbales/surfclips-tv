@@ -7,7 +7,7 @@ video_id: "5SwmRTpYj68"
 thumbnail: "https://i.ytimg.com/vi/5SwmRTpYj68/maxresdefault.jpg"
 tags: ["surfing new zealand", "surfing raglan", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 41
 ---
 <div class="video-embed">

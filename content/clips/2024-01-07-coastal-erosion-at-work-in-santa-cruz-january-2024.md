@@ -7,7 +7,7 @@ video_id: "k6A5kNkmysg"
 thumbnail: "https://i.ytimg.com/vi/k6A5kNkmysg/maxresdefault.jpg"
 tags: ["coastal erosion", "surf cam", "steamer lane", "waves", "surfline rewind", "perfect surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 6
 ---
 <div class="video-embed">

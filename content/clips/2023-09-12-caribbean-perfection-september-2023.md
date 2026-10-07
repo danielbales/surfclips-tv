@@ -7,7 +7,7 @@ video_id: "RwaaAIy9pqg"
 thumbnail: "https://i.ytimg.com/vi/RwaaAIy9pqg/maxresdefault.jpg"
 tags: []
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 10
 ---
 <div class="video-embed">

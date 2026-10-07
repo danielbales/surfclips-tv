@@ -7,7 +7,7 @@ video_id: "j-VO_KhnjAM"
 thumbnail: "https://i.ytimg.com/vi/j-VO_KhnjAM/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing pipeline", "unedited surfing", "surf cam", "raw surfing", "north shore surf", "balaram stack", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 47
 ---
 <div class="video-embed">

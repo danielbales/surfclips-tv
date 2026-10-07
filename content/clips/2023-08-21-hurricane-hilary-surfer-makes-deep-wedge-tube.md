@@ -7,7 +7,7 @@ video_id: "25qOO69oVP0"
 thumbnail: "https://i.ytimg.com/vi/25qOO69oVP0/sddefault.jpg"
 tags: ["surfing california", "hurricane hilary", "wedge hurricane hilary", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 39
 ---
 <div class="video-embed">

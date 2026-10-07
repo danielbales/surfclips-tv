@@ -7,7 +7,7 @@ video_id: "aaF3P7B4Ih8"
 thumbnail: "https://i.ytimg.com/vi/aaF3P7B4Ih8/maxresdefault.jpg"
 tags: ["surfing ocean beach", "surfing northern california", "unedited surfing", "surf cam", "raw surfing", "nat young", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 10
 ---
 <div class="video-embed">

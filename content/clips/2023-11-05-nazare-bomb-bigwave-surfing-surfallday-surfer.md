@@ -7,7 +7,7 @@ video_id: "XYf5YIgcae4"
 thumbnail: "https://i.ytimg.com/vi/XYf5YIgcae4/maxresdefault.jpg"
 tags: ["surfing portugal", "xxl surf nazare portugal", "surf cam", "raw surfing", "REEF OR POINT OR BEACH break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 8
 ---
 <div class="video-embed">

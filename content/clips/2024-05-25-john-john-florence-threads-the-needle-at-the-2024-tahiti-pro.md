@@ -7,7 +7,7 @@ video_id: "5XvW10uI6kQ"
 thumbnail: "https://i.ytimg.com/vi/5XvW10uI6kQ/maxresdefault.jpg"
 tags: ["2024 tahiti pro", "surfing Teahupoo", "john john florence", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 12
 ---
 <div class="video-embed">

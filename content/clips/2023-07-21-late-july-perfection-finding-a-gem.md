@@ -7,7 +7,7 @@ video_id: "uplQ_6maqag"
 thumbnail: "https://i.ytimg.com/vi/uplQ_6maqag/maxresdefault.jpg"
 tags: []
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 8
 ---
 <div class="video-embed">

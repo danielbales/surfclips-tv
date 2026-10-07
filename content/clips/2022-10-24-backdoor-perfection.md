@@ -7,7 +7,7 @@ video_id: "RsvlP8LmpzQ"
 thumbnail: "https://i.ytimg.com/vi/RsvlP8LmpzQ/maxresdefault.jpg"
 tags: ["surfing north shore", "backdoor barrel", "perfect wave", "jamie o brien", "john john florence"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 7
 ---
 <div class="video-embed">

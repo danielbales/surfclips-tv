@@ -7,7 +7,7 @@ video_id: "2PFiWRzvzDo"
 thumbnail: "https://i.ytimg.com/vi/2PFiWRzvzDo/maxresdefault.jpg"
 tags: ["2025 pipeline pro", "barron mamiya", "perfect 10"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 31
 ---
 <div class="video-embed">

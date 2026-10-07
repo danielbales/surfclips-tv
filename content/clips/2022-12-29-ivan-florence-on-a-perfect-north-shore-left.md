@@ -7,7 +7,7 @@ video_id: "Q2lNuXbSITc"
 thumbnail: "https://i.ytimg.com/vi/Q2lNuXbSITc/maxresdefault.jpg"
 tags: ["Ivan Florence surf", "rocky point surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 8
 ---
 <div class="video-embed">

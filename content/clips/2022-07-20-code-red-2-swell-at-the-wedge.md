@@ -7,7 +7,7 @@ video_id: "0_tEn0gsD4A"
 thumbnail: "https://i.ytimg.com/vi/0_tEn0gsD4A/maxresdefault.jpg"
 tags: ["surfing california", "surfing the wedge code red 2 swell", "unedited surfing", "surf cam", "raw surfing", "code red swell", "mason ho", "jamie o'brien", "the wedge surf", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 46
 ---
 <div class="video-embed">

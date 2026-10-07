@@ -7,7 +7,7 @@ video_id: "RiYfCel710U"
 thumbnail: "https://i.ytimg.com/vi/RiYfCel710U/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing 2023 pipeline masters", "unedited surfing", "surf cam", "raw surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 38
 ---
 <div class="video-embed">

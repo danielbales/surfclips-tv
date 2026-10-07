@@ -7,7 +7,7 @@ video_id: "LZlEFDe22Vs"
 thumbnail: "https://i.ytimg.com/vi/LZlEFDe22Vs/maxresdefault.jpg"
 tags: ["surfing australia", "surfing the box", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "john john florence", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 8
 ---
 <div class="video-embed">

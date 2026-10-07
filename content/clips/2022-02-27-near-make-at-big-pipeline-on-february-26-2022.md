@@ -7,7 +7,7 @@ video_id: "Eal4OJzkk28"
 thumbnail: "https://i.ytimg.com/vi/Eal4OJzkk28/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing pipeline xl", "unedited surfing", "surf cam", "raw surfing", "surfing wipeout", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 38
 ---
 <div class="video-embed">

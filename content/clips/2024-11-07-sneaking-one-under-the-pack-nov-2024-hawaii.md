@@ -7,7 +7,7 @@ video_id: "8JJSk11OK8I"
 thumbnail: "https://i.ytimg.com/vi/8JJSk11OK8I/maxresdefault.jpg"
 tags: ["surfing tosh tudor", "surfing rocky point", "north shore hawaii surf", "surf cam", "raw surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 9
 ---
 <div class="video-embed">

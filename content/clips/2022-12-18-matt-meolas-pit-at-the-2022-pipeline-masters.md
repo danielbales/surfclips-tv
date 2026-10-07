@@ -7,7 +7,7 @@ video_id: "3ZXwJHSbxaE"
 thumbnail: "https://i.ytimg.com/vi/3ZXwJHSbxaE/maxresdefault.jpg"
 tags: ["2022 Pipeline masters", "matt meola", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 34
 ---
 <div class="video-embed">

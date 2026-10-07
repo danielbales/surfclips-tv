@@ -7,7 +7,7 @@ video_id: "-lm8fe8yWvg"
 thumbnail: "https://i.ytimg.com/vi/-lm8fe8yWvg/maxresdefault.jpg"
 tags: ["surfing mexico", "surfing puerto escondido", "playa zicatela", "surf cam", "raw surfing", "BEACH break surfing", "coco nogales", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 44
 ---
 <div class="video-embed">

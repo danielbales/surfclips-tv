@@ -7,7 +7,7 @@ video_id: "w3drFiRfWH4"
 thumbnail: "https://i.ytimg.com/vi/w3drFiRfWH4/maxresdefault.jpg"
 tags: ["pipeline October 17 2023", "XL pipeline"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 8
 ---
 <div class="video-embed">

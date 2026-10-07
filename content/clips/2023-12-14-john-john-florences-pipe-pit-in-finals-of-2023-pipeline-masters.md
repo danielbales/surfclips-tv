@@ -7,7 +7,7 @@ video_id: "ZnexKPZN6fI"
 thumbnail: "https://i.ytimg.com/vi/ZnexKPZN6fI/maxresdefault.jpg"
 tags: ["surfing 2023 pipeline masters", "surfing SPOT NAME", "unedited surfing", "surf cam", "raw surfing", "john john florence", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 42
 ---
 <div class="video-embed">

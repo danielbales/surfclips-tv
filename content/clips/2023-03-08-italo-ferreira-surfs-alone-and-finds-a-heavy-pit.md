@@ -7,7 +7,7 @@ video_id: "KDKEYJMy7IE"
 thumbnail: "https://i.ytimg.com/vi/KDKEYJMy7IE/maxresdefault.jpg"
 tags: ["italo Ferreira", "2023 supertubos pro", "Portugal surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 11
 ---
 <div class="video-embed">

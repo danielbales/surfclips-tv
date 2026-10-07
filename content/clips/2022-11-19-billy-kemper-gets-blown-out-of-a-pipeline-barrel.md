@@ -7,7 +7,7 @@ video_id: "xt3JbPWTsq4"
 thumbnail: "https://i.ytimg.com/vi/xt3JbPWTsq4/maxresdefault.jpg"
 tags: ["billy Kemper", "bonzai pipeline", "perfect barrel"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 8
 ---
 <div class="video-embed">

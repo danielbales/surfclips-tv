@@ -7,7 +7,7 @@ video_id: "5cnhkItmHoQ"
 thumbnail: "https://i.ytimg.com/vi/5cnhkItmHoQ/maxresdefault.jpg"
 tags: ["surfing teahupoo", "surfing tahiti", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 8
 ---
 <div class="video-embed">

@@ -7,7 +7,7 @@ video_id: "yfIj9bg7yGI"
 thumbnail: "https://i.ytimg.com/vi/yfIj9bg7yGI/maxresdefault.jpg"
 tags: ["mason ho", "indonesia surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 9
 ---
 <div class="video-embed">

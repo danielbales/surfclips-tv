@@ -7,7 +7,7 @@ video_id: "GZgORfLriiw"
 thumbnail: "https://i.ytimg.com/vi/GZgORfLriiw/maxresdefault.jpg"
 tags: ["steamer lane surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 5
 ---
 <div class="video-embed">

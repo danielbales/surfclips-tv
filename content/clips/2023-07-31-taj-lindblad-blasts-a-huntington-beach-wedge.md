@@ -7,7 +7,7 @@ video_id: "Ctxeo4BcVvU"
 thumbnail: "https://i.ytimg.com/vi/Ctxeo4BcVvU/maxresdefault.jpg"
 tags: ["2023 US Open of Surf", "surfing huntington beach", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 44
 ---
 <div class="video-embed">

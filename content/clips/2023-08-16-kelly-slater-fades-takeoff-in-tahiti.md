@@ -7,7 +7,7 @@ video_id: "alwUHSWOnlY"
 thumbnail: "https://i.ytimg.com/vi/alwUHSWOnlY/maxresdefault.jpg"
 tags: ["kelly slater", "2023 tahiti pro"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 8
 ---
 <div class="video-embed">

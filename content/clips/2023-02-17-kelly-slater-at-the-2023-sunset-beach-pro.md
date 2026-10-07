@@ -7,7 +7,7 @@ video_id: "Akhmah5bhn8"
 thumbnail: "https://i.ytimg.com/vi/Akhmah5bhn8/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing 2023 hurley pro sunset beach", "unedited surfing", "surf cam", "raw surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 50
 ---
 <div class="video-embed">

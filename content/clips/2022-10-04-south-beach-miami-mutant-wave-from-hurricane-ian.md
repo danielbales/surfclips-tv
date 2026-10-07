@@ -7,7 +7,7 @@ video_id: "n5D46vTgTpY"
 thumbnail: "https://i.ytimg.com/vi/n5D46vTgTpY/maxresdefault.jpg"
 tags: ["surfing hurricane ian", "surfing south beach miami", "unedited surfing", "surf cam", "raw surfing", "BEACH break surfing", "wave of the swell hurricane ian", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 52
 ---
 <div class="video-embed">

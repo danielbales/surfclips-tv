@@ -7,7 +7,7 @@ video_id: "4Tfhb-fb_j0"
 thumbnail: "https://i.ytimg.com/vi/4Tfhb-fb_j0/maxresdefault.jpg"
 tags: ["nathan florence", "backdoor pipeline", "perfect wave"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 10
 ---
 <div class="video-embed">

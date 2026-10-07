@@ -7,7 +7,7 @@ video_id: "KBTOXAwV5Co"
 thumbnail: "https://i.ytimg.com/vi/KBTOXAwV5Co/maxresdefault.jpg"
 tags: ["xl pipeline", "pipeline christmas", "perfect wave", "perfect surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 8
 ---
 <div class="video-embed">

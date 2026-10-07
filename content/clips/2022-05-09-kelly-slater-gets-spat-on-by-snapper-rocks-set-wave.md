@@ -7,7 +7,7 @@ video_id: "1Xyn9GkXTCQ"
 thumbnail: "https://i.ytimg.com/vi/1Xyn9GkXTCQ/maxresdefault.jpg"
 tags: ["surfing australia", "surfing 2022 gold coast pro", "unedited surfing", "surf cam", "raw surfing", "snapper rocks", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 7
 ---
 <div class="video-embed">

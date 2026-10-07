@@ -7,7 +7,7 @@ video_id: "wAo8RFgQzsw"
 thumbnail: "https://i.ytimg.com/vi/wAo8RFgQzsw/hqdefault.jpg"
 tags: ["surfing southern california", "surfing malibu", "unedited surfing", "surf cam", "raw surfing", "surfing accident", "surf fail", "surf wipeout", "mental therapy", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 6
 ---
 <div class="video-embed">

@@ -7,7 +7,7 @@ video_id: "echr06-eD3A"
 thumbnail: "https://i.ytimg.com/vi/echr06-eD3A/maxresdefault.jpg"
 tags: ["surfing lower trestles", "wsl finals surf", "john john florence", "surf cam", "raw surfing", "italo ferreira", "griffin colapinto", "big surf", "ocean", "waves"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 14
 ---
 <div class="video-embed">

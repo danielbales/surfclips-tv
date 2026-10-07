@@ -7,7 +7,7 @@ video_id: "AMTBZAuX32U"
 thumbnail: "https://i.ytimg.com/vi/AMTBZAuX32U/maxresdefault.jpg"
 tags: ["surfing pipeline backdoor", "surf xl pipe", "unedited surfing", "surf cam", "raw surfing", "john florence", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 50
 ---
 <div class="video-embed">

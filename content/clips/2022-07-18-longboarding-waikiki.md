@@ -7,7 +7,7 @@ video_id: "fWrIFz4tmBI"
 thumbnail: "https://i.ytimg.com/vi/fWrIFz4tmBI/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing waikiki", "unedited surfing", "surf cam", "raw surfing", "three's surf", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 13
 ---
 <div class="video-embed">

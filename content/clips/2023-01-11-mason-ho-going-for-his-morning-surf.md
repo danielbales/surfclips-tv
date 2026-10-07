@@ -7,7 +7,7 @@ video_id: "z-GRCUa2LOI"
 thumbnail: "https://i.ytimg.com/vi/z-GRCUa2LOI/maxresdefault.jpg"
 tags: ["mason ho", "backdoor pipeline"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 8
 ---
 <div class="video-embed">

@@ -7,7 +7,7 @@ video_id: "-jY3DCxGnDM"
 thumbnail: "https://i.ytimg.com/vi/-jY3DCxGnDM/maxresdefault.jpg"
 tags: ["backdoor pipeline"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 6
 ---
 <div class="video-embed">

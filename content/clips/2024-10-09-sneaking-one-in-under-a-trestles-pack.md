@@ -7,7 +7,7 @@ video_id: "30yeRSH74w8"
 thumbnail: "https://i.ytimg.com/vi/30yeRSH74w8/maxresdefault.jpg"
 tags: ["surfing trestles", "surfing southern california", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 12
 ---
 <div class="video-embed">

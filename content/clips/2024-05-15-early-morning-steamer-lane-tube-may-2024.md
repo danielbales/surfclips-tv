@@ -7,7 +7,7 @@ video_id: "xSAqh7yWJ1U"
 thumbnail: "https://i.ytimg.com/vi/xSAqh7yWJ1U/maxresdefault.jpg"
 tags: ["surfing steamer lane", "surfing california", "unedited surfing", "surf cam", "raw surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 7
 ---
 <div class="video-embed">

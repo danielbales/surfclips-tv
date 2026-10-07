@@ -7,7 +7,7 @@ video_id: "WuxouJBvwDw"
 thumbnail: "https://i.ytimg.com/vi/WuxouJBvwDw/maxresdefault.jpg"
 tags: ["2023 Eddie Aikau Big Wave Invitational", "surfing waimea bay", "unedited surfing", "surf cam", "big wave surfing", "john john florence", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 42
 ---
 <div class="video-embed">

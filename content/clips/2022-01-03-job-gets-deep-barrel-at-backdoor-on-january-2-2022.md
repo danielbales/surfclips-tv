@@ -7,7 +7,7 @@ video_id: "APYgp_-ACzY"
 thumbnail: "https://i.ytimg.com/vi/APYgp_-ACzY/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing backdoor", "unedited surfing", "surf cam", "raw surfing", "REEF OR POINT OR BEACH break surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 58
 ---
 <div class="video-embed">

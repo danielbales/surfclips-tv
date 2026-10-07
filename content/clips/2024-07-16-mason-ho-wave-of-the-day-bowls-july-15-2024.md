@@ -7,7 +7,7 @@ video_id: "3haJ3tLQo4s"
 thumbnail: "https://i.ytimg.com/vi/3haJ3tLQo4s/maxresdefault.jpg"
 tags: ["surfing ala moana bowls", "surf cam", "raw surfing", "mason ho", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 45
 ---
 <div class="video-embed">

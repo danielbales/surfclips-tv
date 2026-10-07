@@ -7,7 +7,7 @@ video_id: "LpMVVWLYf1U"
 thumbnail: "https://i.ytimg.com/vi/LpMVVWLYf1U/maxresdefault.jpg"
 tags: ["wilbur kookmeyer", "surfcomic", "claymation", "surfing", "surf clips", "cortez bank", "big wave surfing", "surf humor", "funny surf video", "surf animation"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 47
 visibility: "unlisted"
 ---

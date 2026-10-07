@@ -7,7 +7,7 @@ video_id: "Z_MWdDTXfn0"
 thumbnail: "https://i.ytimg.com/vi/Z_MWdDTXfn0/sddefault.jpg"
 tags: ["supertubos surf", "portugal waves", "perfect wave"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 8
 ---
 <div class="video-embed">

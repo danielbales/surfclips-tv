@@ -7,7 +7,7 @@ video_id: "lcsmTH1Fb34"
 thumbnail: "https://i.ytimg.com/vi/lcsmTH1Fb34/maxresdefault.jpg"
 tags: ["al cleland jr", "2025 pipeline pro"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 53
 ---
 <div class="video-embed">

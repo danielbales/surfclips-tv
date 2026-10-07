@@ -7,7 +7,7 @@ video_id: "WOUqKHi5QWU"
 thumbnail: "https://i.ytimg.com/vi/WOUqKHi5QWU/maxresdefault.jpg"
 tags: ["surfing mavericks", "big wav e surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 41
 ---
 <div class="video-embed">

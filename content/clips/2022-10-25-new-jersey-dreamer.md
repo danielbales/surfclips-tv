@@ -7,7 +7,7 @@ video_id: "WeR9MzpLTs0"
 thumbnail: "https://i.ytimg.com/vi/WeR9MzpLTs0/maxresdefault.jpg"
 tags: ["ben gravy", "new jersey surf", "winter surf new jersey"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 11
 ---
 <div class="video-embed">

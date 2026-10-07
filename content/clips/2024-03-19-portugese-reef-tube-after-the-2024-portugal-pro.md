@@ -7,7 +7,7 @@ video_id: "fNpvJCkWCLI"
 thumbnail: "https://i.ytimg.com/vi/fNpvJCkWCLI/maxresdefault.jpg"
 tags: ["surfing portugal", "surfing pedra branca", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 6
 ---
 <div class="video-embed">

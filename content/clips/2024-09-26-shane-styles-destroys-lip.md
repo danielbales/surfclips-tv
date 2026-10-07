@@ -7,7 +7,7 @@ video_id: "Pu-ke15KovU"
 thumbnail: "https://i.ytimg.com/vi/Pu-ke15KovU/maxresdefault.jpg"
 tags: ["surfing ventura", "surfing indonesia", "unedited surfing", "surf cam", "raw surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 7
 ---
 <div class="video-embed">

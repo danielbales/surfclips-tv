@@ -7,7 +7,7 @@ video_id: "10yFxpQrT8k"
 thumbnail: "https://i.ytimg.com/vi/10yFxpQrT8k/maxresdefault.jpg"
 tags: ["surfing 2024 backdoor shootout", "unedited surfing", "surf cam", "raw surfing", "noa deane", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 13
 ---
 <div class="video-embed">

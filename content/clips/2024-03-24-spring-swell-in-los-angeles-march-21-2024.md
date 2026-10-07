@@ -7,7 +7,7 @@ video_id: "9Ai-0b7h8sQ"
 thumbnail: "https://i.ytimg.com/vi/9Ai-0b7h8sQ/maxresdefault.jpg"
 tags: ["surfing zuma beach", "surfing los angeles", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 6
 ---
 <div class="video-embed">

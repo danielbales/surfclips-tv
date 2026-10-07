@@ -7,7 +7,7 @@ video_id: "fWYMtSp2QGE"
 thumbnail: "https://i.ytimg.com/vi/fWYMtSp2QGE/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing 2022 portugal pro supertubos", "unedited surfing", "surf cam", "raw surfing", "filipe toledo", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 41
 ---
 <div class="video-embed">

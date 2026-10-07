@@ -7,7 +7,7 @@ video_id: "g5RzbMpvTS4"
 thumbnail: "https://i.ytimg.com/vi/g5RzbMpvTS4/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing mason ho", "unedited surfing", "surf cam", "raw surfing", "north shore surf", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 54
 ---
 <div class="video-embed">

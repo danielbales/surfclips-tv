@@ -7,7 +7,7 @@ video_id: "5EM6obbeUtE"
 thumbnail: "https://i.ytimg.com/vi/5EM6obbeUtE/maxresdefault.jpg"
 tags: ["surfing southern california", "surfing lower trestles", "unedited surfing", "surf cam", "raw surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 14
 ---
 <div class="video-embed">

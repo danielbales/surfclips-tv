@@ -7,7 +7,7 @@ video_id: "VM2iWYoKq0Y"
 thumbnail: "https://i.ytimg.com/vi/VM2iWYoKq0Y/hqdefault.jpg"
 tags: ["surfing hawaii", "surfing backdoor pipeline", "unedited surfing", "surf cam", "raw surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 20
 ---
 <div class="video-embed">

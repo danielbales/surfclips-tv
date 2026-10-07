@@ -7,7 +7,7 @@ video_id: "XwHxA5TXHPQ"
 thumbnail: "https://i.ytimg.com/vi/XwHxA5TXHPQ/maxresdefault.jpg"
 tags: ["surfing indonesia", "surfing nias sumatra lagrundi bay", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 60
 ---
 <div class="video-embed">

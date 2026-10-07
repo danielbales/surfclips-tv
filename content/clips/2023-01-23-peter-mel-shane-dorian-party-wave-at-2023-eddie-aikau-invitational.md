@@ -7,7 +7,7 @@ video_id: "Z-3283wH4cY"
 thumbnail: "https://i.ytimg.com/vi/Z-3283wH4cY/maxresdefault.jpg"
 tags: ["2023 eddie aikau invitational", "surfing waimea bay", "unedited surfing", "surf cam", "raw surfing", "peter mel", "shane dorian", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 51
 ---
 <div class="video-embed">

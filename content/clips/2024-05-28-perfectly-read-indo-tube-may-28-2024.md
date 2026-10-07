@@ -7,7 +7,7 @@ video_id: "eMWQaZKPYTs"
 thumbnail: "https://i.ytimg.com/vi/eMWQaZKPYTs/maxresdefault.jpg"
 tags: ["surfing bali", "surfing padang padang", "unedited surfing", "surf cam", "raw surfing", "mason ho", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 17
 ---
 <div class="video-embed">

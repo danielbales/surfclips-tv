@@ -7,7 +7,7 @@ video_id: "ya9TS9WvCtI"
 thumbnail: "https://i.ytimg.com/vi/ya9TS9WvCtI/maxresdefault.jpg"
 tags: ["surfing tahiti", "surfing 2022 tahiti pro teahupoo", "unedited surfing", "surf cam", "raw surfing", "yago dora", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 7
 ---
 <div class="video-embed">

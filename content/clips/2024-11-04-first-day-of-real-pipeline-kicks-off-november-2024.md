@@ -7,7 +7,7 @@ video_id: "IxQcaep7PY4"
 thumbnail: "https://i.ytimg.com/vi/IxQcaep7PY4/maxresdefault.jpg"
 tags: ["surfing hawaii", "pipeline surf", "surf cam", "raw surfing", "jamie obrien", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 4
 ---
 <div class="video-embed">

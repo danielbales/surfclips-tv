@@ -7,7 +7,7 @@ video_id: "iVW0F7wdoNI"
 thumbnail: "https://i.ytimg.com/vi/iVW0F7wdoNI/maxresdefault.jpg"
 tags: ["surfing mexico", "surfing puerto Escondido", "unedited surfing", "surf cam", "raw surfing", "big wave surfing", "coco nogales", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 46
 ---
 <div class="video-embed">

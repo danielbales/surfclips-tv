@@ -7,7 +7,7 @@ video_id: "dOq8PuUAm0I"
 thumbnail: "https://i.ytimg.com/vi/dOq8PuUAm0I/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing sunset beach", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 34
 ---
 <div class="video-embed">

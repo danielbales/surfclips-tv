@@ -7,7 +7,7 @@ video_id: "FctdMq3Xfoc"
 thumbnail: "https://i.ytimg.com/vi/FctdMq3Xfoc/maxresdefault.jpg"
 tags: ["backdoor surf", "pipeline surf", "perfect waves", "surf wipeout"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 41
 ---
 <div class="video-embed">

@@ -7,7 +7,7 @@ video_id: "_6t2ec23qBs"
 thumbnail: "https://i.ytimg.com/vi/_6t2ec23qBs/maxresdefault.jpg"
 tags: ["Kelly Slater", "pipeline Pro", "perfect barrel"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 10
 ---
 <div class="video-embed">

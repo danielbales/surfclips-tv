@@ -7,7 +7,7 @@ video_id: "19VYypvsi_A"
 thumbnail: "https://i.ytimg.com/vi/19VYypvsi_A/maxresdefault.jpg"
 tags: ["surfing nias", "surfing indonesia", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 8
 ---
 <div class="video-embed">

@@ -7,7 +7,7 @@ video_id: "Mz5oMLEkYNk"
 thumbnail: "https://i.ytimg.com/vi/Mz5oMLEkYNk/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing pipeline", "unedited surfing", "surf cam", "raw surfing", "2022 pipeline masters surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 57
 ---
 <div class="video-embed">

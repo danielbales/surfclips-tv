@@ -7,7 +7,7 @@ video_id: "vwRuJEFFrVk"
 thumbnail: "https://i.ytimg.com/vi/vwRuJEFFrVk/maxresdefault.jpg"
 tags: ["surfing australia", "surfing the box", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 6
 ---
 <div class="video-embed">

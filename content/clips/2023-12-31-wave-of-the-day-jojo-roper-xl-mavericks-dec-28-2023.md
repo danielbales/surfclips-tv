@@ -7,7 +7,7 @@ video_id: "o9-0uJPBB2E"
 thumbnail: "https://i.ytimg.com/vi/o9-0uJPBB2E/maxresdefault.jpg"
 tags: ["surfing mavericks xl", "surfing wave of the day surfline", "unedited surfing", "surf cam", "raw surfing", "jojo roper", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 47
 ---
 <div class="video-embed">

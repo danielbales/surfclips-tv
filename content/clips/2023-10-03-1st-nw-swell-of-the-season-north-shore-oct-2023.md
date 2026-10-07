@@ -7,7 +7,7 @@ video_id: "jMpkgAD5fAc"
 thumbnail: "https://i.ytimg.com/vi/jMpkgAD5fAc/maxresdefault.jpg"
 tags: ["rocky point surf", "John John Florence"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 5
 ---
 <div class="video-embed">

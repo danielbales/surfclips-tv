@@ -7,7 +7,7 @@ video_id: "SJp11Yq40hs"
 thumbnail: "https://i.ytimg.com/vi/SJp11Yq40hs/maxresdefault.jpg"
 tags: ["surf wipeout", "surf snake", "backdoor surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 44
 ---
 <div class="video-embed">

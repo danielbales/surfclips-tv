@@ -7,7 +7,7 @@ video_id: "Nrw27SnowOg"
 thumbnail: "https://i.ytimg.com/vi/Nrw27SnowOg/maxresdefault.jpg"
 tags: ["xl pipeline", "pipeline christmas", "perfect wave", "perfect surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 7
 ---
 <div class="video-embed">

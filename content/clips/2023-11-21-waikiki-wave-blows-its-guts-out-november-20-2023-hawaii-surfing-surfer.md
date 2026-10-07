@@ -7,7 +7,7 @@ video_id: "Je5O87ytl2Q"
 thumbnail: "https://i.ytimg.com/vi/Je5O87ytl2Q/maxresdefault.jpg"
 tags: ["surfing waikiki", "surfing kewalos", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 9
 ---
 <div class="video-embed">

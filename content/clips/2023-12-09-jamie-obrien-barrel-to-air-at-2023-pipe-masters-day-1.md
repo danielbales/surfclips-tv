@@ -7,7 +7,7 @@ video_id: "1KWwhYoV-x0"
 thumbnail: "https://i.ytimg.com/vi/1KWwhYoV-x0/maxresdefault.jpg"
 tags: ["surfing 2023 pipeline masters", "jamie obrien", "unedited surfing", "surf cam", "raw surfing", "job vlogs", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 52
 ---
 <div class="video-embed">

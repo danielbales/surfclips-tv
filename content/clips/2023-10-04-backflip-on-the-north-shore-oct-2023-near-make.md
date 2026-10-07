@@ -7,7 +7,7 @@ video_id: "tm3deId6mrM"
 thumbnail: "https://i.ytimg.com/vi/tm3deId6mrM/maxresdefault.jpg"
 tags: ["North shore surf", "rocky point Oahu", "balaram stack Hawaii"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 4
 ---
 <div class="video-embed">

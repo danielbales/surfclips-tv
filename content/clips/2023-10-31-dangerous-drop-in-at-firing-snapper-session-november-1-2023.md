@@ -7,7 +7,7 @@ video_id: "B8gRiqGyr8E"
 thumbnail: "https://i.ytimg.com/vi/B8gRiqGyr8E/maxresdefault.jpg"
 tags: ["surfing australia", "surfing snapper rocks wipeout", "unedited surfing", "surf cam", "raw surfing", "gold coast surf", "mick fanning", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 37
 ---
 <div class="video-embed">

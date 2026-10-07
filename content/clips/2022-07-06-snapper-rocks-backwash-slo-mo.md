@@ -7,7 +7,7 @@ video_id: "HpjBlCj5dU4"
 thumbnail: "https://i.ytimg.com/vi/HpjBlCj5dU4/maxresdefault.jpg"
 tags: ["surfing australia", "surfing snapper rocks", "unedited surfing", "surf cam", "raw surfing", "POINT break surfing", "joel parkinson", "mick fanning", "jagger bartholemew", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 9
 ---
 <div class="video-embed">

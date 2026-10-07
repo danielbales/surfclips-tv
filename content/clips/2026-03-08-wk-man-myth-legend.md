@@ -7,7 +7,7 @@ video_id: "vmfdbML7zgk"
 thumbnail: "https://i.ytimg.com/vi/vmfdbML7zgk/maxresdefault.jpg"
 tags: ["wilbur kookmeyer"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 25
 visibility: "unlisted"
 ---

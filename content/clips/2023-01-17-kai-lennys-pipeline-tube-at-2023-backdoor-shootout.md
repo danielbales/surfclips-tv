@@ -7,7 +7,7 @@ video_id: "-6epV38JjHE"
 thumbnail: "https://i.ytimg.com/vi/-6epV38JjHE/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing 2023 backdoor shootout", "unedited surfing", "surf cam", "raw surfing", "north shore surf", "kai lenny", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 44
 ---
 <div class="video-embed">

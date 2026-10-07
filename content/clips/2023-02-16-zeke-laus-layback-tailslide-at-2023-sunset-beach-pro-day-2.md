@@ -7,7 +7,7 @@ video_id: "90LBIP954wY"
 thumbnail: "https://i.ytimg.com/vi/90LBIP954wY/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing 2023 hurley pro sunset beach", "unedited surfing", "surf cam", "raw surfing", "ezekiel lau", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 50
 ---
 <div class="video-embed">

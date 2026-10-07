@@ -7,7 +7,7 @@ video_id: "HCGsumGKlac"
 thumbnail: "https://i.ytimg.com/vi/HCGsumGKlac/maxresdefault.jpg"
 tags: ["surfing mexico", "surfing puerto escondido", "unedited surfing", "surf cam", "raw surfing", "big wave surfing", "nathan florence puerto", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 35
 ---
 <div class="video-embed">

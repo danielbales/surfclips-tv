@@ -7,7 +7,7 @@ video_id: "i6YB8BXujRU"
 thumbnail: "https://i.ytimg.com/vi/i6YB8BXujRU/maxresdefault.jpg"
 tags: ["surfing hurricane lee", "lido beach surf", "surf cam", "raw surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 46
 ---
 <div class="video-embed">

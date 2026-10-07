@@ -7,7 +7,7 @@ video_id: "xd9Wz3jaj_U"
 thumbnail: "https://i.ytimg.com/vi/xd9Wz3jaj_U/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing backdoor", "raw surfing", "kelly slater", "ocean waves with sound", "big surf", "ocean", "waves", "surfline rewind", "perfect surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 50
 ---
 <div class="video-embed">

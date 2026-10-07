@@ -7,7 +7,7 @@ video_id: "kK-A2kKrf8c"
 thumbnail: "https://i.ytimg.com/vi/kK-A2kKrf8c/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing backdoor pipeline", "unedited surfing", "surf cam", "raw surfing", "north shore surf", "mason ho", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 44
 ---
 <div class="video-embed">

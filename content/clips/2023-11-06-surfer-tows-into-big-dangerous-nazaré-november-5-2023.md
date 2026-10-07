@@ -7,7 +7,7 @@ video_id: "I8naHRP7eoM"
 thumbnail: "https://i.ytimg.com/vi/I8naHRP7eoM/maxresdefault.jpg"
 tags: ["surfing portugal", "ciaran surf", "unedited surfing", "surf cam", "raw surfing", "nazare surf", "nic von rupp", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 37
 ---
 <div class="video-embed">

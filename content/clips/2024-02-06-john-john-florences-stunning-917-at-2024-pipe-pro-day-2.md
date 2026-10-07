@@ -7,7 +7,7 @@ video_id: "8_rDWUdfQx4"
 thumbnail: "https://i.ytimg.com/vi/8_rDWUdfQx4/maxresdefault.jpg"
 tags: ["surfing 2024 pipe pro", "john john florence", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 59
 ---
 <div class="video-embed">

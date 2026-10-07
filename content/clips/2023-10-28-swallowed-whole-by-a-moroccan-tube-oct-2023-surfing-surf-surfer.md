@@ -7,7 +7,7 @@ video_id: "aqbNJ38EtMg"
 thumbnail: "https://i.ytimg.com/vi/aqbNJ38EtMg/maxresdefault.jpg"
 tags: ["surfing morocco", "surfing safi", "xl surf atlantic", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 8
 ---
 <div class="video-embed">

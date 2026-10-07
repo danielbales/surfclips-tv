@@ -7,7 +7,7 @@ video_id: "N32gtNRyVyE"
 thumbnail: "https://i.ytimg.com/vi/N32gtNRyVyE/maxresdefault.jpg"
 tags: ["koa Smith", "backdoor pipeline", "perfect barrel"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 12
 ---
 <div class="video-embed">

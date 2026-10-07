@@ -7,7 +7,7 @@ video_id: "yzgUgfk2dYo"
 thumbnail: "https://i.ytimg.com/vi/yzgUgfk2dYo/maxresdefault.jpg"
 tags: ["surfing pipeline", "this is livin", "surf cam", "raw surfing", "koa rothman", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 36
 ---
 <div class="video-embed">

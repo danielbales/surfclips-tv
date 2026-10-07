@@ -7,7 +7,7 @@ video_id: "2NH1P_JLLUo"
 thumbnail: "https://i.ytimg.com/vi/2NH1P_JLLUo/maxresdefault.jpg"
 tags: ["surfing 2022 pipeline masters", "surfing backdoor pipeline", "unedited surfing", "surf cam", "raw surfing", "eithan osbourne", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 48
 ---
 <div class="video-embed">

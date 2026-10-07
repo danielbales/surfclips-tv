@@ -7,7 +7,7 @@ video_id: "gg1iEEt_7Uw"
 thumbnail: "https://i.ytimg.com/vi/gg1iEEt_7Uw/maxresdefault.jpg"
 tags: ["surfing australia", "snapper rocks surf", "surf wipeout", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves", "surfline rewind"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 7
 ---
 <div class="video-embed">

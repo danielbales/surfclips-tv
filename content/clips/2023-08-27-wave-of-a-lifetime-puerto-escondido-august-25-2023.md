@@ -7,7 +7,7 @@ video_id: "KbpRhvWnwJI"
 thumbnail: "https://i.ytimg.com/vi/KbpRhvWnwJI/maxresdefault.jpg"
 tags: ["big wave surfing", "xxl mexico surf", "xl surf", "puerto escondido", "playa zicatela"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 46
 ---
 <div class="video-embed">

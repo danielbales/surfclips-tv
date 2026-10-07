@@ -7,7 +7,7 @@ video_id: "iDTvA5mK43A"
 thumbnail: "https://i.ytimg.com/vi/iDTvA5mK43A/maxresdefault.jpg"
 tags: ["2023 eddie aikau", "surfing waimea bay", "unedited surfing", "surf cam", "raw surfing", "Keala kennelly", "surf fail", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 45
 ---
 <div class="video-embed">

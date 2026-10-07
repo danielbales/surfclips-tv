@@ -7,7 +7,7 @@ video_id: "rAgxgF3xi30"
 thumbnail: "https://i.ytimg.com/vi/rAgxgF3xi30/maxresdefault.jpg"
 tags: ["surfing indonesia", "surfing padang padang", "unedited surfing", "surf cam", "raw surfing", "REEF break surfing", "bali surf", "rizal tanjung", "mental therapy", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 17
 ---
 <div class="video-embed">

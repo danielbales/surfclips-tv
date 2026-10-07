@@ -7,7 +7,7 @@ video_id: "ISAu9XjOLVs"
 thumbnail: "https://i.ytimg.com/vi/ISAu9XjOLVs/maxresdefault.jpg"
 tags: ["surf", "ian gentil", "honolua bay", "maui surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 14
 ---
 <div class="video-embed">

@@ -7,7 +7,7 @@ video_id: "1ioi9qWXkYw"
 thumbnail: "https://i.ytimg.com/vi/1ioi9qWXkYw/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing rocky point", "unedited surfing", "surf cam", "raw surfing", "john john florence", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 11
 ---
 <div class="video-embed">

@@ -7,7 +7,7 @@ video_id: "82_PhiACLE0"
 thumbnail: "https://i.ytimg.com/vi/82_PhiACLE0/maxresdefault.jpg"
 tags: ["backdoor pipeline", "2023 winter surf Hawaii"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 6
 ---
 <div class="video-embed">

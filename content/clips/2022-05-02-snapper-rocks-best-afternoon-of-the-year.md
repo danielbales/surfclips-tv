@@ -7,7 +7,7 @@ video_id: "NE3imNiIols"
 thumbnail: "https://i.ytimg.com/vi/NE3imNiIols/maxresdefault.jpg"
 tags: ["surfing australia", "surfing snapper rocks", "unedited surfing", "surf cam", "raw surfing", "POINt break surfing", "sheldon simkus", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 45
 ---
 <div class="video-embed">

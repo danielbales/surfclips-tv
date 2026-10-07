@@ -7,7 +7,7 @@ video_id: "cr6m0y1cDSE"
 thumbnail: "https://i.ytimg.com/vi/cr6m0y1cDSE/maxresdefault.jpg"
 tags: ["surfing backdoor pipeline", "kelly slater", "big surf", "ocean", "waves", "surfline rewind", "good to epic", "perfect surf", "surf video"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 8
 ---
 <div class="video-embed">

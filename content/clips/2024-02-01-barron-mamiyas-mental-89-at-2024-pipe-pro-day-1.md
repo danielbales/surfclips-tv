@@ -7,7 +7,7 @@ video_id: "hdjl_mQq5lk"
 thumbnail: "https://i.ytimg.com/vi/hdjl_mQq5lk/maxresdefault.jpg"
 tags: ["surfing 2024 pipe pro", "unedited surfing", "surf cam", "raw surfing", "barron mamiya", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 8
 ---
 <div class="video-embed">

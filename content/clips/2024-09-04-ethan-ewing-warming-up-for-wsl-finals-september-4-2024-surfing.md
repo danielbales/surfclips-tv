@@ -7,7 +7,7 @@ video_id: "azjtx7Qhxbs"
 thumbnail: "https://i.ytimg.com/vi/azjtx7Qhxbs/maxresdefault.jpg"
 tags: ["surfing lower trestles", "surfing san clemente", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 16
 ---
 <div class="video-embed">

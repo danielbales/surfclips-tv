@@ -7,7 +7,7 @@ video_id: "upn64DnJGmo"
 thumbnail: "https://i.ytimg.com/vi/upn64DnJGmo/maxresdefault.jpg"
 tags: ["surfing mexico", "surfing puerto escondido", "hawk tuah", "surf cam", "raw surfing", "kelly slater", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 10
 ---
 <div class="video-embed">

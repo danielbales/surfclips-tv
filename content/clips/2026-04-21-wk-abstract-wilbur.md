@@ -7,7 +7,7 @@ video_id: "Cb1naYMU-Do"
 thumbnail: "https://i.ytimg.com/vi/Cb1naYMU-Do/maxresdefault.jpg"
 tags: ["wave pool", "how to surf", "teahupoo", "biggest wave ever surfed", "sea waves", "boogie boarding", "big waves in the ocean", "surfing videos", "pacific ocean waves", "surfing pov"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 35
 ---
 <div class="video-embed">

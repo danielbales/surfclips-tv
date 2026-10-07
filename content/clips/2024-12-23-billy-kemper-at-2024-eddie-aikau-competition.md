@@ -7,7 +7,7 @@ video_id: "DVlcb5OXlug"
 thumbnail: "https://i.ytimg.com/vi/DVlcb5OXlug/maxresdefault.jpg"
 tags: ["2024 eddie aikau", "billy kemper", "surf wipeout"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 45
 ---
 <div class="video-embed">

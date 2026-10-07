@@ -7,7 +7,7 @@ video_id: "MnqxHaUKE2E"
 thumbnail: "https://i.ytimg.com/vi/MnqxHaUKE2E/maxresdefault.jpg"
 tags: ["pipeline surf xl", "perfect wave", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 6
 ---
 <div class="video-embed">

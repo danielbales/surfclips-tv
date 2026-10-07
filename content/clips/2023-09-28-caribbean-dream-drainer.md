@@ -7,7 +7,7 @@ video_id: "gO_lfVc5z30"
 thumbnail: "https://i.ytimg.com/vi/gO_lfVc5z30/maxresdefault.jpg"
 tags: ["barbados surf", "soup bowl surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 6
 ---
 <div class="video-embed">

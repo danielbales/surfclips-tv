@@ -7,7 +7,7 @@ video_id: "Cs24YocXJX4"
 thumbnail: "https://i.ytimg.com/vi/Cs24YocXJX4/maxresdefault.jpg"
 tags: ["surfing north carolina", "surfing hurricane fiona", "unedited surfing", "surf cam", "raw surfing", "outer banks surf", "brett barley surf", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 48
 ---
 <div class="video-embed">

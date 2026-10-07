@@ -7,7 +7,7 @@ video_id: "zsJ6opF3XGU"
 thumbnail: "https://i.ytimg.com/vi/zsJ6opF3XGU/maxresdefault.jpg"
 tags: ["surfing orange county", "56th street newport beach surf", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 36
 ---
 <div class="video-embed">

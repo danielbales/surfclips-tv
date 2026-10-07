@@ -7,7 +7,7 @@ video_id: "wka4MbQFZG8"
 thumbnail: "https://i.ytimg.com/vi/wka4MbQFZG8/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing backdoor", "unedited surfing", "surf cam", "raw surfing", "john john florence", "mental health", "big surf", "ocean", "waves"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 22
 ---
 <div class="video-embed">

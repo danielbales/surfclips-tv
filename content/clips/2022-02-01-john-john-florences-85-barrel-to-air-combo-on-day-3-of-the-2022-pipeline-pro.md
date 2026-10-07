@@ -7,7 +7,7 @@ video_id: "1INgAm4G5CU"
 thumbnail: "https://i.ytimg.com/vi/1INgAm4G5CU/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing pipeline", "unedited surfing", "surf cam", "raw surfing", "2022 pipeline pro surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 44
 ---
 <div class="video-embed">

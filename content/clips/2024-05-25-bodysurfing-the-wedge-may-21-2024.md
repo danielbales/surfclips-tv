@@ -7,7 +7,7 @@ video_id: "uM1k2-VUyXs"
 thumbnail: "https://i.ytimg.com/vi/uM1k2-VUyXs/maxresdefault.jpg"
 tags: ["bodysurfing the wedge", "bodysurfing california", "unedited surfing", "surf cam", "raw surfing", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 6
 ---
 <div class="video-embed">

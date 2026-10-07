@@ -7,7 +7,7 @@ video_id: "5DcgngYZIn8"
 thumbnail: "https://i.ytimg.com/vi/5DcgngYZIn8/maxresdefault.jpg"
 tags: ["surfing california", "surfing lower trestles", "unedited surfing", "surf cam", "raw surfing", "POINT break surfing", "kolohe andino", "filipe toledo", "chris ward", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 13
 ---
 <div class="video-embed">

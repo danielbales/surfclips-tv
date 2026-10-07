@@ -7,7 +7,7 @@ video_id: "eH02bm505fk"
 thumbnail: "https://i.ytimg.com/vi/eH02bm505fk/maxresdefault.jpg"
 tags: ["surfing barbados", "soup bowl surf"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 47
 ---
 <div class="video-embed">

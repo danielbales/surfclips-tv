@@ -143,22 +143,31 @@ def parse_duration(iso):
     return h * 3600 + mn * 60 + s
 
 
-def is_vertical(thumbnails):
-    """Check if video is vertical (portrait) based on thumbnail dimensions."""
-    for quality in ("standard", "high", "medium", "default"):
-        thumb = thumbnails.get(quality, {})
-        w, h = thumb.get("width", 0), thumb.get("height", 0)
-        if w and h:
-            return h > w
-    return False
+def is_youtube_short(video_id, retries=3):
+    """Check if a video is a YouTube Short by testing the /shorts/ URL."""
+    import time
+    import urllib.request
+    url = f"https://www.youtube.com/shorts/{video_id}"
+    for attempt in range(retries):
+        req = urllib.request.Request(url, method="HEAD")
+        req.add_header("User-Agent", "Mozilla/5.0")
+        try:
+            resp = urllib.request.urlopen(req, timeout=10)
+            return "/shorts/" in resp.geturl()
+        except Exception:
+            if attempt < retries - 1:
+                time.sleep(2 ** attempt)
+    return None  # Unknown - could not determine
 
 
-def classify_video(title, duration_secs, thumbnails=None):
+def classify_video(title, duration_secs, video_id=None):
     """Classify video as 'short', 'top10', or 'clip'."""
     if re.search(r"top\s*10", title, re.IGNORECASE):
         return "top10"
-    if duration_secs <= 60 and is_vertical(thumbnails or {}):
-        return "short"
+    if duration_secs <= 60 and video_id:
+        result = is_youtube_short(video_id)
+        if result is True:
+            return "short"
     return "clip"
 
 
@@ -241,7 +250,7 @@ def generate_page(video):
     view_count = int(video.get("statistics", {}).get("viewCount", 0))
 
     # Classify
-    kind = classify_video(title, duration_secs, thumbnails)
+    kind = classify_video(title, duration_secs, video_id)
 
     # Best thumbnail available — construct clean URL from video ID to avoid
     # tokenized URLs (with ?sqp=...&rs=...) that YouTube returns for freshly
@@ -306,8 +315,10 @@ views: {view_count}
 
 # --- Main ---
 
-def reclassify_existing(youtube):
-    """Re-check clip_type for existing 'short' pages using thumbnail aspect ratio."""
+def reclassify_existing():
+    """Re-check clip_type for existing 'short' pages using YouTube /shorts/ URL."""
+    import time
+
     short_files = {}
     for f in CONTENT_DIR.glob("*.md"):
         text = f.read_text()
@@ -321,24 +332,29 @@ def reclassify_existing(youtube):
         print("No shorts to reclassify.")
         return 0
 
-    print(f"Checking {len(short_files)} shorts for misclassification...")
-    video_ids = list(short_files.keys())
-    videos = fetch_video_details(youtube, video_ids)
+    total = len(short_files)
+    print(f"Checking {total} shorts for misclassification...", flush=True)
 
     fixed = 0
-    for video in videos:
-        vid = video["id"]
-        thumbnails = video["snippet"].get("thumbnails", {})
-        if not is_vertical(thumbnails):
-            # Misclassified - should be "clip" not "short"
-            f = short_files[vid]
+    skipped = 0
+    for i, (vid, f) in enumerate(short_files.items()):
+        result = is_youtube_short(vid)
+        if result is None:
+            skipped += 1
+        elif result is False:
             text = f.read_text()
+            title_m = re.search(r'^title:\s*"(.+)"', text, re.MULTILINE)
+            title = title_m.group(1) if title_m else vid
             text = text.replace('clip_type: "short"', 'clip_type: "clip"')
             f.write_text(text)
-            title = video["snippet"]["title"]
-            print(f"  Reclassified: {title}")
+            print(f"  Reclassified: {title}", flush=True)
             fixed += 1
+        if (i + 1) % 100 == 0:
+            print(f"  Checked {i + 1}/{total} ({fixed} fixed, {skipped} skipped)...", flush=True)
+        time.sleep(0.5)
 
+    if skipped:
+        print(f"  ({skipped} videos could not be checked - rate limited)")
     return fixed
 
 
@@ -350,7 +366,7 @@ def main():
     youtube = get_youtube_client()
 
     if do_reclassify:
-        fixed = reclassify_existing(youtube)
+        fixed = reclassify_existing()
         print(f"Reclassified {fixed} videos from 'short' to 'clip'.")
         return
 

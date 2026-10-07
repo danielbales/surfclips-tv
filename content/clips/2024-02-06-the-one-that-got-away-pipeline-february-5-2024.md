@@ -7,7 +7,7 @@ video_id: "tI8ANZmbGyA"
 thumbnail: "https://i.ytimg.com/vi/tI8ANZmbGyA/maxresdefault.jpg"
 tags: ["2024 pipe pro", "surf cam", "raw surfing", "surf wipeout", "mental health", "mental therapy", "ocean waves with sound", "big surf", "ocean", "waves"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 11
 ---
 <div class="video-embed">

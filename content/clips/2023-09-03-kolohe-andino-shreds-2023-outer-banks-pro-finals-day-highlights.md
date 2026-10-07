@@ -7,7 +7,7 @@ video_id: "RUI2aqB-YA8"
 thumbnail: "https://i.ytimg.com/vi/RUI2aqB-YA8/maxresdefault.jpg"
 tags: ["2023 outer banks pro", "kolohe andino", "levi slawson", "surf cam", "raw surfing", "wsv pro 2023", "kelly slater", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 41
 ---
 <div class="video-embed">

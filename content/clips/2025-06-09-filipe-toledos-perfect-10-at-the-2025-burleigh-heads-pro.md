@@ -7,7 +7,7 @@ video_id: "W4A0clv9yFI"
 thumbnail: "https://i.ytimg.com/vi/W4A0clv9yFI/maxresdefault.jpg"
 tags: ["2025 burleigh heads pro", "filipe toledo"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 48
 ---
 <div class="video-embed">

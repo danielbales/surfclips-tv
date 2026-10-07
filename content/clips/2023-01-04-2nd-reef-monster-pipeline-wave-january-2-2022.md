@@ -7,7 +7,7 @@ video_id: "VYilAo8XK6c"
 thumbnail: "https://i.ytimg.com/vi/VYilAo8XK6c/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing pipeline", "unedited surfing", "surf cam", "raw surfing", "north shore surf", "kalani chapman", "mental health", "mental therapy", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 56
 ---
 <div class="video-embed">

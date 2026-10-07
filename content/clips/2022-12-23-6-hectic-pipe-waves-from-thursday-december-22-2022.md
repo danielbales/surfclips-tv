@@ -7,7 +7,7 @@ video_id: "Ps55ncYNCsE"
 thumbnail: "https://i.ytimg.com/vi/Ps55ncYNCsE/maxresdefault.jpg"
 tags: ["surfing hawaii", "surfing pipeline", "unedited surfing", "surf cam", "raw surfing", "north shore surf", "kelly slater", "john john florence", "mason ho", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 59
 ---
 <div class="video-embed">

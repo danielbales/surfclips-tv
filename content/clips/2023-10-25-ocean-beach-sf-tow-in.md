@@ -7,7 +7,7 @@ video_id: "HdyQfQ36rh4"
 thumbnail: "https://i.ytimg.com/vi/HdyQfQ36rh4/maxresdefault.jpg"
 tags: ["ocean Beach San Francisco surf", "tow in surfing", "big wave surfing"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 10
 ---
 <div class="video-embed">

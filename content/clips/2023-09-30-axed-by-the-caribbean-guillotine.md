@@ -7,7 +7,7 @@ video_id: "MwgrIdHvYjQ"
 thumbnail: "https://i.ytimg.com/vi/MwgrIdHvYjQ/maxresdefault.jpg"
 tags: ["Barbados surf", "soup bowl surf", "surf wipeout"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 5
 ---
 <div class="video-embed">

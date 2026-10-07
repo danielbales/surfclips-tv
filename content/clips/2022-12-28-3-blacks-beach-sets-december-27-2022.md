@@ -7,7 +7,7 @@ video_id: "H5kCB_xet3o"
 thumbnail: "https://i.ytimg.com/vi/H5kCB_xet3o/maxresdefault.jpg"
 tags: ["surfing san diego", "surfing blacks beach", "unedited surfing", "surf cam", "raw surfing", "joel tudor", "rob machado", "jojo roper", "mental therapy", "ocean waves with sound"]
 type: "clips"
-clip_type: "short"
+clip_type: "clip"
 duration: 53
 ---
 <div class="video-embed">
