@@ -10,7 +10,7 @@ type: "clips"
 clip_type: "top10"
 duration: 154
 visibility: "public"
-views: 11635
+views: 11643
 surfers:
   - "Ryan Callinan"
   - "Charger Media"
