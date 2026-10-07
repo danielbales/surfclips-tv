@@ -7,10 +7,10 @@ video_id: "YCk5cMGX1JM"
 thumbnail: "https://i.ytimg.com/vi/YCk5cMGX1JM/maxresdefault.jpg"
 tags: ["surf highlight", "Marco Micheletti", "nigeria surf"]
 type: "clips"
-clip_type: "clip"
+clip_type: "short"
 duration: 7
 visibility: "public"
-views: 18101
+views: 18121
 ---
 
 <div class="video-embed">

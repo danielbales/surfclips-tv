@@ -7,10 +7,10 @@ video_id: "WeqTGZ9-0RM"
 thumbnail: "https://i.ytimg.com/vi/WeqTGZ9-0RM/maxresdefault.jpg"
 tags: ["surf highlight", "sheldon paishon", "makaha surf", "surf wipeout"]
 type: "clips"
-clip_type: "clip"
+clip_type: "short"
 duration: 7
 visibility: "public"
-views: 13681
+views: 13801
 ---
 
 <div class="video-embed">

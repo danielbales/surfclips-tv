@@ -7,7 +7,7 @@ video_id: "Icn0Z3aqfZ8"
 thumbnail: "https://i.ytimg.com/vi/Icn0Z3aqfZ8/maxresdefault.jpg"
 tags: ["wilbur kookmeyer", "surf humor", "surfboards", "#Surfing", "gulliver's travels"]
 type: "clips"
-clip_type: "clip"
+clip_type: "short"
 duration: 6
 visibility: "public"
 views: 369

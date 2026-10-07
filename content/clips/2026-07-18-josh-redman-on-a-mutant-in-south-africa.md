@@ -7,10 +7,10 @@ video_id: "bstDTaxu92o"
 thumbnail: "https://i.ytimg.com/vi/bstDTaxu92o/maxresdefault.jpg"
 tags: ["surf highlight", "south africa", "big waves", "josh redman", "jordy smith"]
 type: "clips"
-clip_type: "clip"
+clip_type: "short"
 duration: 11
 visibility: "public"
-views: 3185
+views: 3194
 ---
 
 <div class="video-embed">

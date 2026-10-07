@@ -7,10 +7,10 @@ video_id: "Yq8mR-9qGjU"
 thumbnail: "https://i.ytimg.com/vi/Yq8mR-9qGjU/maxresdefault.jpg"
 tags: ["surf highlight", "nathan florence", "teahupoo surf"]
 type: "clips"
-clip_type: "clip"
+clip_type: "short"
 duration: 7
 visibility: "public"
-views: 3504
+views: 3581
 ---
 
 <div class="video-embed">

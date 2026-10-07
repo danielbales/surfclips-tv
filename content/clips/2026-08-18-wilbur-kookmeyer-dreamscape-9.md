@@ -7,10 +7,10 @@ video_id: "3ZNyQbOrsHE"
 thumbnail: "https://i.ytimg.com/vi/3ZNyQbOrsHE/maxresdefault.jpg"
 tags: ["wilbur kookmeyer", "surf humor", "surfboards", "#Surfing", "#SurfAnimation"]
 type: "clips"
-clip_type: "clip"
+clip_type: "short"
 duration: 9
 visibility: "public"
-views: 377
+views: 378
 ---
 
 <div class="video-embed">

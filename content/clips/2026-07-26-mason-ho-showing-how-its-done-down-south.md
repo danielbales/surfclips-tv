@@ -7,10 +7,10 @@ video_id: "Md2D-8JdXio"
 thumbnail: "https://i.ytimg.com/vi/Md2D-8JdXio/maxresdefault.jpg"
 tags: ["surf highlight", "mexico surf", "mason ho"]
 type: "clips"
-clip_type: "clip"
+clip_type: "short"
 duration: 10
 visibility: "public"
-views: 4692
+views: 4695
 ---
 
 <div class="video-embed">
