@@ -883,13 +883,13 @@ img { display: block; max-width: 100%; }
 }
 
 .product-cta {
-  display: inline-block;
-  margin-top: 0.65rem;
+  display: block;
+  text-align: center;
   background: var(--accent);
   color: #fff;
   font-size: 0.8rem;
   font-weight: 600;
-  padding: 0.45rem 1.2rem;
+  padding: 0.55rem 1.2rem;
   border-radius: 6px;
   transition: background 0.15s;
 }
@@ -917,9 +917,11 @@ img { display: block; max-width: 100%; }
 }
 
 .product-price {
-  font-size: 0.85rem;
+  display: block;
+  font-size: 1rem;
   font-weight: 700;
   color: var(--accent);
+  margin-bottom: 0.5rem;
 }
 
 /* ---- Footer ---- */
