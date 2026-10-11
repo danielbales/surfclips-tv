@@ -10,7 +10,7 @@ type: "clips"
 clip_type: "top10"
 duration: 182
 visibility: "public"
-views: 10352
+views: 10661
 surfers:
   - "John Florence"
   - "Jorgann Couzinet"
