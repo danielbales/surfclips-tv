@@ -1,7 +1,7 @@
 ---
 title: "Best of September 2026: Storm Season – Surf Clips TV"
 date: 2026-10-12T02:00:12Z
-draft: false
+draft: true
 description: "Wilbur merch! surfclips.tv/shop Hurricane Marie 2.0 at Newport Point and the Wedge, Typhoon 25 in Japan, and Southern Hemisphere groundswell from Bali..."
 video_id: "82S-hWipe5Y"
 thumbnail: "https://i.ytimg.com/vi/82S-hWipe5Y/maxresdefault.jpg"
@@ -9,8 +9,8 @@ tags: ["Bali", "Cloudbreak", "Fiji", "HUCK 2", "Hurricane Marie", "Japan surfing
 type: "clips"
 clip_type: "clip"
 duration: 619
-visibility: "public"
-views: 1267
+visibility: "private"
+views: 1889
 ---
 
 <div class="video-embed">
