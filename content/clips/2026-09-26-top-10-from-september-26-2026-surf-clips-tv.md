@@ -10,7 +10,7 @@ type: "clips"
 clip_type: "top10"
 duration: 169
 visibility: "public"
-views: 65504
+views: 65681
 surfers:
   - "Koa Smith"
   - "Mason Ho"
