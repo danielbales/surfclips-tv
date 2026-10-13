@@ -1,20 +1,20 @@
 ---
 title: "Chill Surf Session: 58 Minutes of Perfect Waves | Big Sur Beats"
-date: 2026-10-13T03:03:20Z
-draft: true
+date: 2026-10-13T16:05:14Z
+draft: false
 description: "58 minutes of calm, flowing surf set to a continuous instrumental dub reggae mix by Big Sur Beats. Glassy lines, clean barrels, long rides and golden..."
-video_id: "KPoa0T5Kb-U"
-thumbnail: "https://i.ytimg.com/vi/KPoa0T5Kb-U/maxresdefault.jpg"
+video_id: "cZLw_fa7fAg"
+thumbnail: "https://i.ytimg.com/vi/cZLw_fa7fAg/maxresdefault.jpg"
 tags: ["4K surf", "Balangan", "Bali surf", "Big Sur Beats", "Byron Bay", "Greenbush", "Impossibles", "Lances Right", "Mentawai", "Nias"]
 type: "clips"
 clip_type: "clip"
 duration: 3471
-visibility: "private"
-views: 1
+visibility: "public"
+views: 163
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/KPoa0T5Kb-U" title="Chill Surf Session: 58 Minutes of Perfect Waves | Big Sur Beats" allowfullscreen loading="lazy"></iframe>
+<iframe src="https://www.youtube.com/embed/cZLw_fa7fAg" title="Chill Surf Session: 58 Minutes of Perfect Waves | Big Sur Beats" allowfullscreen loading="lazy"></iframe>
 </div>
 
 58 minutes of calm, flowing surf set to a continuous instrumental dub reggae mix by Big Sur Beats. Glassy lines, clean barrels, long rides and golden light from the Mentawai Islands, Nias, Bali, El Salvador, Australia, California, Java and Mexico. No talking and no wipeouts, just waves. Put it on in the background to work, relax or unwind.
