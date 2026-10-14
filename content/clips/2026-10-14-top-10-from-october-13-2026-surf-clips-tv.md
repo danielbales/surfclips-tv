@@ -1,16 +1,16 @@
 ---
 title: "TOP 10 from October 13, 2026 – Surf Clips TV"
-date: 2026-10-14T14:20:22Z
+date: 2026-10-14T18:11:29Z
 draft: true
 description: "Surfing from Portugal, Bali, Hawaii & more."
-video_id: "VMJEu0vPFlM"
-thumbnail: "https://i.ytimg.com/vi/VMJEu0vPFlM/maxresdefault.jpg"
+video_id: "bKQkGFi-HWA"
+thumbnail: "https://i.ytimg.com/vi/bKQkGFi-HWA/maxresdefault.jpg"
 tags: ["Andy Criere", "Backdoor", "Bali", "Joao Chianca", "Keramas", "Ocean City", "Pipeline", "Portugal", "Rio Waida", "Supertubos"]
 type: "clips"
 clip_type: "top10"
-duration: 153
+duration: 158
 visibility: "private"
-views: 0
+views: 1
 surfers:
   - "Peyton Willard"
   - "Miguel Blanco"
@@ -22,7 +22,7 @@ surfers:
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/VMJEu0vPFlM" title="TOP 10 from October 13, 2026 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>
+<iframe src="https://www.youtube.com/embed/bKQkGFi-HWA" title="TOP 10 from October 13, 2026 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Surfing from Portugal, Bali, Hawaii & more.
