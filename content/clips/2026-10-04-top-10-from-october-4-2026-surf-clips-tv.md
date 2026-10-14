@@ -10,7 +10,7 @@ type: "clips"
 clip_type: "top10"
 duration: 290
 visibility: "public"
-views: 13487
+views: 13502
 surfers:
   - "Sheldon Paishon"
   - "Nathan Florence"
