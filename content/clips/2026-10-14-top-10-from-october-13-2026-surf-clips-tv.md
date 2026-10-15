@@ -1,14 +1,14 @@
 ---
 title: "TOP 10 from October 13, 2026 – Surf Clips TV"
-date: 2026-10-14T18:11:29Z
+date: 2026-10-14T19:33:29Z
 draft: true
 description: "Surfing from Portugal, Bali, Hawaii & more."
-video_id: "bKQkGFi-HWA"
-thumbnail: "https://i.ytimg.com/vi/bKQkGFi-HWA/maxresdefault.jpg"
+video_id: "W3v_FYxEzvI"
+thumbnail: "https://i.ytimg.com/vi/W3v_FYxEzvI/maxresdefault.jpg"
 tags: ["Andy Criere", "Backdoor", "Bali", "Joao Chianca", "Keramas", "Ocean City", "Pipeline", "Portugal", "Rio Waida", "Supertubos"]
 type: "clips"
 clip_type: "top10"
-duration: 158
+duration: 134
 visibility: "private"
 views: 1
 surfers:
@@ -22,7 +22,7 @@ surfers:
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/bKQkGFi-HWA" title="TOP 10 from October 13, 2026 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>
+<iframe src="https://www.youtube.com/embed/W3v_FYxEzvI" title="TOP 10 from October 13, 2026 – Surf Clips TV" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Surfing from Portugal, Bali, Hawaii & more.
