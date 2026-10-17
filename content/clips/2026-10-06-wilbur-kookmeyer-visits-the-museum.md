@@ -5,12 +5,12 @@ draft: false
 description: "Wilbur Kookmeyer like you've never seen him before - a tribute to surf culture's most lovable kook. Inspired by the legendary Surfer Magazine comic..."
 video_id: "2FKPHEOIFyk"
 thumbnail: "https://i.ytimg.com/vi/2FKPHEOIFyk/maxresdefault.jpg"
-tags: ["Wilbur Kookmeyer", "surf comedy", "modern art parody", "Surf Clips TV", "funny surfer animation", "surf art", "Wilbur Kookmeyer animation", "Bob Penuelas", "Surfer Magazine", "kook"]
+tags: ["Bob Penuelas", "Surf Clips TV", "Surfer Magazine", "Wilbur Kookmeyer", "Wilbur Kookmeyer animation", "abstract animation", "abstract surf art", "funny surfer animation", "kook", "modern art parody"]
 type: "clips"
 clip_type: "clip"
 duration: 35
 visibility: "public"
-views: 266
+views: 267
 ---
 
 <div class="video-embed">
