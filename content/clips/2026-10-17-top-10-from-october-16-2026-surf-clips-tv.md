@@ -1,6 +1,6 @@
 ---
 title: "TOP 10 from October 16, 2026 - Surf Clips TV"
-date: 2026-10-17T05:29:33Z
+date: 2026-10-17T14:11:18Z
 draft: true
 description: "Watch TOP 10 from October 16, 2026 - Surf Clips TV on Surf Clips TV."
 video_id: "qhrcNadcH1M"
@@ -10,7 +10,7 @@ type: "clips"
 clip_type: "top10"
 duration: 251
 visibility: "private"
-views: 2
+views: 4
 ---
 
 <div class="video-embed">
