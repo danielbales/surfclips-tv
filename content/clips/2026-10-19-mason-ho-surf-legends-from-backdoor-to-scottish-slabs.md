@@ -1,10 +1,10 @@
 ---
 title: "Mason Ho: Surf Legends | From Backdoor to Scottish Slabs"
-date: 2026-10-19T00:27:17Z
+date: 2026-10-19T04:38:01Z
 draft: true
 description: "Son of Michael Ho, nephew of the late world champion Derek Ho, and the surfer who swapped contest rankings for slabs nobody thought were surfable. From..."
-video_id: "v_hRIdzwEQs"
-thumbnail: "https://i.ytimg.com/vi/v_hRIdzwEQs/maxresdefault.jpg"
+video_id: "X-eRoYC98WM"
+thumbnail: "https://i.ytimg.com/vi/X-eRoYC98WM/maxresdefault.jpg"
 tags: ["Backdoor", "Backdoor Shootout", "Derek Ho", "Eddie Aikau", "French Polynesia", "Indonesia", "Mason Ho", "Michael Ho", "North Shore", "POV surfing"]
 type: "clips"
 clip_type: "clip"
@@ -14,7 +14,7 @@ views: 0
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/v_hRIdzwEQs" title="Mason Ho: Surf Legends | From Backdoor to Scottish Slabs" allowfullscreen loading="lazy"></iframe>
+<iframe src="https://www.youtube.com/embed/X-eRoYC98WM" title="Mason Ho: Surf Legends | From Backdoor to Scottish Slabs" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Son of Michael Ho, nephew of the late world champion Derek Ho, and the surfer who swapped contest rankings for slabs nobody thought were surfable. From Pipeline and Backdoor to Puerto Rico, Indonesia, French Polynesia and second place at the Eddie, this is the Mason Ho story.
