@@ -1,10 +1,10 @@
 ---
 title: "Top 7 Barrels in Mexico | Puerto Escondido & Oaxaca"
-date: 2026-10-20T03:58:37Z
+date: 2026-10-20T04:30:44Z
 draft: true
 description: "The 7 best barrels in Mexico, from the Mexican Pipeline at Puerto Escondido to the points of Oaxaca, with Al Cleland, Charly Quivront, Marcial Monreal,..."
-video_id: "6tynMc5nl6I"
-thumbnail: "https://i.ytimg.com/vi/6tynMc5nl6I/maxresdefault.jpg"
+video_id: "Fpa3yP8NAgA"
+thumbnail: "https://i.ytimg.com/vi/Fpa3yP8NAgA/maxresdefault.jpg"
 tags: ["Al Cleland", "Charly Quivront", "Marcial Monreal", "Mason Ho", "Mexican Pipeline", "Mexico", "Oaxaca", "Puerto Escondido", "Quetzal Estrada", "Zicatela"]
 type: "clips"
 clip_type: "clip"
@@ -14,7 +14,7 @@ views: 0
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/6tynMc5nl6I" title="Top 7 Barrels in Mexico | Puerto Escondido &amp; Oaxaca" allowfullscreen loading="lazy"></iframe>
+<iframe src="https://www.youtube.com/embed/Fpa3yP8NAgA" title="Top 7 Barrels in Mexico | Puerto Escondido &amp; Oaxaca" allowfullscreen loading="lazy"></iframe>
 </div>
 
 The 7 best barrels in Mexico, from the Mexican Pipeline at Puerto Escondido to the points of Oaxaca, with Al Cleland, Charly Quivront, Marcial Monreal, Mason Ho and Quetzal Estrada.
