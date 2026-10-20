@@ -1,10 +1,10 @@
 ---
 title: "Why Dane Reynolds Walked Away | Surf Legends"
-date: 2026-10-19T20:13:17Z
+date: 2026-10-19T23:16:35Z
 draft: true
 description: "From the points of Ventura to a tied 4th in the world, then a walk away from the tour at 26. Mexico barrels, his best turns and airs, two perfect 10s,..."
-video_id: "jB6iVxJPgqg"
-thumbnail: "https://i.ytimg.com/vi/jB6iVxJPgqg/maxresdefault.jpg"
+video_id: "M2gUeWSm7Is"
+thumbnail: "https://i.ytimg.com/vi/M2gUeWSm7Is/maxresdefault.jpg"
 tags: ["Chapter 11", "Chapter 11 TV", "Dane Reynolds", "Former", "Former Merchandise", "Lost Interest", "Lower Trestles", "Marine Layer Productions", "Mexico surfing", "Pipe Masters"]
 type: "clips"
 clip_type: "clip"
@@ -14,7 +14,7 @@ views: 1
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/jB6iVxJPgqg" title="Why Dane Reynolds Walked Away | Surf Legends" allowfullscreen loading="lazy"></iframe>
+<iframe src="https://www.youtube.com/embed/M2gUeWSm7Is" title="Why Dane Reynolds Walked Away | Surf Legends" allowfullscreen loading="lazy"></iframe>
 </div>
 
 From the points of Ventura to a tied 4th in the world, then a walk away from the tour at 26. Mexico barrels, his best turns and airs, two perfect 10s, his own film Chapter 11 and his clothing brand Former. This is the Dane Reynolds story, in order.
