@@ -1,7 +1,7 @@
 ---
 title: "Mickey Clarke Deep Barrel in Mexico #shorts"
-date: 2026-10-23T04:47:47Z
-draft: true
+date: 2026-10-23T13:00:17Z
+draft: false
 description: "Mickey Clarke pulls into a heavy Mexican barrel. Ride #1 from this week's Surf Clips TV Top 10. Clip from OCTOPUS: CIRCUITBENDER..."
 video_id: "xG2TQzX78Dg"
 thumbnail: "https://i.ytimg.com/vi/xG2TQzX78Dg/maxresdefault.jpg"
@@ -9,8 +9,8 @@ tags: ["surfing", "barrel", "tube ride", "Mickey Clarke", "Mexico", "Mexico surf
 type: "clips"
 clip_type: "short"
 duration: 15
-visibility: "private"
-views: 0
+visibility: "public"
+views: 214
 ---
 
 <div class="video-embed">
