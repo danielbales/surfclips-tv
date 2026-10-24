@@ -1,20 +1,20 @@
 ---
 title: "Dane Reynolds: Surf Legends | The Free Surfer Who Walked Away"
-date: 2026-10-24T07:02:16Z
+date: 2026-10-24T13:39:25Z
 draft: true
 description: "Dane Reynolds started surfing at ten, finished tied for fourth in the world, and walked away from the tour at twenty-six. This Surf Legends episode..."
-video_id: "6GPFoe6m1Yc"
-thumbnail: "https://i.ytimg.com/vi/6GPFoe6m1Yc/hqdefault.jpg"
+video_id: "7Jx5BTk5sjU"
+thumbnail: "https://i.ytimg.com/vi/7Jx5BTk5sjU/maxresdefault.jpg"
 tags: ["California surfing", "Craig Anderson", "Dane Reynolds", "Former", "France 2012", "Glad You Scored", "Lower Trestles", "Marine Layer", "Pipe Masters 2012", "Pipeline"]
 type: "clips"
-clip_type: "short"
-duration: 0
+clip_type: "clip"
+duration: 482
 visibility: "private"
-views: 0
+views: 1
 ---
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/6GPFoe6m1Yc" title="Dane Reynolds: Surf Legends | The Free Surfer Who Walked Away" allowfullscreen loading="lazy"></iframe>
+<iframe src="https://www.youtube.com/embed/7Jx5BTk5sjU" title="Dane Reynolds: Surf Legends | The Free Surfer Who Walked Away" allowfullscreen loading="lazy"></iframe>
 </div>
 
 Dane Reynolds started surfing at ten, finished tied for fourth in the world, and walked away from the tour at twenty-six. This Surf Legends episode follows him from Bakersfield and the points of Ventura and Santa Barbara to Pipeline, a 2009 final at Lower Trestles, two perfect tens in 2012, and Former, the rider-owned company he co-founded in 2017, through to his 2022 film Glad You Scored.
