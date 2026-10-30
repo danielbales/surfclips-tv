@@ -5,12 +5,12 @@ draft: false
 description: "Born in Long Beach, raised inland in Bakersfield, surfing Ventura from age ten, and the free surfer who finished tied for fourth in the world in 2010..."
 video_id: "Y4r5hek1zHU"
 thumbnail: "https://i.ytimg.com/vi/Y4r5hek1zHU/maxresdefault.jpg"
-tags: ["Craig Anderson", "Dane Reynolds", "Former", "Gabriel Medina", "Glad You Scored", "Lower Trestles", "Marine Layer", "Pipe Masters", "Pipeline", "Santa Barbara"]
+tags: []
 type: "clips"
 clip_type: "clip"
 duration: 365
 visibility: "public"
-views: 1707
+views: 1810
 ---
 
 <div class="video-embed">
