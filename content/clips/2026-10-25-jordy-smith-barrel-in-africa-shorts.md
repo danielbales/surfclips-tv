@@ -10,7 +10,7 @@ type: "clips"
 clip_type: "short"
 duration: 19
 visibility: "public"
-views: 1335
+views: 1339
 ---
 
 <div class="video-embed">
@@ -20,3 +20,4 @@ views: 1335
 Jordy Smith gets barreled at African Snapper Rocks. Ride #4 from this week's Surf Clips TV Top 10.
 Clip from African Snapper Rocks https://www.youtube.com/watch?v=5uzfOH1NczU
 Watch the full Top 10: https://youtu.be/nA6RbhGS1Bc
+https://surfclips.tv

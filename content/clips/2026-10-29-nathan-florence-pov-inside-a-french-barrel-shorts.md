@@ -20,3 +20,4 @@ views: 2
 Nathan Florence rides a Hossegor barrel from his own point of view. Ride #4 from the Surf Clips TV Top 10.
 Clip from Nathan Florence, SURFING IN HOSSEGOR, FRANCE! (@NathanFlorence) https://www.youtube.com/watch?v=Ci4EDzp3nM0
 Watch the full Top 10: https://youtu.be/t-RwdA4xq00
+https://surfclips.tv

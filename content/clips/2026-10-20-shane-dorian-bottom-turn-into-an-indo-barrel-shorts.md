@@ -10,7 +10,7 @@ type: "clips"
 clip_type: "short"
 duration: 8
 visibility: "public"
-views: 1639
+views: 1644
 ---
 
 <div class="video-embed">
@@ -21,3 +21,4 @@ Shane Dorian lays down a bottom turn, pulls into a big Indo barrel and comes out
 Full Top 10 on the channel: https://youtu.be/u1Y_0bkeMo4
 Footage: Billabong (@billabong)
 surfclips.tv/shop
+https://surfclips.tv

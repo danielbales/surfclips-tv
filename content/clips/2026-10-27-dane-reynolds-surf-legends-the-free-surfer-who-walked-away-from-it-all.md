@@ -5,12 +5,12 @@ draft: false
 description: "Born in Long Beach, raised inland in Bakersfield, surfing Ventura from age ten, and the free surfer who finished tied for fourth in the world in 2010..."
 video_id: "Y4r5hek1zHU"
 thumbnail: "https://i.ytimg.com/vi/Y4r5hek1zHU/maxresdefault.jpg"
-tags: []
+tags: ["Craig Anderson", "Dane Reynolds", "Former", "Gabriel Medina", "Glad You Scored", "Lower Trestles", "Marine Layer", "Pipe Masters", "Pipeline", "Santa Barbara"]
 type: "clips"
 clip_type: "clip"
 duration: 365
 visibility: "public"
-views: 1810
+views: 1967
 ---
 
 <div class="video-embed">
@@ -34,3 +34,4 @@ Footage: Chapter 11 TV, World Surf League, Surfers Village TV, Freesurf Magazine
 Interview audio (2026): The Surfer's Journal ("Catching up with Dane Reynolds", film by Hunter Martinez)
 Archive footage: Marine Layer Productions ("Dane Reynolds | morocco", Agadir, Morocco)
 Photos: Austyn Gillette, TransWorld SKATEboarding ("Catching Up With Austyn Gillette"); Dylan Rieder, The Skateboard Mag ("Fireside Chat: Dylan Rieder")
+https://surfclips.tv
