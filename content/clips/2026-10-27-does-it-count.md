@@ -10,7 +10,7 @@ type: "clips"
 clip_type: "short"
 duration: 8
 visibility: "public"
-views: 1658
+views: 1671
 ---
 
 <div class="video-embed">
@@ -20,3 +20,4 @@ views: 1658
 A late drop at Gnaraloo, Western Australia swallows the rider whole in a heavy left barrel.
 Clip from GNARALOO 26 by B Mulik https://www.youtube.com/watch?v=U2e1H8SQhSU
 Watch the latest Top 10: https://youtu.be/nA6RbhGS1Bc
+https://surfclips.tv

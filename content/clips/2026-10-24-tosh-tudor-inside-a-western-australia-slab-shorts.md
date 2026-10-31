@@ -10,7 +10,7 @@ type: "clips"
 clip_type: "short"
 duration: 17
 visibility: "public"
-views: 1284
+views: 1285
 ---
 
 <div class="video-embed">
@@ -20,3 +20,4 @@ views: 1284
 Tosh Tudor locked deep in a Western Australia barrel. Ride #8 from this week's Surf Clips TV Top 10.
 Clip from Foamballed https://www.youtube.com/watch?v=TmdGFzkH9TU
 Watch the full Top 10: https://youtu.be/nA6RbhGS1Bc
+https://surfclips.tv

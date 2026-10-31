@@ -10,7 +10,7 @@ type: "clips"
 clip_type: "short"
 duration: 8
 visibility: "public"
-views: 1103
+views: 1172
 ---
 
 <div class="video-embed">
@@ -20,3 +20,4 @@ views: 1103
 Kalama Stratton pulls into a heavy barrel in Central America. Ride #2 from the Surf Clips TV Top 10.
 Clip from TUNNEL VISION | 8 Minutes of Pure Barrels by Kalama Stratton (@kalama_stratton) https://www.youtube.com/watch?v=SevuctBaR3s
 Watch the full Top 10: https://youtu.be/t-RwdA4xq00
+https://surfclips.tv

@@ -10,7 +10,7 @@ type: "clips"
 clip_type: "clip"
 duration: 125
 visibility: "public"
-views: 398
+views: 429
 ---
 
 <div class="video-embed">
@@ -40,3 +40,4 @@ Ocean footage via Wikimedia Commons: "Ocean surface waves" series by Mostafamera
 Ocean sound: "Ocean Waves on a Tropical Beach" via Wikimedia Commons (CC0)
 Helicopter sound: "Helicopter over quiet neighbourhood - 2" by ezwa (public domain), via Wikimedia Commons
 Maps: © OpenStreetMap contributors (ODbL); Natural Earth
+https://surfclips.tv

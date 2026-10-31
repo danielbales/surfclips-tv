@@ -20,3 +20,4 @@ views: 1505
 Mickey Clarke pulls into a heavy Mexican barrel. Ride #1 from this week's Surf Clips TV Top 10.
 Clip from OCTOPUS: CIRCUITBENDER https://www.youtube.com/watch?v=NjajZZfJwFM
 Watch the full Top 10: https://youtu.be/nA6RbhGS1Bc
+https://surfclips.tv

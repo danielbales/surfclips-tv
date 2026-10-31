@@ -10,7 +10,7 @@ type: "clips"
 clip_type: "short"
 duration: 8
 visibility: "public"
-views: 1569
+views: 1570
 ---
 
 <div class="video-embed">
@@ -21,3 +21,4 @@ Barron Mamiya gets covered up, comes flying out of the tube and launches an air 
 Full Top 10 on the channel: https://youtu.be/u1Y_0bkeMo4
 Footage: Barron Mamiya (@barronmamiya)
 surfclips.tv/shop
+https://surfclips.tv
