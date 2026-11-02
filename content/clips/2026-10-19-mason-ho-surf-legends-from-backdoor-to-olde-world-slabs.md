@@ -10,7 +10,7 @@ type: "clips"
 clip_type: "clip"
 duration: 513
 visibility: "public"
-views: 5277
+views: 5279
 ---
 
 <div class="video-embed">
@@ -31,3 +31,4 @@ Son of Michael Ho, nephew of the late world champion Derek Ho, and the surfer wh
 7:50 Outro
 Footage: Ho & Pringle Productions
 Archive footage (1993): Nalu TV
+https://surfclips.tv
