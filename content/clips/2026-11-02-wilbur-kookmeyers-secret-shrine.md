@@ -10,7 +10,7 @@ type: "clips"
 clip_type: "clip"
 duration: 17
 visibility: "public"
-views: 23
+views: 83
 ---
 
 <div class="video-embed">
@@ -21,3 +21,4 @@ Wilbur merch! https://surfclips.tv/shop
 Wait until you see what was hiding behind the garage boxes. 🤯
 One goofy clay surfer just wanted his board, and found a secret shrine to the GOAT instead.
 Who's YOUR greatest of all time? Tell us below 👇
+https://surfclips.tv

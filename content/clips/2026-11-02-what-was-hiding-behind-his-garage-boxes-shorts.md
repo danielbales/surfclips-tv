@@ -10,7 +10,7 @@ type: "clips"
 clip_type: "short"
 duration: 17
 visibility: "public"
-views: 12
+views: 58
 ---
 
 <div class="video-embed">
@@ -20,3 +20,4 @@ views: 12
 Wilbur merch! https://surfclips.tv/shop
 Behind those garage boxes… something he was never supposed to find. 👀
 Watch the full story: https://youtu.be/-sCPnM_vYgM
+https://surfclips.tv
