@@ -10,7 +10,7 @@ type: "clips"
 clip_type: "short"
 duration: 9
 visibility: "public"
-views: 1391
+views: 1403
 ---
 
 <div class="video-embed">
