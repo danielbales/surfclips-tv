@@ -1,7 +1,7 @@
 ---
 title: "TOP 10 from November 4, 2026 - Surf Clips TV"
-date: 2026-11-05T06:57:54Z
-draft: true
+date: 2026-11-05T20:36:43Z
+draft: false
 description: "Watch TOP 10 from November 4, 2026 - Surf Clips TV on Surf Clips TV."
 video_id: "YchXWng7yQw"
 thumbnail: "https://i.ytimg.com/vi/YchXWng7yQw/maxresdefault.jpg"
@@ -9,8 +9,8 @@ tags: ["Brett Barley", "Indonesia", "Ireland", "Japan", "Jordy Smith", "Kipp Cad
 type: "clips"
 clip_type: "top10"
 duration: 187
-visibility: "private"
-views: 0
+visibility: "public"
+views: 569
 ---
 
 <div class="video-embed">
