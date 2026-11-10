@@ -1,7 +1,7 @@
 ---
 title: "Why Do I Surf Worse on Camera? 😂🏄 #surfing #shorts"
-date: 2026-11-10T05:31:23Z
-draft: true
+date: 2026-11-10T14:00:21Z
+draft: false
 description: "Every surfer knows the camera curse. You rip all session, then someone hits record and suddenly you forget how to stand up. 😂🤙 Tag a friend who only..."
 video_id: "RPP-LsCEnzk"
 thumbnail: "https://i.ytimg.com/vi/RPP-LsCEnzk/maxresdefault.jpg"
@@ -9,8 +9,8 @@ tags: ["surfing", "surf", "surf funny", "surf humor", "surf memes", "surfer prob
 type: "clips"
 clip_type: "short"
 duration: 9
-visibility: "private"
-views: 0
+visibility: "public"
+views: 71
 ---
 
 <div class="video-embed">
