@@ -1,7 +1,7 @@
 ---
 title: "Eimeo Czermak Locked in a Tahiti Barrel #shorts"
-date: 2026-11-12T02:15:30Z
-draft: true
+date: 2026-11-12T20:00:38Z
+draft: false
 description: "Eimeo Czermak tucks into a deep blue Tahiti barrel and comes out standing. Clip from Blak Bear Surf Club (@blakbearsurfclub)..."
 video_id: "LexeuRqhMVE"
 thumbnail: "https://i.ytimg.com/vi/LexeuRqhMVE/maxresdefault.jpg"
@@ -9,8 +9,8 @@ tags: ["wave pool", "how to surf", "teahupoo", "biggest wave ever surfed", "sea 
 type: "clips"
 clip_type: "short"
 duration: 16
-visibility: "private"
-views: 0
+visibility: "public"
+views: 739
 ---
 
 <div class="video-embed">
