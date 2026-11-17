@@ -10,7 +10,7 @@ type: "clips"
 clip_type: "top10"
 duration: 499
 visibility: "public"
-views: 5972
+views: 5985
 surfers:
   - "Conor Kennedy"
   - "Billabong"
