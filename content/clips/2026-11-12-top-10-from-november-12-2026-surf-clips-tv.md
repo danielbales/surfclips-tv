@@ -10,7 +10,7 @@ type: "clips"
 clip_type: "top10"
 duration: 217
 visibility: "public"
-views: 17762
+views: 17868
 ---
 
 <div class="video-embed">
