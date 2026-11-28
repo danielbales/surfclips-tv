@@ -1,7 +1,7 @@
 ---
 title: "Nathan Florence Deep In A Glassy Hawaii Tube 🤙 #shorts"
 date: 2026-11-27T23:20:42Z
-draft: false
+draft: true
 description: "Nathan Florence, deep in a glassy Hawaii tube. This ride is going in our upcoming Surf Top 10. Music: Saltwater Sway - Big Sur Beats. Footage:..."
 video_id: "QgmiaJUxg9c"
 thumbnail: "https://i.ytimg.com/vi/QgmiaJUxg9c/maxresdefault.jpg"
@@ -9,8 +9,8 @@ tags: ["wave pool", "how to surf", "teahupoo", "biggest wave ever surfed", "sea 
 type: "clips"
 clip_type: "short"
 duration: 7
-visibility: "public"
-views: 84
+visibility: "private"
+views: 561
 ---
 
 <div class="video-embed">
@@ -18,3 +18,4 @@ views: 84
 </div>
 
 Nathan Florence, deep in a glassy Hawaii tube. This ride is going in our upcoming Surf Top 10. Music: Saltwater Sway - Big Sur Beats. Footage: @nathan_florence #surfing #surf #barrel #shorts
+https://surfclips.tv
